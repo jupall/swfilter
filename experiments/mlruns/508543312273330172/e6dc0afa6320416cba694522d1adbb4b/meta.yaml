@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/e6dc0afa6320416cba694522d1adbb4b/artifacts
+end_time: 1722484711252
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: e6dc0afa6320416cba694522d1adbb4b
+run_name: indecisive-gnat-740
+run_uuid: e6dc0afa6320416cba694522d1adbb4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484711212
+status: 3
+tags: []
+user_id: julienpallage

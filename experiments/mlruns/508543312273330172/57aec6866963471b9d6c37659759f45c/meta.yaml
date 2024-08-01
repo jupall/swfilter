@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/57aec6866963471b9d6c37659759f45c/artifacts
+end_time: 1722484496733
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: 57aec6866963471b9d6c37659759f45c
+run_name: wise-finch-721
+run_uuid: 57aec6866963471b9d6c37659759f45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484496643
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/6944254a84564034a346c7a1e48bcd1a/artifacts
+end_time: 1722484524476
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: 6944254a84564034a346c7a1e48bcd1a
+run_name: youthful-moose-687
+run_uuid: 6944254a84564034a346c7a1e48bcd1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484524426
+status: 3
+tags: []
+user_id: julienpallage

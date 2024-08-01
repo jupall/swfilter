@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/fece6eb2c26b4c51b64014f2bc76f984/artifacts
+end_time: 1722484657874
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: fece6eb2c26b4c51b64014f2bc76f984
+run_name: exultant-donkey-917
+run_uuid: fece6eb2c26b4c51b64014f2bc76f984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484657819
+status: 3
+tags: []
+user_id: julienpallage

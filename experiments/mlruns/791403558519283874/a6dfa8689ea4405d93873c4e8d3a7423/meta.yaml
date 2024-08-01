@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/791403558519283874/a6dfa8689ea4405d93873c4e8d3a7423/artifacts
+end_time: 1722484712550
+entry_point_name: ''
+experiment_id: '791403558519283874'
+lifecycle_stage: active
+run_id: a6dfa8689ea4405d93873c4e8d3a7423
+run_name: grandiose-rook-596
+run_uuid: a6dfa8689ea4405d93873c4e8d3a7423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484712020
+status: 3
+tags: []
+user_id: julienpallage

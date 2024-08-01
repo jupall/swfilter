@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/c4997882474f487d8f2d03f07e12d55c/artifacts
+end_time: 1722484433835
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: c4997882474f487d8f2d03f07e12d55c
+run_name: clumsy-dove-388
+run_uuid: c4997882474f487d8f2d03f07e12d55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484433749
+status: 3
+tags: []
+user_id: julienpallage

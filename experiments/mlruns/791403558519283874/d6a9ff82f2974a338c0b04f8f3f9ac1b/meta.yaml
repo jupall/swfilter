@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/791403558519283874/d6a9ff82f2974a338c0b04f8f3f9ac1b/artifacts
+end_time: 1722484496814
+entry_point_name: ''
+experiment_id: '791403558519283874'
+lifecycle_stage: active
+run_id: d6a9ff82f2974a338c0b04f8f3f9ac1b
+run_name: sedate-asp-337
+run_uuid: d6a9ff82f2974a338c0b04f8f3f9ac1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484496797
+status: 4
+tags: []
+user_id: julienpallage

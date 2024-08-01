@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/791403558519283874/f027a2d77ecd4e5e8285455b4810fe54/artifacts
+end_time: 1722484524499
+entry_point_name: ''
+experiment_id: '791403558519283874'
+lifecycle_stage: active
+run_id: f027a2d77ecd4e5e8285455b4810fe54
+run_name: rebellious-owl-533
+run_uuid: f027a2d77ecd4e5e8285455b4810fe54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484524484
+status: 4
+tags: []
+user_id: julienpallage

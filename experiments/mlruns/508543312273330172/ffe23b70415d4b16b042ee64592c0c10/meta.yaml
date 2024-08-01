@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/ffe23b70415d4b16b042ee64592c0c10/artifacts
+end_time: 1722484320334
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: ffe23b70415d4b16b042ee64592c0c10
+run_name: rambunctious-roo-233
+run_uuid: ffe23b70415d4b16b042ee64592c0c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484320182
+status: 4
+tags: []
+user_id: julienpallage

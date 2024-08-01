@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/791403558519283874/749b96d934094299a7f2e424a2a05683/artifacts
+end_time: 1722484657899
+entry_point_name: ''
+experiment_id: '791403558519283874'
+lifecycle_stage: active
+run_id: 749b96d934094299a7f2e424a2a05683
+run_name: debonair-fly-577
+run_uuid: 749b96d934094299a7f2e424a2a05683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484657882
+status: 4
+tags: []
+user_id: julienpallage

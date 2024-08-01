@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/d4ce435c623c4644af8127dddd64be64/artifacts
+end_time: 1722484496789
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: d4ce435c623c4644af8127dddd64be64
+run_name: defiant-snipe-704
+run_uuid: d4ce435c623c4644af8127dddd64be64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484496738
+status: 3
+tags: []
+user_id: julienpallage

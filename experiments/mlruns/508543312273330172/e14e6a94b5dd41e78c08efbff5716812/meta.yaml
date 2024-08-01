@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/e14e6a94b5dd41e78c08efbff5716812/artifacts
+end_time: 1722484657813
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: e14e6a94b5dd41e78c08efbff5716812
+run_name: delightful-crab-866
+run_uuid: e14e6a94b5dd41e78c08efbff5716812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484657710
+status: 3
+tags: []
+user_id: julienpallage
