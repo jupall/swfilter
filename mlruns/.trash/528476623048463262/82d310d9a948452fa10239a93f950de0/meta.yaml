@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/82d310d9a948452fa10239a93f950de0/artifacts
+deleted_time: 1722534987696
+end_time: 1722529076090
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: 82d310d9a948452fa10239a93f950de0
+run_name: bald-dog-610
+run_uuid: 82d310d9a948452fa10239a93f950de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529069928
+status: 3
+tags: []
+user_id: julienpallage

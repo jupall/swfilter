@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2b49b9838a33426a837eec8b800f680e/artifacts
+end_time: 1722535058440
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2b49b9838a33426a837eec8b800f680e
+run_name: auspicious-stoat-244
+run_uuid: 2b49b9838a33426a837eec8b800f680e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535058366
+status: 3
+tags: []
+user_id: julienpallage

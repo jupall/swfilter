@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/feec1501c1fe4e5c8ae75d4e6e81b134/artifacts
+end_time: 1722561274657
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: feec1501c1fe4e5c8ae75d4e6e81b134
+run_name: valuable-dolphin-938
+run_uuid: feec1501c1fe4e5c8ae75d4e6e81b134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561274391
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/2355178fc4754af4ab723a3539524b9a/artifacts
+deleted_time: 1722534979993
+end_time: 1722532172082
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 2355178fc4754af4ab723a3539524b9a
+run_name: big-kite-756
+run_uuid: 2355178fc4754af4ab723a3539524b9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532171337
+status: 3
+tags: []
+user_id: julienpallage

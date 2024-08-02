@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/264a4a3c23374d03934bf824b921d8f8/artifacts
+end_time: 1722537238427
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 264a4a3c23374d03934bf824b921d8f8
+run_name: mercurial-yak-284
+run_uuid: 264a4a3c23374d03934bf824b921d8f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537238326
+status: 3
+tags: []
+user_id: julienpallage

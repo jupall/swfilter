@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/d731fdd04c0042e4a99075444a68d568/artifacts
+deleted_time: 1722534984616
+end_time: 1722529516103
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: d731fdd04c0042e4a99075444a68d568
+run_name: resilient-donkey-147
+run_uuid: d731fdd04c0042e4a99075444a68d568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529512973
+status: 3
+tags: []
+user_id: julienpallage

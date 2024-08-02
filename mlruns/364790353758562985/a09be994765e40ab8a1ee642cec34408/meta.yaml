@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a09be994765e40ab8a1ee642cec34408/artifacts
+end_time: 1722551131900
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a09be994765e40ab8a1ee642cec34408
+run_name: grandiose-owl-852
+run_uuid: a09be994765e40ab8a1ee642cec34408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551051192
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/e4832e670eaf4310885510ca85fb0d61/artifacts
+end_time: 1722575963540
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: e4832e670eaf4310885510ca85fb0d61
+run_name: whimsical-shrimp-257
+run_uuid: e4832e670eaf4310885510ca85fb0d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722575793979
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/c0914857281a4c7b9620293b8916a912/artifacts
+deleted_time: 1722534987696
+end_time: 1722528994854
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: c0914857281a4c7b9620293b8916a912
+run_name: hilarious-gnat-959
+run_uuid: c0914857281a4c7b9620293b8916a912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722528980142
+status: 3
+tags: []
+user_id: julienpallage

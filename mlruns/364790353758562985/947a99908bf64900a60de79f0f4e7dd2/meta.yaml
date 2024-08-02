@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/947a99908bf64900a60de79f0f4e7dd2/artifacts
+end_time: 1722538072697
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 947a99908bf64900a60de79f0f4e7dd2
+run_name: capricious-goat-280
+run_uuid: 947a99908bf64900a60de79f0f4e7dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538072427
+status: 3
+tags: []
+user_id: julienpallage

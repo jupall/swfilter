@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9b0689f7c77b4d6faf7be6336a4bd232/artifacts
+end_time: 1722561262475
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9b0689f7c77b4d6faf7be6336a4bd232
+run_name: dazzling-gnu-874
+run_uuid: 9b0689f7c77b4d6faf7be6336a4bd232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561262374
+status: 3
+tags: []
+user_id: julienpallage

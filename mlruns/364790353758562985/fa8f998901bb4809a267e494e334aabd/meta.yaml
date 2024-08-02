@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fa8f998901bb4809a267e494e334aabd/artifacts
+end_time: 1722538099898
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fa8f998901bb4809a267e494e334aabd
+run_name: vaunted-foal-230
+run_uuid: fa8f998901bb4809a267e494e334aabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538099650
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c7ab7fcdae2b44dfa8a6660c762a2586/artifacts
+end_time: 1722536730329
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c7ab7fcdae2b44dfa8a6660c762a2586
+run_name: marvelous-newt-257
+run_uuid: c7ab7fcdae2b44dfa8a6660c762a2586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722536704810
+status: 3
+tags: []
+user_id: julienpallage

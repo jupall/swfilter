@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c5cdd76a3a21413c82fb3d91c2dc9e10/artifacts
+end_time: 1722538342144
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c5cdd76a3a21413c82fb3d91c2dc9e10
+run_name: upset-fawn-436
+run_uuid: c5cdd76a3a21413c82fb3d91c2dc9e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538341478
+status: 3
+tags: []
+user_id: julienpallage

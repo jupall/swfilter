@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/777ed58c00bd44359a2cd0a011cecbc7/artifacts
+end_time: 1722538424772
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 777ed58c00bd44359a2cd0a011cecbc7
+run_name: salty-midge-28
+run_uuid: 777ed58c00bd44359a2cd0a011cecbc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538424701
+status: 3
+tags: []
+user_id: julienpallage

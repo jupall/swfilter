@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/75f4ee8f2d0d4e13961d172488c98dd1/artifacts
+end_time: 1722567919726
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 75f4ee8f2d0d4e13961d172488c98dd1
+run_name: grandiose-ox-590
+run_uuid: 75f4ee8f2d0d4e13961d172488c98dd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567919388
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/275e8ad44f6b4fb5b65711dd3cd9107d/artifacts
+end_time: 1722536678055
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 275e8ad44f6b4fb5b65711dd3cd9107d
+run_name: dashing-gull-17
+run_uuid: 275e8ad44f6b4fb5b65711dd3cd9107d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722536668048
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/0516be8b847245948ca43427f61b175b/artifacts
+deleted_time: 1722534979993
+end_time: 1722532199849
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 0516be8b847245948ca43427f61b175b
+run_name: skittish-mule-60
+run_uuid: 0516be8b847245948ca43427f61b175b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532199256
+status: 3
+tags: []
+user_id: julienpallage

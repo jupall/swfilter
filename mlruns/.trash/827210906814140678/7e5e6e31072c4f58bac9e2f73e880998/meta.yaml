@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/7e5e6e31072c4f58bac9e2f73e880998/artifacts
+deleted_time: 1722534971632
+end_time: 1722534047875
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 7e5e6e31072c4f58bac9e2f73e880998
+run_name: welcoming-ram-66
+run_uuid: 7e5e6e31072c4f58bac9e2f73e880998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722534030414
+status: 3
+tags: []
+user_id: julienpallage

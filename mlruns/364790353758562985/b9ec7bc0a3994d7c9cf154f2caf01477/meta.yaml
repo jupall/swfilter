@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/b9ec7bc0a3994d7c9cf154f2caf01477/artifacts
+end_time: 1722567922957
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: b9ec7bc0a3994d7c9cf154f2caf01477
+run_name: blushing-trout-871
+run_uuid: b9ec7bc0a3994d7c9cf154f2caf01477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567922641
+status: 3
+tags: []
+user_id: julienpallage

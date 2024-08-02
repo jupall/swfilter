@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4f2a3f380ca5414fab94b1745bc616eb/artifacts
+end_time: 1722535050463
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4f2a3f380ca5414fab94b1745bc616eb
+run_name: angry-mare-93
+run_uuid: 4f2a3f380ca5414fab94b1745bc616eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535050381
+status: 3
+tags: []
+user_id: julienpallage

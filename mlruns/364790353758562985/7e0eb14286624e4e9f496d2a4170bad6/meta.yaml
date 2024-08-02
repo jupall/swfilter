@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/7e0eb14286624e4e9f496d2a4170bad6/artifacts
+end_time: 1722567914319
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 7e0eb14286624e4e9f496d2a4170bad6
+run_name: useful-ram-148
+run_uuid: 7e0eb14286624e4e9f496d2a4170bad6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567914216
+status: 3
+tags: []
+user_id: julienpallage

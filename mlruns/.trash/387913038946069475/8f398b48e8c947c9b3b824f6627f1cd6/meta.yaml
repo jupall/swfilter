@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/8f398b48e8c947c9b3b824f6627f1cd6/artifacts
+deleted_time: 1722534979993
+end_time: 1722532126790
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 8f398b48e8c947c9b3b824f6627f1cd6
+run_name: intelligent-gull-81
+run_uuid: 8f398b48e8c947c9b3b824f6627f1cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532126722
+status: 3
+tags: []
+user_id: julienpallage

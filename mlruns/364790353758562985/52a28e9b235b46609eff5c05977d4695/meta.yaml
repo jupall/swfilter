@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/52a28e9b235b46609eff5c05977d4695/artifacts
+end_time: 1722538090174
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 52a28e9b235b46609eff5c05977d4695
+run_name: chill-cow-711
+run_uuid: 52a28e9b235b46609eff5c05977d4695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538089905
+status: 3
+tags: []
+user_id: julienpallage

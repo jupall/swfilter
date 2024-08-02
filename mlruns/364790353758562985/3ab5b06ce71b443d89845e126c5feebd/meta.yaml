@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3ab5b06ce71b443d89845e126c5feebd/artifacts
+end_time: 1722538077633
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3ab5b06ce71b443d89845e126c5feebd
+run_name: capricious-zebra-677
+run_uuid: 3ab5b06ce71b443d89845e126c5feebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538077245
+status: 3
+tags: []
+user_id: julienpallage

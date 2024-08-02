@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a17efb211f67499cbbce8167731dba28/artifacts
+end_time: 1722535050940
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a17efb211f67499cbbce8167731dba28
+run_name: bald-loon-833
+run_uuid: a17efb211f67499cbbce8167731dba28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535050868
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/7ac7c022fe6d42848ea487ef8334e095/artifacts
+deleted_time: 1722534984616
+end_time: 1722529789076
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 7ac7c022fe6d42848ea487ef8334e095
+run_name: gentle-skunk-228
+run_uuid: 7ac7c022fe6d42848ea487ef8334e095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529779412
+status: 3
+tags: []
+user_id: julienpallage

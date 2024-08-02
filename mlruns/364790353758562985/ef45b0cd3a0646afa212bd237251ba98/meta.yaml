@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ef45b0cd3a0646afa212bd237251ba98/artifacts
+end_time: 1722535058556
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ef45b0cd3a0646afa212bd237251ba98
+run_name: righteous-gull-828
+run_uuid: ef45b0cd3a0646afa212bd237251ba98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535058458
+status: 3
+tags: []
+user_id: julienpallage

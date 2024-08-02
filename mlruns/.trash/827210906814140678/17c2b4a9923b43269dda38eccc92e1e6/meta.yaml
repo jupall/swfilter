@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/17c2b4a9923b43269dda38eccc92e1e6/artifacts
+deleted_time: 1722534971632
+end_time: 1722532381695
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 17c2b4a9923b43269dda38eccc92e1e6
+run_name: worried-shad-910
+run_uuid: 17c2b4a9923b43269dda38eccc92e1e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532381305
+status: 3
+tags: []
+user_id: julienpallage

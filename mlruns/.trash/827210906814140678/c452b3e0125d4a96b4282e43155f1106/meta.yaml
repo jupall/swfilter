@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/c452b3e0125d4a96b4282e43155f1106/artifacts
+deleted_time: 1722534971632
+end_time: 1722533671134
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: c452b3e0125d4a96b4282e43155f1106
+run_name: luxuriant-perch-383
+run_uuid: c452b3e0125d4a96b4282e43155f1106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533640735
+status: 3
+tags: []
+user_id: julienpallage

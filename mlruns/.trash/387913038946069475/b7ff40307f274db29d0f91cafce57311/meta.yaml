@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/b7ff40307f274db29d0f91cafce57311/artifacts
+deleted_time: 1722534979993
+end_time: 1722532162148
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: b7ff40307f274db29d0f91cafce57311
+run_name: rogue-ape-35
+run_uuid: b7ff40307f274db29d0f91cafce57311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532161447
+status: 3
+tags: []
+user_id: julienpallage

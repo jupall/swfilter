@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/1c5bdc43b5684153962adf9aa0ef9a5e/artifacts
+end_time: 1722541525742
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 1c5bdc43b5684153962adf9aa0ef9a5e
+run_name: agreeable-fawn-60
+run_uuid: 1c5bdc43b5684153962adf9aa0ef9a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541525642
+status: 3
+tags: []
+user_id: julienpallage

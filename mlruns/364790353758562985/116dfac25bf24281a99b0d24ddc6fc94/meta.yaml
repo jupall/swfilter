@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/116dfac25bf24281a99b0d24ddc6fc94/artifacts
+end_time: 1722537237779
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 116dfac25bf24281a99b0d24ddc6fc94
+run_name: wise-grouse-603
+run_uuid: 116dfac25bf24281a99b0d24ddc6fc94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537237682
+status: 3
+tags: []
+user_id: julienpallage

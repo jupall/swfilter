@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/61d82a9ec9144be8808a0dc0f756f772/artifacts
+end_time: 1722538067727
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 61d82a9ec9144be8808a0dc0f756f772
+run_name: upbeat-loon-225
+run_uuid: 61d82a9ec9144be8808a0dc0f756f772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538067636
+status: 3
+tags: []
+user_id: julienpallage

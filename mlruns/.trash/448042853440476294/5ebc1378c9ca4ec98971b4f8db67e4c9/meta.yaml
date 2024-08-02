@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/5ebc1378c9ca4ec98971b4f8db67e4c9/artifacts
+deleted_time: 1722534984616
+end_time: 1722529346807
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 5ebc1378c9ca4ec98971b4f8db67e4c9
+run_name: rebellious-asp-622
+run_uuid: 5ebc1378c9ca4ec98971b4f8db67e4c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529345985
+status: 3
+tags: []
+user_id: julienpallage

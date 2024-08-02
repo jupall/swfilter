@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2277e252ef6e4817a25d7c04fe4c43b3/artifacts
+end_time: 1722541527640
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2277e252ef6e4817a25d7c04fe4c43b3
+run_name: nimble-elk-285
+run_uuid: 2277e252ef6e4817a25d7c04fe4c43b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541527494
+status: 3
+tags: []
+user_id: julienpallage

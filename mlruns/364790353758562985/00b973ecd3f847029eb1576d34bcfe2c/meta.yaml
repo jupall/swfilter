@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/00b973ecd3f847029eb1576d34bcfe2c/artifacts
+end_time: 1722568263576
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 00b973ecd3f847029eb1576d34bcfe2c
+run_name: whimsical-kit-691
+run_uuid: 00b973ecd3f847029eb1576d34bcfe2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722568066304
+status: 3
+tags: []
+user_id: julienpallage

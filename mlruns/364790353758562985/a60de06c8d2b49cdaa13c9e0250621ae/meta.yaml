@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a60de06c8d2b49cdaa13c9e0250621ae/artifacts
+end_time: 1722538089581
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a60de06c8d2b49cdaa13c9e0250621ae
+run_name: secretive-wolf-750
+run_uuid: a60de06c8d2b49cdaa13c9e0250621ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538089293
+status: 3
+tags: []
+user_id: julienpallage

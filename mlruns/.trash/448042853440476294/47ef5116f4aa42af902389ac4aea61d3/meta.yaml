@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/47ef5116f4aa42af902389ac4aea61d3/artifacts
+deleted_time: 1722534984616
+end_time: 1722529371930
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 47ef5116f4aa42af902389ac4aea61d3
+run_name: overjoyed-cow-519
+run_uuid: 47ef5116f4aa42af902389ac4aea61d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529371243
+status: 3
+tags: []
+user_id: julienpallage

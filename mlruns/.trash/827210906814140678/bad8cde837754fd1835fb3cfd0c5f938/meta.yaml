@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/bad8cde837754fd1835fb3cfd0c5f938/artifacts
+deleted_time: 1722534971632
+end_time: 1722532381280
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: bad8cde837754fd1835fb3cfd0c5f938
+run_name: useful-quail-720
+run_uuid: bad8cde837754fd1835fb3cfd0c5f938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532380879
+status: 3
+tags: []
+user_id: julienpallage

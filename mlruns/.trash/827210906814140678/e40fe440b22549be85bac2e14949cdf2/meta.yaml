@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/e40fe440b22549be85bac2e14949cdf2/artifacts
+deleted_time: 1722534971632
+end_time: 1722533940518
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: e40fe440b22549be85bac2e14949cdf2
+run_name: resilient-shad-34
+run_uuid: e40fe440b22549be85bac2e14949cdf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533935129
+status: 3
+tags: []
+user_id: julienpallage

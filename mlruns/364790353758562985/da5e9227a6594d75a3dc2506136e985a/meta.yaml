@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/da5e9227a6594d75a3dc2506136e985a/artifacts
+end_time: 1722538096135
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: da5e9227a6594d75a3dc2506136e985a
+run_name: likeable-cow-628
+run_uuid: da5e9227a6594d75a3dc2506136e985a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538095679
+status: 3
+tags: []
+user_id: julienpallage

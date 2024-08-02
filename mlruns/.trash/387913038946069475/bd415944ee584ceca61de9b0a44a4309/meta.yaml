@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/bd415944ee584ceca61de9b0a44a4309/artifacts
+deleted_time: 1722534979993
+end_time: 1722532156433
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: bd415944ee584ceca61de9b0a44a4309
+run_name: bemused-shrimp-394
+run_uuid: bd415944ee584ceca61de9b0a44a4309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532155710
+status: 3
+tags: []
+user_id: julienpallage

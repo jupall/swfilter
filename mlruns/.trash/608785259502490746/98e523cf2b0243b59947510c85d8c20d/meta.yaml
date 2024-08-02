@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/608785259502490746/98e523cf2b0243b59947510c85d8c20d/artifacts
+deleted_time: 1722534976999
+end_time: 1722534836827
+entry_point_name: ''
+experiment_id: '608785259502490746'
+lifecycle_stage: deleted
+run_id: 98e523cf2b0243b59947510c85d8c20d
+run_name: upset-pig-866
+run_uuid: 98e523cf2b0243b59947510c85d8c20d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722534836560
+status: 3
+tags: []
+user_id: julienpallage

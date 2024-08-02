@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/1963a5aed06e4ce09ed2f042728def09/artifacts
+end_time: 1722541537757
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 1963a5aed06e4ce09ed2f042728def09
+run_name: charming-foal-72
+run_uuid: 1963a5aed06e4ce09ed2f042728def09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541537485
+status: 3
+tags: []
+user_id: julienpallage

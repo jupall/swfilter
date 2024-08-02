@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/4c02176bfbae4a10a7ef6e528e67c25c/artifacts
+deleted_time: 1722534984616
+end_time: 1722529368123
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 4c02176bfbae4a10a7ef6e528e67c25c
+run_name: grandiose-stoat-681
+run_uuid: 4c02176bfbae4a10a7ef6e528e67c25c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529367670
+status: 3
+tags: []
+user_id: julienpallage

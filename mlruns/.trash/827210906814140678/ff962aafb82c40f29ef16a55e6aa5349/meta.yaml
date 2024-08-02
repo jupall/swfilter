@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/ff962aafb82c40f29ef16a55e6aa5349/artifacts
+deleted_time: 1722534971632
+end_time: 1722532370301
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: ff962aafb82c40f29ef16a55e6aa5349
+run_name: bittersweet-wren-987
+run_uuid: ff962aafb82c40f29ef16a55e6aa5349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532370011
+status: 3
+tags: []
+user_id: julienpallage

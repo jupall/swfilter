@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9a86b25f92a64a9a88431bbcd316f45f/artifacts
+end_time: 1722561266447
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9a86b25f92a64a9a88431bbcd316f45f
+run_name: nebulous-sponge-775
+run_uuid: 9a86b25f92a64a9a88431bbcd316f45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561266340
+status: 3
+tags: []
+user_id: julienpallage

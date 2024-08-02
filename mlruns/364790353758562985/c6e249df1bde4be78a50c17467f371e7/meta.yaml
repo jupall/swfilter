@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c6e249df1bde4be78a50c17467f371e7/artifacts
+end_time: 1722535398169
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c6e249df1bde4be78a50c17467f371e7
+run_name: zealous-perch-835
+run_uuid: c6e249df1bde4be78a50c17467f371e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535367406
+status: 3
+tags: []
+user_id: julienpallage

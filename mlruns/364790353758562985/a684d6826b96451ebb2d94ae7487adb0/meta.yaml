@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a684d6826b96451ebb2d94ae7487adb0/artifacts
+end_time: 1722538071972
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a684d6826b96451ebb2d94ae7487adb0
+run_name: mysterious-shrimp-27
+run_uuid: a684d6826b96451ebb2d94ae7487adb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538071875
+status: 3
+tags: []
+user_id: julienpallage

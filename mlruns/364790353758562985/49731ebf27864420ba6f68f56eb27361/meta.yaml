@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/49731ebf27864420ba6f68f56eb27361/artifacts
+end_time: 1722538094075
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 49731ebf27864420ba6f68f56eb27361
+run_name: wistful-ram-817
+run_uuid: 49731ebf27864420ba6f68f56eb27361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538093809
+status: 3
+tags: []
+user_id: julienpallage

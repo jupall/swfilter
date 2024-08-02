@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3f33b9a404b94d4c8a69915506d11eef/artifacts
+end_time: 1722538542831
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3f33b9a404b94d4c8a69915506d11eef
+run_name: treasured-sheep-228
+run_uuid: 3f33b9a404b94d4c8a69915506d11eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538542451
+status: 3
+tags: []
+user_id: julienpallage

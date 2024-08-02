@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/7e0a42e4fdc2499f838dbdb5070c8769/artifacts
+deleted_time: 1722534987696
+end_time: 1722528980128
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: 7e0a42e4fdc2499f838dbdb5070c8769
+run_name: gregarious-fowl-620
+run_uuid: 7e0a42e4fdc2499f838dbdb5070c8769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722528973018
+status: 3
+tags: []
+user_id: julienpallage

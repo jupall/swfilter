@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4392226434f14de3b72115f6adb99f2c/artifacts
+end_time: 1722538095649
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4392226434f14de3b72115f6adb99f2c
+run_name: grandiose-perch-981
+run_uuid: 4392226434f14de3b72115f6adb99f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538095284
+status: 3
+tags: []
+user_id: julienpallage

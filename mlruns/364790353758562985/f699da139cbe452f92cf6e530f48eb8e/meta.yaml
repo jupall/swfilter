@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/f699da139cbe452f92cf6e530f48eb8e/artifacts
+end_time: 1722561797200
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: f699da139cbe452f92cf6e530f48eb8e
+run_name: blushing-koi-672
+run_uuid: f699da139cbe452f92cf6e530f48eb8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561786216
+status: 3
+tags: []
+user_id: julienpallage

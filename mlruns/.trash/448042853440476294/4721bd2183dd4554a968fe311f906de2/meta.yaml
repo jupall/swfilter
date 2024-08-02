@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/4721bd2183dd4554a968fe311f906de2/artifacts
+deleted_time: 1722534984616
+end_time: 1722529972663
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 4721bd2183dd4554a968fe311f906de2
+run_name: charming-boar-359
+run_uuid: 4721bd2183dd4554a968fe311f906de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529967453
+status: 3
+tags: []
+user_id: julienpallage

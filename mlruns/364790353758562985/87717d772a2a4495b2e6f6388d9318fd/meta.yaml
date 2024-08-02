@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/87717d772a2a4495b2e6f6388d9318fd/artifacts
+end_time: 1722569181185
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 87717d772a2a4495b2e6f6388d9318fd
+run_name: invincible-sheep-460
+run_uuid: 87717d772a2a4495b2e6f6388d9318fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722569053131
+status: 3
+tags: []
+user_id: julienpallage

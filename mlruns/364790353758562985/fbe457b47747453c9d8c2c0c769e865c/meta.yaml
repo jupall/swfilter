@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fbe457b47747453c9d8c2c0c769e865c/artifacts
+end_time: 1722538425251
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fbe457b47747453c9d8c2c0c769e865c
+run_name: delicate-foal-456
+run_uuid: fbe457b47747453c9d8c2c0c769e865c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538425148
+status: 3
+tags: []
+user_id: julienpallage

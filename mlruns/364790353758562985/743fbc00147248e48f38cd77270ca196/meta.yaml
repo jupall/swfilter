@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/743fbc00147248e48f38cd77270ca196/artifacts
+end_time: 1722537242995
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 743fbc00147248e48f38cd77270ca196
+run_name: thoughtful-quail-81
+run_uuid: 743fbc00147248e48f38cd77270ca196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537242894
+status: 3
+tags: []
+user_id: julienpallage

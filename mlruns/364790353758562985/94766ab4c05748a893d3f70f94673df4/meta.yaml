@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/94766ab4c05748a893d3f70f94673df4/artifacts
+end_time: 1722567912032
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 94766ab4c05748a893d3f70f94673df4
+run_name: delightful-deer-424
+run_uuid: 94766ab4c05748a893d3f70f94673df4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567911930
+status: 3
+tags: []
+user_id: julienpallage

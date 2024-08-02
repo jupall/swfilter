@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2af12271eb5642838025b1664daa44e0/artifacts
+end_time: 1722538065083
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2af12271eb5642838025b1664daa44e0
+run_name: luminous-tern-145
+run_uuid: 2af12271eb5642838025b1664daa44e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538065034
+status: 3
+tags: []
+user_id: julienpallage

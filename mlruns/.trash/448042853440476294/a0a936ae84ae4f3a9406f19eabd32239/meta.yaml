@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/a0a936ae84ae4f3a9406f19eabd32239/artifacts
+deleted_time: 1722534984616
+end_time: 1722530124914
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: a0a936ae84ae4f3a9406f19eabd32239
+run_name: skillful-calf-451
+run_uuid: a0a936ae84ae4f3a9406f19eabd32239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722530121575
+status: 3
+tags: []
+user_id: julienpallage

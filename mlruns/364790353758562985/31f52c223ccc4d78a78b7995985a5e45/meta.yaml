@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/31f52c223ccc4d78a78b7995985a5e45/artifacts
+end_time: 1722561266625
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 31f52c223ccc4d78a78b7995985a5e45
+run_name: placid-ape-113
+run_uuid: 31f52c223ccc4d78a78b7995985a5e45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561266557
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/e75db0dbfcab46598dd6c90b7c8c7693/artifacts
+deleted_time: 1722534984616
+end_time: 1722529567444
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: e75db0dbfcab46598dd6c90b7c8c7693
+run_name: delicate-hog-811
+run_uuid: e75db0dbfcab46598dd6c90b7c8c7693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529562077
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3ca32a74aa9d416ea286ad2e244f8bbf/artifacts
+end_time: 1722541518804
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3ca32a74aa9d416ea286ad2e244f8bbf
+run_name: brawny-sloth-988
+run_uuid: 3ca32a74aa9d416ea286ad2e244f8bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541518620
+status: 3
+tags: []
+user_id: julienpallage

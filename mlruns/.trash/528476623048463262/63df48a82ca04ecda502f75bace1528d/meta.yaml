@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/63df48a82ca04ecda502f75bace1528d/artifacts
+deleted_time: 1722534987696
+end_time: 1722528968600
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: 63df48a82ca04ecda502f75bace1528d
+run_name: chill-ox-583
+run_uuid: 63df48a82ca04ecda502f75bace1528d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722528945575
+status: 3
+tags: []
+user_id: julienpallage

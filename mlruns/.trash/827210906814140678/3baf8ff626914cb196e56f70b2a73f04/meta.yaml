@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/3baf8ff626914cb196e56f70b2a73f04/artifacts
+deleted_time: 1722534971632
+end_time: 1722532647032
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 3baf8ff626914cb196e56f70b2a73f04
+run_name: burly-asp-118
+run_uuid: 3baf8ff626914cb196e56f70b2a73f04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532646199
+status: 3
+tags: []
+user_id: julienpallage

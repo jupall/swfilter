@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/1095b5585333426398e2f8005bb56128/artifacts
+end_time: 1722541523623
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 1095b5585333426398e2f8005bb56128
+run_name: unique-moth-767
+run_uuid: 1095b5585333426398e2f8005bb56128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541523542
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/34c1f056449e426ca53d16294f59ac1e/artifacts
+end_time: 1722567909619
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 34c1f056449e426ca53d16294f59ac1e
+run_name: nosy-mink-640
+run_uuid: 34c1f056449e426ca53d16294f59ac1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567909530
+status: 3
+tags: []
+user_id: julienpallage

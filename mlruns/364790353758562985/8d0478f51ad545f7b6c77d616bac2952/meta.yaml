@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/8d0478f51ad545f7b6c77d616bac2952/artifacts
+end_time: 1722538068753
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 8d0478f51ad545f7b6c77d616bac2952
+run_name: rumbling-rat-372
+run_uuid: 8d0478f51ad545f7b6c77d616bac2952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538068650
+status: 3
+tags: []
+user_id: julienpallage

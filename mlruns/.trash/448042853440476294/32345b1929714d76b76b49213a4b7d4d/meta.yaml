@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/32345b1929714d76b76b49213a4b7d4d/artifacts
+deleted_time: 1722534984616
+end_time: 1722529562060
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 32345b1929714d76b76b49213a4b7d4d
+run_name: fortunate-grouse-632
+run_uuid: 32345b1929714d76b76b49213a4b7d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529557261
+status: 3
+tags: []
+user_id: julienpallage

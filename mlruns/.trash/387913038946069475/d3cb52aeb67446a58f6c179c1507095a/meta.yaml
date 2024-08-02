@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/d3cb52aeb67446a58f6c179c1507095a/artifacts
+deleted_time: 1722534979993
+end_time: 1722532200612
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: d3cb52aeb67446a58f6c179c1507095a
+run_name: awesome-robin-111
+run_uuid: d3cb52aeb67446a58f6c179c1507095a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532199910
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/487dd0fb09a541688bf5ef6b7860d1ef/artifacts
+end_time: 1722567944846
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 487dd0fb09a541688bf5ef6b7860d1ef
+run_name: funny-midge-722
+run_uuid: 487dd0fb09a541688bf5ef6b7860d1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567944508
+status: 3
+tags: []
+user_id: julienpallage

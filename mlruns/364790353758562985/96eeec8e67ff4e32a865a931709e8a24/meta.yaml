@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/96eeec8e67ff4e32a865a931709e8a24/artifacts
+end_time: 1722551610755
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 96eeec8e67ff4e32a865a931709e8a24
+run_name: adorable-goose-653
+run_uuid: 96eeec8e67ff4e32a865a931709e8a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551509743
+status: 3
+tags: []
+user_id: julienpallage

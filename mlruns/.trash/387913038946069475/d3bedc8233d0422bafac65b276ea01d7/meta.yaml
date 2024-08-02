@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/d3bedc8233d0422bafac65b276ea01d7/artifacts
+deleted_time: 1722534979993
+end_time: 1722532126026
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: d3bedc8233d0422bafac65b276ea01d7
+run_name: calm-smelt-745
+run_uuid: d3bedc8233d0422bafac65b276ea01d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532125948
+status: 3
+tags: []
+user_id: julienpallage

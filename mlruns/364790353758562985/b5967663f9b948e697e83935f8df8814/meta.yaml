@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/b5967663f9b948e697e83935f8df8814/artifacts
+end_time: 1722535073016
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: b5967663f9b948e697e83935f8df8814
+run_name: valuable-skink-454
+run_uuid: b5967663f9b948e697e83935f8df8814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535072794
+status: 3
+tags: []
+user_id: julienpallage

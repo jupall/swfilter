@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fed3bc426052406f93d122a8da0ead39/artifacts
+end_time: 1722567913118
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fed3bc426052406f93d122a8da0ead39
+run_name: luxuriant-shad-51
+run_uuid: fed3bc426052406f93d122a8da0ead39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567913022
+status: 3
+tags: []
+user_id: julienpallage

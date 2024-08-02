@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3c6d9bcf3eff4bf59346b0387641a54f/artifacts
+end_time: 1722561291811
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3c6d9bcf3eff4bf59346b0387641a54f
+run_name: delightful-lynx-445
+run_uuid: 3c6d9bcf3eff4bf59346b0387641a54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561291537
+status: 3
+tags: []
+user_id: julienpallage

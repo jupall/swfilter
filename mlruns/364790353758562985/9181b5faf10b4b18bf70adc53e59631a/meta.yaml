@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9181b5faf10b4b18bf70adc53e59631a/artifacts
+end_time: 1722541543755
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9181b5faf10b4b18bf70adc53e59631a
+run_name: painted-dove-12
+run_uuid: 9181b5faf10b4b18bf70adc53e59631a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541543425
+status: 3
+tags: []
+user_id: julienpallage

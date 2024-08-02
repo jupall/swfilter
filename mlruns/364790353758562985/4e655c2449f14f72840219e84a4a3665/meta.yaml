@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4e655c2449f14f72840219e84a4a3665/artifacts
+end_time: 1722561291512
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4e655c2449f14f72840219e84a4a3665
+run_name: amusing-carp-738
+run_uuid: 4e655c2449f14f72840219e84a4a3665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561291212
+status: 3
+tags: []
+user_id: julienpallage

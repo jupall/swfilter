@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/8c37955178a244e2ac56c9903d00d24d/artifacts
+end_time: 1722538647278
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 8c37955178a244e2ac56c9903d00d24d
+run_name: capricious-flea-809
+run_uuid: 8c37955178a244e2ac56c9903d00d24d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538636903
+status: 3
+tags: []
+user_id: julienpallage

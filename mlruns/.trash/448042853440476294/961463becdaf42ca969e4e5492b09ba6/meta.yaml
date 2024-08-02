@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/961463becdaf42ca969e4e5492b09ba6/artifacts
+deleted_time: 1722534984616
+end_time: 1722529321260
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 961463becdaf42ca969e4e5492b09ba6
+run_name: selective-bee-170
+run_uuid: 961463becdaf42ca969e4e5492b09ba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529321169
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/40e8dc8830924de2a7fecec3dbc0c75d/artifacts
+deleted_time: 1722534984616
+end_time: 1722529328075
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 40e8dc8830924de2a7fecec3dbc0c75d
+run_name: polite-shrew-577
+run_uuid: 40e8dc8830924de2a7fecec3dbc0c75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529327423
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d1bd0fcbaee841ff97a7e2306e166ceb/artifacts
+end_time: 1722541532861
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d1bd0fcbaee841ff97a7e2306e166ceb
+run_name: stylish-rat-179
+run_uuid: d1bd0fcbaee841ff97a7e2306e166ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541532599
+status: 3
+tags: []
+user_id: julienpallage

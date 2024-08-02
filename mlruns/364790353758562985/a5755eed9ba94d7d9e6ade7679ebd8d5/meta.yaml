@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a5755eed9ba94d7d9e6ade7679ebd8d5/artifacts
+end_time: 1722577654009
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a5755eed9ba94d7d9e6ade7679ebd8d5
+run_name: unequaled-shrew-435
+run_uuid: a5755eed9ba94d7d9e6ade7679ebd8d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722577600727
+status: 3
+tags: []
+user_id: julienpallage

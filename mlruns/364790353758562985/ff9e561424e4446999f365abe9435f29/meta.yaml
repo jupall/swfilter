@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ff9e561424e4446999f365abe9435f29/artifacts
+end_time: 1722561265784
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ff9e561424e4446999f365abe9435f29
+run_name: overjoyed-cat-772
+run_uuid: ff9e561424e4446999f365abe9435f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561265710
+status: 3
+tags: []
+user_id: julienpallage

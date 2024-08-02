@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/94e05c6018ba46b4a51c993b5b9f515c/artifacts
+deleted_time: 1722534984616
+end_time: 1722529732827
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 94e05c6018ba46b4a51c993b5b9f515c
+run_name: crawling-fish-52
+run_uuid: 94e05c6018ba46b4a51c993b5b9f515c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529721864
+status: 3
+tags: []
+user_id: julienpallage

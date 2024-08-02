@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2d6b9c1ed91c4b02a46b1fe9f735f791/artifacts
+end_time: 1722568066283
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2d6b9c1ed91c4b02a46b1fe9f735f791
+run_name: industrious-flea-396
+run_uuid: 2d6b9c1ed91c4b02a46b1fe9f735f791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567956262
+status: 3
+tags: []
+user_id: julienpallage

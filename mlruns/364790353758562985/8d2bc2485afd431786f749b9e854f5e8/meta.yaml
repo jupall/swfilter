@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/8d2bc2485afd431786f749b9e854f5e8/artifacts
+end_time: 1722561262753
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 8d2bc2485afd431786f749b9e854f5e8
+run_name: traveling-snake-402
+run_uuid: 8d2bc2485afd431786f749b9e854f5e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561262666
+status: 3
+tags: []
+user_id: julienpallage

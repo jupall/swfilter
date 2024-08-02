@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/bbd3088ff5e544b7a3c23f176133106c/artifacts
+deleted_time: 1722534984616
+end_time: 1722529320605
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: bbd3088ff5e544b7a3c23f176133106c
+run_name: aged-fowl-762
+run_uuid: bbd3088ff5e544b7a3c23f176133106c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529320505
+status: 3
+tags: []
+user_id: julienpallage

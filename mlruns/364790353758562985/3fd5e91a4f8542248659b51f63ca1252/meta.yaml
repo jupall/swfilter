@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3fd5e91a4f8542248659b51f63ca1252/artifacts
+end_time: 1722567942491
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3fd5e91a4f8542248659b51f63ca1252
+run_name: orderly-boar-772
+run_uuid: 3fd5e91a4f8542248659b51f63ca1252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567942091
+status: 3
+tags: []
+user_id: julienpallage

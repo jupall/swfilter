@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/c2021febb36747e4ad33ee1c79f16e5e/artifacts
+deleted_time: 1722534979993
+end_time: 1722532157197
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: c2021febb36747e4ad33ee1c79f16e5e
+run_name: omniscient-owl-395
+run_uuid: c2021febb36747e4ad33ee1c79f16e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532156454
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/31ad558b98f14f79904a4ee851a8e6a6/artifacts
+deleted_time: 1722534979993
+end_time: 1722532129498
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 31ad558b98f14f79904a4ee851a8e6a6
+run_name: spiffy-donkey-364
+run_uuid: 31ad558b98f14f79904a4ee851a8e6a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532129396
+status: 3
+tags: []
+user_id: julienpallage

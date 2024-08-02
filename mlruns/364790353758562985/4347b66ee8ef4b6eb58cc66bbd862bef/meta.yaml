@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4347b66ee8ef4b6eb58cc66bbd862bef/artifacts
+end_time: 1722538086570
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4347b66ee8ef4b6eb58cc66bbd862bef
+run_name: judicious-moose-111
+run_uuid: 4347b66ee8ef4b6eb58cc66bbd862bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538086238
+status: 3
+tags: []
+user_id: julienpallage

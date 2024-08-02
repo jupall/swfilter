@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/b70310e669714705be3b0566b4fa5dad/artifacts
+end_time: 1722567947455
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: b70310e669714705be3b0566b4fa5dad
+run_name: unleashed-kit-508
+run_uuid: b70310e669714705be3b0566b4fa5dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567947099
+status: 3
+tags: []
+user_id: julienpallage

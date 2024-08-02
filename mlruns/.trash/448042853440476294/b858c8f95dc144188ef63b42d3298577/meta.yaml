@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/b858c8f95dc144188ef63b42d3298577/artifacts
+deleted_time: 1722534984616
+end_time: 1722529772292
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: b858c8f95dc144188ef63b42d3298577
+run_name: thundering-loon-114
+run_uuid: b858c8f95dc144188ef63b42d3298577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529749938
+status: 3
+tags: []
+user_id: julienpallage

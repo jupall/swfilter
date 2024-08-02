@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/faaf2aad8bde47d7b4bf137bd7c9b8aa/artifacts
+end_time: 1722538614557
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: faaf2aad8bde47d7b4bf137bd7c9b8aa
+run_name: worried-owl-68
+run_uuid: faaf2aad8bde47d7b4bf137bd7c9b8aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538602899
+status: 3
+tags: []
+user_id: julienpallage

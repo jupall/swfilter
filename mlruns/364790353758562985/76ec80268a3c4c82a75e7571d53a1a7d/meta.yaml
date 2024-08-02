@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/76ec80268a3c4c82a75e7571d53a1a7d/artifacts
+end_time: 1722576737443
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 76ec80268a3c4c82a75e7571d53a1a7d
+run_name: respected-steed-530
+run_uuid: 76ec80268a3c4c82a75e7571d53a1a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722576528564
+status: 3
+tags: []
+user_id: julienpallage

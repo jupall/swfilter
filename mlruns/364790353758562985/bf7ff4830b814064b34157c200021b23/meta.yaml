@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/bf7ff4830b814064b34157c200021b23/artifacts
+end_time: 1722538430658
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: bf7ff4830b814064b34157c200021b23
+run_name: big-owl-380
+run_uuid: bf7ff4830b814064b34157c200021b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538430592
+status: 3
+tags: []
+user_id: julienpallage

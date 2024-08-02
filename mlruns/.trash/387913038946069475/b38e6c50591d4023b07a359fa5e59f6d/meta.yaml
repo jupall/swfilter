@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/b38e6c50591d4023b07a359fa5e59f6d/artifacts
+deleted_time: 1722534979993
+end_time: 1722532125040
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: b38e6c50591d4023b07a359fa5e59f6d
+run_name: masked-mule-268
+run_uuid: b38e6c50591d4023b07a359fa5e59f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532124967
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/5ece20af263745f09c4e6752cc3e5982/artifacts
+end_time: 1722535071994
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 5ece20af263745f09c4e6752cc3e5982
+run_name: puzzled-panda-173
+run_uuid: 5ece20af263745f09c4e6752cc3e5982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535071811
+status: 3
+tags: []
+user_id: julienpallage

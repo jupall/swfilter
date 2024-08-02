@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/7bd954b8a3fc496dbf1288ff5678b114/artifacts
+end_time: 1722546272413
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 7bd954b8a3fc496dbf1288ff5678b114
+run_name: carefree-deer-937
+run_uuid: 7bd954b8a3fc496dbf1288ff5678b114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722546246188
+status: 3
+tags: []
+user_id: julienpallage

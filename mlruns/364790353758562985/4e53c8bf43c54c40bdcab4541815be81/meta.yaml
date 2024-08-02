@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4e53c8bf43c54c40bdcab4541815be81/artifacts
+end_time: 1722553286714
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4e53c8bf43c54c40bdcab4541815be81
+run_name: adorable-moth-540
+run_uuid: 4e53c8bf43c54c40bdcab4541815be81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722553102599
+status: 3
+tags: []
+user_id: julienpallage

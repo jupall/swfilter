@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/e639b2d749b24d7ea5e1863b8488d9f0/artifacts
+end_time: 1722537241612
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: e639b2d749b24d7ea5e1863b8488d9f0
+run_name: funny-cub-990
+run_uuid: e639b2d749b24d7ea5e1863b8488d9f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537241524
+status: 3
+tags: []
+user_id: julienpallage

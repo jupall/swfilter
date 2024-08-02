@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/b61c98283f3a43d09dc42c9e4a560410/artifacts
+deleted_time: 1722534984616
+end_time: 1722529344131
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: b61c98283f3a43d09dc42c9e4a560410
+run_name: chill-shrimp-320
+run_uuid: b61c98283f3a43d09dc42c9e4a560410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529343537
+status: 3
+tags: []
+user_id: julienpallage

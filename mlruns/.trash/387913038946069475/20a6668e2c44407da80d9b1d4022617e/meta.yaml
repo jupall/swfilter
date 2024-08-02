@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/20a6668e2c44407da80d9b1d4022617e/artifacts
+deleted_time: 1722534979993
+end_time: 1722532124355
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 20a6668e2c44407da80d9b1d4022617e
+run_name: delightful-trout-353
+run_uuid: 20a6668e2c44407da80d9b1d4022617e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532124275
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/b5c1507954fc4936b34ec72d33922c53/artifacts
+deleted_time: 1722534984616
+end_time: 1722529350194
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: b5c1507954fc4936b34ec72d33922c53
+run_name: peaceful-fox-112
+run_uuid: b5c1507954fc4936b34ec72d33922c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529349419
+status: 3
+tags: []
+user_id: julienpallage

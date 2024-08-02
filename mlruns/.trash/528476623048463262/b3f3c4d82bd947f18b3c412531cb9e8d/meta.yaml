@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/b3f3c4d82bd947f18b3c412531cb9e8d/artifacts
+deleted_time: 1722534987696
+end_time: 1722529069915
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: b3f3c4d82bd947f18b3c412531cb9e8d
+run_name: legendary-mink-758
+run_uuid: b3f3c4d82bd947f18b3c412531cb9e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529055417
+status: 3
+tags: []
+user_id: julienpallage

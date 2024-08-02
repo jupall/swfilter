@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/dad9e1ed08204991a77b9d5732eecf6e/artifacts
+end_time: 1722538938472
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: dad9e1ed08204991a77b9d5732eecf6e
+run_name: bright-mouse-843
+run_uuid: dad9e1ed08204991a77b9d5732eecf6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538923838
+status: 3
+tags: []
+user_id: julienpallage

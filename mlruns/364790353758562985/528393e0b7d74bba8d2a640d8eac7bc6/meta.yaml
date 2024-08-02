@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/528393e0b7d74bba8d2a640d8eac7bc6/artifacts
+end_time: 1722538622671
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 528393e0b7d74bba8d2a640d8eac7bc6
+run_name: calm-bear-287
+run_uuid: 528393e0b7d74bba8d2a640d8eac7bc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538621822
+status: 3
+tags: []
+user_id: julienpallage

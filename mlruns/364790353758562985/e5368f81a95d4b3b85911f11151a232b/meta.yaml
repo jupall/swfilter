@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/e5368f81a95d4b3b85911f11151a232b/artifacts
+end_time: 1722537236973
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: e5368f81a95d4b3b85911f11151a232b
+run_name: enthused-turtle-186
+run_uuid: e5368f81a95d4b3b85911f11151a232b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537236854
+status: 3
+tags: []
+user_id: julienpallage

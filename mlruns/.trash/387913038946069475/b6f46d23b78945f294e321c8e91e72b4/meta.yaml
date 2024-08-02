@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/b6f46d23b78945f294e321c8e91e72b4/artifacts
+deleted_time: 1722534979993
+end_time: 1722532132566
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: b6f46d23b78945f294e321c8e91e72b4
+run_name: skittish-kite-847
+run_uuid: b6f46d23b78945f294e321c8e91e72b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532132492
+status: 3
+tags: []
+user_id: julienpallage

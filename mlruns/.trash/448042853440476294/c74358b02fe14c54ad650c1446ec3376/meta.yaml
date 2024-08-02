@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/c74358b02fe14c54ad650c1446ec3376/artifacts
+deleted_time: 1722534984616
+end_time: 1722529735794
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: c74358b02fe14c54ad650c1446ec3376
+run_name: wise-hound-52
+run_uuid: c74358b02fe14c54ad650c1446ec3376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529732846
+status: 3
+tags: []
+user_id: julienpallage

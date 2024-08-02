@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/f057914197564e29810c0b2ee23a414e/artifacts
+deleted_time: 1722534984616
+end_time: 1722529359367
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: f057914197564e29810c0b2ee23a414e
+run_name: traveling-hound-70
+run_uuid: f057914197564e29810c0b2ee23a414e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529358686
+status: 3
+tags: []
+user_id: julienpallage

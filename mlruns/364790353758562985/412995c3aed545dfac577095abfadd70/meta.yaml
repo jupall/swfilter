@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/412995c3aed545dfac577095abfadd70/artifacts
+end_time: 1722535054951
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 412995c3aed545dfac577095abfadd70
+run_name: fortunate-grouse-110
+run_uuid: 412995c3aed545dfac577095abfadd70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535054856
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/5c6441ef69744a8fa3a543e2c6910874/artifacts
+end_time: 1722538429394
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 5c6441ef69744a8fa3a543e2c6910874
+run_name: unequaled-whale-652
+run_uuid: 5c6441ef69744a8fa3a543e2c6910874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538429330
+status: 3
+tags: []
+user_id: julienpallage

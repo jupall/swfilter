@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/4e71b6bbe2a74e6b924fa20378d4ebfc/artifacts
+deleted_time: 1722534971632
+end_time: 1722533935105
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 4e71b6bbe2a74e6b924fa20378d4ebfc
+run_name: selective-snipe-24
+run_uuid: 4e71b6bbe2a74e6b924fa20378d4ebfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533909337
+status: 3
+tags: []
+user_id: julienpallage

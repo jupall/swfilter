@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/08c3b9fc431841ab973aceedfc10b5ce/artifacts
+end_time: 1722538511238
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 08c3b9fc431841ab973aceedfc10b5ce
+run_name: gregarious-lark-710
+run_uuid: 08c3b9fc431841ab973aceedfc10b5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538510934
+status: 3
+tags: []
+user_id: julienpallage

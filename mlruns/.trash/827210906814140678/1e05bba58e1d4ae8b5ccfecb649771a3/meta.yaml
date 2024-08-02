@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/1e05bba58e1d4ae8b5ccfecb649771a3/artifacts
+deleted_time: 1722534971632
+end_time: 1722532642555
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 1e05bba58e1d4ae8b5ccfecb649771a3
+run_name: shivering-slug-803
+run_uuid: 1e05bba58e1d4ae8b5ccfecb649771a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532641479
+status: 3
+tags: []
+user_id: julienpallage

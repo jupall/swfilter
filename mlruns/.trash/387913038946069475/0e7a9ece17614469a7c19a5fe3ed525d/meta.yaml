@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/0e7a9ece17614469a7c19a5fe3ed525d/artifacts
+deleted_time: 1722534979993
+end_time: 1722532128496
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 0e7a9ece17614469a7c19a5fe3ed525d
+run_name: traveling-bass-27
+run_uuid: 0e7a9ece17614469a7c19a5fe3ed525d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532128431
+status: 3
+tags: []
+user_id: julienpallage

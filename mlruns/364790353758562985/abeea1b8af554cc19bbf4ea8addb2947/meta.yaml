@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/abeea1b8af554cc19bbf4ea8addb2947/artifacts
+end_time: 1722561259604
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: abeea1b8af554cc19bbf4ea8addb2947
+run_name: righteous-fawn-38
+run_uuid: abeea1b8af554cc19bbf4ea8addb2947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561259531
+status: 3
+tags: []
+user_id: julienpallage

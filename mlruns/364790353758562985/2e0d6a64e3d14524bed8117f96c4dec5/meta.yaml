@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2e0d6a64e3d14524bed8117f96c4dec5/artifacts
+end_time: 1722538091928
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2e0d6a64e3d14524bed8117f96c4dec5
+run_name: exultant-crab-225
+run_uuid: 2e0d6a64e3d14524bed8117f96c4dec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538091572
+status: 3
+tags: []
+user_id: julienpallage

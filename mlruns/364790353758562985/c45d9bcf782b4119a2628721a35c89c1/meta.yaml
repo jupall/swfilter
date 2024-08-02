@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c45d9bcf782b4119a2628721a35c89c1/artifacts
+end_time: 1722572657452
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c45d9bcf782b4119a2628721a35c89c1
+run_name: wistful-conch-124
+run_uuid: c45d9bcf782b4119a2628721a35c89c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722572518734
+status: 3
+tags: []
+user_id: julienpallage

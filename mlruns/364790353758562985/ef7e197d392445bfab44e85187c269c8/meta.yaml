@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ef7e197d392445bfab44e85187c269c8/artifacts
+end_time: 1722541519921
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ef7e197d392445bfab44e85187c269c8
+run_name: thoughtful-pig-707
+run_uuid: ef7e197d392445bfab44e85187c269c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541519801
+status: 3
+tags: []
+user_id: julienpallage

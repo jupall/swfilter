@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a2499a7f1e194939b59c246ecc40b7dd/artifacts
+end_time: 1722561262157
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a2499a7f1e194939b59c246ecc40b7dd
+run_name: handsome-asp-635
+run_uuid: a2499a7f1e194939b59c246ecc40b7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561262082
+status: 3
+tags: []
+user_id: julienpallage

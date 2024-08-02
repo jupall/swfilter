@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/d7c0eefce42347648fc3f3a564cbfc7a/artifacts
+deleted_time: 1722534984616
+end_time: 1722529895712
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: d7c0eefce42347648fc3f3a564cbfc7a
+run_name: overjoyed-duck-642
+run_uuid: d7c0eefce42347648fc3f3a564cbfc7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529876732
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ec26080ccb8c4ea3be5c5872bae82a16/artifacts
+end_time: 1722535318464
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ec26080ccb8c4ea3be5c5872bae82a16
+run_name: awesome-bass-961
+run_uuid: ec26080ccb8c4ea3be5c5872bae82a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535295893
+status: 3
+tags: []
+user_id: julienpallage

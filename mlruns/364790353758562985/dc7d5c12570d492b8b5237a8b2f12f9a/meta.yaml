@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/dc7d5c12570d492b8b5237a8b2f12f9a/artifacts
+end_time: 1722535425578
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: dc7d5c12570d492b8b5237a8b2f12f9a
+run_name: kindly-zebra-298
+run_uuid: dc7d5c12570d492b8b5237a8b2f12f9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535422133
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/cd0d663cc18e426291cfade7369b97b9/artifacts
+deleted_time: 1722534971632
+end_time: 1722532368235
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: cd0d663cc18e426291cfade7369b97b9
+run_name: judicious-vole-476
+run_uuid: cd0d663cc18e426291cfade7369b97b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532368152
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/975d6fc0f68e4656b65611caa0a484ac/artifacts
+end_time: 1722561283632
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 975d6fc0f68e4656b65611caa0a484ac
+run_name: secretive-wren-589
+run_uuid: 975d6fc0f68e4656b65611caa0a484ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561283372
+status: 3
+tags: []
+user_id: julienpallage

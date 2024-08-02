@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/93284fd5db1d44c287c82138a7787f32/artifacts
+end_time: 1722535059558
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 93284fd5db1d44c287c82138a7787f32
+run_name: bedecked-shad-473
+run_uuid: 93284fd5db1d44c287c82138a7787f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535059480
+status: 3
+tags: []
+user_id: julienpallage

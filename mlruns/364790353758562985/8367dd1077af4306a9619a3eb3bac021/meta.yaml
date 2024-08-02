@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/8367dd1077af4306a9619a3eb3bac021/artifacts
+end_time: 1722547283756
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 8367dd1077af4306a9619a3eb3bac021
+run_name: defiant-bear-302
+run_uuid: 8367dd1077af4306a9619a3eb3bac021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722547059662
+status: 3
+tags: []
+user_id: julienpallage

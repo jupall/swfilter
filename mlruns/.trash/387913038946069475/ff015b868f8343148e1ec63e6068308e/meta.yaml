@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/ff015b868f8343148e1ec63e6068308e/artifacts
+deleted_time: 1722534979993
+end_time: 1722532171315
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: ff015b868f8343148e1ec63e6068308e
+run_name: intrigued-fish-506
+run_uuid: ff015b868f8343148e1ec63e6068308e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532170589
+status: 3
+tags: []
+user_id: julienpallage

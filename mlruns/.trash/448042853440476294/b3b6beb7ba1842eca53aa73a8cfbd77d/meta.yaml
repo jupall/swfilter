@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/b3b6beb7ba1842eca53aa73a8cfbd77d/artifacts
+deleted_time: 1722534984616
+end_time: 1722529370460
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: b3b6beb7ba1842eca53aa73a8cfbd77d
+run_name: mercurial-deer-689
+run_uuid: b3b6beb7ba1842eca53aa73a8cfbd77d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529369737
+status: 3
+tags: []
+user_id: julienpallage

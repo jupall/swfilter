@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/e8afc969b958465897a9672cf8a6ab3a/artifacts
+end_time: 1722561506203
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: e8afc969b958465897a9672cf8a6ab3a
+run_name: adventurous-ox-458
+run_uuid: e8afc969b958465897a9672cf8a6ab3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561505163
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/577a5f5fed8b419096da8fb3151d3d4c/artifacts
+end_time: 1722542628684
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 577a5f5fed8b419096da8fb3151d3d4c
+run_name: unruly-asp-664
+run_uuid: 577a5f5fed8b419096da8fb3151d3d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722542484848
+status: 3
+tags: []
+user_id: julienpallage

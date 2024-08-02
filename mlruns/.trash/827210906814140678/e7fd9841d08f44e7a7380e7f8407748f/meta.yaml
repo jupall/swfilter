@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/e7fd9841d08f44e7a7380e7f8407748f/artifacts
+deleted_time: 1722534971632
+end_time: 1722532397192
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: e7fd9841d08f44e7a7380e7f8407748f
+run_name: wistful-shrimp-300
+run_uuid: e7fd9841d08f44e7a7380e7f8407748f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532396842
+status: 3
+tags: []
+user_id: julienpallage

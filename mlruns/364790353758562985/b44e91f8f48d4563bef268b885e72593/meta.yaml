@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/b44e91f8f48d4563bef268b885e72593/artifacts
+end_time: 1722537275776
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: b44e91f8f48d4563bef268b885e72593
+run_name: valuable-wren-972
+run_uuid: b44e91f8f48d4563bef268b885e72593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537275483
+status: 3
+tags: []
+user_id: julienpallage

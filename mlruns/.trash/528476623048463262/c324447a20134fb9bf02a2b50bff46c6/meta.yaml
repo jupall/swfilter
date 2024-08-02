@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/c324447a20134fb9bf02a2b50bff46c6/artifacts
+deleted_time: 1722534987696
+end_time: 1722528973005
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: c324447a20134fb9bf02a2b50bff46c6
+run_name: vaunted-owl-436
+run_uuid: c324447a20134fb9bf02a2b50bff46c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722528968613
+status: 3
+tags: []
+user_id: julienpallage

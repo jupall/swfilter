@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/6d0b146c04ef4b8a9b9ede16bd7ce629/artifacts
+deleted_time: 1722534979993
+end_time: 1722532124955
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 6d0b146c04ef4b8a9b9ede16bd7ce629
+run_name: magnificent-frog-580
+run_uuid: 6d0b146c04ef4b8a9b9ede16bd7ce629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532124876
+status: 3
+tags: []
+user_id: julienpallage

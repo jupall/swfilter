@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/76aaae9c6b9e42de9c9412b6907ef0c7/artifacts
+end_time: 1722535053838
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 76aaae9c6b9e42de9c9412b6907ef0c7
+run_name: blushing-hog-340
+run_uuid: 76aaae9c6b9e42de9c9412b6907ef0c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535053742
+status: 3
+tags: []
+user_id: julienpallage

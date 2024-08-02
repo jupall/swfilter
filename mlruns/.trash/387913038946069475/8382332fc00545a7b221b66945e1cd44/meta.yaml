@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/8382332fc00545a7b221b66945e1cd44/artifacts
+deleted_time: 1722534979993
+end_time: 1722532198524
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 8382332fc00545a7b221b66945e1cd44
+run_name: lyrical-kite-306
+run_uuid: 8382332fc00545a7b221b66945e1cd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532197735
+status: 3
+tags: []
+user_id: julienpallage

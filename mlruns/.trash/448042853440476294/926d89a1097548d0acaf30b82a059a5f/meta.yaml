@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/926d89a1097548d0acaf30b82a059a5f/artifacts
+deleted_time: 1722534984616
+end_time: 1722529320491
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 926d89a1097548d0acaf30b82a059a5f
+run_name: sincere-horse-788
+run_uuid: 926d89a1097548d0acaf30b82a059a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529320395
+status: 3
+tags: []
+user_id: julienpallage

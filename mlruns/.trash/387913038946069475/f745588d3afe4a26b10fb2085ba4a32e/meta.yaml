@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/f745588d3afe4a26b10fb2085ba4a32e/artifacts
+deleted_time: 1722534979993
+end_time: 1722532153547
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: f745588d3afe4a26b10fb2085ba4a32e
+run_name: colorful-dolphin-131
+run_uuid: f745588d3afe4a26b10fb2085ba4a32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532152989
+status: 3
+tags: []
+user_id: julienpallage

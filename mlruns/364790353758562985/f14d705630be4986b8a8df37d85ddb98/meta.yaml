@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/f14d705630be4986b8a8df37d85ddb98/artifacts
+end_time: 1722535077492
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: f14d705630be4986b8a8df37d85ddb98
+run_name: hilarious-hare-606
+run_uuid: f14d705630be4986b8a8df37d85ddb98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535077267
+status: 3
+tags: []
+user_id: julienpallage

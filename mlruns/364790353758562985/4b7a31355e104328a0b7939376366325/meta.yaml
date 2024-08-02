@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4b7a31355e104328a0b7939376366325/artifacts
+end_time: 1722538247236
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4b7a31355e104328a0b7939376366325
+run_name: abrasive-snake-76
+run_uuid: 4b7a31355e104328a0b7939376366325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538243438
+status: 3
+tags: []
+user_id: julienpallage

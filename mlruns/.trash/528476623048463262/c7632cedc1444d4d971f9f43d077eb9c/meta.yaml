@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/c7632cedc1444d4d971f9f43d077eb9c/artifacts
+deleted_time: 1722534987696
+end_time: 1722529092734
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: c7632cedc1444d4d971f9f43d077eb9c
+run_name: wistful-cow-721
+run_uuid: c7632cedc1444d4d971f9f43d077eb9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529091903
+status: 3
+tags: []
+user_id: julienpallage

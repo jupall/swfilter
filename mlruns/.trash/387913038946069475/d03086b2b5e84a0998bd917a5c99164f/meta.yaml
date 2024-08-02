@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/d03086b2b5e84a0998bd917a5c99164f/artifacts
+deleted_time: 1722534979993
+end_time: 1722532128055
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: d03086b2b5e84a0998bd917a5c99164f
+run_name: sneaky-boar-109
+run_uuid: d03086b2b5e84a0998bd917a5c99164f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532127953
+status: 3
+tags: []
+user_id: julienpallage

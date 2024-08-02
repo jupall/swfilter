@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/bb7d0820877a4db3ab4618d3a4299260/artifacts
+end_time: 1722535482223
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: bb7d0820877a4db3ab4618d3a4299260
+run_name: fearless-fawn-662
+run_uuid: bb7d0820877a4db3ab4618d3a4299260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535470025
+status: 3
+tags: []
+user_id: julienpallage

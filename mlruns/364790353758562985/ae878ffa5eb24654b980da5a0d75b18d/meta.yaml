@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ae878ffa5eb24654b980da5a0d75b18d/artifacts
+end_time: 1722538428126
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ae878ffa5eb24654b980da5a0d75b18d
+run_name: debonair-robin-76
+run_uuid: ae878ffa5eb24654b980da5a0d75b18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538428054
+status: 3
+tags: []
+user_id: julienpallage

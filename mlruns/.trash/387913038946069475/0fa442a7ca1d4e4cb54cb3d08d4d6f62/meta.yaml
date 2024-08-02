@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/0fa442a7ca1d4e4cb54cb3d08d4d6f62/artifacts
+deleted_time: 1722534979993
+end_time: 1722532124039
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 0fa442a7ca1d4e4cb54cb3d08d4d6f62
+run_name: beautiful-pig-196
+run_uuid: 0fa442a7ca1d4e4cb54cb3d08d4d6f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532123954
+status: 3
+tags: []
+user_id: julienpallage

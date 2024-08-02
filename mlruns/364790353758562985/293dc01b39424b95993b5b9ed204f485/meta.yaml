@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/293dc01b39424b95993b5b9ed204f485/artifacts
+end_time: 1722561330189
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 293dc01b39424b95993b5b9ed204f485
+run_name: valuable-deer-422
+run_uuid: 293dc01b39424b95993b5b9ed204f485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561325270
+status: 3
+tags: []
+user_id: julienpallage

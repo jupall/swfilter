@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/038fe6aa8767478e997638370ef37377/artifacts
+end_time: 1722570577254
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 038fe6aa8767478e997638370ef37377
+run_name: inquisitive-toad-561
+run_uuid: 038fe6aa8767478e997638370ef37377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722570504197
+status: 3
+tags: []
+user_id: julienpallage

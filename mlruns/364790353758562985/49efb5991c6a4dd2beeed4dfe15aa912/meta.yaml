@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/49efb5991c6a4dd2beeed4dfe15aa912/artifacts
+end_time: 1722538105035
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 49efb5991c6a4dd2beeed4dfe15aa912
+run_name: skillful-seal-281
+run_uuid: 49efb5991c6a4dd2beeed4dfe15aa912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538104746
+status: 3
+tags: []
+user_id: julienpallage

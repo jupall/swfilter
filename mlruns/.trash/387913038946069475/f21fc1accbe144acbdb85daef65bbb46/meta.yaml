@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/f21fc1accbe144acbdb85daef65bbb46/artifacts
+deleted_time: 1722534979993
+end_time: 1722532140057
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: f21fc1accbe144acbdb85daef65bbb46
+run_name: burly-shoat-207
+run_uuid: f21fc1accbe144acbdb85daef65bbb46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532139563
+status: 3
+tags: []
+user_id: julienpallage

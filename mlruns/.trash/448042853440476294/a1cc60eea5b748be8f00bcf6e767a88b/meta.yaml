@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/a1cc60eea5b748be8f00bcf6e767a88b/artifacts
+deleted_time: 1722534984616
+end_time: 1722529523094
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: a1cc60eea5b748be8f00bcf6e767a88b
+run_name: clumsy-worm-284
+run_uuid: a1cc60eea5b748be8f00bcf6e767a88b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529518455
+status: 3
+tags: []
+user_id: julienpallage

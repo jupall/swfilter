@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/614ef8eee0584f0db62082d9e35c4b00/artifacts
+deleted_time: 1722534979993
+end_time: 1722532128825
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 614ef8eee0584f0db62082d9e35c4b00
+run_name: whimsical-wolf-404
+run_uuid: 614ef8eee0584f0db62082d9e35c4b00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532128714
+status: 3
+tags: []
+user_id: julienpallage

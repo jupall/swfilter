@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/ece35738991c4c92baeb0d0c387d8291/artifacts
+deleted_time: 1722534971632
+end_time: 1722533239499
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: ece35738991c4c92baeb0d0c387d8291
+run_name: loud-robin-524
+run_uuid: ece35738991c4c92baeb0d0c387d8291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533238639
+status: 4
+tags: []
+user_id: julienpallage

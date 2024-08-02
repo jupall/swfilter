@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/dc03bc457338428a9ea4cac679f03f90/artifacts
+end_time: 1722568348767
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: dc03bc457338428a9ea4cac679f03f90
+run_name: treasured-shrike-366
+run_uuid: dc03bc457338428a9ea4cac679f03f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722568263593
+status: 3
+tags: []
+user_id: julienpallage

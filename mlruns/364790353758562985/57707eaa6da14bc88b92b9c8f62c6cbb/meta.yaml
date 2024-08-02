@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/57707eaa6da14bc88b92b9c8f62c6cbb/artifacts
+end_time: 1722537262356
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 57707eaa6da14bc88b92b9c8f62c6cbb
+run_name: fearless-carp-786
+run_uuid: 57707eaa6da14bc88b92b9c8f62c6cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537262075
+status: 3
+tags: []
+user_id: julienpallage

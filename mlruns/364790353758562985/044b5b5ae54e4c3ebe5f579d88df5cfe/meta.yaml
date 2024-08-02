@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/044b5b5ae54e4c3ebe5f579d88df5cfe/artifacts
+end_time: 1722538541329
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 044b5b5ae54e4c3ebe5f579d88df5cfe
+run_name: big-kite-100
+run_uuid: 044b5b5ae54e4c3ebe5f579d88df5cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538541041
+status: 3
+tags: []
+user_id: julienpallage

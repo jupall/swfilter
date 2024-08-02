@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9d23fbe949294a109b59838ed4dbdd9f/artifacts
+end_time: 1722538063824
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9d23fbe949294a109b59838ed4dbdd9f
+run_name: rumbling-steed-548
+run_uuid: 9d23fbe949294a109b59838ed4dbdd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538063746
+status: 3
+tags: []
+user_id: julienpallage

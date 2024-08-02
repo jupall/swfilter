@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c6ad442f6c6f4d0ea8812fc5a5d88ec6/artifacts
+end_time: 1722543524760
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c6ad442f6c6f4d0ea8812fc5a5d88ec6
+run_name: crawling-shark-410
+run_uuid: c6ad442f6c6f4d0ea8812fc5a5d88ec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722543456078
+status: 3
+tags: []
+user_id: julienpallage

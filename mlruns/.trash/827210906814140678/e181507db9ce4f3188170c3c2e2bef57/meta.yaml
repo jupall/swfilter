@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/e181507db9ce4f3188170c3c2e2bef57/artifacts
+deleted_time: 1722534971632
+end_time: 1722532365832
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: e181507db9ce4f3188170c3c2e2bef57
+run_name: abundant-hen-557
+run_uuid: e181507db9ce4f3188170c3c2e2bef57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532365742
+status: 3
+tags: []
+user_id: julienpallage

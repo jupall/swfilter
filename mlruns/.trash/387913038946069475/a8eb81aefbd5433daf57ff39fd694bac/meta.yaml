@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/a8eb81aefbd5433daf57ff39fd694bac/artifacts
+deleted_time: 1722534979993
+end_time: 1722532149353
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: a8eb81aefbd5433daf57ff39fd694bac
+run_name: worried-stork-235
+run_uuid: a8eb81aefbd5433daf57ff39fd694bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532148875
+status: 3
+tags: []
+user_id: julienpallage

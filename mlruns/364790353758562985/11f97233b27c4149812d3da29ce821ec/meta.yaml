@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/11f97233b27c4149812d3da29ce821ec/artifacts
+end_time: 1722535081453
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 11f97233b27c4149812d3da29ce821ec
+run_name: kindly-snake-960
+run_uuid: 11f97233b27c4149812d3da29ce821ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535081181
+status: 3
+tags: []
+user_id: julienpallage

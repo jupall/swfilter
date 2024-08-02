@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/119af98add594fdbaa24555a41ad1c06/artifacts
+deleted_time: 1722534984616
+end_time: 1722529327070
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 119af98add594fdbaa24555a41ad1c06
+run_name: tasteful-kite-705
+run_uuid: 119af98add594fdbaa24555a41ad1c06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529326965
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/1b0c1120df2e422fbf53cd0cc12c0dfb/artifacts
+deleted_time: 1722534979993
+end_time: 1722532122590
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 1b0c1120df2e422fbf53cd0cc12c0dfb
+run_name: auspicious-tern-224
+run_uuid: 1b0c1120df2e422fbf53cd0cc12c0dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532122482
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/66cb2a5c3f29481c9cce82e78bc2bd28/artifacts
+deleted_time: 1722534987696
+end_time: 1722528850271
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: 66cb2a5c3f29481c9cce82e78bc2bd28
+run_name: merciful-ape-910
+run_uuid: 66cb2a5c3f29481c9cce82e78bc2bd28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722528827194
+status: 3
+tags: []
+user_id: julienpallage

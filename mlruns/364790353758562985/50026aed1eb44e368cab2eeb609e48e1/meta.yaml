@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/50026aed1eb44e368cab2eeb609e48e1/artifacts
+end_time: 1722538521201
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 50026aed1eb44e368cab2eeb609e48e1
+run_name: skittish-slug-10
+run_uuid: 50026aed1eb44e368cab2eeb609e48e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538520823
+status: 3
+tags: []
+user_id: julienpallage

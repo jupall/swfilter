@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3c3f3bf3d9144f6dba5faebe8f516db0/artifacts
+end_time: 1722537255310
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3c3f3bf3d9144f6dba5faebe8f516db0
+run_name: valuable-bee-97
+run_uuid: 3c3f3bf3d9144f6dba5faebe8f516db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537254992
+status: 3
+tags: []
+user_id: julienpallage

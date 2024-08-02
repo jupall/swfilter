@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/b0b7c1f962744ae0800951f71f642508/artifacts
+end_time: 1722541523529
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: b0b7c1f962744ae0800951f71f642508
+run_name: resilient-midge-128
+run_uuid: b0b7c1f962744ae0800951f71f642508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541523451
+status: 3
+tags: []
+user_id: julienpallage

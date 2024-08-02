@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/6c75049245874ebab6471f33cf3c3f0b/artifacts
+end_time: 1722538750940
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 6c75049245874ebab6471f33cf3c3f0b
+run_name: enthused-yak-718
+run_uuid: 6c75049245874ebab6471f33cf3c3f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538742998
+status: 3
+tags: []
+user_id: julienpallage

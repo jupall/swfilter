@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/3b5e0b441efe439abf6bbe55a5b5f8c7/artifacts
+deleted_time: 1722534971632
+end_time: 1722533590228
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 3b5e0b441efe439abf6bbe55a5b5f8c7
+run_name: tasteful-stag-819
+run_uuid: 3b5e0b441efe439abf6bbe55a5b5f8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533577202
+status: 3
+tags: []
+user_id: julienpallage

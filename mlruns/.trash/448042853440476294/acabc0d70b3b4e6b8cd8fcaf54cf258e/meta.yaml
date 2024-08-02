@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/acabc0d70b3b4e6b8cd8fcaf54cf258e/artifacts
+deleted_time: 1722534984616
+end_time: 1722529386766
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: acabc0d70b3b4e6b8cd8fcaf54cf258e
+run_name: worried-cow-120
+run_uuid: acabc0d70b3b4e6b8cd8fcaf54cf258e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529386185
+status: 3
+tags: []
+user_id: julienpallage

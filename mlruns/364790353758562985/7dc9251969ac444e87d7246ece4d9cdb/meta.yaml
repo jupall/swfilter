@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/7dc9251969ac444e87d7246ece4d9cdb/artifacts
+end_time: 1722537254333
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 7dc9251969ac444e87d7246ece4d9cdb
+run_name: adventurous-kit-216
+run_uuid: 7dc9251969ac444e87d7246ece4d9cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537254042
+status: 3
+tags: []
+user_id: julienpallage

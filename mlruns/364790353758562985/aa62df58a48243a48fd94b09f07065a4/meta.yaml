@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/aa62df58a48243a48fd94b09f07065a4/artifacts
+end_time: 1722561264993
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: aa62df58a48243a48fd94b09f07065a4
+run_name: able-cub-205
+run_uuid: aa62df58a48243a48fd94b09f07065a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561264919
+status: 3
+tags: []
+user_id: julienpallage

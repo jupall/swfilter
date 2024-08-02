@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/b0e38408b10a4295b5f118c03647e369/artifacts
+deleted_time: 1722534984616
+end_time: 1722529375695
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: b0e38408b10a4295b5f118c03647e369
+run_name: righteous-bird-998
+run_uuid: b0e38408b10a4295b5f118c03647e369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529374997
+status: 3
+tags: []
+user_id: julienpallage

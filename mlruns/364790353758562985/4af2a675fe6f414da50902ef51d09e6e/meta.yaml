@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4af2a675fe6f414da50902ef51d09e6e/artifacts
+end_time: 1722578510791
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4af2a675fe6f414da50902ef51d09e6e
+run_name: thundering-croc-435
+run_uuid: 4af2a675fe6f414da50902ef51d09e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722578419213
+status: 3
+tags: []
+user_id: julienpallage

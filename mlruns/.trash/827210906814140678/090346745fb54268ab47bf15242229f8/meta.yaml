@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/090346745fb54268ab47bf15242229f8/artifacts
+deleted_time: 1722534971632
+end_time: 1722532365459
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 090346745fb54268ab47bf15242229f8
+run_name: awesome-roo-33
+run_uuid: 090346745fb54268ab47bf15242229f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532365372
+status: 3
+tags: []
+user_id: julienpallage

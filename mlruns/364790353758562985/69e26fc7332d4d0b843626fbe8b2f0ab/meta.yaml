@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/69e26fc7332d4d0b843626fbe8b2f0ab/artifacts
+end_time: 1722538069336
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 69e26fc7332d4d0b843626fbe8b2f0ab
+run_name: wistful-squid-670
+run_uuid: 69e26fc7332d4d0b843626fbe8b2f0ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538069234
+status: 3
+tags: []
+user_id: julienpallage

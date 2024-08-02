@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a5c005987ad045daa9ad96ccff07ff63/artifacts
+end_time: 1722535052283
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a5c005987ad045daa9ad96ccff07ff63
+run_name: omniscient-mouse-72
+run_uuid: a5c005987ad045daa9ad96ccff07ff63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535052199
+status: 3
+tags: []
+user_id: julienpallage

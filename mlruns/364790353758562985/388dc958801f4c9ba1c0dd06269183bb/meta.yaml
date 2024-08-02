@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/388dc958801f4c9ba1c0dd06269183bb/artifacts
+end_time: 1722575469989
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 388dc958801f4c9ba1c0dd06269183bb
+run_name: righteous-bass-605
+run_uuid: 388dc958801f4c9ba1c0dd06269183bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722575396730
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2edd0a7c589f415689c54f9d3c2a3faa/artifacts
+end_time: 1722561260305
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2edd0a7c589f415689c54f9d3c2a3faa
+run_name: wistful-elk-788
+run_uuid: 2edd0a7c589f415689c54f9d3c2a3faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561260233
+status: 3
+tags: []
+user_id: julienpallage

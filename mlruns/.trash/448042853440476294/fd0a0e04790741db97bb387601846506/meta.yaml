@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/fd0a0e04790741db97bb387601846506/artifacts
+deleted_time: 1722534984616
+end_time: 1722529326524
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: fd0a0e04790741db97bb387601846506
+run_name: bedecked-newt-297
+run_uuid: fd0a0e04790741db97bb387601846506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529326433
+status: 3
+tags: []
+user_id: julienpallage

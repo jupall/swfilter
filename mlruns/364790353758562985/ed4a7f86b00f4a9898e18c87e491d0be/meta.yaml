@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ed4a7f86b00f4a9898e18c87e491d0be/artifacts
+end_time: 1722538188788
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ed4a7f86b00f4a9898e18c87e491d0be
+run_name: bedecked-bird-305
+run_uuid: ed4a7f86b00f4a9898e18c87e491d0be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538187791
+status: 3
+tags: []
+user_id: julienpallage

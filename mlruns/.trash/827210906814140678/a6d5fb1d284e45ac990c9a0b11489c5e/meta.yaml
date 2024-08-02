@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/a6d5fb1d284e45ac990c9a0b11489c5e/artifacts
+deleted_time: 1722534971632
+end_time: 1722532363267
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: a6d5fb1d284e45ac990c9a0b11489c5e
+run_name: industrious-bat-646
+run_uuid: a6d5fb1d284e45ac990c9a0b11489c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532363200
+status: 3
+tags: []
+user_id: julienpallage

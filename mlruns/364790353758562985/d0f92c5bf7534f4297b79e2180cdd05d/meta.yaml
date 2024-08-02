@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d0f92c5bf7534f4297b79e2180cdd05d/artifacts
+end_time: 1722567921510
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d0f92c5bf7534f4297b79e2180cdd05d
+run_name: amazing-lark-967
+run_uuid: d0f92c5bf7534f4297b79e2180cdd05d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567921234
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/6a792ba43a14444ca926aa34af2b3b1f/artifacts
+end_time: 1722538430884
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 6a792ba43a14444ca926aa34af2b3b1f
+run_name: gentle-elk-705
+run_uuid: 6a792ba43a14444ca926aa34af2b3b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538430784
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c4f5820837894ad89499fd674ea0df0b/artifacts
+end_time: 1722541561272
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c4f5820837894ad89499fd674ea0df0b
+run_name: delightful-asp-486
+run_uuid: c4f5820837894ad89499fd674ea0df0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541560988
+status: 3
+tags: []
+user_id: julienpallage

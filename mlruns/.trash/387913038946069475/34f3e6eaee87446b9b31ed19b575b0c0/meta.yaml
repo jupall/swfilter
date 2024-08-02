@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/34f3e6eaee87446b9b31ed19b575b0c0/artifacts
+deleted_time: 1722534979993
+end_time: 1722532126352
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 34f3e6eaee87446b9b31ed19b575b0c0
+run_name: traveling-shrimp-335
+run_uuid: 34f3e6eaee87446b9b31ed19b575b0c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532126271
+status: 3
+tags: []
+user_id: julienpallage

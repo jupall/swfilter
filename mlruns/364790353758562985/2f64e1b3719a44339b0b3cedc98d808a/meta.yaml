@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2f64e1b3719a44339b0b3cedc98d808a/artifacts
+end_time: 1722537279029
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2f64e1b3719a44339b0b3cedc98d808a
+run_name: illustrious-ant-478
+run_uuid: 2f64e1b3719a44339b0b3cedc98d808a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537278755
+status: 3
+tags: []
+user_id: julienpallage

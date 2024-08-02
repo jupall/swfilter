@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/2265f377f7d147e18da8dea877c4cc5f/artifacts
+deleted_time: 1722534984616
+end_time: 1722529414924
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 2265f377f7d147e18da8dea877c4cc5f
+run_name: nebulous-skunk-107
+run_uuid: 2265f377f7d147e18da8dea877c4cc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529410898
+status: 3
+tags: []
+user_id: julienpallage

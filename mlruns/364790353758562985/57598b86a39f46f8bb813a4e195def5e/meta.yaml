@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/57598b86a39f46f8bb813a4e195def5e/artifacts
+end_time: 1722541547597
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 57598b86a39f46f8bb813a4e195def5e
+run_name: mercurial-hen-335
+run_uuid: 57598b86a39f46f8bb813a4e195def5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541547334
+status: 3
+tags: []
+user_id: julienpallage

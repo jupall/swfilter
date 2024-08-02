@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/966da25df8ea43cf8292a95c8018fedb/artifacts
+end_time: 1722538699891
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 966da25df8ea43cf8292a95c8018fedb
+run_name: secretive-stag-586
+run_uuid: 966da25df8ea43cf8292a95c8018fedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538694578
+status: 3
+tags: []
+user_id: julienpallage

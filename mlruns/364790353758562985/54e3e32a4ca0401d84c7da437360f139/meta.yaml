@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/54e3e32a4ca0401d84c7da437360f139/artifacts
+end_time: 1722567932014
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 54e3e32a4ca0401d84c7da437360f139
+run_name: funny-owl-702
+run_uuid: 54e3e32a4ca0401d84c7da437360f139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567931664
+status: 3
+tags: []
+user_id: julienpallage

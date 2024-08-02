@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9714e0a6fad1444f8b9a2937561f9922/artifacts
+end_time: 1722538067157
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9714e0a6fad1444f8b9a2937561f9922
+run_name: carefree-tern-542
+run_uuid: 9714e0a6fad1444f8b9a2937561f9922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538067068
+status: 3
+tags: []
+user_id: julienpallage

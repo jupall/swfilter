@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ebcf9e6bfea445fa8e19f5a4a7188f7c/artifacts
+end_time: 1722561269995
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ebcf9e6bfea445fa8e19f5a4a7188f7c
+run_name: legendary-flea-389
+run_uuid: ebcf9e6bfea445fa8e19f5a4a7188f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561269711
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/084555a5d39d4e51a5bf31a5164a4207/artifacts
+end_time: 1722537237595
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 084555a5d39d4e51a5bf31a5164a4207
+run_name: persistent-newt-334
+run_uuid: 084555a5d39d4e51a5bf31a5164a4207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537237520
+status: 3
+tags: []
+user_id: julienpallage

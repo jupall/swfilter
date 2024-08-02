@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/ff0ad00094644f4ab6d35be161bf9584/artifacts
+deleted_time: 1722534979993
+end_time: 1722532126466
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: ff0ad00094644f4ab6d35be161bf9584
+run_name: puzzled-swan-993
+run_uuid: ff0ad00094644f4ab6d35be161bf9584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532126371
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/d982308c65e242d6b9ec6ba3abb896ad/artifacts
+deleted_time: 1722534971632
+end_time: 1722532801505
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: d982308c65e242d6b9ec6ba3abb896ad
+run_name: welcoming-kit-333
+run_uuid: d982308c65e242d6b9ec6ba3abb896ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532785062
+status: 4
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/7cc365a885e345e790048a490a09ca8a/artifacts
+deleted_time: 1722534984616
+end_time: 1722529342445
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 7cc365a885e345e790048a490a09ca8a
+run_name: hilarious-quail-30
+run_uuid: 7cc365a885e345e790048a490a09ca8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529341982
+status: 3
+tags: []
+user_id: julienpallage

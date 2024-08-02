@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c085cd23503b4822b4ab1d449dea061b/artifacts
+end_time: 1722567934602
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c085cd23503b4822b4ab1d449dea061b
+run_name: gifted-fish-619
+run_uuid: c085cd23503b4822b4ab1d449dea061b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567934277
+status: 3
+tags: []
+user_id: julienpallage

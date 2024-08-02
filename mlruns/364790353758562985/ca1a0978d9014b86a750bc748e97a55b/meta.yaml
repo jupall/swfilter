@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ca1a0978d9014b86a750bc748e97a55b/artifacts
+end_time: 1722561258554
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ca1a0978d9014b86a750bc748e97a55b
+run_name: persistent-dove-302
+run_uuid: ca1a0978d9014b86a750bc748e97a55b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561258461
+status: 3
+tags: []
+user_id: julienpallage

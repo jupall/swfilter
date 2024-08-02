@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/0ab6cc36e3984fa094e21aed1eb240ef/artifacts
+end_time: 1722538102734
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 0ab6cc36e3984fa094e21aed1eb240ef
+run_name: luxuriant-bug-220
+run_uuid: 0ab6cc36e3984fa094e21aed1eb240ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538102295
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/09c8a220ec5541b6b03bc0d40f00f790/artifacts
+deleted_time: 1722534984616
+end_time: 1722529793945
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 09c8a220ec5541b6b03bc0d40f00f790
+run_name: masked-fawn-382
+run_uuid: 09c8a220ec5541b6b03bc0d40f00f790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529789097
+status: 3
+tags: []
+user_id: julienpallage

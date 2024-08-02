@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/f02f7a72c1fd4714967e298f1a8cf655/artifacts
+end_time: 1722536533428
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: f02f7a72c1fd4714967e298f1a8cf655
+run_name: bald-pug-135
+run_uuid: f02f7a72c1fd4714967e298f1a8cf655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722536494482
+status: 3
+tags: []
+user_id: julienpallage

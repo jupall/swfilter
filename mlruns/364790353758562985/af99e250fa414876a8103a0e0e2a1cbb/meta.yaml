@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/af99e250fa414876a8103a0e0e2a1cbb/artifacts
+end_time: 1722538595245
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: af99e250fa414876a8103a0e0e2a1cbb
+run_name: bouncy-boar-825
+run_uuid: af99e250fa414876a8103a0e0e2a1cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538586285
+status: 3
+tags: []
+user_id: julienpallage

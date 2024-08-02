@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a5ec5b81795543a2995a0430af53b1fe/artifacts
+end_time: 1722541521440
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a5ec5b81795543a2995a0430af53b1fe
+run_name: salty-mink-883
+run_uuid: a5ec5b81795543a2995a0430af53b1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541521341
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/421b5c2f9ed9499fb45dce6c03c272ab/artifacts
+end_time: 1722570173072
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 421b5c2f9ed9499fb45dce6c03c272ab
+run_name: able-lamb-66
+run_uuid: 421b5c2f9ed9499fb45dce6c03c272ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722570097211
+status: 3
+tags: []
+user_id: julienpallage

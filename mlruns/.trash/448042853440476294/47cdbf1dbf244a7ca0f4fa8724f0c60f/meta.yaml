@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/47cdbf1dbf244a7ca0f4fa8724f0c60f/artifacts
+deleted_time: 1722534984616
+end_time: 1722529339273
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 47cdbf1dbf244a7ca0f4fa8724f0c60f
+run_name: bustling-chimp-626
+run_uuid: 47cdbf1dbf244a7ca0f4fa8724f0c60f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529338561
+status: 3
+tags: []
+user_id: julienpallage

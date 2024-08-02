@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ea219a5897c244888ecb731e91f438ca/artifacts
+end_time: 1722538512353
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ea219a5897c244888ecb731e91f438ca
+run_name: youthful-shrew-677
+run_uuid: ea219a5897c244888ecb731e91f438ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538511991
+status: 3
+tags: []
+user_id: julienpallage

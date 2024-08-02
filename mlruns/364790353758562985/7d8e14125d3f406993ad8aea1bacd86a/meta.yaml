@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/7d8e14125d3f406993ad8aea1bacd86a/artifacts
+end_time: 1722537279663
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 7d8e14125d3f406993ad8aea1bacd86a
+run_name: marvelous-shoat-871
+run_uuid: 7d8e14125d3f406993ad8aea1bacd86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537279370
+status: 3
+tags: []
+user_id: julienpallage

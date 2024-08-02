@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/89c53bdb7e844a3791f075bf2631f9dc/artifacts
+end_time: 1722567945200
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 89c53bdb7e844a3791f075bf2631f9dc
+run_name: stately-doe-141
+run_uuid: 89c53bdb7e844a3791f075bf2631f9dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567944863
+status: 3
+tags: []
+user_id: julienpallage

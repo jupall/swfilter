@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/cd0ac111c2f942ae9cd966c911ee0657/artifacts
+end_time: 1722537246185
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: cd0ac111c2f942ae9cd966c911ee0657
+run_name: resilient-fly-217
+run_uuid: cd0ac111c2f942ae9cd966c911ee0657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537246103
+status: 3
+tags: []
+user_id: julienpallage

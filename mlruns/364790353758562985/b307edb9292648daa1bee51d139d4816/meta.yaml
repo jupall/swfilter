@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/b307edb9292648daa1bee51d139d4816/artifacts
+end_time: 1722535050031
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: b307edb9292648daa1bee51d139d4816
+run_name: sincere-ram-664
+run_uuid: b307edb9292648daa1bee51d139d4816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535049853
+status: 3
+tags: []
+user_id: julienpallage

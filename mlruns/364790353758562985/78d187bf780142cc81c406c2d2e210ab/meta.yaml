@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/78d187bf780142cc81c406c2d2e210ab/artifacts
+end_time: 1722570279444
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 78d187bf780142cc81c406c2d2e210ab
+run_name: illustrious-hare-687
+run_uuid: 78d187bf780142cc81c406c2d2e210ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722570215125
+status: 3
+tags: []
+user_id: julienpallage

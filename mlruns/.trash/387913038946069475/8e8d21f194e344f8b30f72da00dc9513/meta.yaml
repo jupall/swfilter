@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/8e8d21f194e344f8b30f72da00dc9513/artifacts
+deleted_time: 1722534979993
+end_time: 1722532129379
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 8e8d21f194e344f8b30f72da00dc9513
+run_name: amusing-bird-63
+run_uuid: 8e8d21f194e344f8b30f72da00dc9513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532129287
+status: 3
+tags: []
+user_id: julienpallage

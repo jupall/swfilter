@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/889452e8d0c84d22bb17d658282b172a/artifacts
+end_time: 1722561264701
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 889452e8d0c84d22bb17d658282b172a
+run_name: luminous-gnat-135
+run_uuid: 889452e8d0c84d22bb17d658282b172a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561264597
+status: 3
+tags: []
+user_id: julienpallage

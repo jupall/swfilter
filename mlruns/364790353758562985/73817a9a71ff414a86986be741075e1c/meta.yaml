@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/73817a9a71ff414a86986be741075e1c/artifacts
+end_time: 1722537242184
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 73817a9a71ff414a86986be741075e1c
+run_name: luxuriant-fly-777
+run_uuid: 73817a9a71ff414a86986be741075e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537242094
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/23237058c5a645309d3e287c20a7a908/artifacts
+end_time: 1722538426473
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 23237058c5a645309d3e287c20a7a908
+run_name: thundering-ant-15
+run_uuid: 23237058c5a645309d3e287c20a7a908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538426412
+status: 3
+tags: []
+user_id: julienpallage

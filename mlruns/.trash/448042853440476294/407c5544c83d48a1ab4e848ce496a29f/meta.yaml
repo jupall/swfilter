@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/407c5544c83d48a1ab4e848ce496a29f/artifacts
+deleted_time: 1722534984616
+end_time: 1722529390205
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 407c5544c83d48a1ab4e848ce496a29f
+run_name: capricious-mole-974
+run_uuid: 407c5544c83d48a1ab4e848ce496a29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529389544
+status: 3
+tags: []
+user_id: julienpallage

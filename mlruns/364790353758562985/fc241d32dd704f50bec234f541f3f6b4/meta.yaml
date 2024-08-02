@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fc241d32dd704f50bec234f541f3f6b4/artifacts
+end_time: 1722538064725
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fc241d32dd704f50bec234f541f3f6b4
+run_name: intrigued-shoat-208
+run_uuid: fc241d32dd704f50bec234f541f3f6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538064601
+status: 3
+tags: []
+user_id: julienpallage

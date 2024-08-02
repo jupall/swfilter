@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/eda0ae67e6aa42c2864b2c7d764afa5d/artifacts
+end_time: 1722538430767
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: eda0ae67e6aa42c2864b2c7d764afa5d
+run_name: debonair-hen-626
+run_uuid: eda0ae67e6aa42c2864b2c7d764afa5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538430674
+status: 3
+tags: []
+user_id: julienpallage

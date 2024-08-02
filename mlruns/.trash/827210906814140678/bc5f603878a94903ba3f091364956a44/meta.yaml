@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/bc5f603878a94903ba3f091364956a44/artifacts
+deleted_time: 1722534971632
+end_time: 1722532408433
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: bc5f603878a94903ba3f091364956a44
+run_name: salty-cub-800
+run_uuid: bc5f603878a94903ba3f091364956a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532408068
+status: 3
+tags: []
+user_id: julienpallage

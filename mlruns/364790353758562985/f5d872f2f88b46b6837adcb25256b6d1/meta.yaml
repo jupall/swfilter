@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/f5d872f2f88b46b6837adcb25256b6d1/artifacts
+end_time: 1722567923371
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: f5d872f2f88b46b6837adcb25256b6d1
+run_name: sincere-fawn-820
+run_uuid: f5d872f2f88b46b6837adcb25256b6d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567922976
+status: 3
+tags: []
+user_id: julienpallage

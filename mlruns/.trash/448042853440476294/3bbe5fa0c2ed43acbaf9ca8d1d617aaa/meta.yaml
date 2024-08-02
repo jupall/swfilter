@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/3bbe5fa0c2ed43acbaf9ca8d1d617aaa/artifacts
+deleted_time: 1722534984616
+end_time: 1722529701775
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 3bbe5fa0c2ed43acbaf9ca8d1d617aaa
+run_name: gaudy-stag-157
+run_uuid: 3bbe5fa0c2ed43acbaf9ca8d1d617aaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529696186
+status: 3
+tags: []
+user_id: julienpallage

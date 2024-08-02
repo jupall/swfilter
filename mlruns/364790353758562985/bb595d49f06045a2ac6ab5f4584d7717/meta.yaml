@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/bb595d49f06045a2ac6ab5f4584d7717/artifacts
+end_time: 1722537270695
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: bb595d49f06045a2ac6ab5f4584d7717
+run_name: mercurial-steed-242
+run_uuid: bb595d49f06045a2ac6ab5f4584d7717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537270379
+status: 3
+tags: []
+user_id: julienpallage

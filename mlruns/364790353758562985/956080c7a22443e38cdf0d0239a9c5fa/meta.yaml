@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/956080c7a22443e38cdf0d0239a9c5fa/artifacts
+end_time: 1722561618261
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 956080c7a22443e38cdf0d0239a9c5fa
+run_name: able-bass-730
+run_uuid: 956080c7a22443e38cdf0d0239a9c5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561615807
+status: 3
+tags: []
+user_id: julienpallage

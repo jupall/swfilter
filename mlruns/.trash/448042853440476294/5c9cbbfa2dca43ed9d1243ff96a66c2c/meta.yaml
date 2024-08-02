@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/5c9cbbfa2dca43ed9d1243ff96a66c2c/artifacts
+deleted_time: 1722534984616
+end_time: 1722529382155
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 5c9cbbfa2dca43ed9d1243ff96a66c2c
+run_name: brawny-bass-142
+run_uuid: 5c9cbbfa2dca43ed9d1243ff96a66c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529381395
+status: 3
+tags: []
+user_id: julienpallage

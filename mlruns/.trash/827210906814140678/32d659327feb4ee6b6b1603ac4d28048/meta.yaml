@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/32d659327feb4ee6b6b1603ac4d28048/artifacts
+deleted_time: 1722534971632
+end_time: 1722532409630
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 32d659327feb4ee6b6b1603ac4d28048
+run_name: secretive-lynx-919
+run_uuid: 32d659327feb4ee6b6b1603ac4d28048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532409237
+status: 3
+tags: []
+user_id: julienpallage

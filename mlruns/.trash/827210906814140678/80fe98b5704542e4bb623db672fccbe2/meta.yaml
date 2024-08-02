@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/80fe98b5704542e4bb623db672fccbe2/artifacts
+deleted_time: 1722534971632
+end_time: 1722532400011
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 80fe98b5704542e4bb623db672fccbe2
+run_name: rebellious-perch-600
+run_uuid: 80fe98b5704542e4bb623db672fccbe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532399653
+status: 3
+tags: []
+user_id: julienpallage

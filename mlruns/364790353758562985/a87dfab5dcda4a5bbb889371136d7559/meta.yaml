@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a87dfab5dcda4a5bbb889371136d7559/artifacts
+end_time: 1722538526858
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a87dfab5dcda4a5bbb889371136d7559
+run_name: upset-owl-547
+run_uuid: a87dfab5dcda4a5bbb889371136d7559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538526594
+status: 3
+tags: []
+user_id: julienpallage

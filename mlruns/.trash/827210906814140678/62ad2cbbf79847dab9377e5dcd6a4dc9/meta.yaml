@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/62ad2cbbf79847dab9377e5dcd6a4dc9/artifacts
+deleted_time: 1722534971632
+end_time: 1722532361551
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 62ad2cbbf79847dab9377e5dcd6a4dc9
+run_name: blushing-skink-475
+run_uuid: 62ad2cbbf79847dab9377e5dcd6a4dc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532361471
+status: 3
+tags: []
+user_id: julienpallage

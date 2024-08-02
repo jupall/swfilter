@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2d3d046b855c42c581cddc2ba955d931/artifacts
+end_time: 1722536178796
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2d3d046b855c42c581cddc2ba955d931
+run_name: learned-goose-597
+run_uuid: 2d3d046b855c42c581cddc2ba955d931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722536165131
+status: 3
+tags: []
+user_id: julienpallage

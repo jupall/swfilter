@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/0522d825a7a04b8ca7e4c35ca6327957/artifacts
+end_time: 1722538524466
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 0522d825a7a04b8ca7e4c35ca6327957
+run_name: nosy-eel-807
+run_uuid: 0522d825a7a04b8ca7e4c35ca6327957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538524178
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/dd52a1fabda44977b02ee64d26264806/artifacts
+end_time: 1722535053940
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: dd52a1fabda44977b02ee64d26264806
+run_name: able-fowl-304
+run_uuid: dd52a1fabda44977b02ee64d26264806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535053856
+status: 3
+tags: []
+user_id: julienpallage

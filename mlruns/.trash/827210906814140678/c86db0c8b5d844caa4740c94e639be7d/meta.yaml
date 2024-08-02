@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/c86db0c8b5d844caa4740c94e639be7d/artifacts
+deleted_time: 1722534971632
+end_time: 1722532777423
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: c86db0c8b5d844caa4740c94e639be7d
+run_name: luxuriant-yak-278
+run_uuid: c86db0c8b5d844caa4740c94e639be7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532765311
+status: 3
+tags: []
+user_id: julienpallage

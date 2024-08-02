@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/c3c402a7344748e587083c40ac52da73/artifacts
+deleted_time: 1722534971632
+end_time: 1722532368627
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: c3c402a7344748e587083c40ac52da73
+run_name: lyrical-deer-500
+run_uuid: c3c402a7344748e587083c40ac52da73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532368549
+status: 3
+tags: []
+user_id: julienpallage

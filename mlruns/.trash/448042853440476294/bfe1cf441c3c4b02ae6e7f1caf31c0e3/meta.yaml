@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/bfe1cf441c3c4b02ae6e7f1caf31c0e3/artifacts
+deleted_time: 1722534984616
+end_time: 1722529347851
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: bfe1cf441c3c4b02ae6e7f1caf31c0e3
+run_name: zealous-lark-504
+run_uuid: bfe1cf441c3c4b02ae6e7f1caf31c0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529347358
+status: 3
+tags: []
+user_id: julienpallage

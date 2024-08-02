@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/db08d2851d1f48e2bbcfb9696f8a0cd5/artifacts
+end_time: 1722538063589
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: db08d2851d1f48e2bbcfb9696f8a0cd5
+run_name: skittish-perch-701
+run_uuid: db08d2851d1f48e2bbcfb9696f8a0cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538063511
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/aae7bcd787164b64a1dbd2b9cdc1d6ba/artifacts
+deleted_time: 1722534984616
+end_time: 1722529335713
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: aae7bcd787164b64a1dbd2b9cdc1d6ba
+run_name: unruly-wren-188
+run_uuid: aae7bcd787164b64a1dbd2b9cdc1d6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529335145
+status: 3
+tags: []
+user_id: julienpallage

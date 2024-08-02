@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/064ba1833135485883b6033b0723a9aa/artifacts
+end_time: 1722541539165
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 064ba1833135485883b6033b0723a9aa
+run_name: redolent-gull-733
+run_uuid: 064ba1833135485883b6033b0723a9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541538877
+status: 3
+tags: []
+user_id: julienpallage

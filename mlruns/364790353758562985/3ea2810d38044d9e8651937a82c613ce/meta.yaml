@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3ea2810d38044d9e8651937a82c613ce/artifacts
+end_time: 1722538780567
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3ea2810d38044d9e8651937a82c613ce
+run_name: bedecked-fish-406
+run_uuid: 3ea2810d38044d9e8651937a82c613ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538768051
+status: 3
+tags: []
+user_id: julienpallage

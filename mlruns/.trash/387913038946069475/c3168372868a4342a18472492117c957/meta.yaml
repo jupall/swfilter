@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/c3168372868a4342a18472492117c957/artifacts
+deleted_time: 1722534979993
+end_time: 1722532123131
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: c3168372868a4342a18472492117c957
+run_name: capricious-quail-725
+run_uuid: c3168372868a4342a18472492117c957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532123030
+status: 3
+tags: []
+user_id: julienpallage

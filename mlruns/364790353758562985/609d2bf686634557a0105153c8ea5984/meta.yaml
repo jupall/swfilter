@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/609d2bf686634557a0105153c8ea5984/artifacts
+end_time: 1722538063907
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 609d2bf686634557a0105153c8ea5984
+run_name: painted-foal-93
+run_uuid: 609d2bf686634557a0105153c8ea5984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538063833
+status: 3
+tags: []
+user_id: julienpallage

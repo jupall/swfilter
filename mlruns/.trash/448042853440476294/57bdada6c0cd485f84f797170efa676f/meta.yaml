@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/57bdada6c0cd485f84f797170efa676f/artifacts
+deleted_time: 1722534984616
+end_time: 1722529532523
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 57bdada6c0cd485f84f797170efa676f
+run_name: industrious-swan-571
+run_uuid: 57bdada6c0cd485f84f797170efa676f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529523110
+status: 3
+tags: []
+user_id: julienpallage

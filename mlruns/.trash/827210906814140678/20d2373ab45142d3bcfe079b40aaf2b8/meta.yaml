@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/20d2373ab45142d3bcfe079b40aaf2b8/artifacts
+deleted_time: 1722534971632
+end_time: 1722532388132
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 20d2373ab45142d3bcfe079b40aaf2b8
+run_name: glamorous-sheep-709
+run_uuid: 20d2373ab45142d3bcfe079b40aaf2b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532387725
+status: 3
+tags: []
+user_id: julienpallage

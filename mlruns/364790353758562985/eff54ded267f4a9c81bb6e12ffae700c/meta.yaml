@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/eff54ded267f4a9c81bb6e12ffae700c/artifacts
+end_time: 1722538067362
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: eff54ded267f4a9c81bb6e12ffae700c
+run_name: nosy-mole-672
+run_uuid: eff54ded267f4a9c81bb6e12ffae700c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538067303
+status: 3
+tags: []
+user_id: julienpallage

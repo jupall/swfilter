@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d2abf6e493f74d0681cf1047da1df840/artifacts
+end_time: 1722543456063
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d2abf6e493f74d0681cf1047da1df840
+run_name: stately-sloth-620
+run_uuid: d2abf6e493f74d0681cf1047da1df840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722543229497
+status: 3
+tags: []
+user_id: julienpallage

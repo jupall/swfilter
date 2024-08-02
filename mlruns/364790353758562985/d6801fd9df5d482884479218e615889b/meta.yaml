@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d6801fd9df5d482884479218e615889b/artifacts
+end_time: 1722546164740
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d6801fd9df5d482884479218e615889b
+run_name: stylish-sheep-667
+run_uuid: d6801fd9df5d482884479218e615889b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722546120665
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d8f2ec11803a479ba3d96cbdc75f7556/artifacts
+end_time: 1722538517500
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d8f2ec11803a479ba3d96cbdc75f7556
+run_name: upbeat-fox-452
+run_uuid: d8f2ec11803a479ba3d96cbdc75f7556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538517121
+status: 3
+tags: []
+user_id: julienpallage

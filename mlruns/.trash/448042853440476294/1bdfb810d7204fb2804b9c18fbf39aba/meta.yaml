@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/1bdfb810d7204fb2804b9c18fbf39aba/artifacts
+deleted_time: 1722534984616
+end_time: 1722529348325
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 1bdfb810d7204fb2804b9c18fbf39aba
+run_name: luxuriant-owl-782
+run_uuid: 1bdfb810d7204fb2804b9c18fbf39aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529347872
+status: 3
+tags: []
+user_id: julienpallage

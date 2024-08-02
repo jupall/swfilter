@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/49e558562630413b8fa6fc32af13de4e/artifacts
+end_time: 1722537241400
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 49e558562630413b8fa6fc32af13de4e
+run_name: agreeable-kit-392
+run_uuid: 49e558562630413b8fa6fc32af13de4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537241296
+status: 3
+tags: []
+user_id: julienpallage

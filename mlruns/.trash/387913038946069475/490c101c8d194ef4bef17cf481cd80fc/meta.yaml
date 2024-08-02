@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/490c101c8d194ef4bef17cf481cd80fc/artifacts
+deleted_time: 1722534979993
+end_time: 1722532132843
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 490c101c8d194ef4bef17cf481cd80fc
+run_name: enchanting-robin-463
+run_uuid: 490c101c8d194ef4bef17cf481cd80fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532132765
+status: 3
+tags: []
+user_id: julienpallage

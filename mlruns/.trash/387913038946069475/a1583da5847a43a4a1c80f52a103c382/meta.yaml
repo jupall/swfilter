@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/a1583da5847a43a4a1c80f52a103c382/artifacts
+deleted_time: 1722534979993
+end_time: 1722532133894
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: a1583da5847a43a4a1c80f52a103c382
+run_name: melodic-goat-147
+run_uuid: a1583da5847a43a4a1c80f52a103c382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532133288
+status: 3
+tags: []
+user_id: julienpallage

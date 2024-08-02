@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/2951f8a798504ff58ea399ba79082a35/artifacts
+deleted_time: 1722534984616
+end_time: 1722529344631
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 2951f8a798504ff58ea399ba79082a35
+run_name: clumsy-steed-16
+run_uuid: 2951f8a798504ff58ea399ba79082a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529344152
+status: 3
+tags: []
+user_id: julienpallage

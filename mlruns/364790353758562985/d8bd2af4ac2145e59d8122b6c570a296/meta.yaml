@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d8bd2af4ac2145e59d8122b6c570a296/artifacts
+end_time: 1722561259690
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d8bd2af4ac2145e59d8122b6c570a296
+run_name: skittish-carp-210
+run_uuid: d8bd2af4ac2145e59d8122b6c570a296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561259621
+status: 3
+tags: []
+user_id: julienpallage

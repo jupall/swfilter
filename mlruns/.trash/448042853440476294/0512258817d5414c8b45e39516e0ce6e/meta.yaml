@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/0512258817d5414c8b45e39516e0ce6e/artifacts
+deleted_time: 1722534984616
+end_time: 1722529324848
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 0512258817d5414c8b45e39516e0ce6e
+run_name: sassy-zebra-167
+run_uuid: 0512258817d5414c8b45e39516e0ce6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529324754
+status: 3
+tags: []
+user_id: julienpallage

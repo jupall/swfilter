@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/cae9ba49c66e444b96a1ba97d62c8ca7/artifacts
+deleted_time: 1722534979993
+end_time: 1722532127937
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: cae9ba49c66e444b96a1ba97d62c8ca7
+run_name: peaceful-gnat-717
+run_uuid: cae9ba49c66e444b96a1ba97d62c8ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532127872
+status: 3
+tags: []
+user_id: julienpallage

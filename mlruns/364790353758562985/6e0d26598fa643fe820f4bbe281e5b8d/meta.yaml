@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/6e0d26598fa643fe820f4bbe281e5b8d/artifacts
+end_time: 1722537263969
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 6e0d26598fa643fe820f4bbe281e5b8d
+run_name: inquisitive-seal-249
+run_uuid: 6e0d26598fa643fe820f4bbe281e5b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537263662
+status: 3
+tags: []
+user_id: julienpallage

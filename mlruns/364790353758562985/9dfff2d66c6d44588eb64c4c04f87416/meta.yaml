@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9dfff2d66c6d44588eb64c4c04f87416/artifacts
+end_time: 1722535051534
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9dfff2d66c6d44588eb64c4c04f87416
+run_name: incongruous-cod-28
+run_uuid: 9dfff2d66c6d44588eb64c4c04f87416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535051464
+status: 3
+tags: []
+user_id: julienpallage

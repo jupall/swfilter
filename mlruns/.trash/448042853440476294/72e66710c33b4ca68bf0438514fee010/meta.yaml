@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/72e66710c33b4ca68bf0438514fee010/artifacts
+deleted_time: 1722534984616
+end_time: 1722530129953
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 72e66710c33b4ca68bf0438514fee010
+run_name: thoughtful-vole-247
+run_uuid: 72e66710c33b4ca68bf0438514fee010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722530124941
+status: 3
+tags: []
+user_id: julienpallage

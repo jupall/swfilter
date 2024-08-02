@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/78059dae61d34cc1ad7668c72b6d509a/artifacts
+end_time: 1722541531432
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 78059dae61d34cc1ad7668c72b6d509a
+run_name: clean-ray-418
+run_uuid: 78059dae61d34cc1ad7668c72b6d509a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541531353
+status: 3
+tags: []
+user_id: julienpallage

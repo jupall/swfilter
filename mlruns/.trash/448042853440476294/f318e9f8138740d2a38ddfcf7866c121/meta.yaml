@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/f318e9f8138740d2a38ddfcf7866c121/artifacts
+deleted_time: 1722534984616
+end_time: 1722530084626
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: f318e9f8138740d2a38ddfcf7866c121
+run_name: inquisitive-dog-232
+run_uuid: f318e9f8138740d2a38ddfcf7866c121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722530079546
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/43da70ae9dd84c658f478d160db601e3/artifacts
+end_time: 1722561296182
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 43da70ae9dd84c658f478d160db601e3
+run_name: monumental-panda-120
+run_uuid: 43da70ae9dd84c658f478d160db601e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561295828
+status: 3
+tags: []
+user_id: julienpallage

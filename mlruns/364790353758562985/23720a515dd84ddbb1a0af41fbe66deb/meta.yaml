@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/23720a515dd84ddbb1a0af41fbe66deb/artifacts
+end_time: 1722567914198
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 23720a515dd84ddbb1a0af41fbe66deb
+run_name: thundering-mouse-386
+run_uuid: 23720a515dd84ddbb1a0af41fbe66deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567914103
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/95f91f81353c40bc8ee5731626526d19/artifacts
+end_time: 1722538742981
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 95f91f81353c40bc8ee5731626526d19
+run_name: thundering-sow-578
+run_uuid: 95f91f81353c40bc8ee5731626526d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538735257
+status: 3
+tags: []
+user_id: julienpallage

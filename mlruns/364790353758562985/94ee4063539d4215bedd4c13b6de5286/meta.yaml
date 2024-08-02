@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/94ee4063539d4215bedd4c13b6de5286/artifacts
+end_time: 1722538063364
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 94ee4063539d4215bedd4c13b6de5286
+run_name: fearless-duck-797
+run_uuid: 94ee4063539d4215bedd4c13b6de5286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538063309
+status: 3
+tags: []
+user_id: julienpallage

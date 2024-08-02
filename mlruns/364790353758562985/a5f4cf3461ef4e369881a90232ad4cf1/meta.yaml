@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a5f4cf3461ef4e369881a90232ad4cf1/artifacts
+end_time: 1722576115963
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a5f4cf3461ef4e369881a90232ad4cf1
+run_name: grandiose-midge-308
+run_uuid: a5f4cf3461ef4e369881a90232ad4cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722575963565
+status: 3
+tags: []
+user_id: julienpallage

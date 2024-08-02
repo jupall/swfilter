@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ee0731d9399e479a9f36146766a7b001/artifacts
+end_time: 1722537243991
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ee0731d9399e479a9f36146766a7b001
+run_name: ambitious-bass-448
+run_uuid: ee0731d9399e479a9f36146766a7b001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537243879
+status: 3
+tags: []
+user_id: julienpallage

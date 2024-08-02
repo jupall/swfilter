@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/065f38ded38c4801b9d749d11ef53c66/artifacts
+end_time: 1722561536822
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 065f38ded38c4801b9d749d11ef53c66
+run_name: defiant-elk-469
+run_uuid: 065f38ded38c4801b9d749d11ef53c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561526012
+status: 3
+tags: []
+user_id: julienpallage

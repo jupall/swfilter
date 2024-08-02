@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/e247a75b99254290bf5100f794cbc873/artifacts
+end_time: 1722541553840
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: e247a75b99254290bf5100f794cbc873
+run_name: unruly-crab-264
+run_uuid: e247a75b99254290bf5100f794cbc873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541553515
+status: 3
+tags: []
+user_id: julienpallage

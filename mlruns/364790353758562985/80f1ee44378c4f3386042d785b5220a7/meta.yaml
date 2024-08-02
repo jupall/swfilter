@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/80f1ee44378c4f3386042d785b5220a7/artifacts
+end_time: 1722541527144
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 80f1ee44378c4f3386042d785b5220a7
+run_name: wistful-cub-451
+run_uuid: 80f1ee44378c4f3386042d785b5220a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541527038
+status: 3
+tags: []
+user_id: julienpallage

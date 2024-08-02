@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9c54e45d9b634c7dbb49caecb8992c60/artifacts
+end_time: 1722543549393
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9c54e45d9b634c7dbb49caecb8992c60
+run_name: delightful-snake-622
+run_uuid: 9c54e45d9b634c7dbb49caecb8992c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722543524773
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/db976da76aea4d699e8d7fb3b91a6968/artifacts
+deleted_time: 1722534979993
+end_time: 1722532189178
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: db976da76aea4d699e8d7fb3b91a6968
+run_name: colorful-rook-335
+run_uuid: db976da76aea4d699e8d7fb3b91a6968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532188511
+status: 3
+tags: []
+user_id: julienpallage

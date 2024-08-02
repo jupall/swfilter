@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/39e6f7f756f44972a576a9adee48949a/artifacts
+deleted_time: 1722534971632
+end_time: 1722532366295
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 39e6f7f756f44972a576a9adee48949a
+run_name: sedate-lark-415
+run_uuid: 39e6f7f756f44972a576a9adee48949a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532366236
+status: 3
+tags: []
+user_id: julienpallage

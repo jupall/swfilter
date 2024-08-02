@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/0d03454b4d184fc8a973046bba976719/artifacts
+end_time: 1722541542441
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 0d03454b4d184fc8a973046bba976719
+run_name: blushing-bug-262
+run_uuid: 0d03454b4d184fc8a973046bba976719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541542091
+status: 3
+tags: []
+user_id: julienpallage

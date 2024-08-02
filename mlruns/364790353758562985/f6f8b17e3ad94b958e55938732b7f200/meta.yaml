@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/f6f8b17e3ad94b958e55938732b7f200/artifacts
+end_time: 1722538432615
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: f6f8b17e3ad94b958e55938732b7f200
+run_name: chill-crab-595
+run_uuid: f6f8b17e3ad94b958e55938732b7f200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538432540
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/991565f213e6449aaef90983f86cbba9/artifacts
+end_time: 1722535066611
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 991565f213e6449aaef90983f86cbba9
+run_name: mercurial-seal-286
+run_uuid: 991565f213e6449aaef90983f86cbba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535066392
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/731e979d20b349fe8ce9ca99154acaba/artifacts
+deleted_time: 1722534979993
+end_time: 1722532124125
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 731e979d20b349fe8ce9ca99154acaba
+run_name: rare-snail-239
+run_uuid: 731e979d20b349fe8ce9ca99154acaba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532124053
+status: 3
+tags: []
+user_id: julienpallage

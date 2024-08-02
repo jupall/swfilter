@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/bc76e3cf812d41f7af7839c5b2693ccf/artifacts
+end_time: 1722538425600
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: bc76e3cf812d41f7af7839c5b2693ccf
+run_name: bustling-bear-910
+run_uuid: bc76e3cf812d41f7af7839c5b2693ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538425538
+status: 3
+tags: []
+user_id: julienpallage

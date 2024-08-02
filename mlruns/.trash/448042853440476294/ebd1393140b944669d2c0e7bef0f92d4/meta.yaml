@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/ebd1393140b944669d2c0e7bef0f92d4/artifacts
+deleted_time: 1722534984616
+end_time: 1722529324180
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: ebd1393140b944669d2c0e7bef0f92d4
+run_name: enthused-tern-139
+run_uuid: ebd1393140b944669d2c0e7bef0f92d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529324106
+status: 3
+tags: []
+user_id: julienpallage

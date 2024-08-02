@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/6dec87f267c54413bd27e6490f645414/artifacts
+deleted_time: 1722534979993
+end_time: 1722532147052
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 6dec87f267c54413bd27e6490f645414
+run_name: placid-snake-22
+run_uuid: 6dec87f267c54413bd27e6490f645414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532146381
+status: 3
+tags: []
+user_id: julienpallage

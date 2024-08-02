@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2039b2daa31245108216dda7b13de4aa/artifacts
+end_time: 1722535732139
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2039b2daa31245108216dda7b13de4aa
+run_name: secretive-snake-915
+run_uuid: 2039b2daa31245108216dda7b13de4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535726443
+status: 3
+tags: []
+user_id: julienpallage

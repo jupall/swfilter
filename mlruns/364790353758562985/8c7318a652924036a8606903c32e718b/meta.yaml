@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/8c7318a652924036a8606903c32e718b/artifacts
+end_time: 1722567919369
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 8c7318a652924036a8606903c32e718b
+run_name: legendary-gnat-580
+run_uuid: 8c7318a652924036a8606903c32e718b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567918978
+status: 3
+tags: []
+user_id: julienpallage

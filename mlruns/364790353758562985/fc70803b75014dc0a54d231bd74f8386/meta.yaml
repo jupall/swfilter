@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fc70803b75014dc0a54d231bd74f8386/artifacts
+end_time: 1722548277669
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fc70803b75014dc0a54d231bd74f8386
+run_name: exultant-shark-803
+run_uuid: fc70803b75014dc0a54d231bd74f8386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722548150482
+status: 3
+tags: []
+user_id: julienpallage

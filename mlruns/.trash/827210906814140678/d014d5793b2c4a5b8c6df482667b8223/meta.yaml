@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/d014d5793b2c4a5b8c6df482667b8223/artifacts
+deleted_time: 1722534971632
+end_time: 1722532363570
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: d014d5793b2c4a5b8c6df482667b8223
+run_name: enthused-penguin-728
+run_uuid: d014d5793b2c4a5b8c6df482667b8223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532363517
+status: 3
+tags: []
+user_id: julienpallage

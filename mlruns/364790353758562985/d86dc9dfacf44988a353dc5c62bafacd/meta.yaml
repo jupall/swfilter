@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d86dc9dfacf44988a353dc5c62bafacd/artifacts
+end_time: 1722561287186
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d86dc9dfacf44988a353dc5c62bafacd
+run_name: rogue-cub-960
+run_uuid: d86dc9dfacf44988a353dc5c62bafacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561286907
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/455cbca627744c16a2a3f45778ee541c/artifacts
+deleted_time: 1722534979993
+end_time: 1722532127741
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 455cbca627744c16a2a3f45778ee541c
+run_name: debonair-dog-110
+run_uuid: 455cbca627744c16a2a3f45778ee541c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532127641
+status: 3
+tags: []
+user_id: julienpallage

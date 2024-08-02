@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/81ed82f467ec496f92e3b1f27ea09096/artifacts
+end_time: 1722535053315
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 81ed82f467ec496f92e3b1f27ea09096
+run_name: righteous-robin-536
+run_uuid: 81ed82f467ec496f92e3b1f27ea09096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535053239
+status: 3
+tags: []
+user_id: julienpallage

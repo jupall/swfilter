@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ea076225be73450b8d526fe36c8d11d0/artifacts
+end_time: 1722535057417
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ea076225be73450b8d526fe36c8d11d0
+run_name: chill-koi-519
+run_uuid: ea076225be73450b8d526fe36c8d11d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535057294
+status: 3
+tags: []
+user_id: julienpallage

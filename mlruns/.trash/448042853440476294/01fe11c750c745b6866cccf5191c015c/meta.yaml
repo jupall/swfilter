@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/01fe11c750c745b6866cccf5191c015c/artifacts
+deleted_time: 1722534984616
+end_time: 1722529325254
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 01fe11c750c745b6866cccf5191c015c
+run_name: bustling-seal-708
+run_uuid: 01fe11c750c745b6866cccf5191c015c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529325163
+status: 3
+tags: []
+user_id: julienpallage

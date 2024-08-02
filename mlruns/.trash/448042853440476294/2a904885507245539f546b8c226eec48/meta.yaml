@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/2a904885507245539f546b8c226eec48/artifacts
+deleted_time: 1722534984616
+end_time: 1722530032068
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 2a904885507245539f546b8c226eec48
+run_name: brawny-sow-220
+run_uuid: 2a904885507245539f546b8c226eec48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722530027901
+status: 3
+tags: []
+user_id: julienpallage

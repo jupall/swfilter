@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a0fa70aaf430477babaccdf549fe8f92/artifacts
+end_time: 1722541518937
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a0fa70aaf430477babaccdf549fe8f92
+run_name: peaceful-midge-853
+run_uuid: a0fa70aaf430477babaccdf549fe8f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541518822
+status: 3
+tags: []
+user_id: julienpallage

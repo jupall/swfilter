@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ab7e25084d574b468825f97f5ba3fe10/artifacts
+end_time: 1722567910504
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ab7e25084d574b468825f97f5ba3fe10
+run_name: defiant-shrimp-667
+run_uuid: ab7e25084d574b468825f97f5ba3fe10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567910380
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/7202a1a4a28b486da6f457e4581160cc/artifacts
+end_time: 1722537272744
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 7202a1a4a28b486da6f457e4581160cc
+run_name: industrious-bat-488
+run_uuid: 7202a1a4a28b486da6f457e4581160cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537272414
+status: 3
+tags: []
+user_id: julienpallage

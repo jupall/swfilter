@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/beb6cde88cf04efe9ccb901bfe008801/artifacts
+end_time: 1722567946726
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: beb6cde88cf04efe9ccb901bfe008801
+run_name: skillful-sloth-826
+run_uuid: beb6cde88cf04efe9ccb901bfe008801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567946379
+status: 3
+tags: []
+user_id: julienpallage

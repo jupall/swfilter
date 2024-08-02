@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/0397432d166e4c5c8a266b12b83046ae/artifacts
+deleted_time: 1722534984616
+end_time: 1722529323961
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 0397432d166e4c5c8a266b12b83046ae
+run_name: dapper-ray-671
+run_uuid: 0397432d166e4c5c8a266b12b83046ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529323882
+status: 3
+tags: []
+user_id: julienpallage

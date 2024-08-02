@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/3993e17ad9d346998615619dc16fe109/artifacts
+deleted_time: 1722534979993
+end_time: 1722532125490
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 3993e17ad9d346998615619dc16fe109
+run_name: silent-shrew-425
+run_uuid: 3993e17ad9d346998615619dc16fe109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532125388
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/01b4bef3f61840e5ae59ec60f1c4e571/artifacts
+end_time: 1722538082675
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 01b4bef3f61840e5ae59ec60f1c4e571
+run_name: salty-rat-352
+run_uuid: 01b4bef3f61840e5ae59ec60f1c4e571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538082344
+status: 3
+tags: []
+user_id: julienpallage

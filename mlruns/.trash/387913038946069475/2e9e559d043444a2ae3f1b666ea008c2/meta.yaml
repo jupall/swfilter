@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/2e9e559d043444a2ae3f1b666ea008c2/artifacts
+deleted_time: 1722534979993
+end_time: 1722532127856
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 2e9e559d043444a2ae3f1b666ea008c2
+run_name: dashing-trout-201
+run_uuid: 2e9e559d043444a2ae3f1b666ea008c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532127758
+status: 3
+tags: []
+user_id: julienpallage

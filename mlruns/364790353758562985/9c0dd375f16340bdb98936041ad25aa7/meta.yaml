@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9c0dd375f16340bdb98936041ad25aa7/artifacts
+end_time: 1722537248363
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9c0dd375f16340bdb98936041ad25aa7
+run_name: likeable-ant-615
+run_uuid: 9c0dd375f16340bdb98936041ad25aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537248098
+status: 3
+tags: []
+user_id: julienpallage

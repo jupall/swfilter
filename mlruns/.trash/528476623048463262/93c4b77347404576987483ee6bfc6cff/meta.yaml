@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/93c4b77347404576987483ee6bfc6cff/artifacts
+deleted_time: 1722534987696
+end_time: 1722528785619
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: 93c4b77347404576987483ee6bfc6cff
+run_name: resilient-ox-496
+run_uuid: 93c4b77347404576987483ee6bfc6cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722528769354
+status: 3
+tags: []
+user_id: julienpallage

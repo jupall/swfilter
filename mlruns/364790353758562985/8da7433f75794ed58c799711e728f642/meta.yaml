@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/8da7433f75794ed58c799711e728f642/artifacts
+end_time: 1722538522073
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 8da7433f75794ed58c799711e728f642
+run_name: rare-goat-311
+run_uuid: 8da7433f75794ed58c799711e728f642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538521809
+status: 3
+tags: []
+user_id: julienpallage

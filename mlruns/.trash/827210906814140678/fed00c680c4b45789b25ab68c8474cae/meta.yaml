@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/fed00c680c4b45789b25ab68c8474cae/artifacts
+deleted_time: 1722534971632
+end_time: 1722533749068
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: fed00c680c4b45789b25ab68c8474cae
+run_name: adventurous-colt-400
+run_uuid: fed00c680c4b45789b25ab68c8474cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533701542
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d6b7e223547d4108b3e2f67120113776/artifacts
+end_time: 1722538432035
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d6b7e223547d4108b3e2f67120113776
+run_name: illustrious-stag-727
+run_uuid: d6b7e223547d4108b3e2f67120113776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538431953
+status: 3
+tags: []
+user_id: julienpallage

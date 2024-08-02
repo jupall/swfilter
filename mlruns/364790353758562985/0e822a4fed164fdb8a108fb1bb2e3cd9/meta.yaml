@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/0e822a4fed164fdb8a108fb1bb2e3cd9/artifacts
+end_time: 1722535054727
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 0e822a4fed164fdb8a108fb1bb2e3cd9
+run_name: worried-fawn-275
+run_uuid: 0e822a4fed164fdb8a108fb1bb2e3cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535054570
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/bdf59ef0f5134bd1bbb9dff3280dc77e/artifacts
+deleted_time: 1722534979993
+end_time: 1722532123421
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: bdf59ef0f5134bd1bbb9dff3280dc77e
+run_name: luxuriant-whale-663
+run_uuid: bdf59ef0f5134bd1bbb9dff3280dc77e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532123299
+status: 3
+tags: []
+user_id: julienpallage

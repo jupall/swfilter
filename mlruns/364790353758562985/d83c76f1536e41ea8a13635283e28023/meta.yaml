@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d83c76f1536e41ea8a13635283e28023/artifacts
+end_time: 1722578337670
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d83c76f1536e41ea8a13635283e28023
+run_name: dazzling-bee-178
+run_uuid: d83c76f1536e41ea8a13635283e28023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722578153398
+status: 3
+tags: []
+user_id: julienpallage

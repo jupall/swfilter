@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/aac98cfb0fde499880118534294cf75c/artifacts
+deleted_time: 1722534984616
+end_time: 1722529323468
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: aac98cfb0fde499880118534294cf75c
+run_name: peaceful-flea-324
+run_uuid: aac98cfb0fde499880118534294cf75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529323375
+status: 3
+tags: []
+user_id: julienpallage

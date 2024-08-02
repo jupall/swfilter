@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/6658c9d5518545328030d6b07b0648c5/artifacts
+end_time: 1722567924633
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 6658c9d5518545328030d6b07b0648c5
+run_name: righteous-zebra-203
+run_uuid: 6658c9d5518545328030d6b07b0648c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567924340
+status: 3
+tags: []
+user_id: julienpallage

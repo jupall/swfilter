@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/e085b976ec97449c90ce1be88008cc3d/artifacts
+deleted_time: 1722534984616
+end_time: 1722529480339
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: e085b976ec97449c90ce1be88008cc3d
+run_name: upbeat-stag-85
+run_uuid: e085b976ec97449c90ce1be88008cc3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529477904
+status: 3
+tags: []
+user_id: julienpallage

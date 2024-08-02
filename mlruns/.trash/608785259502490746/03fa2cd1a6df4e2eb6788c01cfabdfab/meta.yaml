@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/608785259502490746/03fa2cd1a6df4e2eb6788c01cfabdfab/artifacts
+deleted_time: 1722534976999
+end_time: 1722534566549
+entry_point_name: ''
+experiment_id: '608785259502490746'
+lifecycle_stage: deleted
+run_id: 03fa2cd1a6df4e2eb6788c01cfabdfab
+run_name: unleashed-cod-79
+run_uuid: 03fa2cd1a6df4e2eb6788c01cfabdfab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722534566444
+status: 4
+tags: []
+user_id: julienpallage

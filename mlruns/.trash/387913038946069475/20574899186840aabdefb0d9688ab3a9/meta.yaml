@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/20574899186840aabdefb0d9688ab3a9/artifacts
+deleted_time: 1722534979993
+end_time: 1722532137000
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 20574899186840aabdefb0d9688ab3a9
+run_name: sneaky-lynx-472
+run_uuid: 20574899186840aabdefb0d9688ab3a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532136130
+status: 3
+tags: []
+user_id: julienpallage

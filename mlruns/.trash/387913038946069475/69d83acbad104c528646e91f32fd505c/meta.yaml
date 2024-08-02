@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/69d83acbad104c528646e91f32fd505c/artifacts
+deleted_time: 1722534979993
+end_time: 1722532150528
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 69d83acbad104c528646e91f32fd505c
+run_name: puzzled-stag-225
+run_uuid: 69d83acbad104c528646e91f32fd505c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532150044
+status: 3
+tags: []
+user_id: julienpallage

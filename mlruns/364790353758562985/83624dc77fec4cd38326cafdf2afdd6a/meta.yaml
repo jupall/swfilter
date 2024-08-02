@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/83624dc77fec4cd38326cafdf2afdd6a/artifacts
+end_time: 1722541529077
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 83624dc77fec4cd38326cafdf2afdd6a
+run_name: luminous-perch-661
+run_uuid: 83624dc77fec4cd38326cafdf2afdd6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541528991
+status: 3
+tags: []
+user_id: julienpallage

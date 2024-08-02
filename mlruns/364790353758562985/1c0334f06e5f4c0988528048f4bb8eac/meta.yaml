@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/1c0334f06e5f4c0988528048f4bb8eac/artifacts
+end_time: 1722561284859
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 1c0334f06e5f4c0988528048f4bb8eac
+run_name: dapper-trout-164
+run_uuid: 1c0334f06e5f4c0988528048f4bb8eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561284586
+status: 3
+tags: []
+user_id: julienpallage

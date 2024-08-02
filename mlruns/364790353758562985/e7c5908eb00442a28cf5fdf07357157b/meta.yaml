@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/e7c5908eb00442a28cf5fdf07357157b/artifacts
+deleted_time: 1722537456195
+end_time: 1722537175083
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: deleted
+run_id: e7c5908eb00442a28cf5fdf07357157b
+run_name: nervous-crow-622
+run_uuid: e7c5908eb00442a28cf5fdf07357157b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537151373
+status: 4
+tags: []
+user_id: julienpallage

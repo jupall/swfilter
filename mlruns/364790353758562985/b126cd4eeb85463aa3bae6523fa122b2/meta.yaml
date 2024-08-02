@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/b126cd4eeb85463aa3bae6523fa122b2/artifacts
+end_time: 1722567940920
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: b126cd4eeb85463aa3bae6523fa122b2
+run_name: adaptable-bug-810
+run_uuid: b126cd4eeb85463aa3bae6523fa122b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567940558
+status: 3
+tags: []
+user_id: julienpallage

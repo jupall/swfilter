@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3f34855474f943878b69d2568c1cf2aa/artifacts
+end_time: 1722541529364
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3f34855474f943878b69d2568c1cf2aa
+run_name: nebulous-bear-57
+run_uuid: 3f34855474f943878b69d2568c1cf2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541529221
+status: 3
+tags: []
+user_id: julienpallage

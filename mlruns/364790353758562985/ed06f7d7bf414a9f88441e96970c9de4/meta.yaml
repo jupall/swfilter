@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ed06f7d7bf414a9f88441e96970c9de4/artifacts
+end_time: 1722541530877
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ed06f7d7bf414a9f88441e96970c9de4
+run_name: entertaining-cat-849
+run_uuid: ed06f7d7bf414a9f88441e96970c9de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541530799
+status: 3
+tags: []
+user_id: julienpallage

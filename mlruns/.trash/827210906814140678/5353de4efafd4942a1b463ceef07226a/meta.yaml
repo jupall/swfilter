@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/5353de4efafd4942a1b463ceef07226a/artifacts
+deleted_time: 1722534971632
+end_time: 1722532361459
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 5353de4efafd4942a1b463ceef07226a
+run_name: bittersweet-ant-379
+run_uuid: 5353de4efafd4942a1b463ceef07226a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532361379
+status: 3
+tags: []
+user_id: julienpallage

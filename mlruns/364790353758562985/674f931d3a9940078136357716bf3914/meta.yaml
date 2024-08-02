@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/674f931d3a9940078136357716bf3914/artifacts
+end_time: 1722538068398
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 674f931d3a9940078136357716bf3914
+run_name: unequaled-asp-691
+run_uuid: 674f931d3a9940078136357716bf3914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538068331
+status: 3
+tags: []
+user_id: julienpallage

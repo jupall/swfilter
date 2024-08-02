@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/f37589dd2375493baf88d560743622e6/artifacts
+end_time: 1722536824890
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: f37589dd2375493baf88d560743622e6
+run_name: calm-fox-808
+run_uuid: f37589dd2375493baf88d560743622e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722536810980
+status: 3
+tags: []
+user_id: julienpallage

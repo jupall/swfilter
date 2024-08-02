@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/5891972b02f347c4b8979fcab1ec077d/artifacts
+deleted_time: 1722534984616
+end_time: 1722529331081
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 5891972b02f347c4b8979fcab1ec077d
+run_name: dashing-moose-26
+run_uuid: 5891972b02f347c4b8979fcab1ec077d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529330320
+status: 3
+tags: []
+user_id: julienpallage

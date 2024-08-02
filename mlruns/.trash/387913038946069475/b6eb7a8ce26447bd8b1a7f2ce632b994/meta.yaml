@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/b6eb7a8ce26447bd8b1a7f2ce632b994/artifacts
+deleted_time: 1722534979993
+end_time: 1722532181928
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: b6eb7a8ce26447bd8b1a7f2ce632b994
+run_name: bittersweet-fawn-869
+run_uuid: b6eb7a8ce26447bd8b1a7f2ce632b994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532181242
+status: 3
+tags: []
+user_id: julienpallage

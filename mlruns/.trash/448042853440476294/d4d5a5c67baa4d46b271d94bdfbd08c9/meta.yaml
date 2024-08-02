@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/d4d5a5c67baa4d46b271d94bdfbd08c9/artifacts
+deleted_time: 1722534984616
+end_time: 1722530110947
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: d4d5a5c67baa4d46b271d94bdfbd08c9
+run_name: traveling-worm-581
+run_uuid: d4d5a5c67baa4d46b271d94bdfbd08c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722530109735
+status: 3
+tags: []
+user_id: julienpallage

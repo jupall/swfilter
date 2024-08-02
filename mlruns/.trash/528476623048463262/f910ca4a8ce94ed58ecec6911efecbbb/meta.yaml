@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/f910ca4a8ce94ed58ecec6911efecbbb/artifacts
+deleted_time: 1722534987696
+end_time: 1722529032043
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: f910ca4a8ce94ed58ecec6911efecbbb
+run_name: unequaled-doe-698
+run_uuid: f910ca4a8ce94ed58ecec6911efecbbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529018230
+status: 3
+tags: []
+user_id: julienpallage

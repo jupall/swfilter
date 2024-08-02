@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/2cea51d50acc47419a4bf484c61e1633/artifacts
+deleted_time: 1722534984616
+end_time: 1722529354423
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 2cea51d50acc47419a4bf484c61e1633
+run_name: resilient-snake-329
+run_uuid: 2cea51d50acc47419a4bf484c61e1633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529353945
+status: 3
+tags: []
+user_id: julienpallage

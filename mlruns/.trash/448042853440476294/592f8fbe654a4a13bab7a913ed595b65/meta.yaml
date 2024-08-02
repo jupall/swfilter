@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/592f8fbe654a4a13bab7a913ed595b65/artifacts
+deleted_time: 1722534984616
+end_time: 1722530052233
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 592f8fbe654a4a13bab7a913ed595b65
+run_name: wistful-finch-296
+run_uuid: 592f8fbe654a4a13bab7a913ed595b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722530044942
+status: 3
+tags: []
+user_id: julienpallage

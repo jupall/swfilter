@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/73d4a165800049019b0dc222496c6427/artifacts
+end_time: 1722538076876
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 73d4a165800049019b0dc222496c6427
+run_name: rogue-smelt-481
+run_uuid: 73d4a165800049019b0dc222496c6427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538076530
+status: 3
+tags: []
+user_id: julienpallage

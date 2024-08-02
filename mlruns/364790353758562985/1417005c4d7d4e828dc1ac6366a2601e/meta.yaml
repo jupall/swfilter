@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/1417005c4d7d4e828dc1ac6366a2601e/artifacts
+end_time: 1722567909396
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 1417005c4d7d4e828dc1ac6366a2601e
+run_name: wise-perch-200
+run_uuid: 1417005c4d7d4e828dc1ac6366a2601e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567909298
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/eda37972fab44aba8ae0d8dad123307d/artifacts
+end_time: 1722561288675
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: eda37972fab44aba8ae0d8dad123307d
+run_name: abundant-cod-969
+run_uuid: eda37972fab44aba8ae0d8dad123307d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561288388
+status: 3
+tags: []
+user_id: julienpallage

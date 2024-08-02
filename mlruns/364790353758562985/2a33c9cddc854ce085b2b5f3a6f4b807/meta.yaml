@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/2a33c9cddc854ce085b2b5f3a6f4b807/artifacts
+end_time: 1722538511607
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 2a33c9cddc854ce085b2b5f3a6f4b807
+run_name: indecisive-bug-961
+run_uuid: 2a33c9cddc854ce085b2b5f3a6f4b807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538511257
+status: 3
+tags: []
+user_id: julienpallage

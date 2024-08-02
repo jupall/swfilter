@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/affa4dc104194b2d91bda3edd3a0f4c0/artifacts
+end_time: 1722538081684
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: affa4dc104194b2d91bda3edd3a0f4c0
+run_name: invincible-lynx-783
+run_uuid: affa4dc104194b2d91bda3edd3a0f4c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538081407
+status: 3
+tags: []
+user_id: julienpallage

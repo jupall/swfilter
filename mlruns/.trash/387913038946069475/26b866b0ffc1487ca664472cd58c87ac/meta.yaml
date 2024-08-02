@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/26b866b0ffc1487ca664472cd58c87ac/artifacts
+deleted_time: 1722534979993
+end_time: 1722532181215
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 26b866b0ffc1487ca664472cd58c87ac
+run_name: wise-hog-688
+run_uuid: 26b866b0ffc1487ca664472cd58c87ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532180579
+status: 3
+tags: []
+user_id: julienpallage

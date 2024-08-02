@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/e8a8d5d51e3e4422ae6238d779aff151/artifacts
+deleted_time: 1722534984616
+end_time: 1722529557242
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: e8a8d5d51e3e4422ae6238d779aff151
+run_name: flawless-frog-686
+run_uuid: e8a8d5d51e3e4422ae6238d779aff151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529552502
+status: 3
+tags: []
+user_id: julienpallage

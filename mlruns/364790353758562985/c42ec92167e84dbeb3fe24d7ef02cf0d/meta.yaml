@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c42ec92167e84dbeb3fe24d7ef02cf0d/artifacts
+end_time: 1722561295456
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c42ec92167e84dbeb3fe24d7ef02cf0d
+run_name: skillful-doe-638
+run_uuid: c42ec92167e84dbeb3fe24d7ef02cf0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561295175
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/afb32fce92a54424b8bcc2a6531e534f/artifacts
+end_time: 1722538091551
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: afb32fce92a54424b8bcc2a6531e534f
+run_name: youthful-mouse-944
+run_uuid: afb32fce92a54424b8bcc2a6531e534f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538091231
+status: 3
+tags: []
+user_id: julienpallage

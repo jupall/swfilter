@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/f14820f87e9141f58701a6c199e1ec2f/artifacts
+deleted_time: 1722534971632
+end_time: 1722533577187
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: f14820f87e9141f58701a6c199e1ec2f
+run_name: upbeat-crow-409
+run_uuid: f14820f87e9141f58701a6c199e1ec2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533535291
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/e1c17957c6624b758699d36cd2268afb/artifacts
+deleted_time: 1722534979993
+end_time: 1722532169829
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: e1c17957c6624b758699d36cd2268afb
+run_name: caring-moth-612
+run_uuid: e1c17957c6624b758699d36cd2268afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532168985
+status: 3
+tags: []
+user_id: julienpallage

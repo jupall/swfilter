@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/945881bd89a540b481e5a3ee4274db59/artifacts
+deleted_time: 1722534984616
+end_time: 1722529325414
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: 945881bd89a540b481e5a3ee4274db59
+run_name: fun-eel-357
+run_uuid: 945881bd89a540b481e5a3ee4274db59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529325272
+status: 3
+tags: []
+user_id: julienpallage

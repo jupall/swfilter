@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/abf6d4fb60a446528d57a57c93dae225/artifacts
+end_time: 1722561878800
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: abf6d4fb60a446528d57a57c93dae225
+run_name: rare-eel-667
+run_uuid: abf6d4fb60a446528d57a57c93dae225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561878044
+status: 3
+tags: []
+user_id: julienpallage

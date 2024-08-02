@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/15c1943d76b4404caa9a1537857a5514/artifacts
+end_time: 1722535056818
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 15c1943d76b4404caa9a1537857a5514
+run_name: colorful-wasp-834
+run_uuid: 15c1943d76b4404caa9a1537857a5514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535056715
+status: 3
+tags: []
+user_id: julienpallage

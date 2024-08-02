@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d11282c732b64c73b03811e39832dbbc/artifacts
+end_time: 1722535062834
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d11282c732b64c73b03811e39832dbbc
+run_name: selective-ox-548
+run_uuid: d11282c732b64c73b03811e39832dbbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535062579
+status: 3
+tags: []
+user_id: julienpallage

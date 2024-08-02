@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/c6f24c54666c45cf8b604a38fb0c6bd5/artifacts
+deleted_time: 1722534979993
+end_time: 1722532218077
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: c6f24c54666c45cf8b604a38fb0c6bd5
+run_name: rambunctious-pug-28
+run_uuid: c6f24c54666c45cf8b604a38fb0c6bd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532204119
+status: 3
+tags: []
+user_id: julienpallage

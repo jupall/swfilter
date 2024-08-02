@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/ba64c3b5c2fb49b28d1e6d1abf1e7160/artifacts
+end_time: 1722535075568
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: ba64c3b5c2fb49b28d1e6d1abf1e7160
+run_name: charming-slug-898
+run_uuid: ba64c3b5c2fb49b28d1e6d1abf1e7160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535075363
+status: 3
+tags: []
+user_id: julienpallage

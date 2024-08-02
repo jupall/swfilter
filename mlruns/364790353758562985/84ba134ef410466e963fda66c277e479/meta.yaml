@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/84ba134ef410466e963fda66c277e479/artifacts
+end_time: 1722561620555
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 84ba134ef410466e963fda66c277e479
+run_name: flawless-lynx-568
+run_uuid: 84ba134ef410466e963fda66c277e479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561618277
+status: 3
+tags: []
+user_id: julienpallage

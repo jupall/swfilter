@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/9f3eb82cd3044ad2930aa5ef221c77fd/artifacts
+end_time: 1722561765544
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 9f3eb82cd3044ad2930aa5ef221c77fd
+run_name: luxuriant-deer-875
+run_uuid: 9f3eb82cd3044ad2930aa5ef221c77fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561761945
+status: 3
+tags: []
+user_id: julienpallage

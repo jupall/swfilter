@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/608785259502490746/28324e3c61cb40dda72cbd8bf93ddc78/artifacts
+deleted_time: 1722534976999
+end_time: 1722534370420
+entry_point_name: ''
+experiment_id: '608785259502490746'
+lifecycle_stage: deleted
+run_id: 28324e3c61cb40dda72cbd8bf93ddc78
+run_name: youthful-worm-542
+run_uuid: 28324e3c61cb40dda72cbd8bf93ddc78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722534370343
+status: 4
+tags: []
+user_id: julienpallage

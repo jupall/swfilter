@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/f8ca7b8b452c4eceaf6f452c5d1883bd/artifacts
+deleted_time: 1722534979993
+end_time: 1722532142640
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: f8ca7b8b452c4eceaf6f452c5d1883bd
+run_name: unruly-vole-933
+run_uuid: f8ca7b8b452c4eceaf6f452c5d1883bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532142023
+status: 3
+tags: []
+user_id: julienpallage

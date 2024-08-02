@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/dd8f8afe33084fd994f68d537bc59d70/artifacts
+deleted_time: 1722534971632
+end_time: 1722532367747
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: dd8f8afe33084fd994f68d537bc59d70
+run_name: charming-turtle-787
+run_uuid: dd8f8afe33084fd994f68d537bc59d70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532367688
+status: 3
+tags: []
+user_id: julienpallage

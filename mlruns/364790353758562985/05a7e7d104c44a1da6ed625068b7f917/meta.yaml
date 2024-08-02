@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/05a7e7d104c44a1da6ed625068b7f917/artifacts
+end_time: 1722538185966
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 05a7e7d104c44a1da6ed625068b7f917
+run_name: bittersweet-moth-754
+run_uuid: 05a7e7d104c44a1da6ed625068b7f917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538184992
+status: 3
+tags: []
+user_id: julienpallage

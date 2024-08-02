@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/a3d5e072cb374a86ba80db416230ed5f/artifacts
+deleted_time: 1722534979993
+end_time: 1722532146371
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: a3d5e072cb374a86ba80db416230ed5f
+run_name: defiant-pug-357
+run_uuid: a3d5e072cb374a86ba80db416230ed5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532145583
+status: 3
+tags: []
+user_id: julienpallage

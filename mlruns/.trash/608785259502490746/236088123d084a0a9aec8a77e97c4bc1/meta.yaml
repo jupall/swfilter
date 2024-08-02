@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/608785259502490746/236088123d084a0a9aec8a77e97c4bc1/artifacts
+deleted_time: 1722534976999
+end_time: 1722534836330
+entry_point_name: ''
+experiment_id: '608785259502490746'
+lifecycle_stage: deleted
+run_id: 236088123d084a0a9aec8a77e97c4bc1
+run_name: incongruous-frog-128
+run_uuid: 236088123d084a0a9aec8a77e97c4bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722534836105
+status: 3
+tags: []
+user_id: julienpallage

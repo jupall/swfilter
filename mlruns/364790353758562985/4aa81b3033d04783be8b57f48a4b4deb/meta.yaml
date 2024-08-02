@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/4aa81b3033d04783be8b57f48a4b4deb/artifacts
+end_time: 1722538965096
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 4aa81b3033d04783be8b57f48a4b4deb
+run_name: angry-steed-806
+run_uuid: 4aa81b3033d04783be8b57f48a4b4deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538960355
+status: 3
+tags: []
+user_id: julienpallage

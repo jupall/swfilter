@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/3ee79bb6fcee4302ad89cfaa3c7bb17a/artifacts
+deleted_time: 1722534971632
+end_time: 1722532379631
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 3ee79bb6fcee4302ad89cfaa3c7bb17a
+run_name: clean-flea-520
+run_uuid: 3ee79bb6fcee4302ad89cfaa3c7bb17a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532379233
+status: 3
+tags: []
+user_id: julienpallage

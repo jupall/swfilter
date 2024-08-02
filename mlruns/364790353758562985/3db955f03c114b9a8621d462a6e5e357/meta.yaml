@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3db955f03c114b9a8621d462a6e5e357/artifacts
+end_time: 1722535059169
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3db955f03c114b9a8621d462a6e5e357
+run_name: classy-swan-329
+run_uuid: 3db955f03c114b9a8621d462a6e5e357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722535059084
+status: 3
+tags: []
+user_id: julienpallage

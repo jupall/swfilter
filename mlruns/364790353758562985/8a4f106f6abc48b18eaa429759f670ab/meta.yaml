@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/8a4f106f6abc48b18eaa429759f670ab/artifacts
+end_time: 1722546706564
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 8a4f106f6abc48b18eaa429759f670ab
+run_name: lyrical-grub-870
+run_uuid: 8a4f106f6abc48b18eaa429759f670ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722546664731
+status: 3
+tags: []
+user_id: julienpallage

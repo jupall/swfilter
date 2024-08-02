@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/5c3182b660b84b7ba3d6ee963f815347/artifacts
+end_time: 1722538525354
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 5c3182b660b84b7ba3d6ee963f815347
+run_name: marvelous-hen-513
+run_uuid: 5c3182b660b84b7ba3d6ee963f815347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538525085
+status: 3
+tags: []
+user_id: julienpallage

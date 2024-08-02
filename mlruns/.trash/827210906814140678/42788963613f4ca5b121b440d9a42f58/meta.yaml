@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/42788963613f4ca5b121b440d9a42f58/artifacts
+deleted_time: 1722534971632
+end_time: 1722533988767
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 42788963613f4ca5b121b440d9a42f58
+run_name: amazing-rook-163
+run_uuid: 42788963613f4ca5b121b440d9a42f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722533983658
+status: 3
+tags: []
+user_id: julienpallage

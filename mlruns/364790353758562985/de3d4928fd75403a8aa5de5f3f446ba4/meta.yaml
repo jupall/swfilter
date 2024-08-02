@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/de3d4928fd75403a8aa5de5f3f446ba4/artifacts
+end_time: 1722561264494
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: de3d4928fd75403a8aa5de5f3f446ba4
+run_name: dapper-cod-442
+run_uuid: de3d4928fd75403a8aa5de5f3f446ba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561264423
+status: 3
+tags: []
+user_id: julienpallage

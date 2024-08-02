@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/3b41514f35954adf92cfcb29b99b7ed5/artifacts
+end_time: 1722578675820
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 3b41514f35954adf92cfcb29b99b7ed5
+run_name: loud-smelt-111
+run_uuid: 3b41514f35954adf92cfcb29b99b7ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722578510817
+status: 3
+tags: []
+user_id: julienpallage

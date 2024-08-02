@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/5fbd30bf15834ac592494ac4ce020133/artifacts
+end_time: 1722568452363
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 5fbd30bf15834ac592494ac4ce020133
+run_name: delightful-hog-654
+run_uuid: 5fbd30bf15834ac592494ac4ce020133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722568348786
+status: 3
+tags: []
+user_id: julienpallage

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/651553bdf31240ef9de5c04930583e0c/artifacts
+end_time: 1722537241157
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 651553bdf31240ef9de5c04930583e0c
+run_name: sedate-shrike-368
+run_uuid: 651553bdf31240ef9de5c04930583e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537241064
+status: 3
+tags: []
+user_id: julienpallage

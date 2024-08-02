@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/a9884e467a384498958d64bbe8d8c36c/artifacts
+end_time: 1722538131928
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: a9884e467a384498958d64bbe8d8c36c
+run_name: wise-gnat-694
+run_uuid: a9884e467a384498958d64bbe8d8c36c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538129144
+status: 3
+tags: []
+user_id: julienpallage

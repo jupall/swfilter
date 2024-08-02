@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/528476623048463262/503a20a70af94e8a8c0edab9487671e4/artifacts
+deleted_time: 1722534987696
+end_time: 1722528337690
+entry_point_name: ''
+experiment_id: '528476623048463262'
+lifecycle_stage: deleted
+run_id: 503a20a70af94e8a8c0edab9487671e4
+run_name: smiling-worm-325
+run_uuid: 503a20a70af94e8a8c0edab9487671e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722528307048
+status: 4
+tags: []
+user_id: julienpallage

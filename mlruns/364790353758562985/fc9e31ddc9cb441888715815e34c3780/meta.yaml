@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fc9e31ddc9cb441888715815e34c3780/artifacts
+end_time: 1722536423420
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fc9e31ddc9cb441888715815e34c3780
+run_name: inquisitive-wren-14
+run_uuid: fc9e31ddc9cb441888715815e34c3780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722536385054
+status: 3
+tags: []
+user_id: julienpallage

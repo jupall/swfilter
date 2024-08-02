@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/ba6fd45e2b794c5686cfe6dc26836c23/artifacts
+deleted_time: 1722534984616
+end_time: 1722529721844
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: ba6fd45e2b794c5686cfe6dc26836c23
+run_name: bedecked-wren-830
+run_uuid: ba6fd45e2b794c5686cfe6dc26836c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529701798
+status: 3
+tags: []
+user_id: julienpallage

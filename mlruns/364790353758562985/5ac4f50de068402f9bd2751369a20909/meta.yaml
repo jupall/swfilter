@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/5ac4f50de068402f9bd2751369a20909/artifacts
+end_time: 1722577868555
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 5ac4f50de068402f9bd2751369a20909
+run_name: awesome-pug-300
+run_uuid: 5ac4f50de068402f9bd2751369a20909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722577654036
+status: 3
+tags: []
+user_id: julienpallage

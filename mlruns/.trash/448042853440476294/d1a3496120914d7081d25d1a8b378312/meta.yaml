@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/d1a3496120914d7081d25d1a8b378312/artifacts
+deleted_time: 1722534984616
+end_time: 1722530090009
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: d1a3496120914d7081d25d1a8b378312
+run_name: colorful-stoat-597
+run_uuid: d1a3496120914d7081d25d1a8b378312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722530084649
+status: 3
+tags: []
+user_id: julienpallage

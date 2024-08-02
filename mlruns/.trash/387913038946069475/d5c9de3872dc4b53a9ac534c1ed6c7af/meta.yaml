@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/d5c9de3872dc4b53a9ac534c1ed6c7af/artifacts
+deleted_time: 1722534979993
+end_time: 1722532129069
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: d5c9de3872dc4b53a9ac534c1ed6c7af
+run_name: painted-roo-343
+run_uuid: d5c9de3872dc4b53a9ac534c1ed6c7af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532128966
+status: 3
+tags: []
+user_id: julienpallage

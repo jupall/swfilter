@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/74abff1830a84b4b8fc645d759bca136/artifacts
+end_time: 1722561442208
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 74abff1830a84b4b8fc645d759bca136
+run_name: orderly-snail-947
+run_uuid: 74abff1830a84b4b8fc645d759bca136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722561432641
+status: 3
+tags: []
+user_id: julienpallage

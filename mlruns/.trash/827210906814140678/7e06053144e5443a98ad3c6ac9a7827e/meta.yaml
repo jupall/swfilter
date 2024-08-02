@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/7e06053144e5443a98ad3c6ac9a7827e/artifacts
+deleted_time: 1722534971632
+end_time: 1722532365725
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 7e06053144e5443a98ad3c6ac9a7827e
+run_name: righteous-donkey-288
+run_uuid: 7e06053144e5443a98ad3c6ac9a7827e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532365666
+status: 3
+tags: []
+user_id: julienpallage

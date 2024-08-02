@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/d32ce4c4000e4269b2c0463b098aecf9/artifacts
+end_time: 1722567907204
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: d32ce4c4000e4269b2c0463b098aecf9
+run_name: big-bee-47
+run_uuid: d32ce4c4000e4269b2c0463b098aecf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567907106
+status: 3
+tags: []
+user_id: julienpallage

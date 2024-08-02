@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/cd02d98d88394364a3b2ac07984b5820/artifacts
+end_time: 1722568919328
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: cd02d98d88394364a3b2ac07984b5820
+run_name: classy-worm-491
+run_uuid: cd02d98d88394364a3b2ac07984b5820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722568897718
+status: 3
+tags: []
+user_id: julienpallage

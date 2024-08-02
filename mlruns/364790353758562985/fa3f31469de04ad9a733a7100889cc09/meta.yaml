@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fa3f31469de04ad9a733a7100889cc09/artifacts
+end_time: 1722538098681
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fa3f31469de04ad9a733a7100889cc09
+run_name: big-shrew-730
+run_uuid: fa3f31469de04ad9a733a7100889cc09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538098321
+status: 3
+tags: []
+user_id: julienpallage

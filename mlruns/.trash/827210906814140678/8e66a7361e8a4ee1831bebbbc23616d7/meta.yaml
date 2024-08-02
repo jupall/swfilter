@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/8e66a7361e8a4ee1831bebbbc23616d7/artifacts
+deleted_time: 1722534971632
+end_time: 1722532408796
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 8e66a7361e8a4ee1831bebbbc23616d7
+run_name: caring-loon-817
+run_uuid: 8e66a7361e8a4ee1831bebbbc23616d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532408456
+status: 3
+tags: []
+user_id: julienpallage

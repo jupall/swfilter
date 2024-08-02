@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/fa6d8eaa6b794769b6b46bd999faec38/artifacts
+end_time: 1722538065888
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: fa6d8eaa6b794769b6b46bd999faec38
+run_name: brawny-owl-66
+run_uuid: fa6d8eaa6b794769b6b46bd999faec38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722538065823
+status: 3
+tags: []
+user_id: julienpallage

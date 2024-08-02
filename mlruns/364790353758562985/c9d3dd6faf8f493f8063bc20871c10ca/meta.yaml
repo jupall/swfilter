@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/c9d3dd6faf8f493f8063bc20871c10ca/artifacts
+end_time: 1722537258374
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: c9d3dd6faf8f493f8063bc20871c10ca
+run_name: sedate-pig-813
+run_uuid: c9d3dd6faf8f493f8063bc20871c10ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722537258028
+status: 3
+tags: []
+user_id: julienpallage

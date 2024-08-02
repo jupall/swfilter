@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/37949e9e107d49b3a5c9ae23e03596ce/artifacts
+end_time: 1722576463943
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 37949e9e107d49b3a5c9ae23e03596ce
+run_name: bright-smelt-49
+run_uuid: 37949e9e107d49b3a5c9ae23e03596ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722576303762
+status: 3
+tags: []
+user_id: julienpallage

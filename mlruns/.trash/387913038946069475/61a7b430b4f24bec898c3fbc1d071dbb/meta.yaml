@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/61a7b430b4f24bec898c3fbc1d071dbb/artifacts
+deleted_time: 1722534979993
+end_time: 1722532130666
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: 61a7b430b4f24bec898c3fbc1d071dbb
+run_name: loud-owl-793
+run_uuid: 61a7b430b4f24bec898c3fbc1d071dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532130570
+status: 3
+tags: []
+user_id: julienpallage

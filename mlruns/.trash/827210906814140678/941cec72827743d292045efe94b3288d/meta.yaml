@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827210906814140678/941cec72827743d292045efe94b3288d/artifacts
+deleted_time: 1722534971632
+end_time: 1722532409993
+entry_point_name: ''
+experiment_id: '827210906814140678'
+lifecycle_stage: deleted
+run_id: 941cec72827743d292045efe94b3288d
+run_name: adorable-chimp-509
+run_uuid: 941cec72827743d292045efe94b3288d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532409655
+status: 3
+tags: []
+user_id: julienpallage

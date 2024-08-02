@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/387913038946069475/a0326d695f574fce94a6b54a85be5299/artifacts
+deleted_time: 1722534979993
+end_time: 1722532164523
+entry_point_name: ''
+experiment_id: '387913038946069475'
+lifecycle_stage: deleted
+run_id: a0326d695f574fce94a6b54a85be5299
+run_name: sneaky-crab-539
+run_uuid: a0326d695f574fce94a6b54a85be5299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722532163715
+status: 3
+tags: []
+user_id: julienpallage

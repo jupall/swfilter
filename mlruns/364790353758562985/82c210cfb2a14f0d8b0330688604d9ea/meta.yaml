@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364790353758562985/82c210cfb2a14f0d8b0330688604d9ea/artifacts
+end_time: 1722541563735
+entry_point_name: ''
+experiment_id: '364790353758562985'
+lifecycle_stage: active
+run_id: 82c210cfb2a14f0d8b0330688604d9ea
+run_name: marvelous-hawk-847
+run_uuid: 82c210cfb2a14f0d8b0330688604d9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722541563346
+status: 3
+tags: []
+user_id: julienpallage

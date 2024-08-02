@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/448042853440476294/d7c203151dde4a42a2c08aa4308ad2f0/artifacts
+deleted_time: 1722534984616
+end_time: 1722529340762
+entry_point_name: ''
+experiment_id: '448042853440476294'
+lifecycle_stage: deleted
+run_id: d7c203151dde4a42a2c08aa4308ad2f0
+run_name: peaceful-croc-843
+run_uuid: d7c203151dde4a42a2c08aa4308ad2f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722529340042
+status: 3
+tags: []
+user_id: julienpallage
