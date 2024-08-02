@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/03e0ffda335b4036bc9731948c6f5359/artifacts
+end_time: 1722484361613
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: 03e0ffda335b4036bc9731948c6f5359
+run_name: bald-carp-972
+run_uuid: 03e0ffda335b4036bc9731948c6f5359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484361531
+status: 4
+tags: []
+user_id: julienpallage

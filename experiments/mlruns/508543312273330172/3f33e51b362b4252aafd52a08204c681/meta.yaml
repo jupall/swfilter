@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julienpallage/Documents/GitHub/swfilter/experiments/mlruns/508543312273330172/3f33e51b362b4252aafd52a08204c681/artifacts
+end_time: 1722484711309
+entry_point_name: ''
+experiment_id: '508543312273330172'
+lifecycle_stage: active
+run_id: 3f33e51b362b4252aafd52a08204c681
+run_name: unequaled-quail-812
+run_uuid: 3f33e51b362b4252aafd52a08204c681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722484711257
+status: 3
+tags: []
+user_id: julienpallage
