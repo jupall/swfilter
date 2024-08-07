@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/006b484c163e4ab8b561fd8634a29510/artifacts
+end_time: 1722643980369
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 006b484c163e4ab8b561fd8634a29510
+run_name: fearless-colt-71
+run_uuid: 006b484c163e4ab8b561fd8634a29510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643980314
+status: 3
+tags: []
+user_id: julien

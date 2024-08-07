@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6b8149e0d5994f3b9fd15ad3a7b238ec/artifacts
+end_time: 1722648507266
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6b8149e0d5994f3b9fd15ad3a7b238ec
+run_name: luxuriant-worm-939
+run_uuid: 6b8149e0d5994f3b9fd15ad3a7b238ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648504974
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/3f0853a362414fce90bb82d51c56115a/artifacts
+deleted_time: 1722618939344
+end_time: 1722618902364
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 3f0853a362414fce90bb82d51c56115a
+run_name: rebellious-colt-835
+run_uuid: 3f0853a362414fce90bb82d51c56115a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618902303
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bde99a46583f4efcb076550e73f2d163/artifacts
+end_time: 1722643860339
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bde99a46583f4efcb076550e73f2d163
+run_name: capable-goose-61
+run_uuid: bde99a46583f4efcb076550e73f2d163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643860291
+status: 3
+tags: []
+user_id: julien

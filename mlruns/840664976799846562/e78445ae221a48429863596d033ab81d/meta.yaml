@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e78445ae221a48429863596d033ab81d/artifacts
+end_time: 1722643884679
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e78445ae221a48429863596d033ab81d
+run_name: stately-sloth-357
+run_uuid: e78445ae221a48429863596d033ab81d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643884455
+status: 3
+tags: []
+user_id: julien

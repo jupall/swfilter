@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/77dac2e55db241c8a6bda1d34022fab1/artifacts
+end_time: 1722620078564
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 77dac2e55db241c8a6bda1d34022fab1
+run_name: redolent-ox-134
+run_uuid: 77dac2e55db241c8a6bda1d34022fab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620078530
+status: 3
+tags: []
+user_id: julien

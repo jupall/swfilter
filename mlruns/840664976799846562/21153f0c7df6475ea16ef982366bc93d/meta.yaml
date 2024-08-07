@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/21153f0c7df6475ea16ef982366bc93d/artifacts
+end_time: 1722620077156
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 21153f0c7df6475ea16ef982366bc93d
+run_name: serious-kit-334
+run_uuid: 21153f0c7df6475ea16ef982366bc93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620077119
+status: 3
+tags: []
+user_id: julien

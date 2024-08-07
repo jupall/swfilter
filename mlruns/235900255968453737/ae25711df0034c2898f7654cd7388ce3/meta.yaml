@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ae25711df0034c2898f7654cd7388ce3/artifacts
+end_time: 1722649187734
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ae25711df0034c2898f7654cd7388ce3
+run_name: rogue-goose-239
+run_uuid: ae25711df0034c2898f7654cd7388ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649187642
+status: 3
+tags: []
+user_id: julien

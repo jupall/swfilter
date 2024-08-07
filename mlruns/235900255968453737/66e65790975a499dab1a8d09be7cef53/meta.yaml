@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/66e65790975a499dab1a8d09be7cef53/artifacts
+end_time: 1722652082253
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 66e65790975a499dab1a8d09be7cef53
+run_name: selective-shrike-574
+run_uuid: 66e65790975a499dab1a8d09be7cef53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652081329
+status: 3
+tags: []
+user_id: julien

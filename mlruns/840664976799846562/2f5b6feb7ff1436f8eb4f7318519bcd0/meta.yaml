@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2f5b6feb7ff1436f8eb4f7318519bcd0/artifacts
+end_time: 1722643858147
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2f5b6feb7ff1436f8eb4f7318519bcd0
+run_name: nimble-kite-414
+run_uuid: 2f5b6feb7ff1436f8eb4f7318519bcd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643858103
+status: 3
+tags: []
+user_id: julien

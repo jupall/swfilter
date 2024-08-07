@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7acc1991c4dd4e11aa9afc817171e3eb/artifacts
+end_time: 1722651944420
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7acc1991c4dd4e11aa9afc817171e3eb
+run_name: angry-bee-224
+run_uuid: 7acc1991c4dd4e11aa9afc817171e3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651944207
+status: 3
+tags: []
+user_id: julien

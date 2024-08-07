@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b7a6eb7d18504689901122cbaeab3759/artifacts
+end_time: 1722643920577
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b7a6eb7d18504689901122cbaeab3759
+run_name: resilient-conch-372
+run_uuid: b7a6eb7d18504689901122cbaeab3759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643920160
+status: 3
+tags: []
+user_id: julien

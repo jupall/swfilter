@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fc8f11ddabd346369f97c4aff94adf8c/artifacts
+end_time: 1722649180108
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fc8f11ddabd346369f97c4aff94adf8c
+run_name: trusting-conch-22
+run_uuid: fc8f11ddabd346369f97c4aff94adf8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649180024
+status: 3
+tags: []
+user_id: julien

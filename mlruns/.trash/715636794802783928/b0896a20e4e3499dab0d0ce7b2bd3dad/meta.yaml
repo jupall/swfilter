@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/b0896a20e4e3499dab0d0ce7b2bd3dad/artifacts
+deleted_time: 1722618419437
+end_time: 1722617860014
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: b0896a20e4e3499dab0d0ce7b2bd3dad
+run_name: grandiose-rat-264
+run_uuid: b0896a20e4e3499dab0d0ce7b2bd3dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617859775
+status: 3
+tags: []
+user_id: julien

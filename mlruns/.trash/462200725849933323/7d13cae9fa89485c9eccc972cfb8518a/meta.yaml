@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/7d13cae9fa89485c9eccc972cfb8518a/artifacts
+deleted_time: 1722618939344
+end_time: 1722618893120
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 7d13cae9fa89485c9eccc972cfb8518a
+run_name: capable-zebra-445
+run_uuid: 7d13cae9fa89485c9eccc972cfb8518a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618893048
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6ea33cf67df845f8be7e4cc1a5182cf2/artifacts
+end_time: 1722663170840
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6ea33cf67df845f8be7e4cc1a5182cf2
+run_name: flawless-grouse-90
+run_uuid: 6ea33cf67df845f8be7e4cc1a5182cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663167760
+status: 3
+tags: []
+user_id: julien

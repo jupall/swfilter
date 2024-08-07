@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d03e24840b144714804debcde1731b92/artifacts
+end_time: 1722643997914
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d03e24840b144714804debcde1731b92
+run_name: ambitious-fawn-291
+run_uuid: d03e24840b144714804debcde1731b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643997669
+status: 3
+tags: []
+user_id: julien

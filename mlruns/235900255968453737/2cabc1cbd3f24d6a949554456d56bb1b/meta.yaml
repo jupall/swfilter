@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2cabc1cbd3f24d6a949554456d56bb1b/artifacts
+end_time: 1722648170524
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2cabc1cbd3f24d6a949554456d56bb1b
+run_name: fun-grub-502
+run_uuid: 2cabc1cbd3f24d6a949554456d56bb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648170431
+status: 3
+tags: []
+user_id: julien

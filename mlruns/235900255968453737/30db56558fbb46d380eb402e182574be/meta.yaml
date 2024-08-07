@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/30db56558fbb46d380eb402e182574be/artifacts
+end_time: 1722648206358
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 30db56558fbb46d380eb402e182574be
+run_name: blushing-moth-89
+run_uuid: 30db56558fbb46d380eb402e182574be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648206149
+status: 3
+tags: []
+user_id: julien

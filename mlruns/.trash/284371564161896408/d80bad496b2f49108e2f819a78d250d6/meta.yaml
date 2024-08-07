@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/d80bad496b2f49108e2f819a78d250d6/artifacts
+deleted_time: 1722618664511
+end_time: 1722618494799
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: d80bad496b2f49108e2f819a78d250d6
+run_name: clean-hog-97
+run_uuid: d80bad496b2f49108e2f819a78d250d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618494606
+status: 3
+tags: []
+user_id: julien

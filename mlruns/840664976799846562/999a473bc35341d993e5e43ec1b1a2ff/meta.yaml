@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/999a473bc35341d993e5e43ec1b1a2ff/artifacts
+end_time: 1722626258893
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 999a473bc35341d993e5e43ec1b1a2ff
+run_name: lyrical-loon-733
+run_uuid: 999a473bc35341d993e5e43ec1b1a2ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722626182810
+status: 3
+tags: []
+user_id: julien

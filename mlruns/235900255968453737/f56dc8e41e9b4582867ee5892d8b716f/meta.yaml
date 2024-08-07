@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f56dc8e41e9b4582867ee5892d8b716f/artifacts
+end_time: 1722652120350
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f56dc8e41e9b4582867ee5892d8b716f
+run_name: adaptable-eel-530
+run_uuid: f56dc8e41e9b4582867ee5892d8b716f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652120244
+status: 3
+tags: []
+user_id: julien

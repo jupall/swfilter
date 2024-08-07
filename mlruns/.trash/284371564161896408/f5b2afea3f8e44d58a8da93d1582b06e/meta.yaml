@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/f5b2afea3f8e44d58a8da93d1582b06e/artifacts
+deleted_time: 1722618664511
+end_time: 1722618484223
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: f5b2afea3f8e44d58a8da93d1582b06e
+run_name: respected-stoat-79
+run_uuid: f5b2afea3f8e44d58a8da93d1582b06e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618484181
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d7dbde5c49694976b1167cb62c8730ce/artifacts
+end_time: 1722625152838
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d7dbde5c49694976b1167cb62c8730ce
+run_name: rambunctious-frog-85
+run_uuid: d7dbde5c49694976b1167cb62c8730ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625152798
+status: 3
+tags: []
+user_id: julien

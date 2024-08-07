@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8005a6dc048c4574bdb56aa142f22f40/artifacts
+end_time: 1722651957384
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8005a6dc048c4574bdb56aa142f22f40
+run_name: upset-colt-380
+run_uuid: 8005a6dc048c4574bdb56aa142f22f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651957193
+status: 3
+tags: []
+user_id: julien

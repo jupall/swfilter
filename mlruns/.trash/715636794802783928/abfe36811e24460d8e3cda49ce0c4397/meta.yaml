@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/abfe36811e24460d8e3cda49ce0c4397/artifacts
+deleted_time: 1722618419437
+end_time: 1722617784620
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: abfe36811e24460d8e3cda49ce0c4397
+run_name: shivering-loon-504
+run_uuid: abfe36811e24460d8e3cda49ce0c4397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617784557
+status: 3
+tags: []
+user_id: julien

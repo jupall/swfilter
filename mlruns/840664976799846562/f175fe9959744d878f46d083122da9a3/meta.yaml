@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f175fe9959744d878f46d083122da9a3/artifacts
+end_time: 1722644448750
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f175fe9959744d878f46d083122da9a3
+run_name: mysterious-fox-775
+run_uuid: f175fe9959744d878f46d083122da9a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644448550
+status: 3
+tags: []
+user_id: julien

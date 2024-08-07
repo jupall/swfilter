@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/49fc6753b5454516ab839c2aafe86152/artifacts
+end_time: 1722649229182
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 49fc6753b5454516ab839c2aafe86152
+run_name: gaudy-mole-875
+run_uuid: 49fc6753b5454516ab839c2aafe86152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649228913
+status: 3
+tags: []
+user_id: julien

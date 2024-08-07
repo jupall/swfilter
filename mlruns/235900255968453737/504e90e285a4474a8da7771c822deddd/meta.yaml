@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/504e90e285a4474a8da7771c822deddd/artifacts
+end_time: 1722648166124
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 504e90e285a4474a8da7771c822deddd
+run_name: popular-wren-912
+run_uuid: 504e90e285a4474a8da7771c822deddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648166032
+status: 3
+tags: []
+user_id: julien

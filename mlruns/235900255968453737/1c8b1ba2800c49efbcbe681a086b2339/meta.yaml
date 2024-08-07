@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1c8b1ba2800c49efbcbe681a086b2339/artifacts
+end_time: 1722652171757
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1c8b1ba2800c49efbcbe681a086b2339
+run_name: victorious-hen-501
+run_uuid: 1c8b1ba2800c49efbcbe681a086b2339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652171486
+status: 3
+tags: []
+user_id: julien

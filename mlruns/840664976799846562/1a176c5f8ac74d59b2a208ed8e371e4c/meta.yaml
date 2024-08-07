@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1a176c5f8ac74d59b2a208ed8e371e4c/artifacts
+end_time: 1722643978863
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1a176c5f8ac74d59b2a208ed8e371e4c
+run_name: selective-vole-378
+run_uuid: 1a176c5f8ac74d59b2a208ed8e371e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643978811
+status: 3
+tags: []
+user_id: julien

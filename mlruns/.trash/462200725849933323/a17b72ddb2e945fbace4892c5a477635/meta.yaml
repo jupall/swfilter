@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/a17b72ddb2e945fbace4892c5a477635/artifacts
+deleted_time: 1722618939344
+end_time: 1722618705835
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: a17b72ddb2e945fbace4892c5a477635
+run_name: aged-calf-491
+run_uuid: a17b72ddb2e945fbace4892c5a477635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618705597
+status: 3
+tags: []
+user_id: julien

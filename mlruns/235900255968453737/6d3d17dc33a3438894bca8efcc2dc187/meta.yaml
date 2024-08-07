@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6d3d17dc33a3438894bca8efcc2dc187/artifacts
+end_time: 1722663303449
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6d3d17dc33a3438894bca8efcc2dc187
+run_name: selective-lark-623
+run_uuid: 6d3d17dc33a3438894bca8efcc2dc187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663303216
+status: 3
+tags: []
+user_id: julien

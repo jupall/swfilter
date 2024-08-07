@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/89b68b00bd4441ee915754c1f810e001/artifacts
+end_time: 1722643976451
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 89b68b00bd4441ee915754c1f810e001
+run_name: suave-crab-248
+run_uuid: 89b68b00bd4441ee915754c1f810e001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643976399
+status: 3
+tags: []
+user_id: julien

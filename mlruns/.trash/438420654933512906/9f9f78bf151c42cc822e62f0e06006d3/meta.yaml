@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/9f9f78bf151c42cc822e62f0e06006d3/artifacts
+deleted_time: 1722619353121
+end_time: 1722619063540
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 9f9f78bf151c42cc822e62f0e06006d3
+run_name: awesome-crab-84
+run_uuid: 9f9f78bf151c42cc822e62f0e06006d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619063347
+status: 3
+tags: []
+user_id: julien

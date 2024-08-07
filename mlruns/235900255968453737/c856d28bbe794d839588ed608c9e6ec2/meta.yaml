@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c856d28bbe794d839588ed608c9e6ec2/artifacts
+end_time: 1722652128635
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c856d28bbe794d839588ed608c9e6ec2
+run_name: hilarious-croc-809
+run_uuid: c856d28bbe794d839588ed608c9e6ec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652128537
+status: 3
+tags: []
+user_id: julien

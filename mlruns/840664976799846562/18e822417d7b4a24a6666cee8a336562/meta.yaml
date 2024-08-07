@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/18e822417d7b4a24a6666cee8a336562/artifacts
+end_time: 1722643855327
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 18e822417d7b4a24a6666cee8a336562
+run_name: delicate-moth-443
+run_uuid: 18e822417d7b4a24a6666cee8a336562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643855281
+status: 3
+tags: []
+user_id: julien

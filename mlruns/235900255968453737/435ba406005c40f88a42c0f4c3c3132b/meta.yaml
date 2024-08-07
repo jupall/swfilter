@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/435ba406005c40f88a42c0f4c3c3132b/artifacts
+end_time: 1722651921912
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 435ba406005c40f88a42c0f4c3c3132b
+run_name: flawless-bass-685
+run_uuid: 435ba406005c40f88a42c0f4c3c3132b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651921826
+status: 3
+tags: []
+user_id: julien

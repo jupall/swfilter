@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/134c635d8bf1496b9d463f170d3ca96a/artifacts
+end_time: 1722644341958
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 134c635d8bf1496b9d463f170d3ca96a
+run_name: fortunate-wasp-39
+run_uuid: 134c635d8bf1496b9d463f170d3ca96a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644339533
+status: 3
+tags: []
+user_id: julien

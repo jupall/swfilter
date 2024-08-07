@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/032d0c6baaf644f6b8e46637f9001f1b/artifacts
+end_time: 1722662420226
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 032d0c6baaf644f6b8e46637f9001f1b
+run_name: luminous-koi-428
+run_uuid: 032d0c6baaf644f6b8e46637f9001f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662419958
+status: 3
+tags: []
+user_id: julien

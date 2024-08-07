@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/14eb7085834b4fd698723464d2b241ec/artifacts
+deleted_time: 1722618419437
+end_time: 1722617780843
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 14eb7085834b4fd698723464d2b241ec
+run_name: rumbling-fowl-380
+run_uuid: 14eb7085834b4fd698723464d2b241ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617780785
+status: 3
+tags: []
+user_id: julien

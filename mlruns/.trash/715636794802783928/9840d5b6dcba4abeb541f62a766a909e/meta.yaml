@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/9840d5b6dcba4abeb541f62a766a909e/artifacts
+deleted_time: 1722618419437
+end_time: 1722617856013
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 9840d5b6dcba4abeb541f62a766a909e
+run_name: upset-dove-4
+run_uuid: 9840d5b6dcba4abeb541f62a766a909e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617855765
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d5c47048d7ea4343bd88f19b8b6c150c/artifacts
+end_time: 1722644011468
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d5c47048d7ea4343bd88f19b8b6c150c
+run_name: adorable-hog-118
+run_uuid: d5c47048d7ea4343bd88f19b8b6c150c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644011228
+status: 3
+tags: []
+user_id: julien

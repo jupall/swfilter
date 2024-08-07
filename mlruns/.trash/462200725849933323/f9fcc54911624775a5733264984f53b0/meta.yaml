@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/f9fcc54911624775a5733264984f53b0/artifacts
+deleted_time: 1722618939344
+end_time: 1722618704316
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: f9fcc54911624775a5733264984f53b0
+run_name: nosy-bear-754
+run_uuid: f9fcc54911624775a5733264984f53b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618704087
+status: 3
+tags: []
+user_id: julien

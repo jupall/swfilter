@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/24b11d829e524fa6a78b19df5b9b71d0/artifacts
+end_time: 1722625169615
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 24b11d829e524fa6a78b19df5b9b71d0
+run_name: rogue-fly-689
+run_uuid: 24b11d829e524fa6a78b19df5b9b71d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625169456
+status: 3
+tags: []
+user_id: julien

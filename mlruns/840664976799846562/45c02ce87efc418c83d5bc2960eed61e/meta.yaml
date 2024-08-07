@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/45c02ce87efc418c83d5bc2960eed61e/artifacts
+end_time: 1722643941451
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 45c02ce87efc418c83d5bc2960eed61e
+run_name: bemused-skink-767
+run_uuid: 45c02ce87efc418c83d5bc2960eed61e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643941061
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/17e6476839b84f05a2f573663ddf51ac/artifacts
+end_time: 1722663372828
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 17e6476839b84f05a2f573663ddf51ac
+run_name: awesome-fowl-403
+run_uuid: 17e6476839b84f05a2f573663ddf51ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663372332
+status: 3
+tags: []
+user_id: julien

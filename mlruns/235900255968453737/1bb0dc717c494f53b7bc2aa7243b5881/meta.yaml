@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1bb0dc717c494f53b7bc2aa7243b5881/artifacts
+end_time: 1722662726048
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1bb0dc717c494f53b7bc2aa7243b5881
+run_name: bedecked-conch-884
+run_uuid: 1bb0dc717c494f53b7bc2aa7243b5881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662723867
+status: 3
+tags: []
+user_id: julien

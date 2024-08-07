@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2603a43b395f4bbaa0a17832ad23ea74/artifacts
+end_time: 1722643942061
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2603a43b395f4bbaa0a17832ad23ea74
+run_name: upset-snake-460
+run_uuid: 2603a43b395f4bbaa0a17832ad23ea74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643941461
+status: 3
+tags: []
+user_id: julien

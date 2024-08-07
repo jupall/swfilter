@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/a8d98828adea4302a5912c82892b1793/artifacts
+deleted_time: 1722618939344
+end_time: 1722618896571
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: a8d98828adea4302a5912c82892b1793
+run_name: gifted-whale-474
+run_uuid: a8d98828adea4302a5912c82892b1793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618896508
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/502c4ff88e634245a59cd211009fb96c/artifacts
+deleted_time: 1722618664511
+end_time: 1722618483270
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 502c4ff88e634245a59cd211009fb96c
+run_name: rare-cub-434
+run_uuid: 502c4ff88e634245a59cd211009fb96c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618483232
+status: 3
+tags: []
+user_id: julien

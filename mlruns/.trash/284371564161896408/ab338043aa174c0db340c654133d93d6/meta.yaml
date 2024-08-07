@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/ab338043aa174c0db340c654133d93d6/artifacts
+deleted_time: 1722618664511
+end_time: 1722618484408
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: ab338043aa174c0db340c654133d93d6
+run_name: unleashed-roo-131
+run_uuid: ab338043aa174c0db340c654133d93d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618484366
+status: 3
+tags: []
+user_id: julien

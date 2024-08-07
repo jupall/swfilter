@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/594ff3d239a8407db068e5ff2682c72d/artifacts
+deleted_time: 1722619353121
+end_time: 1722619258085
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 594ff3d239a8407db068e5ff2682c72d
+run_name: legendary-turtle-856
+run_uuid: 594ff3d239a8407db068e5ff2682c72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619251555
+status: 3
+tags: []
+user_id: julien

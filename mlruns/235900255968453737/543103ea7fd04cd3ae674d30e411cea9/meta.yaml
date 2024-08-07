@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/543103ea7fd04cd3ae674d30e411cea9/artifacts
+end_time: 1722648402284
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 543103ea7fd04cd3ae674d30e411cea9
+run_name: gregarious-carp-627
+run_uuid: 543103ea7fd04cd3ae674d30e411cea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648386565
+status: 3
+tags: []
+user_id: julien

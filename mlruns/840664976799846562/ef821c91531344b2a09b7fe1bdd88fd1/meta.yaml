@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ef821c91531344b2a09b7fe1bdd88fd1/artifacts
+end_time: 1722619373227
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ef821c91531344b2a09b7fe1bdd88fd1
+run_name: brawny-foal-884
+run_uuid: ef821c91531344b2a09b7fe1bdd88fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373189
+status: 3
+tags: []
+user_id: julien

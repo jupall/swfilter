@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f2f76a8ba0834a8ca39abd57c7d84ddd/artifacts
+end_time: 1722652128187
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f2f76a8ba0834a8ca39abd57c7d84ddd
+run_name: auspicious-pig-622
+run_uuid: f2f76a8ba0834a8ca39abd57c7d84ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652128088
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/a7982899335049d09962b6e0318f66af/artifacts
+deleted_time: 1722619353121
+end_time: 1722619051042
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: a7982899335049d09962b6e0318f66af
+run_name: handsome-shoat-437
+run_uuid: a7982899335049d09962b6e0318f66af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619050997
+status: 3
+tags: []
+user_id: julien

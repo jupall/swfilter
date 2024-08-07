@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/022a372f12c6446d95c542099587bf69/artifacts
+end_time: 1722643859768
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 022a372f12c6446d95c542099587bf69
+run_name: receptive-mole-213
+run_uuid: 022a372f12c6446d95c542099587bf69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643859723
+status: 3
+tags: []
+user_id: julien

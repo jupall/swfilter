@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/600baedc63ed47e7950632dc5c1a4758/artifacts
+end_time: 1722648165710
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 600baedc63ed47e7950632dc5c1a4758
+run_name: welcoming-ape-510
+run_uuid: 600baedc63ed47e7950632dc5c1a4758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648165620
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/83fe1bb7f69f4df6898cf1d7dde6aded/artifacts
+deleted_time: 1722619353121
+end_time: 1722619053008
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 83fe1bb7f69f4df6898cf1d7dde6aded
+run_name: stately-crane-142
+run_uuid: 83fe1bb7f69f4df6898cf1d7dde6aded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619052970
+status: 3
+tags: []
+user_id: julien

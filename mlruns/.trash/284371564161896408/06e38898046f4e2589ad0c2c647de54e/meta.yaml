@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/06e38898046f4e2589ad0c2c647de54e/artifacts
+deleted_time: 1722618664511
+end_time: 1722618478170
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 06e38898046f4e2589ad0c2c647de54e
+run_name: powerful-bird-882
+run_uuid: 06e38898046f4e2589ad0c2c647de54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618478145
+status: 3
+tags: []
+user_id: julien

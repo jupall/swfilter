@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/69936ea5e52f42e29277ff2eb7693291/artifacts
+end_time: 1722619374194
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 69936ea5e52f42e29277ff2eb7693291
+run_name: fortunate-turtle-794
+run_uuid: 69936ea5e52f42e29277ff2eb7693291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619374155
+status: 3
+tags: []
+user_id: julien

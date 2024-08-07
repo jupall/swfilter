@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d98359505afa45eb89acc21749889caf/artifacts
+end_time: 1722652065935
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d98359505afa45eb89acc21749889caf
+run_name: thundering-skunk-604
+run_uuid: d98359505afa45eb89acc21749889caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652064894
+status: 3
+tags: []
+user_id: julien

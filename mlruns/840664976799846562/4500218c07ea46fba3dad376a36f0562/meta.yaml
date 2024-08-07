@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4500218c07ea46fba3dad376a36f0562/artifacts
+end_time: 1722625091700
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4500218c07ea46fba3dad376a36f0562
+run_name: resilient-smelt-504
+run_uuid: 4500218c07ea46fba3dad376a36f0562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625091077
+status: 3
+tags: []
+user_id: julien

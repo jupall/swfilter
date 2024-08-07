@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/897476edacf7426fa831affcc39b3626/artifacts
+end_time: 1722662413648
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 897476edacf7426fa831affcc39b3626
+run_name: orderly-deer-673
+run_uuid: 897476edacf7426fa831affcc39b3626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662413542
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fb133eacb7c14d5381ef045d5527695e/artifacts
+end_time: 1722619372780
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fb133eacb7c14d5381ef045d5527695e
+run_name: dapper-swan-726
+run_uuid: fb133eacb7c14d5381ef045d5527695e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619372756
+status: 3
+tags: []
+user_id: julien

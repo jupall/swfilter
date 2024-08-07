@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e95597f28ee841339ce3b4f71a506545/artifacts
+end_time: 1722649223818
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e95597f28ee841339ce3b4f71a506545
+run_name: bittersweet-colt-636
+run_uuid: e95597f28ee841339ce3b4f71a506545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649223549
+status: 3
+tags: []
+user_id: julien

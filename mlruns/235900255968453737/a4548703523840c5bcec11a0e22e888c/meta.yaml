@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a4548703523840c5bcec11a0e22e888c/artifacts
+end_time: 1722663352384
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a4548703523840c5bcec11a0e22e888c
+run_name: amusing-fly-656
+run_uuid: a4548703523840c5bcec11a0e22e888c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663351921
+status: 3
+tags: []
+user_id: julien

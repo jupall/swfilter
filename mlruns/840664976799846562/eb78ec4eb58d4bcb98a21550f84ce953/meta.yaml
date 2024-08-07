@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/eb78ec4eb58d4bcb98a21550f84ce953/artifacts
+end_time: 1722619378724
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: eb78ec4eb58d4bcb98a21550f84ce953
+run_name: delicate-jay-560
+run_uuid: eb78ec4eb58d4bcb98a21550f84ce953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619378678
+status: 3
+tags: []
+user_id: julien

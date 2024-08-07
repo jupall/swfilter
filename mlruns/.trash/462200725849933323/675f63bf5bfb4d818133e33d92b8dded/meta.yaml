@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/675f63bf5bfb4d818133e33d92b8dded/artifacts
+deleted_time: 1722618939344
+end_time: 1722618902582
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 675f63bf5bfb4d818133e33d92b8dded
+run_name: marvelous-worm-685
+run_uuid: 675f63bf5bfb4d818133e33d92b8dded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618902519
+status: 3
+tags: []
+user_id: julien

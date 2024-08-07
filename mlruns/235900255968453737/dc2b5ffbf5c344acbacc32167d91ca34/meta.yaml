@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/dc2b5ffbf5c344acbacc32167d91ca34/artifacts
+end_time: 1722651665731
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: dc2b5ffbf5c344acbacc32167d91ca34
+run_name: resilient-croc-882
+run_uuid: dc2b5ffbf5c344acbacc32167d91ca34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651651578
+status: 3
+tags: []
+user_id: julien

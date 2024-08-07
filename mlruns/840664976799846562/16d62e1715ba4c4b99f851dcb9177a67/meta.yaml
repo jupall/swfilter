@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/16d62e1715ba4c4b99f851dcb9177a67/artifacts
+end_time: 1722625024473
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 16d62e1715ba4c4b99f851dcb9177a67
+run_name: wise-mole-114
+run_uuid: 16d62e1715ba4c4b99f851dcb9177a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625024301
+status: 3
+tags: []
+user_id: julien

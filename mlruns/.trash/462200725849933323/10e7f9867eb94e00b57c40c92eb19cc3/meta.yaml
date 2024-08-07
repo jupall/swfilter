@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/10e7f9867eb94e00b57c40c92eb19cc3/artifacts
+deleted_time: 1722618939344
+end_time: 1722618699048
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 10e7f9867eb94e00b57c40c92eb19cc3
+run_name: classy-turtle-362
+run_uuid: 10e7f9867eb94e00b57c40c92eb19cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618698982
+status: 3
+tags: []
+user_id: julien

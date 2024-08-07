@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6bbb994097fd4ad18f00dc5c060a81de/artifacts
+end_time: 1722625128648
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6bbb994097fd4ad18f00dc5c060a81de
+run_name: efficient-sheep-50
+run_uuid: 6bbb994097fd4ad18f00dc5c060a81de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625128055
+status: 3
+tags: []
+user_id: julien

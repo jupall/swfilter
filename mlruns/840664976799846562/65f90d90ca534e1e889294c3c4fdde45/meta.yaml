@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/65f90d90ca534e1e889294c3c4fdde45/artifacts
+end_time: 1722619396863
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 65f90d90ca534e1e889294c3c4fdde45
+run_name: nervous-newt-906
+run_uuid: 65f90d90ca534e1e889294c3c4fdde45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619396649
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/5fb5acb59cb647139aa85850914b6dbf/artifacts
+deleted_time: 1722618419437
+end_time: 1722618215013
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 5fb5acb59cb647139aa85850914b6dbf
+run_name: crawling-perch-281
+run_uuid: 5fb5acb59cb647139aa85850914b6dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618209504
+status: 3
+tags: []
+user_id: julien

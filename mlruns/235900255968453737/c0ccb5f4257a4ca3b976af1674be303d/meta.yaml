@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c0ccb5f4257a4ca3b976af1674be303d/artifacts
+end_time: 1722662400898
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c0ccb5f4257a4ca3b976af1674be303d
+run_name: sassy-bee-216
+run_uuid: c0ccb5f4257a4ca3b976af1674be303d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662400793
+status: 3
+tags: []
+user_id: julien

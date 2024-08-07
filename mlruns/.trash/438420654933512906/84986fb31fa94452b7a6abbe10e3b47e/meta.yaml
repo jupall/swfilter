@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/84986fb31fa94452b7a6abbe10e3b47e/artifacts
+deleted_time: 1722619353121
+end_time: 1722619048566
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 84986fb31fa94452b7a6abbe10e3b47e
+run_name: languid-fowl-562
+run_uuid: 84986fb31fa94452b7a6abbe10e3b47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619048527
+status: 3
+tags: []
+user_id: julien

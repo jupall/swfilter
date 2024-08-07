@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cc562d6f0383444f939f01b0eb2db0f8/artifacts
+end_time: 1722662814278
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cc562d6f0383444f939f01b0eb2db0f8
+run_name: thoughtful-midge-772
+run_uuid: cc562d6f0383444f939f01b0eb2db0f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662811440
+status: 3
+tags: []
+user_id: julien

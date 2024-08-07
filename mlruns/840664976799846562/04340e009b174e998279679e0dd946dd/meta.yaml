@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/04340e009b174e998279679e0dd946dd/artifacts
+end_time: 1722619393804
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 04340e009b174e998279679e0dd946dd
+run_name: gaudy-bee-100
+run_uuid: 04340e009b174e998279679e0dd946dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619393593
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/137bb1756a1f42cfba9fe0fbc2a19896/artifacts
+end_time: 1722625032483
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 137bb1756a1f42cfba9fe0fbc2a19896
+run_name: gregarious-pig-687
+run_uuid: 137bb1756a1f42cfba9fe0fbc2a19896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625032301
+status: 3
+tags: []
+user_id: julien

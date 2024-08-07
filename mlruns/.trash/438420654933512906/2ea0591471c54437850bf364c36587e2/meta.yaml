@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/2ea0591471c54437850bf364c36587e2/artifacts
+deleted_time: 1722619353121
+end_time: 1722619047472
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 2ea0591471c54437850bf364c36587e2
+run_name: agreeable-quail-447
+run_uuid: 2ea0591471c54437850bf364c36587e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619047431
+status: 3
+tags: []
+user_id: julien

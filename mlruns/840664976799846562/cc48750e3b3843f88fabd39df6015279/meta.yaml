@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cc48750e3b3843f88fabd39df6015279/artifacts
+end_time: 1722619402941
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cc48750e3b3843f88fabd39df6015279
+run_name: skillful-frog-882
+run_uuid: cc48750e3b3843f88fabd39df6015279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619402734
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/59c41902a38c406dac7ec1a415eb04b2/artifacts
+end_time: 1722620091417
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 59c41902a38c406dac7ec1a415eb04b2
+run_name: beautiful-wren-959
+run_uuid: 59c41902a38c406dac7ec1a415eb04b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620091277
+status: 3
+tags: []
+user_id: julien

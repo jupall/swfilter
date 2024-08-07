@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/447dbaf32fc448bda6660d0c432f1e00/artifacts
+deleted_time: 1722618939344
+end_time: 1722618895336
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 447dbaf32fc448bda6660d0c432f1e00
+run_name: unequaled-cow-972
+run_uuid: 447dbaf32fc448bda6660d0c432f1e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618895267
+status: 3
+tags: []
+user_id: julien

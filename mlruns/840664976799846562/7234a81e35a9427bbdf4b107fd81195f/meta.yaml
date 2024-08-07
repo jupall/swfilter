@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7234a81e35a9427bbdf4b107fd81195f/artifacts
+end_time: 1722625035097
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7234a81e35a9427bbdf4b107fd81195f
+run_name: selective-hen-506
+run_uuid: 7234a81e35a9427bbdf4b107fd81195f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625034916
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dad0098a0600463eac1488d237ddac3c/artifacts
+end_time: 1722644417253
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dad0098a0600463eac1488d237ddac3c
+run_name: nervous-finch-138
+run_uuid: dad0098a0600463eac1488d237ddac3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644417198
+status: 3
+tags: []
+user_id: julien

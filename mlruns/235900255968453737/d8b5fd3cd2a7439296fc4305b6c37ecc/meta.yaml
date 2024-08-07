@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d8b5fd3cd2a7439296fc4305b6c37ecc/artifacts
+end_time: 1722648170936
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d8b5fd3cd2a7439296fc4305b6c37ecc
+run_name: trusting-wolf-406
+run_uuid: d8b5fd3cd2a7439296fc4305b6c37ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648170844
+status: 3
+tags: []
+user_id: julien

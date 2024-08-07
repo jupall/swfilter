@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1b3e52b7afc84d67bb05543722b86de3/artifacts
+end_time: 1722625014705
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1b3e52b7afc84d67bb05543722b86de3
+run_name: peaceful-penguin-976
+run_uuid: 1b3e52b7afc84d67bb05543722b86de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625014527
+status: 3
+tags: []
+user_id: julien

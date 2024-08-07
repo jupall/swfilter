@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8b360018c9db4d51944219bb275322dc/artifacts
+end_time: 1722662738851
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8b360018c9db4d51944219bb275322dc
+run_name: placid-bass-251
+run_uuid: 8b360018c9db4d51944219bb275322dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662738740
+status: 3
+tags: []
+user_id: julien

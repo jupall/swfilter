@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/99bb89ed025e4d2bb372a3b96573dd56/artifacts
+deleted_time: 1722618939344
+end_time: 1722618896718
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 99bb89ed025e4d2bb372a3b96573dd56
+run_name: colorful-chimp-867
+run_uuid: 99bb89ed025e4d2bb372a3b96573dd56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618896650
+status: 3
+tags: []
+user_id: julien

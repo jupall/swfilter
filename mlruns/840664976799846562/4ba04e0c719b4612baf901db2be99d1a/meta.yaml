@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4ba04e0c719b4612baf901db2be99d1a/artifacts
+end_time: 1722625010990
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4ba04e0c719b4612baf901db2be99d1a
+run_name: rare-fox-893
+run_uuid: 4ba04e0c719b4612baf901db2be99d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625010950
+status: 3
+tags: []
+user_id: julien

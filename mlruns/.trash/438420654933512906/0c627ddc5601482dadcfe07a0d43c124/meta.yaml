@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/0c627ddc5601482dadcfe07a0d43c124/artifacts
+deleted_time: 1722619353121
+end_time: 1722619066452
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 0c627ddc5601482dadcfe07a0d43c124
+run_name: loud-rat-935
+run_uuid: 0c627ddc5601482dadcfe07a0d43c124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619066249
+status: 3
+tags: []
+user_id: julien

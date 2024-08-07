@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f5d861819e41490da5712c15657c9900/artifacts
+end_time: 1722662410868
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f5d861819e41490da5712c15657c9900
+run_name: sassy-elk-541
+run_uuid: f5d861819e41490da5712c15657c9900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662410764
+status: 3
+tags: []
+user_id: julien

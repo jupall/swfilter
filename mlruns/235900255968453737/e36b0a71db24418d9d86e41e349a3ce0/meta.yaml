@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e36b0a71db24418d9d86e41e349a3ce0/artifacts
+end_time: 1722651925453
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e36b0a71db24418d9d86e41e349a3ce0
+run_name: enchanting-ray-258
+run_uuid: e36b0a71db24418d9d86e41e349a3ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651925366
+status: 3
+tags: []
+user_id: julien

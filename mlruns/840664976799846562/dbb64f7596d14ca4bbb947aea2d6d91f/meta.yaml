@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dbb64f7596d14ca4bbb947aea2d6d91f/artifacts
+end_time: 1722643976264
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dbb64f7596d14ca4bbb947aea2d6d91f
+run_name: beautiful-mouse-217
+run_uuid: dbb64f7596d14ca4bbb947aea2d6d91f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643976211
+status: 3
+tags: []
+user_id: julien

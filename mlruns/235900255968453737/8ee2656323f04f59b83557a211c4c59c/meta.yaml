@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8ee2656323f04f59b83557a211c4c59c/artifacts
+end_time: 1722648167168
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8ee2656323f04f59b83557a211c4c59c
+run_name: legendary-shrew-863
+run_uuid: 8ee2656323f04f59b83557a211c4c59c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648167076
+status: 3
+tags: []
+user_id: julien

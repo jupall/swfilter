@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8e2ea9d47f9c4745b063eda5a6d07151/artifacts
+end_time: 1722663292814
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8e2ea9d47f9c4745b063eda5a6d07151
+run_name: indecisive-tern-320
+run_uuid: 8e2ea9d47f9c4745b063eda5a6d07151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663292580
+status: 3
+tags: []
+user_id: julien

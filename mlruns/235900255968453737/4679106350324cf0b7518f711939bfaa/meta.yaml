@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4679106350324cf0b7518f711939bfaa/artifacts
+end_time: 1722648201170
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4679106350324cf0b7518f711939bfaa
+run_name: grandiose-conch-859
+run_uuid: 4679106350324cf0b7518f711939bfaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648200948
+status: 3
+tags: []
+user_id: julien

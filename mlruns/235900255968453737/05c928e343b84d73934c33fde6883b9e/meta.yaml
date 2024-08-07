@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/05c928e343b84d73934c33fde6883b9e/artifacts
+end_time: 1722648162031
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 05c928e343b84d73934c33fde6883b9e
+run_name: wistful-croc-870
+run_uuid: 05c928e343b84d73934c33fde6883b9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648161929
+status: 3
+tags: []
+user_id: julien

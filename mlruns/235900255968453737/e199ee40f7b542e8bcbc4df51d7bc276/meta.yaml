@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e199ee40f7b542e8bcbc4df51d7bc276/artifacts
+end_time: 1722648174239
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e199ee40f7b542e8bcbc4df51d7bc276
+run_name: aged-goat-703
+run_uuid: e199ee40f7b542e8bcbc4df51d7bc276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648174147
+status: 3
+tags: []
+user_id: julien

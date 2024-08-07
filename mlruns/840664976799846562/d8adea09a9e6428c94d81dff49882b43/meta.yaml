@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d8adea09a9e6428c94d81dff49882b43/artifacts
+end_time: 1722644480596
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d8adea09a9e6428c94d81dff49882b43
+run_name: calm-sheep-71
+run_uuid: d8adea09a9e6428c94d81dff49882b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644480306
+status: 3
+tags: []
+user_id: julien

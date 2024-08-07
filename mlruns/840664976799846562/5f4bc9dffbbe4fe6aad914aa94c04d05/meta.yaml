@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5f4bc9dffbbe4fe6aad914aa94c04d05/artifacts
+end_time: 1722625163664
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5f4bc9dffbbe4fe6aad914aa94c04d05
+run_name: traveling-bee-386
+run_uuid: 5f4bc9dffbbe4fe6aad914aa94c04d05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625163485
+status: 3
+tags: []
+user_id: julien

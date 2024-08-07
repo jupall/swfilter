@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ccfb4f5a589f4a848a39faaad81b2d8d/artifacts
+end_time: 1722662734559
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ccfb4f5a589f4a848a39faaad81b2d8d
+run_name: dazzling-crane-608
+run_uuid: ccfb4f5a589f4a848a39faaad81b2d8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662734450
+status: 3
+tags: []
+user_id: julien

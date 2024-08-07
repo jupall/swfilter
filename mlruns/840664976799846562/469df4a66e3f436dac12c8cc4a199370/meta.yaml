@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/469df4a66e3f436dac12c8cc4a199370/artifacts
+end_time: 1722644554240
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 469df4a66e3f436dac12c8cc4a199370
+run_name: rebellious-shark-846
+run_uuid: 469df4a66e3f436dac12c8cc4a199370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644554004
+status: 3
+tags: []
+user_id: julien

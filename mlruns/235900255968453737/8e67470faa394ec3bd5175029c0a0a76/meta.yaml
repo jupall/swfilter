@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8e67470faa394ec3bd5175029c0a0a76/artifacts
+end_time: 1722651697911
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8e67470faa394ec3bd5175029c0a0a76
+run_name: traveling-mare-642
+run_uuid: 8e67470faa394ec3bd5175029c0a0a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651683021
+status: 3
+tags: []
+user_id: julien

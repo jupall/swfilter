@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/289d4a9303214dbabc8297a7758485a9/artifacts
+end_time: 1722644005953
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 289d4a9303214dbabc8297a7758485a9
+run_name: incongruous-newt-776
+run_uuid: 289d4a9303214dbabc8297a7758485a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644005708
+status: 3
+tags: []
+user_id: julien

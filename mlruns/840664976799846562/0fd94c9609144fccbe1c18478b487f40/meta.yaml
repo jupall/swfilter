@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0fd94c9609144fccbe1c18478b487f40/artifacts
+end_time: 1722644005196
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0fd94c9609144fccbe1c18478b487f40
+run_name: fearless-wasp-137
+run_uuid: 0fd94c9609144fccbe1c18478b487f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644004952
+status: 3
+tags: []
+user_id: julien

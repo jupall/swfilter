@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/f945beb63c7f4afcb78341b1fd64abb6/artifacts
+deleted_time: 1722618419437
+end_time: 1722617838719
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: f945beb63c7f4afcb78341b1fd64abb6
+run_name: bemused-snipe-269
+run_uuid: f945beb63c7f4afcb78341b1fd64abb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617838657
+status: 3
+tags: []
+user_id: julien

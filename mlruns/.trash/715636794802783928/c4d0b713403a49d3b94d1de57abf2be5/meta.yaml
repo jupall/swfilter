@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/c4d0b713403a49d3b94d1de57abf2be5/artifacts
+deleted_time: 1722618419437
+end_time: 1722617783268
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: c4d0b713403a49d3b94d1de57abf2be5
+run_name: abrasive-goose-922
+run_uuid: c4d0b713403a49d3b94d1de57abf2be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617783221
+status: 3
+tags: []
+user_id: julien

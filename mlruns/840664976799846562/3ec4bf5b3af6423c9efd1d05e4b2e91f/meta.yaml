@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3ec4bf5b3af6423c9efd1d05e4b2e91f/artifacts
+end_time: 1722644504978
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3ec4bf5b3af6423c9efd1d05e4b2e91f
+run_name: crawling-shad-157
+run_uuid: 3ec4bf5b3af6423c9efd1d05e4b2e91f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644504901
+status: 3
+tags: []
+user_id: julien

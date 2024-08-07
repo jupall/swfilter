@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0e10b8e93b1049b8aef8deb41e9b814c/artifacts
+end_time: 1722644009961
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0e10b8e93b1049b8aef8deb41e9b814c
+run_name: capable-fowl-393
+run_uuid: 0e10b8e93b1049b8aef8deb41e9b814c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644009723
+status: 3
+tags: []
+user_id: julien

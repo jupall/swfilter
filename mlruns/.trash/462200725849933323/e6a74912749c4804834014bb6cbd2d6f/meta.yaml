@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/e6a74912749c4804834014bb6cbd2d6f/artifacts
+deleted_time: 1722618939344
+end_time: 1722618902811
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: e6a74912749c4804834014bb6cbd2d6f
+run_name: brawny-mole-586
+run_uuid: e6a74912749c4804834014bb6cbd2d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618902743
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cb2b016811004078b6b4927c1b776100/artifacts
+end_time: 1722624300129
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cb2b016811004078b6b4927c1b776100
+run_name: luminous-sponge-119
+run_uuid: cb2b016811004078b6b4927c1b776100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722624273742
+status: 3
+tags: []
+user_id: julien

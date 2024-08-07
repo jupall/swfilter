@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ab06370b0e7b4b88b7c029ea7f40bca3/artifacts
+end_time: 1722650177226
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ab06370b0e7b4b88b7c029ea7f40bca3
+run_name: awesome-mare-34
+run_uuid: ab06370b0e7b4b88b7c029ea7f40bca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650161533
+status: 3
+tags: []
+user_id: julien

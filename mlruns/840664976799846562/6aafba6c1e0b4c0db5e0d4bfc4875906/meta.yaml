@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6aafba6c1e0b4c0db5e0d4bfc4875906/artifacts
+end_time: 1722643977133
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6aafba6c1e0b4c0db5e0d4bfc4875906
+run_name: handsome-hare-635
+run_uuid: 6aafba6c1e0b4c0db5e0d4bfc4875906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643977081
+status: 3
+tags: []
+user_id: julien

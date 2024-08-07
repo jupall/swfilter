@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/767e18f38ef34fec846082b9d5a3c9d7/artifacts
+end_time: 1722662506055
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 767e18f38ef34fec846082b9d5a3c9d7
+run_name: merciful-newt-370
+run_uuid: 767e18f38ef34fec846082b9d5a3c9d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662503672
+status: 3
+tags: []
+user_id: julien

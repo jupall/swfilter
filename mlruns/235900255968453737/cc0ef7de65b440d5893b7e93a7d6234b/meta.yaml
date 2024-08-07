@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cc0ef7de65b440d5893b7e93a7d6234b/artifacts
+end_time: 1722648200484
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cc0ef7de65b440d5893b7e93a7d6234b
+run_name: invincible-zebra-579
+run_uuid: cc0ef7de65b440d5893b7e93a7d6234b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648200268
+status: 3
+tags: []
+user_id: julien

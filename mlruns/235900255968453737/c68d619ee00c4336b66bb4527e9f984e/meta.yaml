@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c68d619ee00c4336b66bb4527e9f984e/artifacts
+end_time: 1722663390929
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c68d619ee00c4336b66bb4527e9f984e
+run_name: melodic-eel-827
+run_uuid: c68d619ee00c4336b66bb4527e9f984e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663390506
+status: 3
+tags: []
+user_id: julien

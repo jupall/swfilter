@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8b161caa70224956b6880dbce1976650/artifacts
+end_time: 1722663298425
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8b161caa70224956b6880dbce1976650
+run_name: hilarious-perch-7
+run_uuid: 8b161caa70224956b6880dbce1976650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663298191
+status: 3
+tags: []
+user_id: julien

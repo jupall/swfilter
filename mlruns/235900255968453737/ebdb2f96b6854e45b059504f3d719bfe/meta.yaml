@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ebdb2f96b6854e45b059504f3d719bfe/artifacts
+end_time: 1722662481668
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ebdb2f96b6854e45b059504f3d719bfe
+run_name: luminous-dog-477
+run_uuid: ebdb2f96b6854e45b059504f3d719bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662479831
+status: 3
+tags: []
+user_id: julien

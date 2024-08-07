@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3e98f1ce75c54ccaad2879b482341760/artifacts
+end_time: 1722625070086
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3e98f1ce75c54ccaad2879b482341760
+run_name: learned-hare-630
+run_uuid: 3e98f1ce75c54ccaad2879b482341760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625069506
+status: 3
+tags: []
+user_id: julien

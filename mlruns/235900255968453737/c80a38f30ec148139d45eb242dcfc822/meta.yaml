@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c80a38f30ec148139d45eb242dcfc822/artifacts
+end_time: 1722652114830
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c80a38f30ec148139d45eb242dcfc822
+run_name: respected-ram-119
+run_uuid: c80a38f30ec148139d45eb242dcfc822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652114050
+status: 3
+tags: []
+user_id: julien

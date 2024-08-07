@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7be0edcc86a145b6b1b69d2a4b533419/artifacts
+end_time: 1722625008959
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7be0edcc86a145b6b1b69d2a4b533419
+run_name: luminous-fly-747
+run_uuid: 7be0edcc86a145b6b1b69d2a4b533419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625008926
+status: 3
+tags: []
+user_id: julien

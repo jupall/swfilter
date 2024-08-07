@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f032b5244e19479fac42cd6b2a97d729/artifacts
+end_time: 1722653308308
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f032b5244e19479fac42cd6b2a97d729
+run_name: suave-squirrel-413
+run_uuid: f032b5244e19479fac42cd6b2a97d729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722653246275
+status: 3
+tags: []
+user_id: julien

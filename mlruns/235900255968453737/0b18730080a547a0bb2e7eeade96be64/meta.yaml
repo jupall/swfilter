@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0b18730080a547a0bb2e7eeade96be64/artifacts
+end_time: 1722663386913
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0b18730080a547a0bb2e7eeade96be64
+run_name: likeable-jay-752
+run_uuid: 0b18730080a547a0bb2e7eeade96be64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663386464
+status: 3
+tags: []
+user_id: julien

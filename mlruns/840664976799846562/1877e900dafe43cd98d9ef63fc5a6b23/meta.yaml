@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1877e900dafe43cd98d9ef63fc5a6b23/artifacts
+end_time: 1722620076858
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1877e900dafe43cd98d9ef63fc5a6b23
+run_name: unleashed-panda-108
+run_uuid: 1877e900dafe43cd98d9ef63fc5a6b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620076824
+status: 3
+tags: []
+user_id: julien

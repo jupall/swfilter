@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/641a9b54aaf9460e98fb473f37c41a5a/artifacts
+end_time: 1722648193708
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 641a9b54aaf9460e98fb473f37c41a5a
+run_name: exultant-jay-149
+run_uuid: 641a9b54aaf9460e98fb473f37c41a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648193493
+status: 3
+tags: []
+user_id: julien

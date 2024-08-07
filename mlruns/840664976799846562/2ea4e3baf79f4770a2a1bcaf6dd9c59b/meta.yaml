@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2ea4e3baf79f4770a2a1bcaf6dd9c59b/artifacts
+end_time: 1722625156778
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2ea4e3baf79f4770a2a1bcaf6dd9c59b
+run_name: caring-kit-800
+run_uuid: 2ea4e3baf79f4770a2a1bcaf6dd9c59b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625156613
+status: 3
+tags: []
+user_id: julien

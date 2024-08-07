@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8dbd0279f8764079b30b51c598046a82/artifacts
+end_time: 1722644394043
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8dbd0279f8764079b30b51c598046a82
+run_name: clumsy-calf-723
+run_uuid: 8dbd0279f8764079b30b51c598046a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644391120
+status: 3
+tags: []
+user_id: julien

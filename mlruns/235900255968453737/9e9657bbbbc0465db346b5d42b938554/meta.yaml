@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9e9657bbbbc0465db346b5d42b938554/artifacts
+end_time: 1722663263069
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9e9657bbbbc0465db346b5d42b938554
+run_name: funny-auk-883
+run_uuid: 9e9657bbbbc0465db346b5d42b938554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663262957
+status: 3
+tags: []
+user_id: julien

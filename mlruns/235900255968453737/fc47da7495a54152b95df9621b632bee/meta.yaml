@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fc47da7495a54152b95df9621b632bee/artifacts
+end_time: 1722663362797
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fc47da7495a54152b95df9621b632bee
+run_name: popular-bass-964
+run_uuid: fc47da7495a54152b95df9621b632bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663362462
+status: 3
+tags: []
+user_id: julien

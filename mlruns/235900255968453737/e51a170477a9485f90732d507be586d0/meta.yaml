@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e51a170477a9485f90732d507be586d0/artifacts
+end_time: 1722651990963
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e51a170477a9485f90732d507be586d0
+run_name: capable-ox-71
+run_uuid: e51a170477a9485f90732d507be586d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651990251
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/babfc37e652049e882b3885e318b373f/artifacts
+end_time: 1722619388986
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: babfc37e652049e882b3885e318b373f
+run_name: fearless-cub-11
+run_uuid: babfc37e652049e882b3885e318b373f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619388769
+status: 3
+tags: []
+user_id: julien

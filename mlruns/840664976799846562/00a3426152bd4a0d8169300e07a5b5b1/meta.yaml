@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/00a3426152bd4a0d8169300e07a5b5b1/artifacts
+end_time: 1722627049466
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 00a3426152bd4a0d8169300e07a5b5b1
+run_name: nimble-wasp-169
+run_uuid: 00a3426152bd4a0d8169300e07a5b5b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722627004656
+status: 3
+tags: []
+user_id: julien

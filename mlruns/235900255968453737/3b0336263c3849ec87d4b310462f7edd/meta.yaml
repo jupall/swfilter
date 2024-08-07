@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3b0336263c3849ec87d4b310462f7edd/artifacts
+end_time: 1722651962870
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3b0336263c3849ec87d4b310462f7edd
+run_name: peaceful-hog-694
+run_uuid: 3b0336263c3849ec87d4b310462f7edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651962682
+status: 3
+tags: []
+user_id: julien

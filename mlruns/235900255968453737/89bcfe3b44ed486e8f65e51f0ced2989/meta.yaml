@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/89bcfe3b44ed486e8f65e51f0ced2989/artifacts
+end_time: 1722649191973
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 89bcfe3b44ed486e8f65e51f0ced2989
+run_name: auspicious-crane-233
+run_uuid: 89bcfe3b44ed486e8f65e51f0ced2989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649191718
+status: 3
+tags: []
+user_id: julien

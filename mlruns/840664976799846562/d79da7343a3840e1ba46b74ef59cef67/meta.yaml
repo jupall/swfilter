@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d79da7343a3840e1ba46b74ef59cef67/artifacts
+end_time: 1722638162442
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d79da7343a3840e1ba46b74ef59cef67
+run_name: legendary-eel-955
+run_uuid: d79da7343a3840e1ba46b74ef59cef67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722637913076
+status: 3
+tags: []
+user_id: julien

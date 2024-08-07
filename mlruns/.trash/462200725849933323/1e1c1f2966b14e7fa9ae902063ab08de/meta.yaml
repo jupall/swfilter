@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/1e1c1f2966b14e7fa9ae902063ab08de/artifacts
+deleted_time: 1722618939344
+end_time: 1722618699793
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 1e1c1f2966b14e7fa9ae902063ab08de
+run_name: vaunted-shrew-22
+run_uuid: 1e1c1f2966b14e7fa9ae902063ab08de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618699722
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/77755e314dfd4747a717491ed78bf4ac/artifacts
+end_time: 1722625151885
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 77755e314dfd4747a717491ed78bf4ac
+run_name: honorable-finch-493
+run_uuid: 77755e314dfd4747a717491ed78bf4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625151843
+status: 3
+tags: []
+user_id: julien

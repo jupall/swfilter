@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8d4f6d9fae2d43cd81612985746e8f1e/artifacts
+end_time: 1722652088204
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8d4f6d9fae2d43cd81612985746e8f1e
+run_name: gaudy-finch-203
+run_uuid: 8d4f6d9fae2d43cd81612985746e8f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652087426
+status: 3
+tags: []
+user_id: julien

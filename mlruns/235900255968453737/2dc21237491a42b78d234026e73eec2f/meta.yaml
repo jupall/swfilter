@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2dc21237491a42b78d234026e73eec2f/artifacts
+end_time: 1722651928676
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2dc21237491a42b78d234026e73eec2f
+run_name: popular-deer-27
+run_uuid: 2dc21237491a42b78d234026e73eec2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651928582
+status: 3
+tags: []
+user_id: julien

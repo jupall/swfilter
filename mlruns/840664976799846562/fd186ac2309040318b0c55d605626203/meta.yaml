@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fd186ac2309040318b0c55d605626203/artifacts
+end_time: 1722643885385
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fd186ac2309040318b0c55d605626203
+run_name: melodic-pig-418
+run_uuid: fd186ac2309040318b0c55d605626203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643885159
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ef7c76148e8d45e8b3118cee9319f25d/artifacts
+end_time: 1722652160216
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ef7c76148e8d45e8b3118cee9319f25d
+run_name: industrious-foal-579
+run_uuid: ef7c76148e8d45e8b3118cee9319f25d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652159943
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/aaeb2d39faaa40fb8122907494c55ef9/artifacts
+end_time: 1722625027278
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: aaeb2d39faaa40fb8122907494c55ef9
+run_name: unruly-midge-764
+run_uuid: aaeb2d39faaa40fb8122907494c55ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625027100
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/cb3955ac9300401c97dde359b809ddec/artifacts
+deleted_time: 1722618419437
+end_time: 1722617844661
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: cb3955ac9300401c97dde359b809ddec
+run_name: judicious-hawk-578
+run_uuid: cb3955ac9300401c97dde359b809ddec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617844430
+status: 3
+tags: []
+user_id: julien

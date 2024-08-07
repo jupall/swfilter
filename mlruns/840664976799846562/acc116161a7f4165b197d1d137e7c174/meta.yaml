@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/acc116161a7f4165b197d1d137e7c174/artifacts
+end_time: 1722625117842
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: acc116161a7f4165b197d1d137e7c174
+run_name: lyrical-carp-698
+run_uuid: acc116161a7f4165b197d1d137e7c174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625117287
+status: 3
+tags: []
+user_id: julien

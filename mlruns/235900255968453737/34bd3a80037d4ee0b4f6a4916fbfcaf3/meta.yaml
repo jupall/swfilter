@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/34bd3a80037d4ee0b4f6a4916fbfcaf3/artifacts
+end_time: 1722663388203
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 34bd3a80037d4ee0b4f6a4916fbfcaf3
+run_name: respected-rat-650
+run_uuid: 34bd3a80037d4ee0b4f6a4916fbfcaf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663387873
+status: 3
+tags: []
+user_id: julien

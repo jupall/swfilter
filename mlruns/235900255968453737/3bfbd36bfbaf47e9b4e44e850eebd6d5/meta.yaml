@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3bfbd36bfbaf47e9b4e44e850eebd6d5/artifacts
+end_time: 1722652086388
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3bfbd36bfbaf47e9b4e44e850eebd6d5
+run_name: adorable-squid-654
+run_uuid: 3bfbd36bfbaf47e9b4e44e850eebd6d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652085390
+status: 3
+tags: []
+user_id: julien

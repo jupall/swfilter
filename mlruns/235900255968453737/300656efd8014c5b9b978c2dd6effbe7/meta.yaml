@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/300656efd8014c5b9b978c2dd6effbe7/artifacts
+end_time: 1722651966972
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 300656efd8014c5b9b978c2dd6effbe7
+run_name: beautiful-dove-691
+run_uuid: 300656efd8014c5b9b978c2dd6effbe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651966729
+status: 3
+tags: []
+user_id: julien

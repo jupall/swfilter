@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/57bf09c6c5a44eb69a4b11f8e470b54d/artifacts
+end_time: 1722663373630
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 57bf09c6c5a44eb69a4b11f8e470b54d
+run_name: learned-jay-831
+run_uuid: 57bf09c6c5a44eb69a4b11f8e470b54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663373204
+status: 3
+tags: []
+user_id: julien

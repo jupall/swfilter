@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/aedbc9ee0ea9406b80d62b379f88e334/artifacts
+deleted_time: 1722618419437
+end_time: 1722617782748
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: aedbc9ee0ea9406b80d62b379f88e334
+run_name: thoughtful-rook-928
+run_uuid: aedbc9ee0ea9406b80d62b379f88e334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617782686
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/39d5f9c3c84446da98aa77ca3b162d29/artifacts
+end_time: 1722644546596
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 39d5f9c3c84446da98aa77ca3b162d29
+run_name: marvelous-ox-694
+run_uuid: 39d5f9c3c84446da98aa77ca3b162d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644546351
+status: 3
+tags: []
+user_id: julien

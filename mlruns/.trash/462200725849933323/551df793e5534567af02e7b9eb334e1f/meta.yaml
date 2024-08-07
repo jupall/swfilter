@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/551df793e5534567af02e7b9eb334e1f/artifacts
+deleted_time: 1722618939344
+end_time: 1722618894897
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 551df793e5534567af02e7b9eb334e1f
+run_name: invincible-rat-183
+run_uuid: 551df793e5534567af02e7b9eb334e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618894827
+status: 3
+tags: []
+user_id: julien

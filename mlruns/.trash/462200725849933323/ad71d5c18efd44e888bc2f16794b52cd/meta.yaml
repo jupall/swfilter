@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/ad71d5c18efd44e888bc2f16794b52cd/artifacts
+deleted_time: 1722618939344
+end_time: 1722618696249
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: ad71d5c18efd44e888bc2f16794b52cd
+run_name: bright-shrike-219
+run_uuid: ad71d5c18efd44e888bc2f16794b52cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618696188
+status: 3
+tags: []
+user_id: julien

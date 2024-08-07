@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b81bd699c023493fa13a408984b5ad9a/artifacts
+end_time: 1722644497735
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b81bd699c023493fa13a408984b5ad9a
+run_name: judicious-shrike-2
+run_uuid: b81bd699c023493fa13a408984b5ad9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644497426
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0a50caef32cf4517b87ce8327807093e/artifacts
+end_time: 1722643927865
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0a50caef32cf4517b87ce8327807093e
+run_name: intrigued-crab-561
+run_uuid: 0a50caef32cf4517b87ce8327807093e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643927257
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/47223d720ab846e3bca73ffe96dbe501/artifacts
+end_time: 1722662418685
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 47223d720ab846e3bca73ffe96dbe501
+run_name: rumbling-hare-514
+run_uuid: 47223d720ab846e3bca73ffe96dbe501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662418435
+status: 3
+tags: []
+user_id: julien

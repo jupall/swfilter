@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/a13025d24fa84169b545fc7414bf7895/artifacts
+deleted_time: 1722618939344
+end_time: 1722618901685
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: a13025d24fa84169b545fc7414bf7895
+run_name: stately-finch-83
+run_uuid: a13025d24fa84169b545fc7414bf7895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618901618
+status: 3
+tags: []
+user_id: julien

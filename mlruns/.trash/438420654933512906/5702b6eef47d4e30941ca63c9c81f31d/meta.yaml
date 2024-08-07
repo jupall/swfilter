@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/5702b6eef47d4e30941ca63c9c81f31d/artifacts
+deleted_time: 1722619353121
+end_time: 1722619047370
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 5702b6eef47d4e30941ca63c9c81f31d
+run_name: flawless-mouse-881
+run_uuid: 5702b6eef47d4e30941ca63c9c81f31d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619047331
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fa8f84bb0342496c854c003acf357d57/artifacts
+end_time: 1722656560497
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fa8f84bb0342496c854c003acf357d57
+run_name: judicious-shoat-339
+run_uuid: fa8f84bb0342496c854c003acf357d57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722656490839
+status: 3
+tags: []
+user_id: julien

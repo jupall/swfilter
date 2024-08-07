@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/255408492541443397f34d9b1797ff5b/artifacts
+end_time: 1722644421638
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 255408492541443397f34d9b1797ff5b
+run_name: chill-wasp-172
+run_uuid: 255408492541443397f34d9b1797ff5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644421582
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1e18be2d0b4b42cbb44a01a9d7727d5b/artifacts
+end_time: 1722663036517
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1e18be2d0b4b42cbb44a01a9d7727d5b
+run_name: resilient-worm-139
+run_uuid: 1e18be2d0b4b42cbb44a01a9d7727d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663032547
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/12493cb2ba7046a69089003865c9674d/artifacts
+end_time: 1722652122139
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 12493cb2ba7046a69089003865c9674d
+run_name: beautiful-fowl-452
+run_uuid: 12493cb2ba7046a69089003865c9674d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652122033
+status: 3
+tags: []
+user_id: julien

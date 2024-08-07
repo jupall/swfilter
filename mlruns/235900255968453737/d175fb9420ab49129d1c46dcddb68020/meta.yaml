@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d175fb9420ab49129d1c46dcddb68020/artifacts
+end_time: 1722662404422
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d175fb9420ab49129d1c46dcddb68020
+run_name: dazzling-calf-500
+run_uuid: d175fb9420ab49129d1c46dcddb68020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662404320
+status: 3
+tags: []
+user_id: julien

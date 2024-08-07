@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/d6eb84802ae24581848739f5be053e4c/artifacts
+deleted_time: 1722618939344
+end_time: 1722618703590
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: d6eb84802ae24581848739f5be053e4c
+run_name: unleashed-rat-381
+run_uuid: d6eb84802ae24581848739f5be053e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618703521
+status: 3
+tags: []
+user_id: julien

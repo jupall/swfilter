@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e741fef8682149f695c031678034f443/artifacts
+end_time: 1722662773927
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e741fef8682149f695c031678034f443
+run_name: placid-shrike-811
+run_uuid: e741fef8682149f695c031678034f443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662773674
+status: 3
+tags: []
+user_id: julien

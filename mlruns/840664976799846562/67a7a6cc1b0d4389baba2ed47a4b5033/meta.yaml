@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/67a7a6cc1b0d4389baba2ed47a4b5033/artifacts
+end_time: 1722619403605
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 67a7a6cc1b0d4389baba2ed47a4b5033
+run_name: painted-elk-699
+run_uuid: 67a7a6cc1b0d4389baba2ed47a4b5033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619403387
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/51785fb703e94cc9922f419e91472119/artifacts
+deleted_time: 1722618419437
+end_time: 1722618316271
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 51785fb703e94cc9922f419e91472119
+run_name: receptive-ant-359
+run_uuid: 51785fb703e94cc9922f419e91472119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618310640
+status: 3
+tags: []
+user_id: julien

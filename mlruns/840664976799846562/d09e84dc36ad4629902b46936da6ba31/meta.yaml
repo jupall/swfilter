@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d09e84dc36ad4629902b46936da6ba31/artifacts
+end_time: 1722619374918
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d09e84dc36ad4629902b46936da6ba31
+run_name: youthful-boar-643
+run_uuid: d09e84dc36ad4629902b46936da6ba31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619374878
+status: 3
+tags: []
+user_id: julien

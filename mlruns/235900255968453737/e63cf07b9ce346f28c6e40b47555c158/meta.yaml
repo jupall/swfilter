@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e63cf07b9ce346f28c6e40b47555c158/artifacts
+end_time: 1722657951917
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e63cf07b9ce346f28c6e40b47555c158
+run_name: worried-lynx-350
+run_uuid: e63cf07b9ce346f28c6e40b47555c158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722657874152
+status: 3
+tags: []
+user_id: julien

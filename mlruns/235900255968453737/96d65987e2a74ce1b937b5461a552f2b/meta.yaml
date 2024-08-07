@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/96d65987e2a74ce1b937b5461a552f2b/artifacts
+end_time: 1722663287075
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 96d65987e2a74ce1b937b5461a552f2b
+run_name: gregarious-dog-105
+run_uuid: 96d65987e2a74ce1b937b5461a552f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663286844
+status: 3
+tags: []
+user_id: julien

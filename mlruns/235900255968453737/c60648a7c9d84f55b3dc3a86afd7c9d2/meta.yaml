@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c60648a7c9d84f55b3dc3a86afd7c9d2/artifacts
+end_time: 1722649213914
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c60648a7c9d84f55b3dc3a86afd7c9d2
+run_name: nebulous-trout-182
+run_uuid: c60648a7c9d84f55b3dc3a86afd7c9d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649213646
+status: 3
+tags: []
+user_id: julien

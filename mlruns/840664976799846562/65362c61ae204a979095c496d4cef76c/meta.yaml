@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/65362c61ae204a979095c496d4cef76c/artifacts
+end_time: 1722623798266
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 65362c61ae204a979095c496d4cef76c
+run_name: brawny-moose-440
+run_uuid: 65362c61ae204a979095c496d4cef76c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722623768407
+status: 3
+tags: []
+user_id: julien

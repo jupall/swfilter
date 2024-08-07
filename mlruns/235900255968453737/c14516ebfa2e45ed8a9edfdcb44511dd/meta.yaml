@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c14516ebfa2e45ed8a9edfdcb44511dd/artifacts
+end_time: 1722649223257
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c14516ebfa2e45ed8a9edfdcb44511dd
+run_name: funny-mouse-189
+run_uuid: c14516ebfa2e45ed8a9edfdcb44511dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649222986
+status: 3
+tags: []
+user_id: julien

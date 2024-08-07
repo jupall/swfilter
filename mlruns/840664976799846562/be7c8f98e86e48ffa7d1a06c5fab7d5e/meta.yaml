@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/be7c8f98e86e48ffa7d1a06c5fab7d5e/artifacts
+end_time: 1722643978374
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: be7c8f98e86e48ffa7d1a06c5fab7d5e
+run_name: adventurous-doe-662
+run_uuid: be7c8f98e86e48ffa7d1a06c5fab7d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643978322
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/02bebc5aec23464ab676e365f64f39ee/artifacts
+deleted_time: 1722618664511
+end_time: 1722618479135
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 02bebc5aec23464ab676e365f64f39ee
+run_name: rogue-hare-394
+run_uuid: 02bebc5aec23464ab676e365f64f39ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618479097
+status: 3
+tags: []
+user_id: julien

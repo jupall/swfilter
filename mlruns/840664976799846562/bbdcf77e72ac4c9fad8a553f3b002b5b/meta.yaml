@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bbdcf77e72ac4c9fad8a553f3b002b5b/artifacts
+end_time: 1722625179280
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bbdcf77e72ac4c9fad8a553f3b002b5b
+run_name: crawling-toad-147
+run_uuid: bbdcf77e72ac4c9fad8a553f3b002b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625179115
+status: 3
+tags: []
+user_id: julien

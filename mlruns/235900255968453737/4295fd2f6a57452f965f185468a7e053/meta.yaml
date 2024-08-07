@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4295fd2f6a57452f965f185468a7e053/artifacts
+end_time: 1722649180493
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4295fd2f6a57452f965f185468a7e053
+run_name: unique-hare-228
+run_uuid: 4295fd2f6a57452f965f185468a7e053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649180407
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0548f997725142039e36ca9a00e0173c/artifacts
+end_time: 1722625173213
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0548f997725142039e36ca9a00e0173c
+run_name: unleashed-deer-305
+run_uuid: 0548f997725142039e36ca9a00e0173c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625173018
+status: 3
+tags: []
+user_id: julien

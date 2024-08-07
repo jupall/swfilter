@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8670347e942c4d16a0a5cae4f4c3e142/artifacts
+end_time: 1722648171673
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8670347e942c4d16a0a5cae4f4c3e142
+run_name: marvelous-crane-35
+run_uuid: 8670347e942c4d16a0a5cae4f4c3e142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648171577
+status: 3
+tags: []
+user_id: julien

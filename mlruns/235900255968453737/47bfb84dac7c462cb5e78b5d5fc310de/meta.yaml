@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/47bfb84dac7c462cb5e78b5d5fc310de/artifacts
+end_time: 1722648164169
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 47bfb84dac7c462cb5e78b5d5fc310de
+run_name: defiant-dove-359
+run_uuid: 47bfb84dac7c462cb5e78b5d5fc310de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648164077
+status: 3
+tags: []
+user_id: julien

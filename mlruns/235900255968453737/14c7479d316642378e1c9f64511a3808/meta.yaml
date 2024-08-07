@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/14c7479d316642378e1c9f64511a3808/artifacts
+end_time: 1722652142140
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 14c7479d316642378e1c9f64511a3808
+run_name: capable-bug-817
+run_uuid: 14c7479d316642378e1c9f64511a3808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652141840
+status: 3
+tags: []
+user_id: julien

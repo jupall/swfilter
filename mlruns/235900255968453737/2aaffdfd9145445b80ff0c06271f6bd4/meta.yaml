@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2aaffdfd9145445b80ff0c06271f6bd4/artifacts
+end_time: 1722662432132
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2aaffdfd9145445b80ff0c06271f6bd4
+run_name: flawless-owl-632
+run_uuid: 2aaffdfd9145445b80ff0c06271f6bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662431888
+status: 3
+tags: []
+user_id: julien

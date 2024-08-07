@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/de2acc342f324856a74d803aa6356aef/artifacts
+deleted_time: 1722618419437
+end_time: 1722617779793
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: de2acc342f324856a74d803aa6356aef
+run_name: thundering-fly-255
+run_uuid: de2acc342f324856a74d803aa6356aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617779728
+status: 3
+tags: []
+user_id: julien

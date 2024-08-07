@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/41058f85bacf450a88ba2347f539bea7/artifacts
+deleted_time: 1722619353121
+end_time: 1722619055548
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 41058f85bacf450a88ba2347f539bea7
+run_name: unequaled-swan-621
+run_uuid: 41058f85bacf450a88ba2347f539bea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619055383
+status: 3
+tags: []
+user_id: julien

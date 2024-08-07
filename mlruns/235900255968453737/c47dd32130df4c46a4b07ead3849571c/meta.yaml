@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c47dd32130df4c46a4b07ead3849571c/artifacts
+end_time: 1722662785138
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c47dd32130df4c46a4b07ead3849571c
+run_name: charming-lamb-295
+run_uuid: c47dd32130df4c46a4b07ead3849571c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662784894
+status: 3
+tags: []
+user_id: julien

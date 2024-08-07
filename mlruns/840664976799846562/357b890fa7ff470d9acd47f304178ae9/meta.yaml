@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/357b890fa7ff470d9acd47f304178ae9/artifacts
+end_time: 1722643930837
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 357b890fa7ff470d9acd47f304178ae9
+run_name: treasured-sloth-657
+run_uuid: 357b890fa7ff470d9acd47f304178ae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643930513
+status: 3
+tags: []
+user_id: julien

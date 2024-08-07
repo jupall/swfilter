@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/24dc3006e4824c90b32bbdff7e0ef585/artifacts
+end_time: 1722620079177
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 24dc3006e4824c90b32bbdff7e0ef585
+run_name: hilarious-dove-107
+run_uuid: 24dc3006e4824c90b32bbdff7e0ef585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620079143
+status: 3
+tags: []
+user_id: julien

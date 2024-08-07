@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/341aacb343a44cdc85bd9b9275af40b3/artifacts
+deleted_time: 1722618939344
+end_time: 1722618894818
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 341aacb343a44cdc85bd9b9275af40b3
+run_name: sincere-pig-81
+run_uuid: 341aacb343a44cdc85bd9b9275af40b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618894749
+status: 3
+tags: []
+user_id: julien

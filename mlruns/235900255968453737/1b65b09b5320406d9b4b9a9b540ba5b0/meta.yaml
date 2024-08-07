@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1b65b09b5320406d9b4b9a9b540ba5b0/artifacts
+end_time: 1722652116763
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1b65b09b5320406d9b4b9a9b540ba5b0
+run_name: enchanting-shrew-717
+run_uuid: 1b65b09b5320406d9b4b9a9b540ba5b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652116648
+status: 3
+tags: []
+user_id: julien

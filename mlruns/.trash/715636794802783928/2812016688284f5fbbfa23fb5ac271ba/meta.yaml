@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/2812016688284f5fbbfa23fb5ac271ba/artifacts
+deleted_time: 1722618419437
+end_time: 1722617781655
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 2812016688284f5fbbfa23fb5ac271ba
+run_name: efficient-gnu-910
+run_uuid: 2812016688284f5fbbfa23fb5ac271ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617781591
+status: 3
+tags: []
+user_id: julien

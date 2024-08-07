@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a21dbd9af3984f3198cbd3b6d4bf905b/artifacts
+end_time: 1722625007982
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a21dbd9af3984f3198cbd3b6d4bf905b
+run_name: youthful-goose-716
+run_uuid: a21dbd9af3984f3198cbd3b6d4bf905b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625007950
+status: 3
+tags: []
+user_id: julien

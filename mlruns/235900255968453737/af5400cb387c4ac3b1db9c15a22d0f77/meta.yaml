@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/af5400cb387c4ac3b1db9c15a22d0f77/artifacts
+end_time: 1722663080582
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: af5400cb387c4ac3b1db9c15a22d0f77
+run_name: capable-panda-572
+run_uuid: af5400cb387c4ac3b1db9c15a22d0f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663077964
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cfb0056e895d4bd7a5f92d4dfe40e2ef/artifacts
+end_time: 1722619380437
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cfb0056e895d4bd7a5f92d4dfe40e2ef
+run_name: colorful-crow-688
+run_uuid: cfb0056e895d4bd7a5f92d4dfe40e2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619380273
+status: 3
+tags: []
+user_id: julien

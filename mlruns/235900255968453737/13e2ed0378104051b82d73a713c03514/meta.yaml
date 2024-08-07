@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/13e2ed0378104051b82d73a713c03514/artifacts
+end_time: 1722661933916
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 13e2ed0378104051b82d73a713c03514
+run_name: omniscient-stag-883
+run_uuid: 13e2ed0378104051b82d73a713c03514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722661853349
+status: 3
+tags: []
+user_id: julien

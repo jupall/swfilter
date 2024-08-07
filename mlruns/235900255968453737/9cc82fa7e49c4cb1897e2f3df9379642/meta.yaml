@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9cc82fa7e49c4cb1897e2f3df9379642/artifacts
+end_time: 1722663385564
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9cc82fa7e49c4cb1897e2f3df9379642
+run_name: orderly-shrimp-171
+run_uuid: 9cc82fa7e49c4cb1897e2f3df9379642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663385101
+status: 3
+tags: []
+user_id: julien

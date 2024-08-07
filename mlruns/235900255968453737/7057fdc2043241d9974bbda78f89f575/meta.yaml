@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7057fdc2043241d9974bbda78f89f575/artifacts
+end_time: 1722662786697
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7057fdc2043241d9974bbda78f89f575
+run_name: lyrical-koi-208
+run_uuid: 7057fdc2043241d9974bbda78f89f575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662786453
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f12fd0f6b44a4dac8ae6c18864250c5c/artifacts
+end_time: 1722658186010
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f12fd0f6b44a4dac8ae6c18864250c5c
+run_name: classy-fish-920
+run_uuid: f12fd0f6b44a4dac8ae6c18864250c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722658138620
+status: 3
+tags: []
+user_id: julien

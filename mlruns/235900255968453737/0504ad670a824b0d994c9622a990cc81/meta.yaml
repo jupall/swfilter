@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0504ad670a824b0d994c9622a990cc81/artifacts
+end_time: 1722662753857
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0504ad670a824b0d994c9622a990cc81
+run_name: wise-sponge-749
+run_uuid: 0504ad670a824b0d994c9622a990cc81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662753577
+status: 3
+tags: []
+user_id: julien

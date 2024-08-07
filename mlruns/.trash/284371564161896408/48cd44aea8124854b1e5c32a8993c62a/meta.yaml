@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/48cd44aea8124854b1e5c32a8993c62a/artifacts
+deleted_time: 1722618664511
+end_time: 1722618499581
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 48cd44aea8124854b1e5c32a8993c62a
+run_name: useful-deer-347
+run_uuid: 48cd44aea8124854b1e5c32a8993c62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618499401
+status: 3
+tags: []
+user_id: julien

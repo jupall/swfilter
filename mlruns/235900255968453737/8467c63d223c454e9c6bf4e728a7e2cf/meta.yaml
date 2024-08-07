@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8467c63d223c454e9c6bf4e728a7e2cf/artifacts
+end_time: 1722663352790
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8467c63d223c454e9c6bf4e728a7e2cf
+run_name: carefree-snake-316
+run_uuid: 8467c63d223c454e9c6bf4e728a7e2cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663352401
+status: 3
+tags: []
+user_id: julien

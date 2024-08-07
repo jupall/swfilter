@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f91ce3a252454cb89409952ad46363cf/artifacts
+end_time: 1722625099102
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f91ce3a252454cb89409952ad46363cf
+run_name: nervous-zebra-396
+run_uuid: f91ce3a252454cb89409952ad46363cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625098278
+status: 3
+tags: []
+user_id: julien

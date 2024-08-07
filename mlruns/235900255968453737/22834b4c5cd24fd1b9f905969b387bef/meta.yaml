@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/22834b4c5cd24fd1b9f905969b387bef/artifacts
+end_time: 1722648161156
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 22834b4c5cd24fd1b9f905969b387bef
+run_name: painted-ape-592
+run_uuid: 22834b4c5cd24fd1b9f905969b387bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648161063
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4429c543fbf244debbe8a18791e120f0/artifacts
+end_time: 1722662747220
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4429c543fbf244debbe8a18791e120f0
+run_name: peaceful-rook-423
+run_uuid: 4429c543fbf244debbe8a18791e120f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662747110
+status: 3
+tags: []
+user_id: julien

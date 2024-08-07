@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0d4737f4619746f9a88a8752b7eb982d/artifacts
+end_time: 1722662433980
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0d4737f4619746f9a88a8752b7eb982d
+run_name: mysterious-mouse-102
+run_uuid: 0d4737f4619746f9a88a8752b7eb982d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662433721
+status: 3
+tags: []
+user_id: julien

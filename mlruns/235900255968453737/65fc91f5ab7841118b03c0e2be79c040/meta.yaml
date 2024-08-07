@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/65fc91f5ab7841118b03c0e2be79c040/artifacts
+end_time: 1722662948229
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 65fc91f5ab7841118b03c0e2be79c040
+run_name: amusing-swan-768
+run_uuid: 65fc91f5ab7841118b03c0e2be79c040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662944319
+status: 3
+tags: []
+user_id: julien

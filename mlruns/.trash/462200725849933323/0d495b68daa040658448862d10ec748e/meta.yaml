@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/0d495b68daa040658448862d10ec748e/artifacts
+deleted_time: 1722618939344
+end_time: 1722618894150
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 0d495b68daa040658448862d10ec748e
+run_name: bedecked-worm-798
+run_uuid: 0d495b68daa040658448862d10ec748e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618894082
+status: 3
+tags: []
+user_id: julien

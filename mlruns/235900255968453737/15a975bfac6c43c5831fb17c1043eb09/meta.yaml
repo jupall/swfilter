@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/15a975bfac6c43c5831fb17c1043eb09/artifacts
+end_time: 1722651935933
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 15a975bfac6c43c5831fb17c1043eb09
+run_name: fun-crane-208
+run_uuid: 15a975bfac6c43c5831fb17c1043eb09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651935657
+status: 3
+tags: []
+user_id: julien

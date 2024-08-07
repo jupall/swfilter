@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/916d09284f8b45d59dfff1d5bfc2b6bb/artifacts
+end_time: 1722649410557
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 916d09284f8b45d59dfff1d5bfc2b6bb
+run_name: thundering-fly-210
+run_uuid: 916d09284f8b45d59dfff1d5bfc2b6bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649398113
+status: 3
+tags: []
+user_id: julien

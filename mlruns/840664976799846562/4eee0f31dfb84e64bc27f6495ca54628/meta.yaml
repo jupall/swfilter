@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4eee0f31dfb84e64bc27f6495ca54628/artifacts
+end_time: 1722644444934
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4eee0f31dfb84e64bc27f6495ca54628
+run_name: merciful-sponge-995
+run_uuid: 4eee0f31dfb84e64bc27f6495ca54628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644444740
+status: 3
+tags: []
+user_id: julien

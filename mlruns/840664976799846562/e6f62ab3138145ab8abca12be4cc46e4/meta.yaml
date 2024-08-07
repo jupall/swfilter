@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e6f62ab3138145ab8abca12be4cc46e4/artifacts
+end_time: 1722632393928
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e6f62ab3138145ab8abca12be4cc46e4
+run_name: nimble-asp-59
+run_uuid: e6f62ab3138145ab8abca12be4cc46e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722632295501
+status: 3
+tags: []
+user_id: julien

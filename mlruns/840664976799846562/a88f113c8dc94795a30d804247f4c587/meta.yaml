@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a88f113c8dc94795a30d804247f4c587/artifacts
+end_time: 1722644460724
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a88f113c8dc94795a30d804247f4c587
+run_name: beautiful-hen-634
+run_uuid: a88f113c8dc94795a30d804247f4c587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644460498
+status: 3
+tags: []
+user_id: julien

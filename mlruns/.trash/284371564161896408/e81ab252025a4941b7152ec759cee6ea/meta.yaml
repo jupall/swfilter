@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/e81ab252025a4941b7152ec759cee6ea/artifacts
+deleted_time: 1722618664511
+end_time: 1722618482204
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: e81ab252025a4941b7152ec759cee6ea
+run_name: chill-loon-345
+run_uuid: e81ab252025a4941b7152ec759cee6ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618482166
+status: 3
+tags: []
+user_id: julien

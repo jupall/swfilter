@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f69f9a326db2472e9b7e97ea1146212c/artifacts
+end_time: 1722625012932
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f69f9a326db2472e9b7e97ea1146212c
+run_name: intelligent-mouse-15
+run_uuid: f69f9a326db2472e9b7e97ea1146212c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625012896
+status: 3
+tags: []
+user_id: julien

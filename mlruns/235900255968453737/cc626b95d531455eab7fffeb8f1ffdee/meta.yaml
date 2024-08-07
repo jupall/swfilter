@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cc626b95d531455eab7fffeb8f1ffdee/artifacts
+end_time: 1722649083362
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cc626b95d531455eab7fffeb8f1ffdee
+run_name: handsome-ant-64
+run_uuid: cc626b95d531455eab7fffeb8f1ffdee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649078961
+status: 3
+tags: []
+user_id: julien

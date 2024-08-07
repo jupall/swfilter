@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4403b701950c45d4a65c45b2e242f31e/artifacts
+end_time: 1722644523535
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4403b701950c45d4a65c45b2e242f31e
+run_name: carefree-croc-7
+run_uuid: 4403b701950c45d4a65c45b2e242f31e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644523305
+status: 3
+tags: []
+user_id: julien

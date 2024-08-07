@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/f1ae61f48cdc48d19319c88f2fb13e5a/artifacts
+deleted_time: 1722618939344
+end_time: 1722618697222
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: f1ae61f48cdc48d19319c88f2fb13e5a
+run_name: adorable-kit-271
+run_uuid: f1ae61f48cdc48d19319c88f2fb13e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618697156
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/07fb1256306949ffb70d097d9af122b4/artifacts
+end_time: 1722656775530
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 07fb1256306949ffb70d097d9af122b4
+run_name: big-shark-85
+run_uuid: 07fb1256306949ffb70d097d9af122b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722656711384
+status: 3
+tags: []
+user_id: julien

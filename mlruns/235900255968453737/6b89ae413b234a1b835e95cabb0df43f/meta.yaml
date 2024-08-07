@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6b89ae413b234a1b835e95cabb0df43f/artifacts
+end_time: 1722651139389
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6b89ae413b234a1b835e95cabb0df43f
+run_name: classy-vole-980
+run_uuid: 6b89ae413b234a1b835e95cabb0df43f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651118959
+status: 3
+tags: []
+user_id: julien

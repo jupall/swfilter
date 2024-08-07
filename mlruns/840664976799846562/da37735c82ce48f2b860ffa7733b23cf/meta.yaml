@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/da37735c82ce48f2b860ffa7733b23cf/artifacts
+end_time: 1722644515700
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: da37735c82ce48f2b860ffa7733b23cf
+run_name: thoughtful-ox-232
+run_uuid: da37735c82ce48f2b860ffa7733b23cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644515627
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/98769f68d875441181f609072e057645/artifacts
+end_time: 1722625166705
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 98769f68d875441181f609072e057645
+run_name: chill-skunk-714
+run_uuid: 98769f68d875441181f609072e057645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625166529
+status: 3
+tags: []
+user_id: julien

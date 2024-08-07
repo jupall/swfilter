@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/34e2218eb12a4adca76c2816504b4ddb/artifacts
+end_time: 1722654802209
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 34e2218eb12a4adca76c2816504b4ddb
+run_name: stylish-lamb-469
+run_uuid: 34e2218eb12a4adca76c2816504b4ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722654730056
+status: 3
+tags: []
+user_id: julien

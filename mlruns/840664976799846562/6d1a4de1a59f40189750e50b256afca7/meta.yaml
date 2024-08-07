@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6d1a4de1a59f40189750e50b256afca7/artifacts
+end_time: 1722629492491
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6d1a4de1a59f40189750e50b256afca7
+run_name: wise-duck-173
+run_uuid: 6d1a4de1a59f40189750e50b256afca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722629354198
+status: 3
+tags: []
+user_id: julien

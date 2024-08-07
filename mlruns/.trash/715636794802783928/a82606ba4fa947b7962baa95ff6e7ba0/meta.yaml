@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/a82606ba4fa947b7962baa95ff6e7ba0/artifacts
+deleted_time: 1722618419437
+end_time: 1722618340514
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: a82606ba4fa947b7962baa95ff6e7ba0
+run_name: debonair-chimp-137
+run_uuid: a82606ba4fa947b7962baa95ff6e7ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618335305
+status: 3
+tags: []
+user_id: julien

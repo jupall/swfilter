@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/753e6f100ff34f31a351d84f1ee6118c/artifacts
+end_time: 1722625153042
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 753e6f100ff34f31a351d84f1ee6118c
+run_name: delicate-mare-212
+run_uuid: 753e6f100ff34f31a351d84f1ee6118c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625152999
+status: 3
+tags: []
+user_id: julien

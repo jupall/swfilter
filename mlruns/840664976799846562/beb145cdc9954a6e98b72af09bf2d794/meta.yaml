@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/beb145cdc9954a6e98b72af09bf2d794/artifacts
+end_time: 1722644512369
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: beb145cdc9954a6e98b72af09bf2d794
+run_name: vaunted-squirrel-75
+run_uuid: beb145cdc9954a6e98b72af09bf2d794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644512274
+status: 3
+tags: []
+user_id: julien

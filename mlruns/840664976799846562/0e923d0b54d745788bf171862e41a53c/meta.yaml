@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0e923d0b54d745788bf171862e41a53c/artifacts
+end_time: 1722625065904
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0e923d0b54d745788bf171862e41a53c
+run_name: upset-fox-597
+run_uuid: 0e923d0b54d745788bf171862e41a53c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625065043
+status: 3
+tags: []
+user_id: julien

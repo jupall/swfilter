@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e4c8ac9efeb145579a2551e3e1ae7401/artifacts
+end_time: 1722619374012
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e4c8ac9efeb145579a2551e3e1ae7401
+run_name: bittersweet-cow-930
+run_uuid: e4c8ac9efeb145579a2551e3e1ae7401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373974
+status: 3
+tags: []
+user_id: julien

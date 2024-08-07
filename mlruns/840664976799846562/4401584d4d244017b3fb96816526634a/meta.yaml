@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4401584d4d244017b3fb96816526634a/artifacts
+end_time: 1722643971236
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4401584d4d244017b3fb96816526634a
+run_name: bedecked-bat-867
+run_uuid: 4401584d4d244017b3fb96816526634a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643970576
+status: 3
+tags: []
+user_id: julien

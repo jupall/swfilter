@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bb814414fa34400b898179fb4b9aefcf/artifacts
+end_time: 1722643923417
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bb814414fa34400b898179fb4b9aefcf
+run_name: rebellious-ant-101
+run_uuid: bb814414fa34400b898179fb4b9aefcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643922848
+status: 3
+tags: []
+user_id: julien

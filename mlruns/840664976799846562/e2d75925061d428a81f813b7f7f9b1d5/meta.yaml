@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e2d75925061d428a81f813b7f7f9b1d5/artifacts
+end_time: 1722625010692
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e2d75925061d428a81f813b7f7f9b1d5
+run_name: youthful-steed-986
+run_uuid: e2d75925061d428a81f813b7f7f9b1d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625010658
+status: 3
+tags: []
+user_id: julien

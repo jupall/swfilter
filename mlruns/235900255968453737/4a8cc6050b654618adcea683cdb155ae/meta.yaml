@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4a8cc6050b654618adcea683cdb155ae/artifacts
+end_time: 1722652137704
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4a8cc6050b654618adcea683cdb155ae
+run_name: legendary-colt-530
+run_uuid: 4a8cc6050b654618adcea683cdb155ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652137442
+status: 3
+tags: []
+user_id: julien

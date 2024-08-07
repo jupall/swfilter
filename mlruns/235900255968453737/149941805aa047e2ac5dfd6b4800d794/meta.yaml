@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/149941805aa047e2ac5dfd6b4800d794/artifacts
+end_time: 1722648333506
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 149941805aa047e2ac5dfd6b4800d794
+run_name: beautiful-ram-478
+run_uuid: 149941805aa047e2ac5dfd6b4800d794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648330673
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e635274ca6dc459a9ca391a446ff5cef/artifacts
+end_time: 1722648169056
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e635274ca6dc459a9ca391a446ff5cef
+run_name: marvelous-jay-907
+run_uuid: e635274ca6dc459a9ca391a446ff5cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648168964
+status: 3
+tags: []
+user_id: julien

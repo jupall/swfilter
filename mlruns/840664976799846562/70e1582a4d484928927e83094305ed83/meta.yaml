@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/70e1582a4d484928927e83094305ed83/artifacts
+end_time: 1722644430146
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 70e1582a4d484928927e83094305ed83
+run_name: able-quail-621
+run_uuid: 70e1582a4d484928927e83094305ed83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644429944
+status: 3
+tags: []
+user_id: julien

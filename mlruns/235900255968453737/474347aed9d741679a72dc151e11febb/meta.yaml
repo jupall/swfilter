@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/474347aed9d741679a72dc151e11febb/artifacts
+end_time: 1722650195110
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 474347aed9d741679a72dc151e11febb
+run_name: polite-eel-960
+run_uuid: 474347aed9d741679a72dc151e11febb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650177239
+status: 3
+tags: []
+user_id: julien

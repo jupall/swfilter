@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3009015c6e524982808c846a85a6a02f/artifacts
+end_time: 1722620079787
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3009015c6e524982808c846a85a6a02f
+run_name: sincere-conch-79
+run_uuid: 3009015c6e524982808c846a85a6a02f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620079753
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f9f387a39694480aa38815f20a0936f4/artifacts
+end_time: 1722625146246
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f9f387a39694480aa38815f20a0936f4
+run_name: selective-fox-664
+run_uuid: f9f387a39694480aa38815f20a0936f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625146201
+status: 3
+tags: []
+user_id: julien

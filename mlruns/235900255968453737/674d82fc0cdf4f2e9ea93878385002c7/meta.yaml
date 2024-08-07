@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/674d82fc0cdf4f2e9ea93878385002c7/artifacts
+end_time: 1722649188926
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 674d82fc0cdf4f2e9ea93878385002c7
+run_name: persistent-robin-262
+run_uuid: 674d82fc0cdf4f2e9ea93878385002c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649188728
+status: 3
+tags: []
+user_id: julien

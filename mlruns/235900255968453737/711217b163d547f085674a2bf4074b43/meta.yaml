@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/711217b163d547f085674a2bf4074b43/artifacts
+end_time: 1722652047265
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 711217b163d547f085674a2bf4074b43
+run_name: monumental-ape-568
+run_uuid: 711217b163d547f085674a2bf4074b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652046369
+status: 3
+tags: []
+user_id: julien

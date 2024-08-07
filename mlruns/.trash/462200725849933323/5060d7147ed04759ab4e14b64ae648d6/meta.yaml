@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/5060d7147ed04759ab4e14b64ae648d6/artifacts
+deleted_time: 1722618939344
+end_time: 1722618899907
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 5060d7147ed04759ab4e14b64ae648d6
+run_name: gregarious-crane-96
+run_uuid: 5060d7147ed04759ab4e14b64ae648d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618899844
+status: 3
+tags: []
+user_id: julien

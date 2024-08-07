@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4d895ae6b1e041bdb39e30b3eb91d6b6/artifacts
+end_time: 1722644466434
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4d895ae6b1e041bdb39e30b3eb91d6b6
+run_name: sedate-conch-32
+run_uuid: 4d895ae6b1e041bdb39e30b3eb91d6b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644466121
+status: 3
+tags: []
+user_id: julien

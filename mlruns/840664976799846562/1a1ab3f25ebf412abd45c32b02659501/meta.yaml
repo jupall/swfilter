@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1a1ab3f25ebf412abd45c32b02659501/artifacts
+end_time: 1722643993365
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1a1ab3f25ebf412abd45c32b02659501
+run_name: calm-mouse-825
+run_uuid: 1a1ab3f25ebf412abd45c32b02659501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643993145
+status: 3
+tags: []
+user_id: julien

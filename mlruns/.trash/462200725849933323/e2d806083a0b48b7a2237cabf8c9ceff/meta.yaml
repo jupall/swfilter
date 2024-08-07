@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/e2d806083a0b48b7a2237cabf8c9ceff/artifacts
+deleted_time: 1722618939344
+end_time: 1722618696180
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: e2d806083a0b48b7a2237cabf8c9ceff
+run_name: sincere-sow-513
+run_uuid: e2d806083a0b48b7a2237cabf8c9ceff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618696123
+status: 3
+tags: []
+user_id: julien

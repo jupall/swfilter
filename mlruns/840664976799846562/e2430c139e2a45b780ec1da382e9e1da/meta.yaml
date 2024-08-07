@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e2430c139e2a45b780ec1da382e9e1da/artifacts
+end_time: 1722619795407
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e2430c139e2a45b780ec1da382e9e1da
+run_name: smiling-snail-465
+run_uuid: e2430c139e2a45b780ec1da382e9e1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619791688
+status: 3
+tags: []
+user_id: julien

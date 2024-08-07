@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/24299e1348e649918867662eac5f8965/artifacts
+deleted_time: 1722618664511
+end_time: 1722618506749
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 24299e1348e649918867662eac5f8965
+run_name: persistent-squid-283
+run_uuid: 24299e1348e649918867662eac5f8965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618506546
+status: 3
+tags: []
+user_id: julien

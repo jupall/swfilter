@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/57acb7b6ea5749a1bb33ba08aaceb1ec/artifacts
+end_time: 1722649186062
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 57acb7b6ea5749a1bb33ba08aaceb1ec
+run_name: smiling-cow-323
+run_uuid: 57acb7b6ea5749a1bb33ba08aaceb1ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649185974
+status: 3
+tags: []
+user_id: julien

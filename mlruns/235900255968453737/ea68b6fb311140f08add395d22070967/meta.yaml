@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ea68b6fb311140f08add395d22070967/artifacts
+end_time: 1722651928354
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ea68b6fb311140f08add395d22070967
+run_name: luxuriant-cub-804
+run_uuid: ea68b6fb311140f08add395d22070967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651928259
+status: 3
+tags: []
+user_id: julien

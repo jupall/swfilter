@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9e3b348d819f4ab8a6f19bcda26a0cb2/artifacts
+end_time: 1722652084405
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9e3b348d819f4ab8a6f19bcda26a0cb2
+run_name: chill-tern-401
+run_uuid: 9e3b348d819f4ab8a6f19bcda26a0cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652083217
+status: 3
+tags: []
+user_id: julien

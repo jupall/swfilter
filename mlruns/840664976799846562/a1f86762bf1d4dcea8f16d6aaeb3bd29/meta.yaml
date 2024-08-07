@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a1f86762bf1d4dcea8f16d6aaeb3bd29/artifacts
+end_time: 1722620078038
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a1f86762bf1d4dcea8f16d6aaeb3bd29
+run_name: receptive-dog-997
+run_uuid: a1f86762bf1d4dcea8f16d6aaeb3bd29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620078004
+status: 3
+tags: []
+user_id: julien

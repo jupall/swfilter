@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8a6ec06d514a465f961438f8138bc71b/artifacts
+end_time: 1722663303950
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8a6ec06d514a465f961438f8138bc71b
+run_name: stately-shrew-437
+run_uuid: 8a6ec06d514a465f961438f8138bc71b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663303717
+status: 3
+tags: []
+user_id: julien

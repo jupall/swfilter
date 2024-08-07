@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9067b7b9ac624a54912da6caf4b3c73d/artifacts
+end_time: 1722644428589
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9067b7b9ac624a54912da6caf4b3c73d
+run_name: exultant-goat-690
+run_uuid: 9067b7b9ac624a54912da6caf4b3c73d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644428398
+status: 3
+tags: []
+user_id: julien

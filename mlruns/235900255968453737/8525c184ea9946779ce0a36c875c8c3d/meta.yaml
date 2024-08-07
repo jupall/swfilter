@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8525c184ea9946779ce0a36c875c8c3d/artifacts
+end_time: 1722663269829
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8525c184ea9946779ce0a36c875c8c3d
+run_name: nebulous-mare-877
+run_uuid: 8525c184ea9946779ce0a36c875c8c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663269710
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/cf17275fc0c14a549d806671d2d87488/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897223
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: cf17275fc0c14a549d806671d2d87488
+run_name: treasured-bear-218
+run_uuid: cf17275fc0c14a549d806671d2d87488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897155
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/510181af542547968ba522cf1df66c21/artifacts
+end_time: 1722652121657
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 510181af542547968ba522cf1df66c21
+run_name: magnificent-foal-282
+run_uuid: 510181af542547968ba522cf1df66c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652121553
+status: 3
+tags: []
+user_id: julien

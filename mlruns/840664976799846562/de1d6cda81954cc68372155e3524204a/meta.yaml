@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/de1d6cda81954cc68372155e3524204a/artifacts
+end_time: 1722620090239
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: de1d6cda81954cc68372155e3524204a
+run_name: treasured-pig-927
+run_uuid: de1d6cda81954cc68372155e3524204a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620090101
+status: 3
+tags: []
+user_id: julien

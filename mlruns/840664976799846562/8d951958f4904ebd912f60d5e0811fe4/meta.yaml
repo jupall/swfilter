@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8d951958f4904ebd912f60d5e0811fe4/artifacts
+end_time: 1722620081023
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8d951958f4904ebd912f60d5e0811fe4
+run_name: bouncy-bug-649
+run_uuid: 8d951958f4904ebd912f60d5e0811fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620080989
+status: 3
+tags: []
+user_id: julien

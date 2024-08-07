@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/c70244c3948244fc984a8c922d338488/artifacts
+deleted_time: 1722618664511
+end_time: 1722618506538
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: c70244c3948244fc984a8c922d338488
+run_name: exultant-sloth-210
+run_uuid: c70244c3948244fc984a8c922d338488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618506333
+status: 3
+tags: []
+user_id: julien

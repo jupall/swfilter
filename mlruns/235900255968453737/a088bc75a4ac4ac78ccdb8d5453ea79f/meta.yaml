@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a088bc75a4ac4ac78ccdb8d5453ea79f/artifacts
+end_time: 1722662566067
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a088bc75a4ac4ac78ccdb8d5453ea79f
+run_name: rare-crab-553
+run_uuid: a088bc75a4ac4ac78ccdb8d5453ea79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662564591
+status: 3
+tags: []
+user_id: julien

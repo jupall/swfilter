@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/55ff2fdd032c47108b8fdc9a6cd92f93/artifacts
+end_time: 1722643891905
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 55ff2fdd032c47108b8fdc9a6cd92f93
+run_name: magnificent-vole-505
+run_uuid: 55ff2fdd032c47108b8fdc9a6cd92f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643891675
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5eb3493ed0e44360992a48dbb880b3bb/artifacts
+end_time: 1722623826713
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5eb3493ed0e44360992a48dbb880b3bb
+run_name: aged-gnu-604
+run_uuid: 5eb3493ed0e44360992a48dbb880b3bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722623798275
+status: 3
+tags: []
+user_id: julien

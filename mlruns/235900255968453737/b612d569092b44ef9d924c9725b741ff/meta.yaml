@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b612d569092b44ef9d924c9725b741ff/artifacts
+end_time: 1722662414139
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b612d569092b44ef9d924c9725b741ff
+run_name: kindly-doe-587
+run_uuid: b612d569092b44ef9d924c9725b741ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662414033
+status: 3
+tags: []
+user_id: julien

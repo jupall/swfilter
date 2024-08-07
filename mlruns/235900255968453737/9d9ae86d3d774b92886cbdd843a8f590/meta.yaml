@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9d9ae86d3d774b92886cbdd843a8f590/artifacts
+end_time: 1722651961007
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9d9ae86d3d774b92886cbdd843a8f590
+run_name: marvelous-sow-263
+run_uuid: 9d9ae86d3d774b92886cbdd843a8f590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651960794
+status: 3
+tags: []
+user_id: julien

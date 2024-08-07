@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5623b821820f4275a62cec7ccc81518d/artifacts
+end_time: 1722644436174
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5623b821820f4275a62cec7ccc81518d
+run_name: grandiose-hen-53
+run_uuid: 5623b821820f4275a62cec7ccc81518d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644435996
+status: 3
+tags: []
+user_id: julien

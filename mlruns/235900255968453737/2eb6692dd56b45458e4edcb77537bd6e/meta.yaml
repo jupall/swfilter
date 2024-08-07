@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2eb6692dd56b45458e4edcb77537bd6e/artifacts
+end_time: 1722651928883
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2eb6692dd56b45458e4edcb77537bd6e
+run_name: enchanting-goose-908
+run_uuid: 2eb6692dd56b45458e4edcb77537bd6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651928793
+status: 3
+tags: []
+user_id: julien

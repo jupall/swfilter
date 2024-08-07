@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/add2ea4ee1404626b19ccb250a6c62fa/artifacts
+end_time: 1722651958244
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: add2ea4ee1404626b19ccb250a6c62fa
+run_name: awesome-stoat-160
+run_uuid: add2ea4ee1404626b19ccb250a6c62fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651958017
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e5417f3353f946008187162833ffe5bc/artifacts
+end_time: 1722662738104
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e5417f3353f946008187162833ffe5bc
+run_name: worried-wasp-934
+run_uuid: e5417f3353f946008187162833ffe5bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662737995
+status: 3
+tags: []
+user_id: julien

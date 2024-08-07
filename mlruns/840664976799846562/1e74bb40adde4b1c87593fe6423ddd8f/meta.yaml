@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1e74bb40adde4b1c87593fe6423ddd8f/artifacts
+end_time: 1722644464911
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1e74bb40adde4b1c87593fe6423ddd8f
+run_name: salty-wasp-724
+run_uuid: 1e74bb40adde4b1c87593fe6423ddd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644464601
+status: 3
+tags: []
+user_id: julien

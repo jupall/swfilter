@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/d2701719f0c94f868cab788db1f6e1e0/artifacts
+deleted_time: 1722618419437
+end_time: 1722617838861
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: d2701719f0c94f868cab788db1f6e1e0
+run_name: abundant-boar-957
+run_uuid: d2701719f0c94f868cab788db1f6e1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617838799
+status: 3
+tags: []
+user_id: julien

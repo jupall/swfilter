@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2cc02a1126614e76b13f2fc82f0718e4/artifacts
+end_time: 1722663286571
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2cc02a1126614e76b13f2fc82f0718e4
+run_name: grandiose-ape-849
+run_uuid: 2cc02a1126614e76b13f2fc82f0718e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663286337
+status: 3
+tags: []
+user_id: julien

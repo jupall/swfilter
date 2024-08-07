@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5a87974ef0134271abe0f6c6da02864c/artifacts
+end_time: 1722649303458
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5a87974ef0134271abe0f6c6da02864c
+run_name: dapper-worm-192
+run_uuid: 5a87974ef0134271abe0f6c6da02864c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649266976
+status: 3
+tags: []
+user_id: julien

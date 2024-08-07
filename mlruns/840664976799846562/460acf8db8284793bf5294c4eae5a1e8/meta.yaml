@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/460acf8db8284793bf5294c4eae5a1e8/artifacts
+end_time: 1722643853349
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 460acf8db8284793bf5294c4eae5a1e8
+run_name: angry-wolf-945
+run_uuid: 460acf8db8284793bf5294c4eae5a1e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643853306
+status: 3
+tags: []
+user_id: julien

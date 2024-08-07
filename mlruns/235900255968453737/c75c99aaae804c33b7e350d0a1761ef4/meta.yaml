@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c75c99aaae804c33b7e350d0a1761ef4/artifacts
+end_time: 1722662582760
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c75c99aaae804c33b7e350d0a1761ef4
+run_name: fearless-dolphin-780
+run_uuid: c75c99aaae804c33b7e350d0a1761ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662581351
+status: 3
+tags: []
+user_id: julien

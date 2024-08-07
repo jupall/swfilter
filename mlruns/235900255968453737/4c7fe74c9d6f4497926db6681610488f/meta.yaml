@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4c7fe74c9d6f4497926db6681610488f/artifacts
+end_time: 1722663264861
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4c7fe74c9d6f4497926db6681610488f
+run_name: sincere-bug-575
+run_uuid: 4c7fe74c9d6f4497926db6681610488f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663264746
+status: 3
+tags: []
+user_id: julien

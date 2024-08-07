@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1a4b8efd99174ffa984f95dfd49f4816/artifacts
+end_time: 1722643963527
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1a4b8efd99174ffa984f95dfd49f4816
+run_name: enthused-snail-169
+run_uuid: 1a4b8efd99174ffa984f95dfd49f4816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643963189
+status: 3
+tags: []
+user_id: julien

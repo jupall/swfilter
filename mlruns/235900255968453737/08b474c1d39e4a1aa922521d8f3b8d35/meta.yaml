@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/08b474c1d39e4a1aa922521d8f3b8d35/artifacts
+end_time: 1722662777586
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 08b474c1d39e4a1aa922521d8f3b8d35
+run_name: merciful-vole-842
+run_uuid: 08b474c1d39e4a1aa922521d8f3b8d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662777346
+status: 3
+tags: []
+user_id: julien

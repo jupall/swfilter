@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/505b71b844b4414cb49e51269a286ee9/artifacts
+end_time: 1722662425714
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 505b71b844b4414cb49e51269a286ee9
+run_name: whimsical-hare-314
+run_uuid: 505b71b844b4414cb49e51269a286ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662425446
+status: 3
+tags: []
+user_id: julien

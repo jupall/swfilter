@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/159f0c652a8945d9b088a05d3b237d01/artifacts
+end_time: 1722644418289
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 159f0c652a8945d9b088a05d3b237d01
+run_name: auspicious-chimp-685
+run_uuid: 159f0c652a8945d9b088a05d3b237d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644418235
+status: 3
+tags: []
+user_id: julien

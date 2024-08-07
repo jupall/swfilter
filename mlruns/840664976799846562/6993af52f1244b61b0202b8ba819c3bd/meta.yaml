@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6993af52f1244b61b0202b8ba819c3bd/artifacts
+end_time: 1722625156985
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6993af52f1244b61b0202b8ba819c3bd
+run_name: overjoyed-bass-312
+run_uuid: 6993af52f1244b61b0202b8ba819c3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625156787
+status: 3
+tags: []
+user_id: julien

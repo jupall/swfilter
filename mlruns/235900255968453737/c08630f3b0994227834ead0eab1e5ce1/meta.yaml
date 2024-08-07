@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c08630f3b0994227834ead0eab1e5ce1/artifacts
+end_time: 1722663388683
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c08630f3b0994227834ead0eab1e5ce1
+run_name: unequaled-boar-402
+run_uuid: c08630f3b0994227834ead0eab1e5ce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663388220
+status: 3
+tags: []
+user_id: julien

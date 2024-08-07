@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/717d2131d33144dfaf0408b13bc84200/artifacts
+end_time: 1722662749498
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 717d2131d33144dfaf0408b13bc84200
+run_name: orderly-kite-524
+run_uuid: 717d2131d33144dfaf0408b13bc84200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662749389
+status: 3
+tags: []
+user_id: julien

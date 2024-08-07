@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/af2d82d802b54df58f8b0b3ffe4098b0/artifacts
+end_time: 1722651967580
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: af2d82d802b54df58f8b0b3ffe4098b0
+run_name: crawling-elk-506
+run_uuid: af2d82d802b54df58f8b0b3ffe4098b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651967393
+status: 3
+tags: []
+user_id: julien

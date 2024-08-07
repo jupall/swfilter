@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/64080ba7094249d886f20dad61c188e8/artifacts
+end_time: 1722619605218
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 64080ba7094249d886f20dad61c188e8
+run_name: bright-jay-888
+run_uuid: 64080ba7094249d886f20dad61c188e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619601516
+status: 3
+tags: []
+user_id: julien

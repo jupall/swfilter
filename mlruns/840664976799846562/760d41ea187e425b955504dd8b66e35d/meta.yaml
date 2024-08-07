@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/760d41ea187e425b955504dd8b66e35d/artifacts
+end_time: 1722625041464
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 760d41ea187e425b955504dd8b66e35d
+run_name: classy-kite-413
+run_uuid: 760d41ea187e425b955504dd8b66e35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625041284
+status: 3
+tags: []
+user_id: julien

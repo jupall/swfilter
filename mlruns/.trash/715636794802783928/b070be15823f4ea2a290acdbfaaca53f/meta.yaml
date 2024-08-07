@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/b070be15823f4ea2a290acdbfaaca53f/artifacts
+deleted_time: 1722618419437
+end_time: 1722617780458
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: b070be15823f4ea2a290acdbfaaca53f
+run_name: nervous-cod-901
+run_uuid: b070be15823f4ea2a290acdbfaaca53f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617780399
+status: 3
+tags: []
+user_id: julien

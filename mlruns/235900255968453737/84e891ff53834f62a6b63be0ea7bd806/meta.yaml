@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/84e891ff53834f62a6b63be0ea7bd806/artifacts
+end_time: 1722648175779
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 84e891ff53834f62a6b63be0ea7bd806
+run_name: industrious-hen-630
+run_uuid: 84e891ff53834f62a6b63be0ea7bd806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648175536
+status: 3
+tags: []
+user_id: julien

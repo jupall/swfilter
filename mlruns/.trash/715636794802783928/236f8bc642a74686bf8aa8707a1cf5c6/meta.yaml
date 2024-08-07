@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/236f8bc642a74686bf8aa8707a1cf5c6/artifacts
+deleted_time: 1722618419437
+end_time: 1722617884406
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 236f8bc642a74686bf8aa8707a1cf5c6
+run_name: beautiful-kit-651
+run_uuid: 236f8bc642a74686bf8aa8707a1cf5c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617879025
+status: 3
+tags: []
+user_id: julien

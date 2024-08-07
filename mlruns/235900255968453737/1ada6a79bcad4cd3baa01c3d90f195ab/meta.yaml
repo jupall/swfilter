@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1ada6a79bcad4cd3baa01c3d90f195ab/artifacts
+end_time: 1722663050619
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1ada6a79bcad4cd3baa01c3d90f195ab
+run_name: rare-stag-596
+run_uuid: 1ada6a79bcad4cd3baa01c3d90f195ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663047455
+status: 3
+tags: []
+user_id: julien

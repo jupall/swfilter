@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/01304ec858ca4b1ba5bbfa1b2007c8a4/artifacts
+end_time: 1722652106031
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 01304ec858ca4b1ba5bbfa1b2007c8a4
+run_name: luxuriant-rat-904
+run_uuid: 01304ec858ca4b1ba5bbfa1b2007c8a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652105100
+status: 3
+tags: []
+user_id: julien

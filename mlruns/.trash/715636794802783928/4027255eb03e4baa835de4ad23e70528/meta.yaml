@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/4027255eb03e4baa835de4ad23e70528/artifacts
+deleted_time: 1722618419437
+end_time: 1722617837437
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 4027255eb03e4baa835de4ad23e70528
+run_name: skillful-fox-947
+run_uuid: 4027255eb03e4baa835de4ad23e70528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617837375
+status: 3
+tags: []
+user_id: julien

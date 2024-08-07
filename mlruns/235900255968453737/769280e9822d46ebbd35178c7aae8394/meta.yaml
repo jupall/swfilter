@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/769280e9822d46ebbd35178c7aae8394/artifacts
+end_time: 1722662408943
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 769280e9822d46ebbd35178c7aae8394
+run_name: bold-smelt-72
+run_uuid: 769280e9822d46ebbd35178c7aae8394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662408838
+status: 3
+tags: []
+user_id: julien

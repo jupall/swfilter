@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a38319961b1b48ebbc7fb075b389fd0b/artifacts
+end_time: 1722662422782
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a38319961b1b48ebbc7fb075b389fd0b
+run_name: brawny-crane-895
+run_uuid: a38319961b1b48ebbc7fb075b389fd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662422540
+status: 3
+tags: []
+user_id: julien

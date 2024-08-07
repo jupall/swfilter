@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ee42eae21f254196ac3104695ae1464d/artifacts
+end_time: 1722662781498
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ee42eae21f254196ac3104695ae1464d
+run_name: shivering-deer-64
+run_uuid: ee42eae21f254196ac3104695ae1464d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662781254
+status: 3
+tags: []
+user_id: julien

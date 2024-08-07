@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/3f557e9848984f6486626a1c4ee38c79/artifacts
+deleted_time: 1722618664511
+end_time: 1722618477838
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 3f557e9848984f6486626a1c4ee38c79
+run_name: colorful-pug-774
+run_uuid: 3f557e9848984f6486626a1c4ee38c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618477798
+status: 3
+tags: []
+user_id: julien

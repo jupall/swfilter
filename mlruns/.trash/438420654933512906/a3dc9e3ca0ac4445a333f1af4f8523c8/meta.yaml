@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/a3dc9e3ca0ac4445a333f1af4f8523c8/artifacts
+deleted_time: 1722619353121
+end_time: 1722619050026
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: a3dc9e3ca0ac4445a333f1af4f8523c8
+run_name: painted-bird-515
+run_uuid: a3dc9e3ca0ac4445a333f1af4f8523c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619049987
+status: 3
+tags: []
+user_id: julien

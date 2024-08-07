@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/60950731078d4231856174a65e3fc407/artifacts
+end_time: 1722643947994
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 60950731078d4231856174a65e3fc407
+run_name: smiling-grub-174
+run_uuid: 60950731078d4231856174a65e3fc407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643947520
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e9955ab703c442cb91be75081386772c/artifacts
+end_time: 1722625149205
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e9955ab703c442cb91be75081386772c
+run_name: charming-swan-2
+run_uuid: e9955ab703c442cb91be75081386772c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625149164
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/f60dfa0955fc43b38d41d0ec166580ef/artifacts
+deleted_time: 1722619353121
+end_time: 1722619078798
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: f60dfa0955fc43b38d41d0ec166580ef
+run_name: melodic-grub-228
+run_uuid: f60dfa0955fc43b38d41d0ec166580ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619078605
+status: 3
+tags: []
+user_id: julien

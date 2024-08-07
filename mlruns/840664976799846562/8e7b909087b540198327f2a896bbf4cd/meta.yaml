@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8e7b909087b540198327f2a896bbf4cd/artifacts
+end_time: 1722625094034
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8e7b909087b540198327f2a896bbf4cd
+run_name: casual-ant-54
+run_uuid: 8e7b909087b540198327f2a896bbf4cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625093198
+status: 3
+tags: []
+user_id: julien

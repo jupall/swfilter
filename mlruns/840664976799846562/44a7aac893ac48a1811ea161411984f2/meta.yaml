@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/44a7aac893ac48a1811ea161411984f2/artifacts
+end_time: 1722643864997
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 44a7aac893ac48a1811ea161411984f2
+run_name: tasteful-sheep-570
+run_uuid: 44a7aac893ac48a1811ea161411984f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643864787
+status: 3
+tags: []
+user_id: julien

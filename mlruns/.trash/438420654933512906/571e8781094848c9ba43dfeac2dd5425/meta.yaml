@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/571e8781094848c9ba43dfeac2dd5425/artifacts
+deleted_time: 1722619353121
+end_time: 1722619062512
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 571e8781094848c9ba43dfeac2dd5425
+run_name: salty-bird-415
+run_uuid: 571e8781094848c9ba43dfeac2dd5425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619062318
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0043e20c34714134aa3909392518d686/artifacts
+end_time: 1722626036558
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0043e20c34714134aa3909392518d686
+run_name: salty-grouse-771
+run_uuid: 0043e20c34714134aa3909392518d686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625929000
+status: 3
+tags: []
+user_id: julien

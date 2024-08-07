@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ee23e5c947ae42dd9f567eb2eb7eebef/artifacts
+end_time: 1722644467660
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ee23e5c947ae42dd9f567eb2eb7eebef
+run_name: enchanting-mule-808
+run_uuid: ee23e5c947ae42dd9f567eb2eb7eebef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644467435
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/da0373d48f034f08af350b08c65da3d6/artifacts
+end_time: 1722644507531
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: da0373d48f034f08af350b08c65da3d6
+run_name: nervous-goose-797
+run_uuid: da0373d48f034f08af350b08c65da3d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644507455
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/07b325f2302a41918c251bfae6504749/artifacts
+deleted_time: 1722618419437
+end_time: 1722617781054
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 07b325f2302a41918c251bfae6504749
+run_name: upset-toad-750
+run_uuid: 07b325f2302a41918c251bfae6504749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617780993
+status: 3
+tags: []
+user_id: julien

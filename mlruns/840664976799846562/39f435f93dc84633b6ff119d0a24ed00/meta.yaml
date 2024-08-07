@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/39f435f93dc84633b6ff119d0a24ed00/artifacts
+end_time: 1722620077689
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 39f435f93dc84633b6ff119d0a24ed00
+run_name: upset-vole-237
+run_uuid: 39f435f93dc84633b6ff119d0a24ed00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620077656
+status: 3
+tags: []
+user_id: julien

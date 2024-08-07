@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0ec612a95d5b4ff5bde5734cea5411a8/artifacts
+end_time: 1722663302203
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0ec612a95d5b4ff5bde5734cea5411a8
+run_name: adaptable-toad-465
+run_uuid: 0ec612a95d5b4ff5bde5734cea5411a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663301964
+status: 3
+tags: []
+user_id: julien

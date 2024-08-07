@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5ede632ca55d46eb8c841da608fa8578/artifacts
+end_time: 1722643979845
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5ede632ca55d46eb8c841da608fa8578
+run_name: shivering-toad-416
+run_uuid: 5ede632ca55d46eb8c841da608fa8578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643979790
+status: 3
+tags: []
+user_id: julien

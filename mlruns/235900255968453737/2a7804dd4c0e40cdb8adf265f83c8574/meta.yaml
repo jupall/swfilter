@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2a7804dd4c0e40cdb8adf265f83c8574/artifacts
+end_time: 1722663254486
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2a7804dd4c0e40cdb8adf265f83c8574
+run_name: smiling-fish-683
+run_uuid: 2a7804dd4c0e40cdb8adf265f83c8574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663254375
+status: 3
+tags: []
+user_id: julien

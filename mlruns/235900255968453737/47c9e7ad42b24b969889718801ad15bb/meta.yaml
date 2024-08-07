@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/47c9e7ad42b24b969889718801ad15bb/artifacts
+end_time: 1722663353355
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 47c9e7ad42b24b969889718801ad15bb
+run_name: auspicious-fowl-195
+run_uuid: 47c9e7ad42b24b969889718801ad15bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663352806
+status: 3
+tags: []
+user_id: julien

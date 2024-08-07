@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a9bc6ee4fc8a4cc8b8927c51e20cea14/artifacts
+end_time: 1722644503507
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a9bc6ee4fc8a4cc8b8927c51e20cea14
+run_name: rogue-shrew-423
+run_uuid: a9bc6ee4fc8a4cc8b8927c51e20cea14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644503411
+status: 3
+tags: []
+user_id: julien

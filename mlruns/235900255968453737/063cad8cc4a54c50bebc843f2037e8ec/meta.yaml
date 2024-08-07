@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/063cad8cc4a54c50bebc843f2037e8ec/artifacts
+end_time: 1722652129881
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 063cad8cc4a54c50bebc843f2037e8ec
+run_name: amusing-frog-938
+run_uuid: 063cad8cc4a54c50bebc843f2037e8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652129783
+status: 3
+tags: []
+user_id: julien

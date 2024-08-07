@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/892b6abf8253420cac888d09e0bce3a2/artifacts
+deleted_time: 1722618664511
+end_time: 1722618477989
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 892b6abf8253420cac888d09e0bce3a2
+run_name: stately-snake-929
+run_uuid: 892b6abf8253420cac888d09e0bce3a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618477889
+status: 3
+tags: []
+user_id: julien

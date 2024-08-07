@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ead0e8a167eb40898bfc7b466f65623a/artifacts
+end_time: 1722619374324
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ead0e8a167eb40898bfc7b466f65623a
+run_name: secretive-pug-212
+run_uuid: ead0e8a167eb40898bfc7b466f65623a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619374288
+status: 3
+tags: []
+user_id: julien

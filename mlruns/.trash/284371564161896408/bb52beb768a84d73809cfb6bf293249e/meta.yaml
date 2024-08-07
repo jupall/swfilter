@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/bb52beb768a84d73809cfb6bf293249e/artifacts
+deleted_time: 1722618664511
+end_time: 1722618480533
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: bb52beb768a84d73809cfb6bf293249e
+run_name: dazzling-roo-955
+run_uuid: bb52beb768a84d73809cfb6bf293249e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618480494
+status: 3
+tags: []
+user_id: julien

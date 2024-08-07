@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ad481b2b9964438ea1b6036d230dcfe5/artifacts
+end_time: 1722644537680
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ad481b2b9964438ea1b6036d230dcfe5
+run_name: intelligent-perch-93
+run_uuid: ad481b2b9964438ea1b6036d230dcfe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644537424
+status: 3
+tags: []
+user_id: julien

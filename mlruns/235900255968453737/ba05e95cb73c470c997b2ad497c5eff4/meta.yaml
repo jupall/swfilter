@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ba05e95cb73c470c997b2ad497c5eff4/artifacts
+end_time: 1722648166536
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ba05e95cb73c470c997b2ad497c5eff4
+run_name: flawless-bear-63
+run_uuid: ba05e95cb73c470c997b2ad497c5eff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648166448
+status: 3
+tags: []
+user_id: julien

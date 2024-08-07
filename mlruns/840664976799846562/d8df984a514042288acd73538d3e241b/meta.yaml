@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d8df984a514042288acd73538d3e241b/artifacts
+end_time: 1722622916215
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d8df984a514042288acd73538d3e241b
+run_name: silent-fish-139
+run_uuid: d8df984a514042288acd73538d3e241b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622887293
+status: 3
+tags: []
+user_id: julien

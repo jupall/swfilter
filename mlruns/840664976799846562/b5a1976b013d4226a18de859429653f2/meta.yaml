@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b5a1976b013d4226a18de859429653f2/artifacts
+end_time: 1722619919127
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b5a1976b013d4226a18de859429653f2
+run_name: amusing-rat-249
+run_uuid: b5a1976b013d4226a18de859429653f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619916257
+status: 3
+tags: []
+user_id: julien

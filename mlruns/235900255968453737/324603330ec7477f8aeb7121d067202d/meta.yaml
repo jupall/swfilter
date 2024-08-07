@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/324603330ec7477f8aeb7121d067202d/artifacts
+end_time: 1722649175865
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 324603330ec7477f8aeb7121d067202d
+run_name: magnificent-lynx-366
+run_uuid: 324603330ec7477f8aeb7121d067202d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649175780
+status: 3
+tags: []
+user_id: julien

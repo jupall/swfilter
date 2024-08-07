@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b2992758616444d9bdc8dbe903ecbad1/artifacts
+end_time: 1722644416599
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b2992758616444d9bdc8dbe903ecbad1
+run_name: upbeat-dolphin-476
+run_uuid: b2992758616444d9bdc8dbe903ecbad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644416543
+status: 3
+tags: []
+user_id: julien

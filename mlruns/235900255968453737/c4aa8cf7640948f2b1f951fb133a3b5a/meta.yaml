@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c4aa8cf7640948f2b1f951fb133a3b5a/artifacts
+end_time: 1722658677706
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c4aa8cf7640948f2b1f951fb133a3b5a
+run_name: bedecked-vole-930
+run_uuid: c4aa8cf7640948f2b1f951fb133a3b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722658596611
+status: 3
+tags: []
+user_id: julien

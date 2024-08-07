@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2420e7769f454cdb97f4ccfb79fe78e5/artifacts
+end_time: 1722620089606
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2420e7769f454cdb97f4ccfb79fe78e5
+run_name: stylish-lynx-355
+run_uuid: 2420e7769f454cdb97f4ccfb79fe78e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620089479
+status: 3
+tags: []
+user_id: julien

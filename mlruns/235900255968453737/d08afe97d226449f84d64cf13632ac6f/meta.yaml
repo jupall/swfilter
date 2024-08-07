@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d08afe97d226449f84d64cf13632ac6f/artifacts
+end_time: 1722649209115
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d08afe97d226449f84d64cf13632ac6f
+run_name: nervous-slug-887
+run_uuid: d08afe97d226449f84d64cf13632ac6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649208849
+status: 3
+tags: []
+user_id: julien

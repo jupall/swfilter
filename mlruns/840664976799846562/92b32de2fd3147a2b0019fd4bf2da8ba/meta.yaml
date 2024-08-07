@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/92b32de2fd3147a2b0019fd4bf2da8ba/artifacts
+end_time: 1722643973591
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 92b32de2fd3147a2b0019fd4bf2da8ba
+run_name: hilarious-foal-797
+run_uuid: 92b32de2fd3147a2b0019fd4bf2da8ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643973541
+status: 3
+tags: []
+user_id: julien

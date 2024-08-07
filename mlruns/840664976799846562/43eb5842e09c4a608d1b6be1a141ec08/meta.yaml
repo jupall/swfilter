@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/43eb5842e09c4a608d1b6be1a141ec08/artifacts
+end_time: 1722619373605
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 43eb5842e09c4a608d1b6be1a141ec08
+run_name: funny-ray-1000
+run_uuid: 43eb5842e09c4a608d1b6be1a141ec08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373582
+status: 3
+tags: []
+user_id: julien

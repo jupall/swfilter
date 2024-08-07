@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/798c611bed5d4343b51867ad0d4ce446/artifacts
+end_time: 1722644066595
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 798c611bed5d4343b51867ad0d4ce446
+run_name: nimble-rook-35
+run_uuid: 798c611bed5d4343b51867ad0d4ce446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644065393
+status: 3
+tags: []
+user_id: julien

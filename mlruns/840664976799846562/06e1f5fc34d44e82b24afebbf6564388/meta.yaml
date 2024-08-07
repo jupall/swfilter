@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/06e1f5fc34d44e82b24afebbf6564388/artifacts
+end_time: 1722619389222
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 06e1f5fc34d44e82b24afebbf6564388
+run_name: trusting-fawn-131
+run_uuid: 06e1f5fc34d44e82b24afebbf6564388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619388993
+status: 3
+tags: []
+user_id: julien

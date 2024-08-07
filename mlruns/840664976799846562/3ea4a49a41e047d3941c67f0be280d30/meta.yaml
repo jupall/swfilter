@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3ea4a49a41e047d3941c67f0be280d30/artifacts
+end_time: 1722644088288
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3ea4a49a41e047d3941c67f0be280d30
+run_name: rumbling-vole-85
+run_uuid: 3ea4a49a41e047d3941c67f0be280d30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644085586
+status: 3
+tags: []
+user_id: julien

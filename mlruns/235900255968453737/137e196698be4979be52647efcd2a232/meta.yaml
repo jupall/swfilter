@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/137e196698be4979be52647efcd2a232/artifacts
+end_time: 1722662681261
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 137e196698be4979be52647efcd2a232
+run_name: monumental-skunk-870
+run_uuid: 137e196698be4979be52647efcd2a232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662679759
+status: 3
+tags: []
+user_id: julien

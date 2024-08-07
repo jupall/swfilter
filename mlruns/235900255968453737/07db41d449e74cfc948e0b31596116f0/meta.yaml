@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/07db41d449e74cfc948e0b31596116f0/artifacts
+end_time: 1722649190680
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 07db41d449e74cfc948e0b31596116f0
+run_name: invincible-ram-273
+run_uuid: 07db41d449e74cfc948e0b31596116f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649190481
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f12fad99746948ae98e8f7481e966e22/artifacts
+end_time: 1722662751955
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f12fad99746948ae98e8f7481e966e22
+run_name: unruly-grub-762
+run_uuid: f12fad99746948ae98e8f7481e966e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662751845
+status: 3
+tags: []
+user_id: julien

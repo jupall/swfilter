@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ba4802675cec4301904db1255d579895/artifacts
+end_time: 1722619405581
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ba4802675cec4301904db1255d579895
+run_name: nebulous-grouse-419
+run_uuid: ba4802675cec4301904db1255d579895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619405366
+status: 3
+tags: []
+user_id: julien

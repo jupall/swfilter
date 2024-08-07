@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/113896933dcf42f7a56e43886e82a816/artifacts
+deleted_time: 1722618939344
+end_time: 1722618896789
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 113896933dcf42f7a56e43886e82a816
+run_name: adventurous-auk-671
+run_uuid: 113896933dcf42f7a56e43886e82a816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618896726
+status: 3
+tags: []
+user_id: julien

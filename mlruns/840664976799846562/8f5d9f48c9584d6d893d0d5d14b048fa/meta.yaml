@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8f5d9f48c9584d6d893d0d5d14b048fa/artifacts
+end_time: 1722619405359
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8f5d9f48c9584d6d893d0d5d14b048fa
+run_name: omniscient-fowl-650
+run_uuid: 8f5d9f48c9584d6d893d0d5d14b048fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619405149
+status: 3
+tags: []
+user_id: julien

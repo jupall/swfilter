@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/07ac58b1571c45a6afea0035d6983ed3/artifacts
+end_time: 1722644478230
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 07ac58b1571c45a6afea0035d6983ed3
+run_name: painted-wolf-690
+run_uuid: 07ac58b1571c45a6afea0035d6983ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644477958
+status: 3
+tags: []
+user_id: julien

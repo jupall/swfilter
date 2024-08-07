@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/55893562c94f4ec7a49d97046d68c390/artifacts
+end_time: 1722662779659
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 55893562c94f4ec7a49d97046d68c390
+run_name: overjoyed-wren-995
+run_uuid: 55893562c94f4ec7a49d97046d68c390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662779417
+status: 3
+tags: []
+user_id: julien

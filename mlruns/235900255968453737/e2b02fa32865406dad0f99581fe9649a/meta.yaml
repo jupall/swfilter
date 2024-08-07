@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e2b02fa32865406dad0f99581fe9649a/artifacts
+end_time: 1722663314057
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e2b02fa32865406dad0f99581fe9649a
+run_name: handsome-elk-682
+run_uuid: e2b02fa32865406dad0f99581fe9649a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663313641
+status: 3
+tags: []
+user_id: julien

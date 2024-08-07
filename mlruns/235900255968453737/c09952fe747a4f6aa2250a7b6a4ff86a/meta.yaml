@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c09952fe747a4f6aa2250a7b6a4ff86a/artifacts
+end_time: 1722662447996
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c09952fe747a4f6aa2250a7b6a4ff86a
+run_name: orderly-panda-304
+run_uuid: c09952fe747a4f6aa2250a7b6a4ff86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662447735
+status: 3
+tags: []
+user_id: julien

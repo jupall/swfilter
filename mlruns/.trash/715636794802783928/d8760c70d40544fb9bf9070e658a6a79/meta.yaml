@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/d8760c70d40544fb9bf9070e658a6a79/artifacts
+deleted_time: 1722618419437
+end_time: 1722617862776
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: d8760c70d40544fb9bf9070e658a6a79
+run_name: polite-fawn-284
+run_uuid: d8760c70d40544fb9bf9070e658a6a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617862529
+status: 3
+tags: []
+user_id: julien

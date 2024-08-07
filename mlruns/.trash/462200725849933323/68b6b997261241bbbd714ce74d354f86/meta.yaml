@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/68b6b997261241bbbd714ce74d354f86/artifacts
+deleted_time: 1722618939344
+end_time: 1722618892392
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 68b6b997261241bbbd714ce74d354f86
+run_name: invincible-finch-549
+run_uuid: 68b6b997261241bbbd714ce74d354f86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618892324
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/351dcc7c83cb485eb70b4ae52831a2fb/artifacts
+end_time: 1722663348191
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 351dcc7c83cb485eb70b4ae52831a2fb
+run_name: unleashed-fish-529
+run_uuid: 351dcc7c83cb485eb70b4ae52831a2fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663347680
+status: 3
+tags: []
+user_id: julien

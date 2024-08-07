@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/1ac51e5fd1584b478f01a5e02ad5dfb1/artifacts
+deleted_time: 1722618419437
+end_time: 1722617785915
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 1ac51e5fd1584b478f01a5e02ad5dfb1
+run_name: honorable-skunk-261
+run_uuid: 1ac51e5fd1584b478f01a5e02ad5dfb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617785851
+status: 3
+tags: []
+user_id: julien

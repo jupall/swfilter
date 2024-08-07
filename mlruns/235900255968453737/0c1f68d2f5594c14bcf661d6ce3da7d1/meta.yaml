@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0c1f68d2f5594c14bcf661d6ce3da7d1/artifacts
+end_time: 1722652125000
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0c1f68d2f5594c14bcf661d6ce3da7d1
+run_name: efficient-hog-262
+run_uuid: 0c1f68d2f5594c14bcf661d6ce3da7d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652124898
+status: 3
+tags: []
+user_id: julien

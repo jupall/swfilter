@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d0e222161fc9432287df7719b4518618/artifacts
+end_time: 1722620089049
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d0e222161fc9432287df7719b4518618
+run_name: intelligent-wasp-61
+run_uuid: d0e222161fc9432287df7719b4518618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620088913
+status: 3
+tags: []
+user_id: julien

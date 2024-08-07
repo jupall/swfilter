@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fb9bd85bad53457f899061ac57b20e2a/artifacts
+end_time: 1722663260884
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fb9bd85bad53457f899061ac57b20e2a
+run_name: luminous-auk-530
+run_uuid: fb9bd85bad53457f899061ac57b20e2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663260772
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/866db20286694759892c5a9637d7a079/artifacts
+end_time: 1722653153764
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 866db20286694759892c5a9637d7a079
+run_name: merciful-steed-1000
+run_uuid: 866db20286694759892c5a9637d7a079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722653080400
+status: 3
+tags: []
+user_id: julien

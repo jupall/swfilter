@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/54684427f7f9483cb9b9894345473295/artifacts
+end_time: 1722649324523
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 54684427f7f9483cb9b9894345473295
+run_name: angry-hen-21
+run_uuid: 54684427f7f9483cb9b9894345473295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649320610
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/31c4955e927441fb96c6e397e723f131/artifacts
+end_time: 1722644443423
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 31c4955e927441fb96c6e397e723f131
+run_name: merciful-crow-82
+run_uuid: 31c4955e927441fb96c6e397e723f131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644443226
+status: 3
+tags: []
+user_id: julien

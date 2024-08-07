@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/48726e1a10c44b79bec4dd3f581c9182/artifacts
+end_time: 1722625016600
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 48726e1a10c44b79bec4dd3f581c9182
+run_name: capable-skink-142
+run_uuid: 48726e1a10c44b79bec4dd3f581c9182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625016458
+status: 3
+tags: []
+user_id: julien

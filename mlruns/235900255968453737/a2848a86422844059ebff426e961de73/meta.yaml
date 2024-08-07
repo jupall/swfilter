@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a2848a86422844059ebff426e961de73/artifacts
+end_time: 1722652139616
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a2848a86422844059ebff426e961de73
+run_name: upset-crane-320
+run_uuid: a2848a86422844059ebff426e961de73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652139360
+status: 3
+tags: []
+user_id: julien

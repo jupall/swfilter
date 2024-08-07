@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/63d4cbc3d7ad43dd95c64272fa516d6d/artifacts
+deleted_time: 1722618939344
+end_time: 1722618694793
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 63d4cbc3d7ad43dd95c64272fa516d6d
+run_name: upbeat-ox-220
+run_uuid: 63d4cbc3d7ad43dd95c64272fa516d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618694734
+status: 3
+tags: []
+user_id: julien

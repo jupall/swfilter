@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/2c0efe0c5301444c99c2260af28a09ca/artifacts
+deleted_time: 1722619353121
+end_time: 1722619061315
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 2c0efe0c5301444c99c2260af28a09ca
+run_name: learned-panda-609
+run_uuid: 2c0efe0c5301444c99c2260af28a09ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619061110
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/250dede49de840bf80a58ae73a14b0b1/artifacts
+end_time: 1722652130329
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 250dede49de840bf80a58ae73a14b0b1
+run_name: bustling-ape-449
+run_uuid: 250dede49de840bf80a58ae73a14b0b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652130230
+status: 3
+tags: []
+user_id: julien

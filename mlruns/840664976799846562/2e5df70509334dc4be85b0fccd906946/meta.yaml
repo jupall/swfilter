@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2e5df70509334dc4be85b0fccd906946/artifacts
+end_time: 1722644011969
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2e5df70509334dc4be85b0fccd906946
+run_name: painted-squid-275
+run_uuid: 2e5df70509334dc4be85b0fccd906946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644011729
+status: 3
+tags: []
+user_id: julien

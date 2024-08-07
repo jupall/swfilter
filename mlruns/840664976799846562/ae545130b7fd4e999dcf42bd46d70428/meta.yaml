@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ae545130b7fd4e999dcf42bd46d70428/artifacts
+end_time: 1722643977386
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ae545130b7fd4e999dcf42bd46d70428
+run_name: bright-crane-447
+run_uuid: ae545130b7fd4e999dcf42bd46d70428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643977332
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/25e802ae4efb47448f1a6ca97037c3f6/artifacts
+deleted_time: 1722618664511
+end_time: 1722618482111
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 25e802ae4efb47448f1a6ca97037c3f6
+run_name: nebulous-goose-407
+run_uuid: 25e802ae4efb47448f1a6ca97037c3f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618482071
+status: 3
+tags: []
+user_id: julien

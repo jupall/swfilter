@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e1ad5774a10c481b979bdded31631c34/artifacts
+end_time: 1722663302709
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e1ad5774a10c481b979bdded31631c34
+run_name: sincere-goose-467
+run_uuid: e1ad5774a10c481b979bdded31631c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663302472
+status: 3
+tags: []
+user_id: julien

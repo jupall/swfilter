@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d15233b7b80649329b4252cec26c3b8e/artifacts
+end_time: 1722652134929
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d15233b7b80649329b4252cec26c3b8e
+run_name: smiling-gull-989
+run_uuid: d15233b7b80649329b4252cec26c3b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652134658
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5f020ed83a07446c88a291e24a6237ac/artifacts
+end_time: 1722644527045
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5f020ed83a07446c88a291e24a6237ac
+run_name: capable-hare-477
+run_uuid: 5f020ed83a07446c88a291e24a6237ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644526781
+status: 3
+tags: []
+user_id: julien

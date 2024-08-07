@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b99cc9645a374f40b77bdf09cf1860e1/artifacts
+end_time: 1722644419398
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b99cc9645a374f40b77bdf09cf1860e1
+run_name: unequaled-calf-287
+run_uuid: b99cc9645a374f40b77bdf09cf1860e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644419344
+status: 3
+tags: []
+user_id: julien

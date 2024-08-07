@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f3ab1286d52145e8bc7d3156a0d7331a/artifacts
+end_time: 1722662710636
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f3ab1286d52145e8bc7d3156a0d7331a
+run_name: auspicious-ape-57
+run_uuid: f3ab1286d52145e8bc7d3156a0d7331a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662709313
+status: 3
+tags: []
+user_id: julien

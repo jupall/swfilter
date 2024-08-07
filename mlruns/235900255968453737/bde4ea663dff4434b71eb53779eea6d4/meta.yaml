@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bde4ea663dff4434b71eb53779eea6d4/artifacts
+end_time: 1722662431609
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bde4ea663dff4434b71eb53779eea6d4
+run_name: lyrical-asp-608
+run_uuid: bde4ea663dff4434b71eb53779eea6d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662431367
+status: 3
+tags: []
+user_id: julien

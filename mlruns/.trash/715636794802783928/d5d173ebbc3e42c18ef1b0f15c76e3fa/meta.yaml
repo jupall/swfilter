@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/d5d173ebbc3e42c18ef1b0f15c76e3fa/artifacts
+deleted_time: 1722618419437
+end_time: 1722617865533
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: d5d173ebbc3e42c18ef1b0f15c76e3fa
+run_name: secretive-bat-216
+run_uuid: d5d173ebbc3e42c18ef1b0f15c76e3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617865289
+status: 3
+tags: []
+user_id: julien

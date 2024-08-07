@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/79cbe04ec9aa4260b21040fc46064e85/artifacts
+end_time: 1722662770273
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 79cbe04ec9aa4260b21040fc46064e85
+run_name: dazzling-hare-372
+run_uuid: 79cbe04ec9aa4260b21040fc46064e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662770026
+status: 3
+tags: []
+user_id: julien

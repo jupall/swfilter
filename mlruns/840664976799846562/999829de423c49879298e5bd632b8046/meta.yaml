@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/999829de423c49879298e5bd632b8046/artifacts
+end_time: 1722644450020
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 999829de423c49879298e5bd632b8046
+run_name: traveling-jay-810
+run_uuid: 999829de423c49879298e5bd632b8046
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644449819
+status: 3
+tags: []
+user_id: julien

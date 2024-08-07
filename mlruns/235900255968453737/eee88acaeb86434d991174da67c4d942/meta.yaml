@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/eee88acaeb86434d991174da67c4d942/artifacts
+end_time: 1722663259368
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: eee88acaeb86434d991174da67c4d942
+run_name: luminous-sloth-831
+run_uuid: eee88acaeb86434d991174da67c4d942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663259255
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a5bfe21129d34481b5e80024e30fae96/artifacts
+end_time: 1722644509376
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a5bfe21129d34481b5e80024e30fae96
+run_name: entertaining-fly-459
+run_uuid: a5bfe21129d34481b5e80024e30fae96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644509302
+status: 3
+tags: []
+user_id: julien

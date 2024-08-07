@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/db0471e944d54c9b938bbfa054f6dfe6/artifacts
+end_time: 1722619372871
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: db0471e944d54c9b938bbfa054f6dfe6
+run_name: colorful-perch-26
+run_uuid: db0471e944d54c9b938bbfa054f6dfe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619372831
+status: 3
+tags: []
+user_id: julien

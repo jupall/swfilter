@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/00ca8bed689a444a8c369676590d68b7/artifacts
+end_time: 1722644512666
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 00ca8bed689a444a8c369676590d68b7
+run_name: capricious-stork-320
+run_uuid: 00ca8bed689a444a8c369676590d68b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644512573
+status: 3
+tags: []
+user_id: julien

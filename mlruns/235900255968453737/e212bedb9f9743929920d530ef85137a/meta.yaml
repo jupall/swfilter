@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e212bedb9f9743929920d530ef85137a/artifacts
+end_time: 1722662452730
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e212bedb9f9743929920d530ef85137a
+run_name: bald-squirrel-71
+run_uuid: e212bedb9f9743929920d530ef85137a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662452463
+status: 3
+tags: []
+user_id: julien

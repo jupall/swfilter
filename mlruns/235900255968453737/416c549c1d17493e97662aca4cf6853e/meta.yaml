@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/416c549c1d17493e97662aca4cf6853e/artifacts
+end_time: 1722662753562
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 416c549c1d17493e97662aca4cf6853e
+run_name: shivering-snake-922
+run_uuid: 416c549c1d17493e97662aca4cf6853e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662753355
+status: 3
+tags: []
+user_id: julien

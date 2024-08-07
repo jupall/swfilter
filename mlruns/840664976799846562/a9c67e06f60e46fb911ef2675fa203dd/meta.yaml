@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a9c67e06f60e46fb911ef2675fa203dd/artifacts
+end_time: 1722644525978
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a9c67e06f60e46fb911ef2675fa203dd
+run_name: casual-lynx-768
+run_uuid: a9c67e06f60e46fb911ef2675fa203dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644525732
+status: 3
+tags: []
+user_id: julien

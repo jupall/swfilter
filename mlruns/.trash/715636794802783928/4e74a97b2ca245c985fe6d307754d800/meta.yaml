@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/4e74a97b2ca245c985fe6d307754d800/artifacts
+deleted_time: 1722618419437
+end_time: 1722617782608
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 4e74a97b2ca245c985fe6d307754d800
+run_name: merciful-gull-387
+run_uuid: 4e74a97b2ca245c985fe6d307754d800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617782545
+status: 3
+tags: []
+user_id: julien

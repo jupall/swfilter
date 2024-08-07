@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/884bf34355f04a1fa85aa1a4ce21c05c/artifacts
+end_time: 1722643855486
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 884bf34355f04a1fa85aa1a4ce21c05c
+run_name: unequaled-croc-507
+run_uuid: 884bf34355f04a1fa85aa1a4ce21c05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643855442
+status: 3
+tags: []
+user_id: julien

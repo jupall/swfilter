@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/54397dc9e06e4812abe141b4a2418d6c/artifacts
+end_time: 1722651933154
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 54397dc9e06e4812abe141b4a2418d6c
+run_name: big-calf-808
+run_uuid: 54397dc9e06e4812abe141b4a2418d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651933064
+status: 3
+tags: []
+user_id: julien

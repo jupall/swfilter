@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e14e12e6d4234d2f928f0d2339237f42/artifacts
+end_time: 1722620188496
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e14e12e6d4234d2f928f0d2339237f42
+run_name: upset-bird-817
+run_uuid: e14e12e6d4234d2f928f0d2339237f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620162640
+status: 3
+tags: []
+user_id: julien

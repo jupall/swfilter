@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/331b9f4bb2bd4f2994b30c90529c1a9c/artifacts
+deleted_time: 1722618939344
+end_time: 1722618707295
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 331b9f4bb2bd4f2994b30c90529c1a9c
+run_name: popular-ray-778
+run_uuid: 331b9f4bb2bd4f2994b30c90529c1a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618707066
+status: 3
+tags: []
+user_id: julien

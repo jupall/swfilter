@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1ddfbb8621224e1f936f562fcff89792/artifacts
+end_time: 1722644458592
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1ddfbb8621224e1f936f562fcff89792
+run_name: colorful-calf-796
+run_uuid: 1ddfbb8621224e1f936f562fcff89792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644457905
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c5f66d2293374541892733aaf6bc4311/artifacts
+end_time: 1722662457374
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c5f66d2293374541892733aaf6bc4311
+run_name: popular-pig-57
+run_uuid: c5f66d2293374541892733aaf6bc4311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662457112
+status: 3
+tags: []
+user_id: julien

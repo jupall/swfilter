@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/4d7d326392204c76af5a2e3d6a2c5dff/artifacts
+deleted_time: 1722618419437
+end_time: 1722618287413
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 4d7d326392204c76af5a2e3d6a2c5dff
+run_name: stylish-koi-259
+run_uuid: 4d7d326392204c76af5a2e3d6a2c5dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618280983
+status: 3
+tags: []
+user_id: julien

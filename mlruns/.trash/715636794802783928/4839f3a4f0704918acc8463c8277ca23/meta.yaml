@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/4839f3a4f0704918acc8463c8277ca23/artifacts
+deleted_time: 1722618419437
+end_time: 1722617854552
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 4839f3a4f0704918acc8463c8277ca23
+run_name: unique-gnat-626
+run_uuid: 4839f3a4f0704918acc8463c8277ca23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617854314
+status: 3
+tags: []
+user_id: julien

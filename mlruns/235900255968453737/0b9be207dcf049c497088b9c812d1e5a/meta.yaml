@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0b9be207dcf049c497088b9c812d1e5a/artifacts
+end_time: 1722648162708
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0b9be207dcf049c497088b9c812d1e5a
+run_name: agreeable-sow-497
+run_uuid: 0b9be207dcf049c497088b9c812d1e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648162616
+status: 3
+tags: []
+user_id: julien

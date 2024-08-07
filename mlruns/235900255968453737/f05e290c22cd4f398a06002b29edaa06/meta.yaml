@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f05e290c22cd4f398a06002b29edaa06/artifacts
+end_time: 1722648358902
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f05e290c22cd4f398a06002b29edaa06
+run_name: able-finch-409
+run_uuid: f05e290c22cd4f398a06002b29edaa06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648342184
+status: 3
+tags: []
+user_id: julien

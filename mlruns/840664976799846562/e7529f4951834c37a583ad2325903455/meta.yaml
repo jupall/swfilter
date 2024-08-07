@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e7529f4951834c37a583ad2325903455/artifacts
+end_time: 1722619388762
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e7529f4951834c37a583ad2325903455
+run_name: melodic-elk-262
+run_uuid: e7529f4951834c37a583ad2325903455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619388552
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/faf5febeea4e4164b4cd3e8cda24827b/artifacts
+end_time: 1722649224381
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: faf5febeea4e4164b4cd3e8cda24827b
+run_name: luminous-doe-200
+run_uuid: faf5febeea4e4164b4cd3e8cda24827b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649224114
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/df799a586ffa4cc7bb6753c474b07b8f/artifacts
+end_time: 1722644419923
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: df799a586ffa4cc7bb6753c474b07b8f
+run_name: honorable-owl-567
+run_uuid: df799a586ffa4cc7bb6753c474b07b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644419869
+status: 3
+tags: []
+user_id: julien

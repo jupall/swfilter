@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/eba1f9c0e1bf4d5ab77c42a5dc258a72/artifacts
+end_time: 1722662420782
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: eba1f9c0e1bf4d5ab77c42a5dc258a72
+run_name: rumbling-hound-717
+run_uuid: eba1f9c0e1bf4d5ab77c42a5dc258a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662420512
+status: 3
+tags: []
+user_id: julien

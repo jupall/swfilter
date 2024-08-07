@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/33adbb0dca974b41beead2d6f9bcc91c/artifacts
+end_time: 1722643871761
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 33adbb0dca974b41beead2d6f9bcc91c
+run_name: bright-turtle-541
+run_uuid: 33adbb0dca974b41beead2d6f9bcc91c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643871546
+status: 3
+tags: []
+user_id: julien

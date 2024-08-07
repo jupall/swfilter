@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e600e9ff061f4d8ea602fae5ccc22dea/artifacts
+end_time: 1722662763373
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e600e9ff061f4d8ea602fae5ccc22dea
+run_name: intelligent-hen-706
+run_uuid: e600e9ff061f4d8ea602fae5ccc22dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662763108
+status: 3
+tags: []
+user_id: julien

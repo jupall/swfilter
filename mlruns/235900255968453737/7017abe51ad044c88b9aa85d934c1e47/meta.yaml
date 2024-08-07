@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7017abe51ad044c88b9aa85d934c1e47/artifacts
+end_time: 1722651933469
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7017abe51ad044c88b9aa85d934c1e47
+run_name: valuable-ox-595
+run_uuid: 7017abe51ad044c88b9aa85d934c1e47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651933374
+status: 3
+tags: []
+user_id: julien

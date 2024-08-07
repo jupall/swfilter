@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ad38fd69410740549a07ea2d0d3d7bc2/artifacts
+end_time: 1722662453282
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ad38fd69410740549a07ea2d0d3d7bc2
+run_name: luminous-skink-482
+run_uuid: ad38fd69410740549a07ea2d0d3d7bc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662453021
+status: 3
+tags: []
+user_id: julien

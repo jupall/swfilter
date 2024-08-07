@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a65472dca9424d579b261b8c0cda3423/artifacts
+end_time: 1722644277603
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a65472dca9424d579b261b8c0cda3423
+run_name: gaudy-moose-397
+run_uuid: a65472dca9424d579b261b8c0cda3423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644274791
+status: 3
+tags: []
+user_id: julien

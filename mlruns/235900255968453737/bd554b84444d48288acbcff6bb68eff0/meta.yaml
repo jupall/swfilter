@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bd554b84444d48288acbcff6bb68eff0/artifacts
+end_time: 1722649488053
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bd554b84444d48288acbcff6bb68eff0
+run_name: upset-dove-802
+run_uuid: bd554b84444d48288acbcff6bb68eff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649480285
+status: 3
+tags: []
+user_id: julien

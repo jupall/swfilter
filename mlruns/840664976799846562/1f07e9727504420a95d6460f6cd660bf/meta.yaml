@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1f07e9727504420a95d6460f6cd660bf/artifacts
+end_time: 1722619377364
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1f07e9727504420a95d6460f6cd660bf
+run_name: caring-dog-239
+run_uuid: 1f07e9727504420a95d6460f6cd660bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619377325
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a4c2010c5d85457e976a95bcb34268ea/artifacts
+end_time: 1722625147017
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a4c2010c5d85457e976a95bcb34268ea
+run_name: efficient-finch-54
+run_uuid: a4c2010c5d85457e976a95bcb34268ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625146973
+status: 3
+tags: []
+user_id: julien

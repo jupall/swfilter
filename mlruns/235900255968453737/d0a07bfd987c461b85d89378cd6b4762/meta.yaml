@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d0a07bfd987c461b85d89378cd6b4762/artifacts
+end_time: 1722652121898
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d0a07bfd987c461b85d89378cd6b4762
+run_name: bemused-calf-465
+run_uuid: d0a07bfd987c461b85d89378cd6b4762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652121791
+status: 3
+tags: []
+user_id: julien

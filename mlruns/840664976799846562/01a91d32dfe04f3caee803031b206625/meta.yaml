@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/01a91d32dfe04f3caee803031b206625/artifacts
+end_time: 1722625064274
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 01a91d32dfe04f3caee803031b206625
+run_name: bold-elk-714
+run_uuid: 01a91d32dfe04f3caee803031b206625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625063432
+status: 3
+tags: []
+user_id: julien

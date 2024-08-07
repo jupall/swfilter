@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e78037c52e084542b6ed03cb4bee98bc/artifacts
+end_time: 1722663256403
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e78037c52e084542b6ed03cb4bee98bc
+run_name: skittish-gull-762
+run_uuid: e78037c52e084542b6ed03cb4bee98bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663256290
+status: 3
+tags: []
+user_id: julien

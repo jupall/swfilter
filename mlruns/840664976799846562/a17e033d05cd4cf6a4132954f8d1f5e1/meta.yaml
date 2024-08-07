@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a17e033d05cd4cf6a4132954f8d1f5e1/artifacts
+end_time: 1722620076941
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a17e033d05cd4cf6a4132954f8d1f5e1
+run_name: resilient-ram-964
+run_uuid: a17e033d05cd4cf6a4132954f8d1f5e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620076906
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f9f8ad9c1db54014b1141e718c5a2d45/artifacts
+end_time: 1722644005697
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f9f8ad9c1db54014b1141e718c5a2d45
+run_name: luminous-eel-962
+run_uuid: f9f8ad9c1db54014b1141e718c5a2d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644005459
+status: 3
+tags: []
+user_id: julien

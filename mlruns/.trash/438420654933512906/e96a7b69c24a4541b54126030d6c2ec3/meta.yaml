@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/e96a7b69c24a4541b54126030d6c2ec3/artifacts
+deleted_time: 1722619353121
+end_time: 1722619049933
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: e96a7b69c24a4541b54126030d6c2ec3
+run_name: unleashed-asp-961
+run_uuid: e96a7b69c24a4541b54126030d6c2ec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619049896
+status: 3
+tags: []
+user_id: julien

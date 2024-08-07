@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/61feba7ce0424384a4669cdb1d10d998/artifacts
+end_time: 1722643858633
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 61feba7ce0424384a4669cdb1d10d998
+run_name: legendary-koi-600
+run_uuid: 61feba7ce0424384a4669cdb1d10d998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643858589
+status: 3
+tags: []
+user_id: julien

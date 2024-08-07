@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3c62ee484fac4608a704c646e7e2f4ae/artifacts
+end_time: 1722643974133
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3c62ee484fac4608a704c646e7e2f4ae
+run_name: amazing-yak-747
+run_uuid: 3c62ee484fac4608a704c646e7e2f4ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643974082
+status: 3
+tags: []
+user_id: julien

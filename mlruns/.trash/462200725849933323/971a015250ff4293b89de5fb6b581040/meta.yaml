@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/971a015250ff4293b89de5fb6b581040/artifacts
+deleted_time: 1722618939344
+end_time: 1722618892234
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 971a015250ff4293b89de5fb6b581040
+run_name: polite-sloth-916
+run_uuid: 971a015250ff4293b89de5fb6b581040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618892164
+status: 3
+tags: []
+user_id: julien

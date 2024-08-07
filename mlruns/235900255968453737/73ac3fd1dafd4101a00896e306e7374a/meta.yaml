@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/73ac3fd1dafd4101a00896e306e7374a/artifacts
+end_time: 1722648175296
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 73ac3fd1dafd4101a00896e306e7374a
+run_name: unequaled-colt-733
+run_uuid: 73ac3fd1dafd4101a00896e306e7374a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648175028
+status: 3
+tags: []
+user_id: julien

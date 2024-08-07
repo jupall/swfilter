@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cb38e6fa586c458bbcbdba5215103396/artifacts
+end_time: 1722663301435
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cb38e6fa586c458bbcbdba5215103396
+run_name: puzzled-deer-633
+run_uuid: cb38e6fa586c458bbcbdba5215103396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663301194
+status: 3
+tags: []
+user_id: julien

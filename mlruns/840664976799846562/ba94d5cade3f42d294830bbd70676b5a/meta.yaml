@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ba94d5cade3f42d294830bbd70676b5a/artifacts
+end_time: 1722619613401
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ba94d5cade3f42d294830bbd70676b5a
+run_name: fearless-gnu-309
+run_uuid: ba94d5cade3f42d294830bbd70676b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619605226
+status: 3
+tags: []
+user_id: julien

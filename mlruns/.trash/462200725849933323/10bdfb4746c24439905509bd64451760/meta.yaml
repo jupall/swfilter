@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/10bdfb4746c24439905509bd64451760/artifacts
+deleted_time: 1722618939344
+end_time: 1722618903992
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 10bdfb4746c24439905509bd64451760
+run_name: thoughtful-seal-284
+run_uuid: 10bdfb4746c24439905509bd64451760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618903754
+status: 3
+tags: []
+user_id: julien

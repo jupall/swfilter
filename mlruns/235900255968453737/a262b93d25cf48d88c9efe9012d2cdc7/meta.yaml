@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a262b93d25cf48d88c9efe9012d2cdc7/artifacts
+end_time: 1722649046771
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a262b93d25cf48d88c9efe9012d2cdc7
+run_name: defiant-crane-490
+run_uuid: a262b93d25cf48d88c9efe9012d2cdc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649042308
+status: 3
+tags: []
+user_id: julien

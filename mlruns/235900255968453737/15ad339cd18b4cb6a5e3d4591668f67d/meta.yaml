@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/15ad339cd18b4cb6a5e3d4591668f67d/artifacts
+end_time: 1722651587455
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 15ad339cd18b4cb6a5e3d4591668f67d
+run_name: ambitious-goose-176
+run_uuid: 15ad339cd18b4cb6a5e3d4591668f67d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651572924
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/284c79e45c5c465d8bd48c2fa52060c4/artifacts
+end_time: 1722644505063
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 284c79e45c5c465d8bd48c2fa52060c4
+run_name: flawless-koi-698
+run_uuid: 284c79e45c5c465d8bd48c2fa52060c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644504989
+status: 3
+tags: []
+user_id: julien

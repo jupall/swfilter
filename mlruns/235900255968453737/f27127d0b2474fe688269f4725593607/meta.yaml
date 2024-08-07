@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f27127d0b2474fe688269f4725593607/artifacts
+end_time: 1722648162140
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f27127d0b2474fe688269f4725593607
+run_name: peaceful-panda-77
+run_uuid: f27127d0b2474fe688269f4725593607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648162044
+status: 3
+tags: []
+user_id: julien

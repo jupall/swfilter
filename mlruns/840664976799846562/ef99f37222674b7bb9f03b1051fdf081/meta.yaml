@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ef99f37222674b7bb9f03b1051fdf081/artifacts
+end_time: 1722643992680
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ef99f37222674b7bb9f03b1051fdf081
+run_name: rebellious-wasp-409
+run_uuid: ef99f37222674b7bb9f03b1051fdf081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643992456
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a3d49030f93f43c98f425c009ed26368/artifacts
+end_time: 1722662440605
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a3d49030f93f43c98f425c009ed26368
+run_name: classy-foal-903
+run_uuid: a3d49030f93f43c98f425c009ed26368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662440358
+status: 3
+tags: []
+user_id: julien

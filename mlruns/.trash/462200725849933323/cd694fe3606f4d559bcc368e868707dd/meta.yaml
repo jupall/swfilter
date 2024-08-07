@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/cd694fe3606f4d559bcc368e868707dd/artifacts
+deleted_time: 1722618939344
+end_time: 1722618700273
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: cd694fe3606f4d559bcc368e868707dd
+run_name: unequaled-quail-352
+run_uuid: cd694fe3606f4d559bcc368e868707dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618700210
+status: 3
+tags: []
+user_id: julien

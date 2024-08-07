@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/2e778fb6c70f445287d583ce0ec9d9f5/artifacts
+deleted_time: 1722618664511
+end_time: 1722618483525
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 2e778fb6c70f445287d583ce0ec9d9f5
+run_name: youthful-quail-671
+run_uuid: 2e778fb6c70f445287d583ce0ec9d9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618483488
+status: 3
+tags: []
+user_id: julien

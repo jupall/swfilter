@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ebeea138ab9047a3b0d0aec0e79735c9/artifacts
+end_time: 1722648279596
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ebeea138ab9047a3b0d0aec0e79735c9
+run_name: clumsy-squirrel-338
+run_uuid: ebeea138ab9047a3b0d0aec0e79735c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648271802
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b2c64930d3d444c68f835a9fcf2f0ee5/artifacts
+end_time: 1722619401851
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b2c64930d3d444c68f835a9fcf2f0ee5
+run_name: invincible-bird-502
+run_uuid: b2c64930d3d444c68f835a9fcf2f0ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619401637
+status: 3
+tags: []
+user_id: julien

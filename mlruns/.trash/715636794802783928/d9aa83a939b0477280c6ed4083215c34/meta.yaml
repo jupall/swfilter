@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/d9aa83a939b0477280c6ed4083215c34/artifacts
+deleted_time: 1722618419437
+end_time: 1722618094037
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: d9aa83a939b0477280c6ed4083215c34
+run_name: delightful-goat-565
+run_uuid: d9aa83a939b0477280c6ed4083215c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618088657
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/624b903547e24a718f7b6156a0a63933/artifacts
+deleted_time: 1722618939344
+end_time: 1722618905505
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 624b903547e24a718f7b6156a0a63933
+run_name: dazzling-shrew-664
+run_uuid: 624b903547e24a718f7b6156a0a63933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618905268
+status: 3
+tags: []
+user_id: julien

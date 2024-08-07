@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0945b4213c404f3e9db2720a9ba69f94/artifacts
+end_time: 1722643937979
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0945b4213c404f3e9db2720a9ba69f94
+run_name: silent-snake-160
+run_uuid: 0945b4213c404f3e9db2720a9ba69f94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643937352
+status: 3
+tags: []
+user_id: julien

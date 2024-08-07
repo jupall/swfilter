@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d834400b33d048e5941354ea605e225a/artifacts
+end_time: 1722663299426
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d834400b33d048e5941354ea605e225a
+run_name: able-shark-241
+run_uuid: d834400b33d048e5941354ea605e225a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663299195
+status: 3
+tags: []
+user_id: julien

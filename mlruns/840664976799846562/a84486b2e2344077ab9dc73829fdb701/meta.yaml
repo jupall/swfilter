@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a84486b2e2344077ab9dc73829fdb701/artifacts
+end_time: 1722620087521
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a84486b2e2344077ab9dc73829fdb701
+run_name: bemused-shark-407
+run_uuid: a84486b2e2344077ab9dc73829fdb701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620087352
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/69d92110ed4649e597825c3ae6563b4e/artifacts
+end_time: 1722648207037
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 69d92110ed4649e597825c3ae6563b4e
+run_name: popular-foal-89
+run_uuid: 69d92110ed4649e597825c3ae6563b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648206816
+status: 3
+tags: []
+user_id: julien

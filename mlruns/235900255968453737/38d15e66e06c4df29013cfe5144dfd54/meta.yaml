@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/38d15e66e06c4df29013cfe5144dfd54/artifacts
+end_time: 1722648204563
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 38d15e66e06c4df29013cfe5144dfd54
+run_name: rumbling-newt-622
+run_uuid: 38d15e66e06c4df29013cfe5144dfd54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648204352
+status: 3
+tags: []
+user_id: julien

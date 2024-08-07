@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2e3822334f69492f8a6f37e42cad772e/artifacts
+end_time: 1722619373105
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2e3822334f69492f8a6f37e42cad772e
+run_name: stylish-asp-37
+run_uuid: 2e3822334f69492f8a6f37e42cad772e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373061
+status: 3
+tags: []
+user_id: julien

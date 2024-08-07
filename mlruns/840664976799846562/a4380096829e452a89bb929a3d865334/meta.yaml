@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a4380096829e452a89bb929a3d865334/artifacts
+end_time: 1722625017111
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a4380096829e452a89bb929a3d865334
+run_name: silent-eel-777
+run_uuid: a4380096829e452a89bb929a3d865334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625016980
+status: 3
+tags: []
+user_id: julien

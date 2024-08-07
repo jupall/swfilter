@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ac9a140c2652466db559ff545ee9ddeb/artifacts
+end_time: 1722652122258
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ac9a140c2652466db559ff545ee9ddeb
+run_name: placid-perch-573
+run_uuid: ac9a140c2652466db559ff545ee9ddeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652122153
+status: 3
+tags: []
+user_id: julien

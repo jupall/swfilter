@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4337f70cb9b2457693fe9159aff98a69/artifacts
+end_time: 1722625008148
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4337f70cb9b2457693fe9159aff98a69
+run_name: rumbling-squid-557
+run_uuid: 4337f70cb9b2457693fe9159aff98a69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625008115
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/3ca46f989f374f6a87e5b2e6b9aab048/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897572
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 3ca46f989f374f6a87e5b2e6b9aab048
+run_name: aged-robin-940
+run_uuid: 3ca46f989f374f6a87e5b2e6b9aab048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897510
+status: 3
+tags: []
+user_id: julien

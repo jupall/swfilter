@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b332e498b0c94c1c94bfe54012cce67b/artifacts
+end_time: 1722643865218
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b332e498b0c94c1c94bfe54012cce67b
+run_name: selective-carp-340
+run_uuid: b332e498b0c94c1c94bfe54012cce67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643865007
+status: 3
+tags: []
+user_id: julien

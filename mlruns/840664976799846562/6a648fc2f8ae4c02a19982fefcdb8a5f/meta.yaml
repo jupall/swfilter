@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6a648fc2f8ae4c02a19982fefcdb8a5f/artifacts
+end_time: 1722644426230
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6a648fc2f8ae4c02a19982fefcdb8a5f
+run_name: fortunate-dog-722
+run_uuid: 6a648fc2f8ae4c02a19982fefcdb8a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644426043
+status: 3
+tags: []
+user_id: julien

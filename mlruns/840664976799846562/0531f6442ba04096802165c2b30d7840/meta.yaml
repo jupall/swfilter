@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0531f6442ba04096802165c2b30d7840/artifacts
+end_time: 1722631168848
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0531f6442ba04096802165c2b30d7840
+run_name: suave-bass-750
+run_uuid: 0531f6442ba04096802165c2b30d7840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722631052872
+status: 3
+tags: []
+user_id: julien

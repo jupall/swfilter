@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/abf3291c4aed445a9ceed4eb67005fad/artifacts
+end_time: 1722619373183
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: abf3291c4aed445a9ceed4eb67005fad
+run_name: marvelous-bird-610
+run_uuid: abf3291c4aed445a9ceed4eb67005fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373158
+status: 3
+tags: []
+user_id: julien

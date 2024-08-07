@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/96e4c5b0a0794998b94a37985cdae125/artifacts
+end_time: 1722649215041
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 96e4c5b0a0794998b94a37985cdae125
+run_name: monumental-pug-938
+run_uuid: 96e4c5b0a0794998b94a37985cdae125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649214773
+status: 3
+tags: []
+user_id: julien

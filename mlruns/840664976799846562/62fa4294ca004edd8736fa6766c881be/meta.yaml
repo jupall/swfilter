@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/62fa4294ca004edd8736fa6766c881be/artifacts
+end_time: 1722643988034
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 62fa4294ca004edd8736fa6766c881be
+run_name: blushing-tern-283
+run_uuid: 62fa4294ca004edd8736fa6766c881be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643987794
+status: 3
+tags: []
+user_id: julien

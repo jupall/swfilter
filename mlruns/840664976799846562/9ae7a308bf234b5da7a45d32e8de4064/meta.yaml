@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9ae7a308bf234b5da7a45d32e8de4064/artifacts
+end_time: 1722643899347
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9ae7a308bf234b5da7a45d32e8de4064
+run_name: flawless-cow-576
+run_uuid: 9ae7a308bf234b5da7a45d32e8de4064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643899080
+status: 3
+tags: []
+user_id: julien

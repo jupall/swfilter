@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/96a1e83d001741b58e2ed263acbe7154/artifacts
+end_time: 1722619404706
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 96a1e83d001741b58e2ed263acbe7154
+run_name: illustrious-swan-334
+run_uuid: 96a1e83d001741b58e2ed263acbe7154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619404495
+status: 3
+tags: []
+user_id: julien

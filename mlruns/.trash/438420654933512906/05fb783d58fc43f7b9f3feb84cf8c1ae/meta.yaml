@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/05fb783d58fc43f7b9f3feb84cf8c1ae/artifacts
+deleted_time: 1722619353121
+end_time: 1722619063127
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 05fb783d58fc43f7b9f3feb84cf8c1ae
+run_name: bemused-elk-764
+run_uuid: 05fb783d58fc43f7b9f3feb84cf8c1ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619062935
+status: 3
+tags: []
+user_id: julien

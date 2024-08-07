@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/63a13fb80baa4b4ab346dddb6d43daba/artifacts
+deleted_time: 1722618939344
+end_time: 1722618703367
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 63a13fb80baa4b4ab346dddb6d43daba
+run_name: trusting-stork-53
+run_uuid: 63a13fb80baa4b4ab346dddb6d43daba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618703300
+status: 3
+tags: []
+user_id: julien

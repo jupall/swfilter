@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7e64a4d90eeb46288825cba4f9e43839/artifacts
+end_time: 1722648193481
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7e64a4d90eeb46288825cba4f9e43839
+run_name: charming-skunk-488
+run_uuid: 7e64a4d90eeb46288825cba4f9e43839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648193268
+status: 3
+tags: []
+user_id: julien

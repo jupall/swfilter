@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b967a98e89d1474289873bbd5db91295/artifacts
+end_time: 1722643978065
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b967a98e89d1474289873bbd5db91295
+run_name: glamorous-seal-494
+run_uuid: b967a98e89d1474289873bbd5db91295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643978015
+status: 3
+tags: []
+user_id: julien

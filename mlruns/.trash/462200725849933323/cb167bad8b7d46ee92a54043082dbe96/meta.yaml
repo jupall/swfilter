@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/cb167bad8b7d46ee92a54043082dbe96/artifacts
+deleted_time: 1722618939344
+end_time: 1722618709302
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: cb167bad8b7d46ee92a54043082dbe96
+run_name: burly-gull-890
+run_uuid: cb167bad8b7d46ee92a54043082dbe96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618709045
+status: 3
+tags: []
+user_id: julien

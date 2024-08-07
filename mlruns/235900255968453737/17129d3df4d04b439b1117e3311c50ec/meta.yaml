@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/17129d3df4d04b439b1117e3311c50ec/artifacts
+end_time: 1722663280919
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 17129d3df4d04b439b1117e3311c50ec
+run_name: kindly-fawn-32
+run_uuid: 17129d3df4d04b439b1117e3311c50ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663280691
+status: 3
+tags: []
+user_id: julien

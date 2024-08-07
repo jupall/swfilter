@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7932f7359c1340b88c1c0c9c2edf1731/artifacts
+end_time: 1722625148474
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7932f7359c1340b88c1c0c9c2edf1731
+run_name: stately-ray-438
+run_uuid: 7932f7359c1340b88c1c0c9c2edf1731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625148431
+status: 3
+tags: []
+user_id: julien

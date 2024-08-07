@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3abea8fc1bcd415ca6283547e11ebb67/artifacts
+end_time: 1722622553289
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3abea8fc1bcd415ca6283547e11ebb67
+run_name: traveling-calf-397
+run_uuid: 3abea8fc1bcd415ca6283547e11ebb67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622527561
+status: 3
+tags: []
+user_id: julien

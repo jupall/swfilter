@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fc380056074042bab71942aef8a04821/artifacts
+end_time: 1722659363090
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fc380056074042bab71942aef8a04821
+run_name: colorful-hawk-935
+run_uuid: fc380056074042bab71942aef8a04821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722659327406
+status: 3
+tags: []
+user_id: julien

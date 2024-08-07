@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/dc1d6738e8c3463f8d5db9119da4902d/artifacts
+end_time: 1722652129769
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: dc1d6738e8c3463f8d5db9119da4902d
+run_name: melodic-skunk-671
+run_uuid: dc1d6738e8c3463f8d5db9119da4902d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652129667
+status: 3
+tags: []
+user_id: julien

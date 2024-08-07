@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fecc7c149c8f4454a96a5e62b94b7b2d/artifacts
+end_time: 1722644528392
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fecc7c149c8f4454a96a5e62b94b7b2d
+run_name: smiling-doe-6
+run_uuid: fecc7c149c8f4454a96a5e62b94b7b2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644528133
+status: 3
+tags: []
+user_id: julien

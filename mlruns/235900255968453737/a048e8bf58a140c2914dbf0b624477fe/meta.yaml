@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a048e8bf58a140c2914dbf0b624477fe/artifacts
+end_time: 1722649659990
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a048e8bf58a140c2914dbf0b624477fe
+run_name: spiffy-horse-568
+run_uuid: a048e8bf58a140c2914dbf0b624477fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649644414
+status: 3
+tags: []
+user_id: julien

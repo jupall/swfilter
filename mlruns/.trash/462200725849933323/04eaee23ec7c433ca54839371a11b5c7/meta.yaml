@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/04eaee23ec7c433ca54839371a11b5c7/artifacts
+deleted_time: 1722618939344
+end_time: 1722618896861
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 04eaee23ec7c433ca54839371a11b5c7
+run_name: rogue-bug-659
+run_uuid: 04eaee23ec7c433ca54839371a11b5c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618896798
+status: 3
+tags: []
+user_id: julien

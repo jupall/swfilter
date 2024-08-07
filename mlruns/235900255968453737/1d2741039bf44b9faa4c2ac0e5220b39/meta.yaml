@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1d2741039bf44b9faa4c2ac0e5220b39/artifacts
+end_time: 1722651954937
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1d2741039bf44b9faa4c2ac0e5220b39
+run_name: calm-lark-164
+run_uuid: 1d2741039bf44b9faa4c2ac0e5220b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651954748
+status: 3
+tags: []
+user_id: julien

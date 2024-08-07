@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/687b324df3f044efb312819868ae1863/artifacts
+end_time: 1722648159531
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 687b324df3f044efb312819868ae1863
+run_name: righteous-boar-869
+run_uuid: 687b324df3f044efb312819868ae1863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648159432
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/3cd2e4e756004b5b99e6236d92668db4/artifacts
+deleted_time: 1722619353121
+end_time: 1722619075524
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 3cd2e4e756004b5b99e6236d92668db4
+run_name: receptive-elk-436
+run_uuid: 3cd2e4e756004b5b99e6236d92668db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619075330
+status: 3
+tags: []
+user_id: julien

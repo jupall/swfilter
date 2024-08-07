@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c5b63b61f2b347b588f437ac1439ac2b/artifacts
+end_time: 1722621088460
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c5b63b61f2b347b588f437ac1439ac2b
+run_name: burly-steed-274
+run_uuid: c5b63b61f2b347b588f437ac1439ac2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621072696
+status: 3
+tags: []
+user_id: julien

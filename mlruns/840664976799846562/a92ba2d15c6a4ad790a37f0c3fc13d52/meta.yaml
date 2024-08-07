@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a92ba2d15c6a4ad790a37f0c3fc13d52/artifacts
+end_time: 1722643856811
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a92ba2d15c6a4ad790a37f0c3fc13d52
+run_name: likeable-sponge-880
+run_uuid: a92ba2d15c6a4ad790a37f0c3fc13d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643856758
+status: 3
+tags: []
+user_id: julien

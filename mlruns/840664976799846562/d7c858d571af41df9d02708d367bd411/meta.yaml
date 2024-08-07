@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d7c858d571af41df9d02708d367bd411/artifacts
+end_time: 1722622754285
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d7c858d571af41df9d02708d367bd411
+run_name: orderly-dog-931
+run_uuid: d7c858d571af41df9d02708d367bd411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622724077
+status: 3
+tags: []
+user_id: julien

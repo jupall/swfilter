@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b16d3c60c9f845a7b0d3a3a2d33e2d2a/artifacts
+end_time: 1722649130661
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b16d3c60c9f845a7b0d3a3a2d33e2d2a
+run_name: big-ox-613
+run_uuid: b16d3c60c9f845a7b0d3a3a2d33e2d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649127100
+status: 3
+tags: []
+user_id: julien

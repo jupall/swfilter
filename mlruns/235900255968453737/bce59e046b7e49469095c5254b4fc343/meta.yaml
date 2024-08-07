@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bce59e046b7e49469095c5254b4fc343/artifacts
+end_time: 1722652029251
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bce59e046b7e49469095c5254b4fc343
+run_name: lyrical-perch-647
+run_uuid: bce59e046b7e49469095c5254b4fc343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652028382
+status: 3
+tags: []
+user_id: julien

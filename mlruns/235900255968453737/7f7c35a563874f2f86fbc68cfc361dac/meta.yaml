@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7f7c35a563874f2f86fbc68cfc361dac/artifacts
+end_time: 1722662893080
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7f7c35a563874f2f86fbc68cfc361dac
+run_name: useful-horse-487
+run_uuid: 7f7c35a563874f2f86fbc68cfc361dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662889522
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/efb43bb733c643e78bf892eb386d72ee/artifacts
+end_time: 1722625131212
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: efb43bb733c643e78bf892eb386d72ee
+run_name: invincible-perch-465
+run_uuid: efb43bb733c643e78bf892eb386d72ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625130365
+status: 3
+tags: []
+user_id: julien

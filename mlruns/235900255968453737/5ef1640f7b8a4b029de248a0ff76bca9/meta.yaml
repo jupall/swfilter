@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5ef1640f7b8a4b029de248a0ff76bca9/artifacts
+end_time: 1722663257592
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5ef1640f7b8a4b029de248a0ff76bca9
+run_name: carefree-squid-333
+run_uuid: 5ef1640f7b8a4b029de248a0ff76bca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663257477
+status: 3
+tags: []
+user_id: julien

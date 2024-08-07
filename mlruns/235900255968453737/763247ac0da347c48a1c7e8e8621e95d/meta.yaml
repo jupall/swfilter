@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/763247ac0da347c48a1c7e8e8621e95d/artifacts
+end_time: 1722662514096
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 763247ac0da347c48a1c7e8e8621e95d
+run_name: unequaled-duck-183
+run_uuid: 763247ac0da347c48a1c7e8e8621e95d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662511995
+status: 3
+tags: []
+user_id: julien

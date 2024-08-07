@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9f0563930ded4363a45c28cf5192a306/artifacts
+end_time: 1722652133481
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9f0563930ded4363a45c28cf5192a306
+run_name: exultant-dove-824
+run_uuid: 9f0563930ded4363a45c28cf5192a306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652133378
+status: 3
+tags: []
+user_id: julien

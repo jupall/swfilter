@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ca4f08de72354eec93081f951e52844f/artifacts
+end_time: 1722662419944
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ca4f08de72354eec93081f951e52844f
+run_name: bald-cod-898
+run_uuid: ca4f08de72354eec93081f951e52844f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662419713
+status: 3
+tags: []
+user_id: julien

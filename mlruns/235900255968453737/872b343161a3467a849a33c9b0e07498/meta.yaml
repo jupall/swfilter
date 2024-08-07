@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/872b343161a3467a849a33c9b0e07498/artifacts
+end_time: 1722662749374
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 872b343161a3467a849a33c9b0e07498
+run_name: nervous-panda-978
+run_uuid: 872b343161a3467a849a33c9b0e07498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662749265
+status: 3
+tags: []
+user_id: julien

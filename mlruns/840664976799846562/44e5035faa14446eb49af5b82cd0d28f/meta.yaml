@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/44e5035faa14446eb49af5b82cd0d28f/artifacts
+end_time: 1722644454870
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 44e5035faa14446eb49af5b82cd0d28f
+run_name: beautiful-mare-21
+run_uuid: 44e5035faa14446eb49af5b82cd0d28f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644454557
+status: 3
+tags: []
+user_id: julien

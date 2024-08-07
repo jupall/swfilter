@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a02fc6c0923541b9b3af19b9e85cf01f/artifacts
+end_time: 1722663257463
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a02fc6c0923541b9b3af19b9e85cf01f
+run_name: secretive-gnu-473
+run_uuid: a02fc6c0923541b9b3af19b9e85cf01f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663257352
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/bdcb7a854d2546d293adc08b685595a8/artifacts
+deleted_time: 1722619353121
+end_time: 1722619337975
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: bdcb7a854d2546d293adc08b685595a8
+run_name: grandiose-auk-208
+run_uuid: bdcb7a854d2546d293adc08b685595a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619332599
+status: 4
+tags: []
+user_id: julien

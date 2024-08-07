@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/49d65e1d565a47b39ced6a2b478fc6e9/artifacts
+end_time: 1722638239943
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 49d65e1d565a47b39ced6a2b478fc6e9
+run_name: serious-ram-468
+run_uuid: 49d65e1d565a47b39ced6a2b478fc6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722638162452
+status: 3
+tags: []
+user_id: julien

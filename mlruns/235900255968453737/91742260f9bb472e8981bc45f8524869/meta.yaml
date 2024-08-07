@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/91742260f9bb472e8981bc45f8524869/artifacts
+end_time: 1722650758773
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 91742260f9bb472e8981bc45f8524869
+run_name: loud-crab-507
+run_uuid: 91742260f9bb472e8981bc45f8524869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650740002
+status: 3
+tags: []
+user_id: julien

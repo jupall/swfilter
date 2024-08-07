@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/9b2eec2b25e84042bcfca03289bf90a4/artifacts
+deleted_time: 1722618419437
+end_time: 1722617837722
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 9b2eec2b25e84042bcfca03289bf90a4
+run_name: debonair-slug-910
+run_uuid: 9b2eec2b25e84042bcfca03289bf90a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617837658
+status: 3
+tags: []
+user_id: julien

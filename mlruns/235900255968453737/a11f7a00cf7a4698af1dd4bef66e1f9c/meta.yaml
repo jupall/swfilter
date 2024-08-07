@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a11f7a00cf7a4698af1dd4bef66e1f9c/artifacts
+end_time: 1722662417645
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a11f7a00cf7a4698af1dd4bef66e1f9c
+run_name: nervous-dolphin-517
+run_uuid: a11f7a00cf7a4698af1dd4bef66e1f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662417538
+status: 3
+tags: []
+user_id: julien

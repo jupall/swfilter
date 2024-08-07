@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8daf947dc47d4b33a2ac9bdbf70d5dd4/artifacts
+end_time: 1722663258098
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8daf947dc47d4b33a2ac9bdbf70d5dd4
+run_name: beautiful-seal-461
+run_uuid: 8daf947dc47d4b33a2ac9bdbf70d5dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663257987
+status: 3
+tags: []
+user_id: julien

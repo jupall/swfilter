@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d32d372c5b1341a88650f46a4e013bd9/artifacts
+end_time: 1722663378904
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d32d372c5b1341a88650f46a4e013bd9
+run_name: adorable-toad-857
+run_uuid: d32d372c5b1341a88650f46a4e013bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663378469
+status: 3
+tags: []
+user_id: julien

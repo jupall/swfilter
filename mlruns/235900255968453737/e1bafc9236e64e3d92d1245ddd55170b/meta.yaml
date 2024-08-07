@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e1bafc9236e64e3d92d1245ddd55170b/artifacts
+end_time: 1722662785663
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e1bafc9236e64e3d92d1245ddd55170b
+run_name: traveling-lark-371
+run_uuid: e1bafc9236e64e3d92d1245ddd55170b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662785422
+status: 3
+tags: []
+user_id: julien

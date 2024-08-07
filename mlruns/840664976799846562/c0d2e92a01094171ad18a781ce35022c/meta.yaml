@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c0d2e92a01094171ad18a781ce35022c/artifacts
+end_time: 1722623375904
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c0d2e92a01094171ad18a781ce35022c
+run_name: grandiose-robin-359
+run_uuid: c0d2e92a01094171ad18a781ce35022c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722623346754
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d69306f420a64704b3253c637361e72f/artifacts
+end_time: 1722625171884
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d69306f420a64704b3253c637361e72f
+run_name: painted-sow-82
+run_uuid: d69306f420a64704b3253c637361e72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625171725
+status: 3
+tags: []
+user_id: julien

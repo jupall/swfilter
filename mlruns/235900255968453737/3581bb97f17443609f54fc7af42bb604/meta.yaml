@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3581bb97f17443609f54fc7af42bb604/artifacts
+end_time: 1722653904828
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3581bb97f17443609f54fc7af42bb604
+run_name: colorful-sheep-835
+run_uuid: 3581bb97f17443609f54fc7af42bb604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722653809608
+status: 3
+tags: []
+user_id: julien

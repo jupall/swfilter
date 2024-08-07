@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a51d852d5a844f2f9d45b42a627aac7f/artifacts
+end_time: 1722662991043
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a51d852d5a844f2f9d45b42a627aac7f
+run_name: zealous-wolf-383
+run_uuid: a51d852d5a844f2f9d45b42a627aac7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662988133
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/31d2d55a7dc146a6900403b20304be03/artifacts
+end_time: 1722662410509
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 31d2d55a7dc146a6900403b20304be03
+run_name: unique-seal-81
+run_uuid: 31d2d55a7dc146a6900403b20304be03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662410402
+status: 3
+tags: []
+user_id: julien

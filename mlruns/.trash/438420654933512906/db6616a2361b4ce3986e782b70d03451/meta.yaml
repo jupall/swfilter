@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/db6616a2361b4ce3986e782b70d03451/artifacts
+deleted_time: 1722619353121
+end_time: 1722619053238
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: db6616a2361b4ce3986e782b70d03451
+run_name: serious-panda-90
+run_uuid: db6616a2361b4ce3986e782b70d03451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619053198
+status: 3
+tags: []
+user_id: julien

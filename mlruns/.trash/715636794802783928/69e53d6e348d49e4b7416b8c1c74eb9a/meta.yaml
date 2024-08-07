@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/69e53d6e348d49e4b7416b8c1c74eb9a/artifacts
+deleted_time: 1722618419437
+end_time: 1722617835808
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 69e53d6e348d49e4b7416b8c1c74eb9a
+run_name: upset-auk-208
+run_uuid: 69e53d6e348d49e4b7416b8c1c74eb9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617835746
+status: 3
+tags: []
+user_id: julien

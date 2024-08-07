@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dbab35bbe32b4365a114e73185b30287/artifacts
+end_time: 1722626692263
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dbab35bbe32b4365a114e73185b30287
+run_name: flawless-newt-516
+run_uuid: dbab35bbe32b4365a114e73185b30287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722626411261
+status: 3
+tags: []
+user_id: julien

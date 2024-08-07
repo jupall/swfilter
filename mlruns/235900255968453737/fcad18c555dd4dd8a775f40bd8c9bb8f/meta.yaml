@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fcad18c555dd4dd8a775f40bd8c9bb8f/artifacts
+end_time: 1722651962669
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fcad18c555dd4dd8a775f40bd8c9bb8f
+run_name: luminous-mole-4
+run_uuid: fcad18c555dd4dd8a775f40bd8c9bb8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651962484
+status: 3
+tags: []
+user_id: julien

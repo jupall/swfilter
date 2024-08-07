@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2b0e2553fee644498014d075ef299536/artifacts
+end_time: 1722662776292
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2b0e2553fee644498014d075ef299536
+run_name: languid-vole-425
+run_uuid: 2b0e2553fee644498014d075ef299536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662776042
+status: 3
+tags: []
+user_id: julien

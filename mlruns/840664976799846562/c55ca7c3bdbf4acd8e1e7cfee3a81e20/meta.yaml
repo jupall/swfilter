@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c55ca7c3bdbf4acd8e1e7cfee3a81e20/artifacts
+end_time: 1722624976613
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c55ca7c3bdbf4acd8e1e7cfee3a81e20
+run_name: sedate-foal-853
+run_uuid: c55ca7c3bdbf4acd8e1e7cfee3a81e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722624946401
+status: 3
+tags: []
+user_id: julien

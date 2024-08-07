@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/481cf8bc9ada45f0a2b07c015c907301/artifacts
+end_time: 1722643983015
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 481cf8bc9ada45f0a2b07c015c907301
+run_name: industrious-seal-625
+run_uuid: 481cf8bc9ada45f0a2b07c015c907301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643982774
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7ef97f714f104872af367585805beb87/artifacts
+end_time: 1722649192969
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7ef97f714f104872af367585805beb87
+run_name: marvelous-mule-590
+run_uuid: 7ef97f714f104872af367585805beb87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649192718
+status: 3
+tags: []
+user_id: julien

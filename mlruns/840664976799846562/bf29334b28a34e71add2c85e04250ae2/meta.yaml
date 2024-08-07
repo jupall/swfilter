@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bf29334b28a34e71add2c85e04250ae2/artifacts
+end_time: 1722619374600
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bf29334b28a34e71add2c85e04250ae2
+run_name: caring-pug-757
+run_uuid: bf29334b28a34e71add2c85e04250ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619374561
+status: 3
+tags: []
+user_id: julien

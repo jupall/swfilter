@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6bbbea3933e84f81bf9b10c1ac23ec59/artifacts
+end_time: 1722663281167
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6bbbea3933e84f81bf9b10c1ac23ec59
+run_name: delightful-toad-60
+run_uuid: 6bbbea3933e84f81bf9b10c1ac23ec59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663280935
+status: 3
+tags: []
+user_id: julien

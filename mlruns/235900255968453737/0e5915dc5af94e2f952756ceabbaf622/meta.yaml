@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0e5915dc5af94e2f952756ceabbaf622/artifacts
+end_time: 1722663300167
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0e5915dc5af94e2f952756ceabbaf622
+run_name: invincible-mink-735
+run_uuid: 0e5915dc5af94e2f952756ceabbaf622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663299936
+status: 3
+tags: []
+user_id: julien

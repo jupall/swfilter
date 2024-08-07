@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fe1bc4c16b744cac94b758f510e0a258/artifacts
+end_time: 1722625023243
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fe1bc4c16b744cac94b758f510e0a258
+run_name: suave-cow-292
+run_uuid: fe1bc4c16b744cac94b758f510e0a258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625023096
+status: 3
+tags: []
+user_id: julien

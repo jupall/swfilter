@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/d83142edf0804d0eb201a33c94266680/artifacts
+deleted_time: 1722618419437
+end_time: 1722617861256
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: d83142edf0804d0eb201a33c94266680
+run_name: spiffy-bear-940
+run_uuid: d83142edf0804d0eb201a33c94266680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617861018
+status: 3
+tags: []
+user_id: julien

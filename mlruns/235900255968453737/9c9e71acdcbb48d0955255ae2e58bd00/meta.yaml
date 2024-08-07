@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9c9e71acdcbb48d0955255ae2e58bd00/artifacts
+end_time: 1722662436910
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9c9e71acdcbb48d0955255ae2e58bd00
+run_name: auspicious-eel-720
+run_uuid: 9c9e71acdcbb48d0955255ae2e58bd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662436658
+status: 3
+tags: []
+user_id: julien

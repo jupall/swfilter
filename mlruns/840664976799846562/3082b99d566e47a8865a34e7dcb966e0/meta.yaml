@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3082b99d566e47a8865a34e7dcb966e0/artifacts
+end_time: 1722643890972
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3082b99d566e47a8865a34e7dcb966e0
+run_name: funny-pug-148
+run_uuid: 3082b99d566e47a8865a34e7dcb966e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643890770
+status: 3
+tags: []
+user_id: julien

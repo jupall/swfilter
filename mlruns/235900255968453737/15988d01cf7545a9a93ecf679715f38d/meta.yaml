@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/15988d01cf7545a9a93ecf679715f38d/artifacts
+end_time: 1722649173923
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 15988d01cf7545a9a93ecf679715f38d
+run_name: lyrical-ram-451
+run_uuid: 15988d01cf7545a9a93ecf679715f38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649173764
+status: 3
+tags: []
+user_id: julien

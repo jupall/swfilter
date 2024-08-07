@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/97b9c3c4f3284619adcb48b9a77115c7/artifacts
+end_time: 1722662428986
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 97b9c3c4f3284619adcb48b9a77115c7
+run_name: luxuriant-asp-218
+run_uuid: 97b9c3c4f3284619adcb48b9a77115c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662428749
+status: 3
+tags: []
+user_id: julien

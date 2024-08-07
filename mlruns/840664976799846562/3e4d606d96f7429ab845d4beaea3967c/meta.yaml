@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3e4d606d96f7429ab845d4beaea3967c/artifacts
+end_time: 1722620879121
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3e4d606d96f7429ab845d4beaea3967c
+run_name: adventurous-rat-769
+run_uuid: 3e4d606d96f7429ab845d4beaea3967c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620852186
+status: 3
+tags: []
+user_id: julien

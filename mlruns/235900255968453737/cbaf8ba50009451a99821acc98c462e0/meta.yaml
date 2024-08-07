@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cbaf8ba50009451a99821acc98c462e0/artifacts
+end_time: 1722651925648
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cbaf8ba50009451a99821acc98c462e0
+run_name: colorful-ram-684
+run_uuid: cbaf8ba50009451a99821acc98c462e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651925563
+status: 3
+tags: []
+user_id: julien

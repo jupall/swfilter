@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d11474aed0b245d88d7b13b51be94249/artifacts
+end_time: 1722643911464
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d11474aed0b245d88d7b13b51be94249
+run_name: carefree-bear-208
+run_uuid: d11474aed0b245d88d7b13b51be94249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643910967
+status: 3
+tags: []
+user_id: julien

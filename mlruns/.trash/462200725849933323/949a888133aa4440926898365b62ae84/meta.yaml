@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/949a888133aa4440926898365b62ae84/artifacts
+deleted_time: 1722618939344
+end_time: 1722618901215
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 949a888133aa4440926898365b62ae84
+run_name: blushing-ox-867
+run_uuid: 949a888133aa4440926898365b62ae84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618901148
+status: 3
+tags: []
+user_id: julien

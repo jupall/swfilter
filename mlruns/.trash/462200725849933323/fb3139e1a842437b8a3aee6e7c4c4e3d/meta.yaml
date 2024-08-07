@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/fb3139e1a842437b8a3aee6e7c4c4e3d/artifacts
+deleted_time: 1722618939344
+end_time: 1722618912192
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: fb3139e1a842437b8a3aee6e7c4c4e3d
+run_name: flawless-yak-146
+run_uuid: fb3139e1a842437b8a3aee6e7c4c4e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618911989
+status: 3
+tags: []
+user_id: julien

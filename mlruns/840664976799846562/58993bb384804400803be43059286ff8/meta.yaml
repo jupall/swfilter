@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/58993bb384804400803be43059286ff8/artifacts
+end_time: 1722619387031
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 58993bb384804400803be43059286ff8
+run_name: exultant-bat-678
+run_uuid: 58993bb384804400803be43059286ff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619386811
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dd5f7d87ac9b42b7b9fbc4305b1a823f/artifacts
+end_time: 1722620081521
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dd5f7d87ac9b42b7b9fbc4305b1a823f
+run_name: merciful-moose-779
+run_uuid: dd5f7d87ac9b42b7b9fbc4305b1a823f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620081486
+status: 3
+tags: []
+user_id: julien

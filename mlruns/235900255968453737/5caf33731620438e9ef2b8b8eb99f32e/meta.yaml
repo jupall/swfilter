@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5caf33731620438e9ef2b8b8eb99f32e/artifacts
+end_time: 1722662882761
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5caf33731620438e9ef2b8b8eb99f32e
+run_name: likeable-stag-345
+run_uuid: 5caf33731620438e9ef2b8b8eb99f32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662879939
+status: 3
+tags: []
+user_id: julien

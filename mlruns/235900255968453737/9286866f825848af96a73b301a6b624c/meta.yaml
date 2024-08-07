@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9286866f825848af96a73b301a6b624c/artifacts
+end_time: 1722648161823
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9286866f825848af96a73b301a6b624c
+run_name: industrious-foal-900
+run_uuid: 9286866f825848af96a73b301a6b624c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648161723
+status: 3
+tags: []
+user_id: julien

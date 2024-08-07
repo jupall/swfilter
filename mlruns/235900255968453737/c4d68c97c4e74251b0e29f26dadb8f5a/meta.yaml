@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c4d68c97c4e74251b0e29f26dadb8f5a/artifacts
+end_time: 1722648173711
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c4d68c97c4e74251b0e29f26dadb8f5a
+run_name: casual-squid-276
+run_uuid: c4d68c97c4e74251b0e29f26dadb8f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648173616
+status: 3
+tags: []
+user_id: julien

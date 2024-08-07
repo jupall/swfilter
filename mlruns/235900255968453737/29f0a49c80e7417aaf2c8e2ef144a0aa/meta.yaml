@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/29f0a49c80e7417aaf2c8e2ef144a0aa/artifacts
+end_time: 1722662785406
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 29f0a49c80e7417aaf2c8e2ef144a0aa
+run_name: peaceful-crow-894
+run_uuid: 29f0a49c80e7417aaf2c8e2ef144a0aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662785156
+status: 3
+tags: []
+user_id: julien

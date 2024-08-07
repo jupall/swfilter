@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/adb152fa827d452cbbaaaa7d83b914b9/artifacts
+end_time: 1722619379010
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: adb152fa827d452cbbaaaa7d83b914b9
+run_name: unruly-foal-291
+run_uuid: adb152fa827d452cbbaaaa7d83b914b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619378968
+status: 3
+tags: []
+user_id: julien

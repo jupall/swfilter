@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0be333ab452d4b3ca5349359f3da3d00/artifacts
+end_time: 1722620080074
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0be333ab452d4b3ca5349359f3da3d00
+run_name: capricious-kit-888
+run_uuid: 0be333ab452d4b3ca5349359f3da3d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620080041
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b76af7b39670468db8cda687d69cfc95/artifacts
+end_time: 1722625011340
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b76af7b39670468db8cda687d69cfc95
+run_name: flawless-shad-713
+run_uuid: b76af7b39670468db8cda687d69cfc95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625011305
+status: 3
+tags: []
+user_id: julien

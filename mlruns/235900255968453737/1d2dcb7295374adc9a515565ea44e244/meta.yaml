@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1d2dcb7295374adc9a515565ea44e244/artifacts
+end_time: 1722648168318
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1d2dcb7295374adc9a515565ea44e244
+run_name: charming-shrike-97
+run_uuid: 1d2dcb7295374adc9a515565ea44e244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648168225
+status: 3
+tags: []
+user_id: julien

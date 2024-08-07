@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0cfc20d7d7d448a4ab0b76c5523206d9/artifacts
+end_time: 1722643979595
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0cfc20d7d7d448a4ab0b76c5523206d9
+run_name: aged-duck-242
+run_uuid: 0cfc20d7d7d448a4ab0b76c5523206d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643979544
+status: 3
+tags: []
+user_id: julien

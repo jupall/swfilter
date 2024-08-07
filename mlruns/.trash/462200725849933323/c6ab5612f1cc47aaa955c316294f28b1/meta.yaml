@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/c6ab5612f1cc47aaa955c316294f28b1/artifacts
+deleted_time: 1722618939344
+end_time: 1722618700806
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: c6ab5612f1cc47aaa955c316294f28b1
+run_name: casual-moose-184
+run_uuid: c6ab5612f1cc47aaa955c316294f28b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618700742
+status: 3
+tags: []
+user_id: julien

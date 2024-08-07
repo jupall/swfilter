@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/eea0a233bcec4520aa66574030c2bd56/artifacts
+end_time: 1722662442738
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: eea0a233bcec4520aa66574030c2bd56
+run_name: blushing-snake-333
+run_uuid: eea0a233bcec4520aa66574030c2bd56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662442471
+status: 3
+tags: []
+user_id: julien

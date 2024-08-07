@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e46032534b1e4f109c5a7572befc9dca/artifacts
+end_time: 1722662743832
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e46032534b1e4f109c5a7572befc9dca
+run_name: fortunate-mink-438
+run_uuid: e46032534b1e4f109c5a7572befc9dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662743723
+status: 3
+tags: []
+user_id: julien

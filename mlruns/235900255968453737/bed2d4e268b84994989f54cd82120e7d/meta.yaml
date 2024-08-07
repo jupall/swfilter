@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bed2d4e268b84994989f54cd82120e7d/artifacts
+end_time: 1722650781184
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bed2d4e268b84994989f54cd82120e7d
+run_name: likeable-hound-310
+run_uuid: bed2d4e268b84994989f54cd82120e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650758787
+status: 3
+tags: []
+user_id: julien

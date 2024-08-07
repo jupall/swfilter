@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/566bc10942df4b0ca8032c8a2e498c4e/artifacts
+end_time: 1722620077649
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 566bc10942df4b0ca8032c8a2e498c4e
+run_name: handsome-asp-26
+run_uuid: 566bc10942df4b0ca8032c8a2e498c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620077615
+status: 3
+tags: []
+user_id: julien

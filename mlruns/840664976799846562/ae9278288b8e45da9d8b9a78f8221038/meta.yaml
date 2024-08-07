@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ae9278288b8e45da9d8b9a78f8221038/artifacts
+end_time: 1722619395771
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ae9278288b8e45da9d8b9a78f8221038
+run_name: thoughtful-whale-625
+run_uuid: ae9278288b8e45da9d8b9a78f8221038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619395567
+status: 3
+tags: []
+user_id: julien

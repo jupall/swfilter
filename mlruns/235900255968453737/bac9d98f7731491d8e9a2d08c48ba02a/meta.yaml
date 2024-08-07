@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bac9d98f7731491d8e9a2d08c48ba02a/artifacts
+end_time: 1722652961338
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bac9d98f7731491d8e9a2d08c48ba02a
+run_name: funny-crow-81
+run_uuid: bac9d98f7731491d8e9a2d08c48ba02a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652843723
+status: 3
+tags: []
+user_id: julien

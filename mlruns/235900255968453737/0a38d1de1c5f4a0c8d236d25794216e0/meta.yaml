@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0a38d1de1c5f4a0c8d236d25794216e0/artifacts
+end_time: 1722649212207
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0a38d1de1c5f4a0c8d236d25794216e0
+run_name: stylish-wren-882
+run_uuid: 0a38d1de1c5f4a0c8d236d25794216e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649211938
+status: 3
+tags: []
+user_id: julien

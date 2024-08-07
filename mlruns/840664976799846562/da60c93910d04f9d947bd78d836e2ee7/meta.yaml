@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/da60c93910d04f9d947bd78d836e2ee7/artifacts
+end_time: 1722644380561
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: da60c93910d04f9d947bd78d836e2ee7
+run_name: big-stoat-974
+run_uuid: da60c93910d04f9d947bd78d836e2ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644377790
+status: 3
+tags: []
+user_id: julien

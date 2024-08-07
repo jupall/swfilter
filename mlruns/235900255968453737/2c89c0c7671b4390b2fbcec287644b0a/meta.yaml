@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2c89c0c7671b4390b2fbcec287644b0a/artifacts
+end_time: 1722651920211
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2c89c0c7671b4390b2fbcec287644b0a
+run_name: adorable-mink-85
+run_uuid: 2c89c0c7671b4390b2fbcec287644b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651920123
+status: 3
+tags: []
+user_id: julien

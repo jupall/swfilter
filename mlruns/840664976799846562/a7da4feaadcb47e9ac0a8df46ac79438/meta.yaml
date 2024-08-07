@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a7da4feaadcb47e9ac0a8df46ac79438/artifacts
+end_time: 1722644416337
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a7da4feaadcb47e9ac0a8df46ac79438
+run_name: beautiful-stoat-813
+run_uuid: a7da4feaadcb47e9ac0a8df46ac79438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644416280
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/7dfc2a150ae5429ebf13bdd46f98dc85/artifacts
+deleted_time: 1722618664511
+end_time: 1722618497785
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 7dfc2a150ae5429ebf13bdd46f98dc85
+run_name: fun-robin-228
+run_uuid: 7dfc2a150ae5429ebf13bdd46f98dc85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618497594
+status: 3
+tags: []
+user_id: julien

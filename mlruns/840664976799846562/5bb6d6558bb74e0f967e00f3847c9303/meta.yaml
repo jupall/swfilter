@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5bb6d6558bb74e0f967e00f3847c9303/artifacts
+end_time: 1722633718188
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5bb6d6558bb74e0f967e00f3847c9303
+run_name: clean-quail-450
+run_uuid: 5bb6d6558bb74e0f967e00f3847c9303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722633603347
+status: 3
+tags: []
+user_id: julien

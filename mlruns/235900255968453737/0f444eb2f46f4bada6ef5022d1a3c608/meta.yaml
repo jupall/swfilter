@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0f444eb2f46f4bada6ef5022d1a3c608/artifacts
+end_time: 1722648162249
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0f444eb2f46f4bada6ef5022d1a3c608
+run_name: skittish-smelt-692
+run_uuid: 0f444eb2f46f4bada6ef5022d1a3c608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648162152
+status: 3
+tags: []
+user_id: julien

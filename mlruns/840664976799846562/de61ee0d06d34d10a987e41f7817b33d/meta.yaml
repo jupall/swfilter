@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/de61ee0d06d34d10a987e41f7817b33d/artifacts
+end_time: 1722620086748
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: de61ee0d06d34d10a987e41f7817b33d
+run_name: treasured-ram-349
+run_uuid: de61ee0d06d34d10a987e41f7817b33d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620086605
+status: 3
+tags: []
+user_id: julien

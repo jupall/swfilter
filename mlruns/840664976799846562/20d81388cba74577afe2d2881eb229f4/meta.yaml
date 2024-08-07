@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/20d81388cba74577afe2d2881eb229f4/artifacts
+end_time: 1722644009458
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 20d81388cba74577afe2d2881eb229f4
+run_name: unique-ant-61
+run_uuid: 20d81388cba74577afe2d2881eb229f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644009218
+status: 3
+tags: []
+user_id: julien

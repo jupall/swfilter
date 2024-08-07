@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/465b150c70eb430c90f9348082f3bd7e/artifacts
+end_time: 1722648598633
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 465b150c70eb430c90f9348082f3bd7e
+run_name: hilarious-robin-984
+run_uuid: 465b150c70eb430c90f9348082f3bd7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648593425
+status: 3
+tags: []
+user_id: julien

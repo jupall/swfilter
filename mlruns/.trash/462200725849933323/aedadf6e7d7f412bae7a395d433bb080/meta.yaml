@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/aedadf6e7d7f412bae7a395d433bb080/artifacts
+deleted_time: 1722618939344
+end_time: 1722618693587
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: aedadf6e7d7f412bae7a395d433bb080
+run_name: nebulous-conch-66
+run_uuid: aedadf6e7d7f412bae7a395d433bb080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618693526
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/756000987e774b368336ac06a6cd0a34/artifacts
+end_time: 1722662743458
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 756000987e774b368336ac06a6cd0a34
+run_name: honorable-ray-203
+run_uuid: 756000987e774b368336ac06a6cd0a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662743349
+status: 3
+tags: []
+user_id: julien

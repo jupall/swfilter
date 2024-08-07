@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/550a383f1bda4f72b7e148bea19baacd/artifacts
+end_time: 1722651709988
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 550a383f1bda4f72b7e148bea19baacd
+run_name: overjoyed-dove-357
+run_uuid: 550a383f1bda4f72b7e148bea19baacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651697925
+status: 3
+tags: []
+user_id: julien

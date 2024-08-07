@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/b2fbbe463537495fab461d7ec2079630/artifacts
+deleted_time: 1722618939344
+end_time: 1722618701805
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: b2fbbe463537495fab461d7ec2079630
+run_name: skittish-roo-768
+run_uuid: b2fbbe463537495fab461d7ec2079630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618701743
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6c03108cd4654dc2b067340bbde0bda0/artifacts
+end_time: 1722623563093
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6c03108cd4654dc2b067340bbde0bda0
+run_name: defiant-bat-866
+run_uuid: 6c03108cd4654dc2b067340bbde0bda0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722623532973
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/573209f5c92d45939a1673996c8955ba/artifacts
+deleted_time: 1722618939344
+end_time: 1722618695345
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 573209f5c92d45939a1673996c8955ba
+run_name: intrigued-asp-987
+run_uuid: 573209f5c92d45939a1673996c8955ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618695280
+status: 3
+tags: []
+user_id: julien

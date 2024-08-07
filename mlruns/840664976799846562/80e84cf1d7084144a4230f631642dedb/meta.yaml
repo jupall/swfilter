@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/80e84cf1d7084144a4230f631642dedb/artifacts
+end_time: 1722643860849
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 80e84cf1d7084144a4230f631642dedb
+run_name: persistent-shoat-426
+run_uuid: 80e84cf1d7084144a4230f631642dedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643860802
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/88e7615548624e118aaff2377261ba58/artifacts
+end_time: 1722619377720
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 88e7615548624e118aaff2377261ba58
+run_name: calm-dolphin-248
+run_uuid: 88e7615548624e118aaff2377261ba58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619377681
+status: 3
+tags: []
+user_id: julien

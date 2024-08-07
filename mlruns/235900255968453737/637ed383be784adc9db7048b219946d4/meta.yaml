@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/637ed383be784adc9db7048b219946d4/artifacts
+end_time: 1722663105120
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 637ed383be784adc9db7048b219946d4
+run_name: beautiful-worm-633
+run_uuid: 637ed383be784adc9db7048b219946d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663102630
+status: 3
+tags: []
+user_id: julien

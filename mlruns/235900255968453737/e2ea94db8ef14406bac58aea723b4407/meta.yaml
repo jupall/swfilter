@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e2ea94db8ef14406bac58aea723b4407/artifacts
+end_time: 1722648196305
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e2ea94db8ef14406bac58aea723b4407
+run_name: rogue-ray-556
+run_uuid: e2ea94db8ef14406bac58aea723b4407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648196078
+status: 3
+tags: []
+user_id: julien

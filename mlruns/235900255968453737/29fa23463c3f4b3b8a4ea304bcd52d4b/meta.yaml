@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/29fa23463c3f4b3b8a4ea304bcd52d4b/artifacts
+end_time: 1722648204113
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 29fa23463c3f4b3b8a4ea304bcd52d4b
+run_name: sincere-grub-151
+run_uuid: 29fa23463c3f4b3b8a4ea304bcd52d4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648203900
+status: 3
+tags: []
+user_id: julien

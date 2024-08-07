@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5ee6be5a2ad74bb7b6c8bd1dec667e81/artifacts
+end_time: 1722648908138
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5ee6be5a2ad74bb7b6c8bd1dec667e81
+run_name: mercurial-dog-928
+run_uuid: 5ee6be5a2ad74bb7b6c8bd1dec667e81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648903382
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/89930bd93c3c49648e7685b14f1bb36f/artifacts
+deleted_time: 1722618664511
+end_time: 1722618480972
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 89930bd93c3c49648e7685b14f1bb36f
+run_name: invincible-squid-897
+run_uuid: 89930bd93c3c49648e7685b14f1bb36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618480933
+status: 3
+tags: []
+user_id: julien

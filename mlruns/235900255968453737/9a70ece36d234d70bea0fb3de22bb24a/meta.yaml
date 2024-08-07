@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9a70ece36d234d70bea0fb3de22bb24a/artifacts
+end_time: 1722662773659
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9a70ece36d234d70bea0fb3de22bb24a
+run_name: invincible-colt-531
+run_uuid: 9a70ece36d234d70bea0fb3de22bb24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662773415
+status: 3
+tags: []
+user_id: julien

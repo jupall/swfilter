@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/50ce6adb03684f98b3f278f41a1ed2a6/artifacts
+deleted_time: 1722618419437
+end_time: 1722617785226
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 50ce6adb03684f98b3f278f41a1ed2a6
+run_name: luminous-mule-707
+run_uuid: 50ce6adb03684f98b3f278f41a1ed2a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617785180
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/af72f7510147408ebc670165bb8b92a3/artifacts
+end_time: 1722643999440
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: af72f7510147408ebc670165bb8b92a3
+run_name: sincere-sow-21
+run_uuid: af72f7510147408ebc670165bb8b92a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643999200
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2ec13544a6bd4e3c87c5fb4596c2d8f9/artifacts
+end_time: 1722663366602
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2ec13544a6bd4e3c87c5fb4596c2d8f9
+run_name: glamorous-gnat-998
+run_uuid: 2ec13544a6bd4e3c87c5fb4596c2d8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663366198
+status: 3
+tags: []
+user_id: julien

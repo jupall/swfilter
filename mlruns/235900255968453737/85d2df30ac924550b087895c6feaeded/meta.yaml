@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/85d2df30ac924550b087895c6feaeded/artifacts
+end_time: 1722662776553
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 85d2df30ac924550b087895c6feaeded
+run_name: upbeat-kit-928
+run_uuid: 85d2df30ac924550b087895c6feaeded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662776308
+status: 3
+tags: []
+user_id: julien

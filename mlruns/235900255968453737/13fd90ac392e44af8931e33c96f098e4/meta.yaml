@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/13fd90ac392e44af8931e33c96f098e4/artifacts
+end_time: 1722649005151
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 13fd90ac392e44af8931e33c96f098e4
+run_name: upbeat-shrimp-867
+run_uuid: 13fd90ac392e44af8931e33c96f098e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649000753
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a815705daa0b4ebdb6a9caef90c8e60b/artifacts
+end_time: 1722644539268
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a815705daa0b4ebdb6a9caef90c8e60b
+run_name: charming-hawk-291
+run_uuid: a815705daa0b4ebdb6a9caef90c8e60b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644539006
+status: 3
+tags: []
+user_id: julien

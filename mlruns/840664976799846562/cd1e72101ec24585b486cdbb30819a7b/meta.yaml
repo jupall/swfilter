@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cd1e72101ec24585b486cdbb30819a7b/artifacts
+end_time: 1722625028568
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cd1e72101ec24585b486cdbb30819a7b
+run_name: flawless-wasp-717
+run_uuid: cd1e72101ec24585b486cdbb30819a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625028387
+status: 3
+tags: []
+user_id: julien

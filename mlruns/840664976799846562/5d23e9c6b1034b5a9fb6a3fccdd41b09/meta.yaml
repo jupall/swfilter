@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5d23e9c6b1034b5a9fb6a3fccdd41b09/artifacts
+end_time: 1722620076577
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5d23e9c6b1034b5a9fb6a3fccdd41b09
+run_name: fearless-trout-23
+run_uuid: 5d23e9c6b1034b5a9fb6a3fccdd41b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620076544
+status: 3
+tags: []
+user_id: julien

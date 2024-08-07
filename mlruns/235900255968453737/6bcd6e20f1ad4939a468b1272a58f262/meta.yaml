@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6bcd6e20f1ad4939a468b1272a58f262/artifacts
+end_time: 1722652121182
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6bcd6e20f1ad4939a468b1272a58f262
+run_name: bouncy-snipe-782
+run_uuid: 6bcd6e20f1ad4939a468b1272a58f262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652121078
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/92c18e816f3e48c2849469a117e7fe3f/artifacts
+end_time: 1722648177661
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 92c18e816f3e48c2849469a117e7fe3f
+run_name: serious-swan-398
+run_uuid: 92c18e816f3e48c2849469a117e7fe3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648177420
+status: 3
+tags: []
+user_id: julien

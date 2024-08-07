@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/63a2f2ef3a9041f78dc5a740ffb48e8a/artifacts
+end_time: 1722663346610
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 63a2f2ef3a9041f78dc5a740ffb48e8a
+run_name: amusing-hound-87
+run_uuid: 63a2f2ef3a9041f78dc5a740ffb48e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663346198
+status: 3
+tags: []
+user_id: julien

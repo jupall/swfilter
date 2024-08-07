@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/af4cfbf4c7144e54a045b41755a1ff39/artifacts
+deleted_time: 1722618939344
+end_time: 1722618912410
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: af4cfbf4c7144e54a045b41755a1ff39
+run_name: amazing-fawn-73
+run_uuid: af4cfbf4c7144e54a045b41755a1ff39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618912200
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8b2ff71ff61c407d899e8231f382a61a/artifacts
+end_time: 1722625012887
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8b2ff71ff61c407d899e8231f382a61a
+run_name: amusing-seal-416
+run_uuid: 8b2ff71ff61c407d899e8231f382a61a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625012852
+status: 3
+tags: []
+user_id: julien

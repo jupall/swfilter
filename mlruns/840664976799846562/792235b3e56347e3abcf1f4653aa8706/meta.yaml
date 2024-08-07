@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/792235b3e56347e3abcf1f4653aa8706/artifacts
+end_time: 1722644000723
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 792235b3e56347e3abcf1f4653aa8706
+run_name: painted-goose-9
+run_uuid: 792235b3e56347e3abcf1f4653aa8706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644000482
+status: 3
+tags: []
+user_id: julien

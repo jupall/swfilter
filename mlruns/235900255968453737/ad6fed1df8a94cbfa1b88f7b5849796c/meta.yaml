@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ad6fed1df8a94cbfa1b88f7b5849796c/artifacts
+end_time: 1722662418007
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ad6fed1df8a94cbfa1b88f7b5849796c
+run_name: charming-worm-699
+run_uuid: ad6fed1df8a94cbfa1b88f7b5849796c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662417902
+status: 3
+tags: []
+user_id: julien

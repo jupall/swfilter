@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5c0247722d7d45948e6e068db6582e02/artifacts
+end_time: 1722644175562
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5c0247722d7d45948e6e068db6582e02
+run_name: languid-shoat-404
+run_uuid: 5c0247722d7d45948e6e068db6582e02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644173266
+status: 3
+tags: []
+user_id: julien

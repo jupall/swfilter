@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/f1643c6db9b44ac7a6e32287b8187d37/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897432
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: f1643c6db9b44ac7a6e32287b8187d37
+run_name: fun-ant-158
+run_uuid: f1643c6db9b44ac7a6e32287b8187d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897370
+status: 3
+tags: []
+user_id: julien

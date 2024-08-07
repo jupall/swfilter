@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a0334398b4c84174a9dea1940daa5207/artifacts
+end_time: 1722663257972
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a0334398b4c84174a9dea1940daa5207
+run_name: resilient-grouse-196
+run_uuid: a0334398b4c84174a9dea1940daa5207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663257861
+status: 3
+tags: []
+user_id: julien

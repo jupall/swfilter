@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/6fd0d18aff984785a269357b686d0e8f/artifacts
+deleted_time: 1722619353121
+end_time: 1722619066677
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 6fd0d18aff984785a269357b686d0e8f
+run_name: masked-squirrel-349
+run_uuid: 6fd0d18aff984785a269357b686d0e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619066460
+status: 3
+tags: []
+user_id: julien

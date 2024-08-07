@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/efaa096962764c028822033e9e2aa5de/artifacts
+end_time: 1722662740494
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: efaa096962764c028822033e9e2aa5de
+run_name: treasured-frog-791
+run_uuid: efaa096962764c028822033e9e2aa5de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662740386
+status: 3
+tags: []
+user_id: julien

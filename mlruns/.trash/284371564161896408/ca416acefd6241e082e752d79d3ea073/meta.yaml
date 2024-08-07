@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/ca416acefd6241e082e752d79d3ea073/artifacts
+deleted_time: 1722618664511
+end_time: 1722618483660
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: ca416acefd6241e082e752d79d3ea073
+run_name: kindly-ape-940
+run_uuid: ca416acefd6241e082e752d79d3ea073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618483622
+status: 3
+tags: []
+user_id: julien

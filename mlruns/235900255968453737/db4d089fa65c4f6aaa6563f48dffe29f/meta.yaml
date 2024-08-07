@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/db4d089fa65c4f6aaa6563f48dffe29f/artifacts
+end_time: 1722649173652
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: db4d089fa65c4f6aaa6563f48dffe29f
+run_name: popular-rat-100
+run_uuid: db4d089fa65c4f6aaa6563f48dffe29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649173565
+status: 3
+tags: []
+user_id: julien

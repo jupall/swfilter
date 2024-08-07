@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/430500392e00462aaed17d361822848d/artifacts
+end_time: 1722625151384
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 430500392e00462aaed17d361822848d
+run_name: casual-turtle-138
+run_uuid: 430500392e00462aaed17d361822848d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625151342
+status: 3
+tags: []
+user_id: julien

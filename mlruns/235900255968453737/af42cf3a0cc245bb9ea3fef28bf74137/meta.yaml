@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/af42cf3a0cc245bb9ea3fef28bf74137/artifacts
+end_time: 1722651991890
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: af42cf3a0cc245bb9ea3fef28bf74137
+run_name: polite-calf-658
+run_uuid: af42cf3a0cc245bb9ea3fef28bf74137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651990977
+status: 3
+tags: []
+user_id: julien

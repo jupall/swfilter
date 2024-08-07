@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c74395275afa49d4af49f09cb7b48721/artifacts
+end_time: 1722652980262
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c74395275afa49d4af49f09cb7b48721
+run_name: popular-sow-359
+run_uuid: c74395275afa49d4af49f09cb7b48721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652961351
+status: 3
+tags: []
+user_id: julien

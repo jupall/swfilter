@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bd253629df0d4d78a0c532d298a98628/artifacts
+end_time: 1722652031405
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bd253629df0d4d78a0c532d298a98628
+run_name: blushing-newt-129
+run_uuid: bd253629df0d4d78a0c532d298a98628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652029266
+status: 3
+tags: []
+user_id: julien

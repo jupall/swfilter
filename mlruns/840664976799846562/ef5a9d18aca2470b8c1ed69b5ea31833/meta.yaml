@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ef5a9d18aca2470b8c1ed69b5ea31833/artifacts
+end_time: 1722631421405
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ef5a9d18aca2470b8c1ed69b5ea31833
+run_name: invincible-stork-442
+run_uuid: ef5a9d18aca2470b8c1ed69b5ea31833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722631168859
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7e17117edf124be281b45e46d511b8fd/artifacts
+end_time: 1722634757537
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7e17117edf124be281b45e46d511b8fd
+run_name: victorious-bird-525
+run_uuid: 7e17117edf124be281b45e46d511b8fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722634671651
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2435b1742b3a42f3a152639283ff64aa/artifacts
+end_time: 1722662460992
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2435b1742b3a42f3a152639283ff64aa
+run_name: chill-penguin-864
+run_uuid: 2435b1742b3a42f3a152639283ff64aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662458882
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f4982ba2118b4391b149df89ba8edc6b/artifacts
+end_time: 1722620091269
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f4982ba2118b4391b149df89ba8edc6b
+run_name: rebellious-hog-885
+run_uuid: f4982ba2118b4391b149df89ba8edc6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620091120
+status: 3
+tags: []
+user_id: julien

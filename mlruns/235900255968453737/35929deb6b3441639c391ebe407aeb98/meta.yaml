@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/35929deb6b3441639c391ebe407aeb98/artifacts
+end_time: 1722662408465
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 35929deb6b3441639c391ebe407aeb98
+run_name: indecisive-cat-632
+run_uuid: 35929deb6b3441639c391ebe407aeb98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662408360
+status: 3
+tags: []
+user_id: julien

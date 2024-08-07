@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/73c8778be3bc4d16be280d9f00b360a7/artifacts
+deleted_time: 1722618419437
+end_time: 1722617840939
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 73c8778be3bc4d16be280d9f00b360a7
+run_name: adorable-bear-400
+run_uuid: 73c8778be3bc4d16be280d9f00b360a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617840872
+status: 3
+tags: []
+user_id: julien

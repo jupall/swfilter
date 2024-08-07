@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ccd1a6de16c6411a85abdd4a6aa3f19a/artifacts
+end_time: 1722649573103
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ccd1a6de16c6411a85abdd4a6aa3f19a
+run_name: charming-ox-834
+run_uuid: ccd1a6de16c6411a85abdd4a6aa3f19a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649556244
+status: 3
+tags: []
+user_id: julien

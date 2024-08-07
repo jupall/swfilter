@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/70745506de5c459fa7d0c08f10c11910/artifacts
+deleted_time: 1722619353121
+end_time: 1722619225265
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 70745506de5c459fa7d0c08f10c11910
+run_name: crawling-boar-273
+run_uuid: 70745506de5c459fa7d0c08f10c11910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619218997
+status: 3
+tags: []
+user_id: julien

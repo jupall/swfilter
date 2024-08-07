@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3f562711272046de84bd9ec8a1f917d6/artifacts
+end_time: 1722620987322
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3f562711272046de84bd9ec8a1f917d6
+run_name: clumsy-tern-705
+run_uuid: 3f562711272046de84bd9ec8a1f917d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620958117
+status: 3
+tags: []
+user_id: julien

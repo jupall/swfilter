@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/fb1da8ebc0014eacb4b785ef8f7761d5/artifacts
+deleted_time: 1722618664511
+end_time: 1722618482064
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: fb1da8ebc0014eacb4b785ef8f7761d5
+run_name: auspicious-koi-514
+run_uuid: fb1da8ebc0014eacb4b785ef8f7761d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618482026
+status: 3
+tags: []
+user_id: julien

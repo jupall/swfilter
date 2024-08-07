@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/556a8dc5e1d84f269d12314e4c7bfe56/artifacts
+end_time: 1722662751577
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 556a8dc5e1d84f269d12314e4c7bfe56
+run_name: dapper-shark-683
+run_uuid: 556a8dc5e1d84f269d12314e4c7bfe56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662751467
+status: 3
+tags: []
+user_id: julien

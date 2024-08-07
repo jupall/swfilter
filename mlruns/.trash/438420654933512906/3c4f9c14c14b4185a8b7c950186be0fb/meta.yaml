@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/3c4f9c14c14b4185a8b7c950186be0fb/artifacts
+deleted_time: 1722619353121
+end_time: 1722619071839
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 3c4f9c14c14b4185a8b7c950186be0fb
+run_name: mercurial-stag-750
+run_uuid: 3c4f9c14c14b4185a8b7c950186be0fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619071641
+status: 3
+tags: []
+user_id: julien

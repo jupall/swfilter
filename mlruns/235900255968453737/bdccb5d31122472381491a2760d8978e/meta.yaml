@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bdccb5d31122472381491a2760d8978e/artifacts
+end_time: 1722648166435
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bdccb5d31122472381491a2760d8978e
+run_name: carefree-stork-474
+run_uuid: bdccb5d31122472381491a2760d8978e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648166342
+status: 3
+tags: []
+user_id: julien

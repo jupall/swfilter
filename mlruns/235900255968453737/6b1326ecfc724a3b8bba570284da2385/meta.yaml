@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6b1326ecfc724a3b8bba570284da2385/artifacts
+end_time: 1722662415478
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6b1326ecfc724a3b8bba570284da2385
+run_name: bedecked-gnat-498
+run_uuid: 6b1326ecfc724a3b8bba570284da2385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662415372
+status: 3
+tags: []
+user_id: julien

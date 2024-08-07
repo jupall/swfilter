@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/95cf7dc6be27427c98efb8aa4f47e211/artifacts
+end_time: 1722663264345
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 95cf7dc6be27427c98efb8aa4f47e211
+run_name: inquisitive-hog-816
+run_uuid: 95cf7dc6be27427c98efb8aa4f47e211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663264232
+status: 3
+tags: []
+user_id: julien

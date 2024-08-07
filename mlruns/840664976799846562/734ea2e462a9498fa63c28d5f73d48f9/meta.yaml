@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/734ea2e462a9498fa63c28d5f73d48f9/artifacts
+end_time: 1722625013724
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 734ea2e462a9498fa63c28d5f73d48f9
+run_name: upbeat-worm-642
+run_uuid: 734ea2e462a9498fa63c28d5f73d48f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625013688
+status: 3
+tags: []
+user_id: julien

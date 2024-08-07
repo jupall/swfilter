@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bdbce68a01ff47869f4d075177ea3b1c/artifacts
+end_time: 1722620096969
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bdbce68a01ff47869f4d075177ea3b1c
+run_name: zealous-skunk-139
+run_uuid: bdbce68a01ff47869f4d075177ea3b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620096826
+status: 3
+tags: []
+user_id: julien

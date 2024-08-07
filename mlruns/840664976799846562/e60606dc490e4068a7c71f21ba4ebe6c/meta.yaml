@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e60606dc490e4068a7c71f21ba4ebe6c/artifacts
+end_time: 1722647158973
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e60606dc490e4068a7c71f21ba4ebe6c
+run_name: luminous-asp-908
+run_uuid: e60606dc490e4068a7c71f21ba4ebe6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722646876243
+status: 4
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7d26fee8e3b74dbc9729dab12b8cc4eb/artifacts
+end_time: 1722638830538
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7d26fee8e3b74dbc9729dab12b8cc4eb
+run_name: nebulous-ram-381
+run_uuid: 7d26fee8e3b74dbc9729dab12b8cc4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722638717111
+status: 3
+tags: []
+user_id: julien

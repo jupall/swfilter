@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dabe2f7157ff45caac3a144896d55828/artifacts
+end_time: 1722625008311
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dabe2f7157ff45caac3a144896d55828
+run_name: amazing-fly-886
+run_uuid: dabe2f7157ff45caac3a144896d55828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625008277
+status: 3
+tags: []
+user_id: julien

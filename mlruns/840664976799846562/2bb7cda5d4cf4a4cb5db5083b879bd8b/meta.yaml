@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2bb7cda5d4cf4a4cb5db5083b879bd8b/artifacts
+end_time: 1722644432439
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2bb7cda5d4cf4a4cb5db5083b879bd8b
+run_name: salty-lynx-891
+run_uuid: 2bb7cda5d4cf4a4cb5db5083b879bd8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644432266
+status: 3
+tags: []
+user_id: julien

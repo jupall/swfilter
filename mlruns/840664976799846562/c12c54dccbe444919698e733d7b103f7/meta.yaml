@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c12c54dccbe444919698e733d7b103f7/artifacts
+end_time: 1722643861514
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c12c54dccbe444919698e733d7b103f7
+run_name: dapper-donkey-610
+run_uuid: c12c54dccbe444919698e733d7b103f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643861314
+status: 3
+tags: []
+user_id: julien

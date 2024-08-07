@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d10746b2e3a44ad89e599b3b0d32dfe8/artifacts
+end_time: 1722620076261
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d10746b2e3a44ad89e599b3b0d32dfe8
+run_name: luminous-duck-547
+run_uuid: d10746b2e3a44ad89e599b3b0d32dfe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620076228
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/c023186ff99e4fc78dd3f91984cca70f/artifacts
+deleted_time: 1722619353121
+end_time: 1722619053636
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: c023186ff99e4fc78dd3f91984cca70f
+run_name: bouncy-penguin-911
+run_uuid: c023186ff99e4fc78dd3f91984cca70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619053597
+status: 3
+tags: []
+user_id: julien

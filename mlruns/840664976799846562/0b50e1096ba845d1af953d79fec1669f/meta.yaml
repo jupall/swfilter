@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0b50e1096ba845d1af953d79fec1669f/artifacts
+end_time: 1722625010236
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0b50e1096ba845d1af953d79fec1669f
+run_name: indecisive-ram-120
+run_uuid: 0b50e1096ba845d1af953d79fec1669f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625010203
+status: 3
+tags: []
+user_id: julien

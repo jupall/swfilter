@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6f7c3d490940419ab192600a792366fe/artifacts
+end_time: 1722644423757
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6f7c3d490940419ab192600a792366fe
+run_name: angry-stag-143
+run_uuid: 6f7c3d490940419ab192600a792366fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644423702
+status: 3
+tags: []
+user_id: julien

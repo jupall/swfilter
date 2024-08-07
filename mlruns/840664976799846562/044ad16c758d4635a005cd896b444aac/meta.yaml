@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/044ad16c758d4635a005cd896b444aac/artifacts
+end_time: 1722625167456
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 044ad16c758d4635a005cd896b444aac
+run_name: rambunctious-hog-19
+run_uuid: 044ad16c758d4635a005cd896b444aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625167273
+status: 3
+tags: []
+user_id: julien

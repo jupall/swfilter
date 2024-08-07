@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5060016acd7d4aa7af96c848be4173ca/artifacts
+end_time: 1722651957591
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5060016acd7d4aa7af96c848be4173ca
+run_name: upset-pug-110
+run_uuid: 5060016acd7d4aa7af96c848be4173ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651957398
+status: 3
+tags: []
+user_id: julien

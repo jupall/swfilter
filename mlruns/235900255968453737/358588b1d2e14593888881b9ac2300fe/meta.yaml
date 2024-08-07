@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/358588b1d2e14593888881b9ac2300fe/artifacts
+end_time: 1722651929502
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 358588b1d2e14593888881b9ac2300fe
+run_name: classy-gnat-997
+run_uuid: 358588b1d2e14593888881b9ac2300fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651929411
+status: 3
+tags: []
+user_id: julien

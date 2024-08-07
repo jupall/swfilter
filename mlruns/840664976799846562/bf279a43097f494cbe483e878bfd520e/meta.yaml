@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bf279a43097f494cbe483e878bfd520e/artifacts
+end_time: 1722620093917
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bf279a43097f494cbe483e878bfd520e
+run_name: wise-jay-778
+run_uuid: bf279a43097f494cbe483e878bfd520e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620093783
+status: 3
+tags: []
+user_id: julien

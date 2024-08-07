@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/268540489dc44f168c3cc84daf47d6db/artifacts
+end_time: 1722643877916
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 268540489dc44f168c3cc84daf47d6db
+run_name: serious-bee-111
+run_uuid: 268540489dc44f168c3cc84daf47d6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643877694
+status: 3
+tags: []
+user_id: julien

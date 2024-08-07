@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3a7b3367bed74a5ea09706ef3af0bc4a/artifacts
+end_time: 1722625015563
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3a7b3367bed74a5ea09706ef3af0bc4a
+run_name: righteous-owl-123
+run_uuid: 3a7b3367bed74a5ea09706ef3af0bc4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625015431
+status: 3
+tags: []
+user_id: julien

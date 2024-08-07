@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/cd33707a63db4361ac5ef536a2b168f5/artifacts
+deleted_time: 1722618419437
+end_time: 1722618245449
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: cd33707a63db4361ac5ef536a2b168f5
+run_name: whimsical-dove-240
+run_uuid: cd33707a63db4361ac5ef536a2b168f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618239927
+status: 3
+tags: []
+user_id: julien

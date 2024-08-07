@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/df3204b9792e4295aaee3a5cd6115ec0/artifacts
+end_time: 1722642994084
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: df3204b9792e4295aaee3a5cd6115ec0
+run_name: worried-frog-668
+run_uuid: df3204b9792e4295aaee3a5cd6115ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722642902961
+status: 3
+tags: []
+user_id: julien

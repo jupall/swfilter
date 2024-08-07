@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a82968b7bb38421a9f9ba9c447a6e32e/artifacts
+end_time: 1722649175169
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a82968b7bb38421a9f9ba9c447a6e32e
+run_name: salty-bear-835
+run_uuid: a82968b7bb38421a9f9ba9c447a6e32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649175077
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f835c0bc555e4fb4b21a0880ed79d261/artifacts
+end_time: 1722662403958
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f835c0bc555e4fb4b21a0880ed79d261
+run_name: lyrical-swan-273
+run_uuid: f835c0bc555e4fb4b21a0880ed79d261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662403856
+status: 3
+tags: []
+user_id: julien

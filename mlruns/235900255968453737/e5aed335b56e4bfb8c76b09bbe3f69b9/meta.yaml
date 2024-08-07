@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e5aed335b56e4bfb8c76b09bbe3f69b9/artifacts
+end_time: 1722662485066
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e5aed335b56e4bfb8c76b09bbe3f69b9
+run_name: bittersweet-wolf-50
+run_uuid: e5aed335b56e4bfb8c76b09bbe3f69b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662484059
+status: 3
+tags: []
+user_id: julien

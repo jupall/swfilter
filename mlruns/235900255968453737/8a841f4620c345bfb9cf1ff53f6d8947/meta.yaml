@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8a841f4620c345bfb9cf1ff53f6d8947/artifacts
+end_time: 1722662442178
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8a841f4620c345bfb9cf1ff53f6d8947
+run_name: intrigued-ape-992
+run_uuid: 8a841f4620c345bfb9cf1ff53f6d8947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662441922
+status: 3
+tags: []
+user_id: julien

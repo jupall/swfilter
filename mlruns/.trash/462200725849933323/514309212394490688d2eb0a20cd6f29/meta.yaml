@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/514309212394490688d2eb0a20cd6f29/artifacts
+deleted_time: 1722618939344
+end_time: 1722618905260
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 514309212394490688d2eb0a20cd6f29
+run_name: skillful-swan-420
+run_uuid: 514309212394490688d2eb0a20cd6f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618905032
+status: 3
+tags: []
+user_id: julien

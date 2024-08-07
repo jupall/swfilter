@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/18e63677f33e42d1bbfe4fb73a6e6853/artifacts
+end_time: 1722649539528
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 18e63677f33e42d1bbfe4fb73a6e6853
+run_name: resilient-shad-146
+run_uuid: 18e63677f33e42d1bbfe4fb73a6e6853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649528010
+status: 3
+tags: []
+user_id: julien

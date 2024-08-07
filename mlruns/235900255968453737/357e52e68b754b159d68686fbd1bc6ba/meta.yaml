@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/357e52e68b754b159d68686fbd1bc6ba/artifacts
+end_time: 1722663340233
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 357e52e68b754b159d68686fbd1bc6ba
+run_name: legendary-sloth-485
+run_uuid: 357e52e68b754b159d68686fbd1bc6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663339299
+status: 3
+tags: []
+user_id: julien

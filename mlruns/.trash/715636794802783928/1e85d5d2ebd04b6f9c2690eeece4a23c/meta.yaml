@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/1e85d5d2ebd04b6f9c2690eeece4a23c/artifacts
+deleted_time: 1722618419437
+end_time: 1722617786044
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 1e85d5d2ebd04b6f9c2690eeece4a23c
+run_name: abrasive-loon-48
+run_uuid: 1e85d5d2ebd04b6f9c2690eeece4a23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617785982
+status: 3
+tags: []
+user_id: julien

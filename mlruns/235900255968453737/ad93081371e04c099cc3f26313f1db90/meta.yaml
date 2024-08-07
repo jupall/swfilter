@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ad93081371e04c099cc3f26313f1db90/artifacts
+end_time: 1722649206325
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ad93081371e04c099cc3f26313f1db90
+run_name: rebellious-bird-189
+run_uuid: ad93081371e04c099cc3f26313f1db90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649206064
+status: 3
+tags: []
+user_id: julien

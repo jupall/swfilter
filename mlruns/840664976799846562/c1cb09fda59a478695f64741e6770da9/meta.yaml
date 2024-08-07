@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c1cb09fda59a478695f64741e6770da9/artifacts
+end_time: 1722620077769
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c1cb09fda59a478695f64741e6770da9
+run_name: delightful-vole-640
+run_uuid: c1cb09fda59a478695f64741e6770da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620077736
+status: 3
+tags: []
+user_id: julien

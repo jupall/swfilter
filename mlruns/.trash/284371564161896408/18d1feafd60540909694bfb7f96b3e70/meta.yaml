@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/18d1feafd60540909694bfb7f96b3e70/artifacts
+deleted_time: 1722618664511
+end_time: 1722618490422
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 18d1feafd60540909694bfb7f96b3e70
+run_name: luminous-doe-878
+run_uuid: 18d1feafd60540909694bfb7f96b3e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618490225
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b72c6a25ca8d4c9e9645e71647c11fd1/artifacts
+end_time: 1722648952212
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b72c6a25ca8d4c9e9645e71647c11fd1
+run_name: bold-tern-85
+run_uuid: b72c6a25ca8d4c9e9645e71647c11fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648947493
+status: 3
+tags: []
+user_id: julien

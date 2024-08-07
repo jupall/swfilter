@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/28fd781d96be493ead188458021d6492/artifacts
+end_time: 1722643981353
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 28fd781d96be493ead188458021d6492
+run_name: delicate-deer-17
+run_uuid: 28fd781d96be493ead188458021d6492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643981298
+status: 3
+tags: []
+user_id: julien

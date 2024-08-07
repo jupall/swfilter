@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fe1bf07e62484541ab04f97526131980/artifacts
+end_time: 1722652020676
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fe1bf07e62484541ab04f97526131980
+run_name: defiant-hawk-957
+run_uuid: fe1bf07e62484541ab04f97526131980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652019641
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/42b039956cfc43aaa46220731005e451/artifacts
+deleted_time: 1722618939344
+end_time: 1722618701124
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 42b039956cfc43aaa46220731005e451
+run_name: calm-gnat-226
+run_uuid: 42b039956cfc43aaa46220731005e451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618701054
+status: 3
+tags: []
+user_id: julien

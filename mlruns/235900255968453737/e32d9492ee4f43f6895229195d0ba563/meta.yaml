@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e32d9492ee4f43f6895229195d0ba563/artifacts
+end_time: 1722662434792
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e32d9492ee4f43f6895229195d0ba563
+run_name: colorful-snipe-114
+run_uuid: e32d9492ee4f43f6895229195d0ba563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662434527
+status: 3
+tags: []
+user_id: julien

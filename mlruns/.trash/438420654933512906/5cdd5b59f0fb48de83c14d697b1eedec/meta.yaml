@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/5cdd5b59f0fb48de83c14d697b1eedec/artifacts
+deleted_time: 1722619353121
+end_time: 1722619061724
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 5cdd5b59f0fb48de83c14d697b1eedec
+run_name: loud-hound-382
+run_uuid: 5cdd5b59f0fb48de83c14d697b1eedec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619061532
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d95f7a551a7845878217077aab5d99bb/artifacts
+end_time: 1722662408345
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d95f7a551a7845878217077aab5d99bb
+run_name: gentle-horse-528
+run_uuid: d95f7a551a7845878217077aab5d99bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662408240
+status: 3
+tags: []
+user_id: julien

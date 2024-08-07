@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/94b9c9a00b264c06a14c2e056e45c7d5/artifacts
+end_time: 1722620036901
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 94b9c9a00b264c06a14c2e056e45c7d5
+run_name: adaptable-pug-884
+run_uuid: 94b9c9a00b264c06a14c2e056e45c7d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620034056
+status: 3
+tags: []
+user_id: julien

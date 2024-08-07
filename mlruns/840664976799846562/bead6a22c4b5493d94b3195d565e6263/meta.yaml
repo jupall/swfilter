@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bead6a22c4b5493d94b3195d565e6263/artifacts
+end_time: 1722619375895
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bead6a22c4b5493d94b3195d565e6263
+run_name: victorious-ant-690
+run_uuid: bead6a22c4b5493d94b3195d565e6263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619375857
+status: 3
+tags: []
+user_id: julien

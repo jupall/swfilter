@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/886ca1c5104046728b8284bf020a9bcb/artifacts
+end_time: 1722651941578
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 886ca1c5104046728b8284bf020a9bcb
+run_name: orderly-quail-223
+run_uuid: 886ca1c5104046728b8284bf020a9bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651941358
+status: 3
+tags: []
+user_id: julien

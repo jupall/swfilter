@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/1f09122db06a469189c26c378305e9df/artifacts
+deleted_time: 1722618664511
+end_time: 1722618484505
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 1f09122db06a469189c26c378305e9df
+run_name: handsome-crow-327
+run_uuid: 1f09122db06a469189c26c378305e9df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618484464
+status: 3
+tags: []
+user_id: julien

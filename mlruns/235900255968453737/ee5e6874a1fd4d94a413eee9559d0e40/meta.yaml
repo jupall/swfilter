@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ee5e6874a1fd4d94a413eee9559d0e40/artifacts
+end_time: 1722648172097
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ee5e6874a1fd4d94a413eee9559d0e40
+run_name: omniscient-skink-827
+run_uuid: ee5e6874a1fd4d94a413eee9559d0e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648172004
+status: 3
+tags: []
+user_id: julien

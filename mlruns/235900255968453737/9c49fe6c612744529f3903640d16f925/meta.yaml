@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9c49fe6c612744529f3903640d16f925/artifacts
+end_time: 1722649206598
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9c49fe6c612744529f3903640d16f925
+run_name: dashing-roo-361
+run_uuid: 9c49fe6c612744529f3903640d16f925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649206337
+status: 3
+tags: []
+user_id: julien

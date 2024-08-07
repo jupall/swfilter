@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4be0ed4f0fb046b7a32030b8610128e9/artifacts
+end_time: 1722649204369
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4be0ed4f0fb046b7a32030b8610128e9
+run_name: gregarious-loon-73
+run_uuid: 4be0ed4f0fb046b7a32030b8610128e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649204109
+status: 3
+tags: []
+user_id: julien

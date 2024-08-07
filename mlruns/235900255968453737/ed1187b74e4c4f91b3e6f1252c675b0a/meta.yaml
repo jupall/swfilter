@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ed1187b74e4c4f91b3e6f1252c675b0a/artifacts
+end_time: 1722662429806
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ed1187b74e4c4f91b3e6f1252c675b0a
+run_name: burly-sloth-276
+run_uuid: ed1187b74e4c4f91b3e6f1252c675b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662429551
+status: 3
+tags: []
+user_id: julien

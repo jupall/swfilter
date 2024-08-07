@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/44cc836dbb1c43b7a148a9979f29d699/artifacts
+end_time: 1722663102614
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 44cc836dbb1c43b7a148a9979f29d699
+run_name: wise-fly-196
+run_uuid: 44cc836dbb1c43b7a148a9979f29d699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663100342
+status: 3
+tags: []
+user_id: julien

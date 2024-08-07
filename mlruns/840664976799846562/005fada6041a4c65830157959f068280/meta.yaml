@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/005fada6041a4c65830157959f068280/artifacts
+end_time: 1722643868624
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 005fada6041a4c65830157959f068280
+run_name: judicious-mule-120
+run_uuid: 005fada6041a4c65830157959f068280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643868430
+status: 3
+tags: []
+user_id: julien

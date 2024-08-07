@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/f9fff6be56d6473993aed111a5e527ce/artifacts
+deleted_time: 1722618419437
+end_time: 1722618250669
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: f9fff6be56d6473993aed111a5e527ce
+run_name: sedate-mole-250
+run_uuid: f9fff6be56d6473993aed111a5e527ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618245459
+status: 3
+tags: []
+user_id: julien

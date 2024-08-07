@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c9c5791903dd4b9abe541b2d50d4de83/artifacts
+end_time: 1722637567329
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c9c5791903dd4b9abe541b2d50d4de83
+run_name: invincible-foal-442
+run_uuid: c9c5791903dd4b9abe541b2d50d4de83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722637488834
+status: 3
+tags: []
+user_id: julien

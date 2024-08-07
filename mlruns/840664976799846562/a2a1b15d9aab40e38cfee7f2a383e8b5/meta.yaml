@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a2a1b15d9aab40e38cfee7f2a383e8b5/artifacts
+end_time: 1722644507358
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a2a1b15d9aab40e38cfee7f2a383e8b5
+run_name: bemused-duck-453
+run_uuid: a2a1b15d9aab40e38cfee7f2a383e8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644507270
+status: 3
+tags: []
+user_id: julien

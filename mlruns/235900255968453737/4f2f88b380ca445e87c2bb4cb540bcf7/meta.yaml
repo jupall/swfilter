@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4f2f88b380ca445e87c2bb4cb540bcf7/artifacts
+end_time: 1722662412676
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4f2f88b380ca445e87c2bb4cb540bcf7
+run_name: exultant-seal-335
+run_uuid: 4f2f88b380ca445e87c2bb4cb540bcf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662412570
+status: 3
+tags: []
+user_id: julien

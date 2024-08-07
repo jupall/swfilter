@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fc12eecf277744d4b0af7c00f44f6604/artifacts
+end_time: 1722643925054
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fc12eecf277744d4b0af7c00f44f6604
+run_name: agreeable-wolf-874
+run_uuid: fc12eecf277744d4b0af7c00f44f6604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643924499
+status: 3
+tags: []
+user_id: julien

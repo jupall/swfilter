@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/488bd616bfaa47bf8999af0a5055b7f2/artifacts
+end_time: 1722661696617
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 488bd616bfaa47bf8999af0a5055b7f2
+run_name: incongruous-roo-384
+run_uuid: 488bd616bfaa47bf8999af0a5055b7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722661610999
+status: 3
+tags: []
+user_id: julien

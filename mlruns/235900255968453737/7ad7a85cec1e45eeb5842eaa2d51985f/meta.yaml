@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7ad7a85cec1e45eeb5842eaa2d51985f/artifacts
+end_time: 1722648482701
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7ad7a85cec1e45eeb5842eaa2d51985f
+run_name: silent-fawn-231
+run_uuid: 7ad7a85cec1e45eeb5842eaa2d51985f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648475805
+status: 3
+tags: []
+user_id: julien

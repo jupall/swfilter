@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fc135db3c0a642da9c4791c1c363a543/artifacts
+end_time: 1722648342172
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fc135db3c0a642da9c4791c1c363a543
+run_name: puzzled-shrike-247
+run_uuid: fc135db3c0a642da9c4791c1c363a543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648333518
+status: 3
+tags: []
+user_id: julien

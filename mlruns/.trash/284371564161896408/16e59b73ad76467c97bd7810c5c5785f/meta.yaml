@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/16e59b73ad76467c97bd7810c5c5785f/artifacts
+deleted_time: 1722618664511
+end_time: 1722618481333
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 16e59b73ad76467c97bd7810c5c5785f
+run_name: capable-shark-616
+run_uuid: 16e59b73ad76467c97bd7810c5c5785f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618481293
+status: 3
+tags: []
+user_id: julien

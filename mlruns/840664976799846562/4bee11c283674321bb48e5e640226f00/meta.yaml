@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4bee11c283674321bb48e5e640226f00/artifacts
+end_time: 1722620084140
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4bee11c283674321bb48e5e640226f00
+run_name: abrasive-fly-136
+run_uuid: 4bee11c283674321bb48e5e640226f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620083981
+status: 3
+tags: []
+user_id: julien

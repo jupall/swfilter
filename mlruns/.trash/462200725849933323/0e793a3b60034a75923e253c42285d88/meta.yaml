@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/0e793a3b60034a75923e253c42285d88/artifacts
+deleted_time: 1722618939344
+end_time: 1722618894073
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 0e793a3b60034a75923e253c42285d88
+run_name: caring-conch-457
+run_uuid: 0e793a3b60034a75923e253c42285d88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618894005
+status: 3
+tags: []
+user_id: julien

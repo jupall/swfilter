@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/47cd6b70cb1d4753905e35290d94eb47/artifacts
+end_time: 1722643985598
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 47cd6b70cb1d4753905e35290d94eb47
+run_name: selective-calf-612
+run_uuid: 47cd6b70cb1d4753905e35290d94eb47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643985369
+status: 3
+tags: []
+user_id: julien

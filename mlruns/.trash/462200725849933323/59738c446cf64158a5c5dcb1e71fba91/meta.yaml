@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/59738c446cf64158a5c5dcb1e71fba91/artifacts
+deleted_time: 1722618939344
+end_time: 1722618697573
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 59738c446cf64158a5c5dcb1e71fba91
+run_name: selective-bass-573
+run_uuid: 59738c446cf64158a5c5dcb1e71fba91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618697510
+status: 3
+tags: []
+user_id: julien

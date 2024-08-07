@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/e3484cf445f14c2c9721f964a6811078/artifacts
+deleted_time: 1722618664511
+end_time: 1722618479842
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: e3484cf445f14c2c9721f964a6811078
+run_name: agreeable-sheep-213
+run_uuid: e3484cf445f14c2c9721f964a6811078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618479803
+status: 3
+tags: []
+user_id: julien

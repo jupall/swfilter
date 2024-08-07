@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7446cfe6afc6442eac40e73ddd9900d7/artifacts
+end_time: 1722644459428
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7446cfe6afc6442eac40e73ddd9900d7
+run_name: nebulous-crow-144
+run_uuid: 7446cfe6afc6442eac40e73ddd9900d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644459158
+status: 3
+tags: []
+user_id: julien

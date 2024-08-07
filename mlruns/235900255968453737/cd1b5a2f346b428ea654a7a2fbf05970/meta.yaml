@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cd1b5a2f346b428ea654a7a2fbf05970/artifacts
+end_time: 1722648171565
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cd1b5a2f346b428ea654a7a2fbf05970
+run_name: silent-skunk-656
+run_uuid: cd1b5a2f346b428ea654a7a2fbf05970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648171472
+status: 3
+tags: []
+user_id: julien

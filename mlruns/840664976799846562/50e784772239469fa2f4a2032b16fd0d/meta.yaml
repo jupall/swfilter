@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/50e784772239469fa2f4a2032b16fd0d/artifacts
+end_time: 1722625160634
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 50e784772239469fa2f4a2032b16fd0d
+run_name: handsome-bird-937
+run_uuid: 50e784772239469fa2f4a2032b16fd0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625160457
+status: 3
+tags: []
+user_id: julien

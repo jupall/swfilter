@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/69f199932e2149da8662a04021c6705b/artifacts
+end_time: 1722651934334
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 69f199932e2149da8662a04021c6705b
+run_name: unruly-conch-483
+run_uuid: 69f199932e2149da8662a04021c6705b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651934243
+status: 3
+tags: []
+user_id: julien

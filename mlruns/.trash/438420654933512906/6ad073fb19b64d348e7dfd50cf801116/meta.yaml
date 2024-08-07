@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/6ad073fb19b64d348e7dfd50cf801116/artifacts
+deleted_time: 1722619353121
+end_time: 1722619065821
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 6ad073fb19b64d348e7dfd50cf801116
+run_name: gifted-snake-967
+run_uuid: 6ad073fb19b64d348e7dfd50cf801116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619065617
+status: 3
+tags: []
+user_id: julien

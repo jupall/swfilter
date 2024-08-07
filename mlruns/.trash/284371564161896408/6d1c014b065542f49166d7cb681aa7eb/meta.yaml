@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/6d1c014b065542f49166d7cb681aa7eb/artifacts
+deleted_time: 1722618664511
+end_time: 1722618487990
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 6d1c014b065542f49166d7cb681aa7eb
+run_name: receptive-seal-811
+run_uuid: 6d1c014b065542f49166d7cb681aa7eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618487811
+status: 3
+tags: []
+user_id: julien

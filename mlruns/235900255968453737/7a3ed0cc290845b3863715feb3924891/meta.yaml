@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7a3ed0cc290845b3863715feb3924891/artifacts
+end_time: 1722663369276
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7a3ed0cc290845b3863715feb3924891
+run_name: painted-hen-974
+run_uuid: 7a3ed0cc290845b3863715feb3924891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663368838
+status: 3
+tags: []
+user_id: julien

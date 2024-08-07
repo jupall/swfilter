@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/43b46678542242c998f74364cf3d8333/artifacts
+end_time: 1722663367948
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 43b46678542242c998f74364cf3d8333
+run_name: beautiful-snipe-627
+run_uuid: 43b46678542242c998f74364cf3d8333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663367504
+status: 3
+tags: []
+user_id: julien

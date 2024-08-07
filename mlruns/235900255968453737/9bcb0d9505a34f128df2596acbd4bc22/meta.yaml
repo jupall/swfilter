@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9bcb0d9505a34f128df2596acbd4bc22/artifacts
+end_time: 1722652021544
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9bcb0d9505a34f128df2596acbd4bc22
+run_name: nervous-bat-262
+run_uuid: 9bcb0d9505a34f128df2596acbd4bc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652020693
+status: 3
+tags: []
+user_id: julien

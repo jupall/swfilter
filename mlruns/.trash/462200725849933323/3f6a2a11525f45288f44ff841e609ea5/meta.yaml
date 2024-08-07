@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/3f6a2a11525f45288f44ff841e609ea5/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897648
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 3f6a2a11525f45288f44ff841e609ea5
+run_name: auspicious-hog-67
+run_uuid: 3f6a2a11525f45288f44ff841e609ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897580
+status: 3
+tags: []
+user_id: julien

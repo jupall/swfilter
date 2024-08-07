@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e94cfb3c9b8346cda008c316e06ae57d/artifacts
+end_time: 1722620097717
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e94cfb3c9b8346cda008c316e06ae57d
+run_name: rogue-newt-47
+run_uuid: e94cfb3c9b8346cda008c316e06ae57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620097574
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/4f6cc0f3abad47d4aab2be46a8fa03dd/artifacts
+deleted_time: 1722619353121
+end_time: 1722619069577
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 4f6cc0f3abad47d4aab2be46a8fa03dd
+run_name: unleashed-quail-293
+run_uuid: 4f6cc0f3abad47d4aab2be46a8fa03dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619069379
+status: 3
+tags: []
+user_id: julien

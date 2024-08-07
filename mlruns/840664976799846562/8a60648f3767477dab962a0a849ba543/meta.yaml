@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8a60648f3767477dab962a0a849ba543/artifacts
+end_time: 1722625024101
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8a60648f3767477dab962a0a849ba543
+run_name: worried-grub-790
+run_uuid: 8a60648f3767477dab962a0a849ba543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625023923
+status: 3
+tags: []
+user_id: julien

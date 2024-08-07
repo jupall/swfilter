@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fbd0b54ebb1b4543987f3bf5c25c09a7/artifacts
+end_time: 1722619410108
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fbd0b54ebb1b4543987f3bf5c25c09a7
+run_name: resilient-shark-595
+run_uuid: fbd0b54ebb1b4543987f3bf5c25c09a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619409900
+status: 3
+tags: []
+user_id: julien

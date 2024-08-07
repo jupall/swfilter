@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5bb708f116284a82a1ea0c80e8fea7c7/artifacts
+end_time: 1722651942957
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5bb708f116284a82a1ea0c80e8fea7c7
+run_name: treasured-snail-451
+run_uuid: 5bb708f116284a82a1ea0c80e8fea7c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651942755
+status: 3
+tags: []
+user_id: julien

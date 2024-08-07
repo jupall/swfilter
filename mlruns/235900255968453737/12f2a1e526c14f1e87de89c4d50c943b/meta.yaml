@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/12f2a1e526c14f1e87de89c4d50c943b/artifacts
+end_time: 1722662786438
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 12f2a1e526c14f1e87de89c4d50c943b
+run_name: overjoyed-cod-233
+run_uuid: 12f2a1e526c14f1e87de89c4d50c943b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662786196
+status: 3
+tags: []
+user_id: julien

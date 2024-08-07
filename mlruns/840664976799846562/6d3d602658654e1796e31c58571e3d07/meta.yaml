@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6d3d602658654e1796e31c58571e3d07/artifacts
+end_time: 1722619396421
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6d3d602658654e1796e31c58571e3d07
+run_name: monumental-mole-916
+run_uuid: 6d3d602658654e1796e31c58571e3d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619396212
+status: 3
+tags: []
+user_id: julien

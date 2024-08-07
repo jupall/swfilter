@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/85d3a43d5d00475e9c6c6d2937377479/artifacts
+deleted_time: 1722618419437
+end_time: 1722618203329
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 85d3a43d5d00475e9c6c6d2937377479
+run_name: bouncy-newt-504
+run_uuid: 85d3a43d5d00475e9c6c6d2937377479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618197615
+status: 3
+tags: []
+user_id: julien

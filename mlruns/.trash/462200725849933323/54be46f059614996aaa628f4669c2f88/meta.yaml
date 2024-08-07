@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/54be46f059614996aaa628f4669c2f88/artifacts
+deleted_time: 1722618939344
+end_time: 1722618901768
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 54be46f059614996aaa628f4669c2f88
+run_name: youthful-shrew-136
+run_uuid: 54be46f059614996aaa628f4669c2f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618901694
+status: 3
+tags: []
+user_id: julien

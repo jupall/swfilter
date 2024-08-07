@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/97cbb6fea59341929df6137f64ab9beb/artifacts
+end_time: 1722644543453
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 97cbb6fea59341929df6137f64ab9beb
+run_name: salty-donkey-593
+run_uuid: 97cbb6fea59341929df6137f64ab9beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644543223
+status: 3
+tags: []
+user_id: julien

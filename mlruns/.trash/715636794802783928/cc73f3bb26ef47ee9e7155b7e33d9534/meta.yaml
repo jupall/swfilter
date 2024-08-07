@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/cc73f3bb26ef47ee9e7155b7e33d9534/artifacts
+deleted_time: 1722618419437
+end_time: 1722618163233
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: cc73f3bb26ef47ee9e7155b7e33d9534
+run_name: flawless-perch-982
+run_uuid: cc73f3bb26ef47ee9e7155b7e33d9534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618159107
+status: 3
+tags: []
+user_id: julien

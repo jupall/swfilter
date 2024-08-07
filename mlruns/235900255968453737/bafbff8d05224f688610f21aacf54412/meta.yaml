@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bafbff8d05224f688610f21aacf54412/artifacts
+end_time: 1722648434669
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bafbff8d05224f688610f21aacf54412
+run_name: merciful-colt-986
+run_uuid: bafbff8d05224f688610f21aacf54412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648430918
+status: 3
+tags: []
+user_id: julien

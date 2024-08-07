@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8b03433f5229460399d808917ef9cbfc/artifacts
+end_time: 1722619383060
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8b03433f5229460399d808917ef9cbfc
+run_name: charming-mole-827
+run_uuid: 8b03433f5229460399d808917ef9cbfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619382841
+status: 3
+tags: []
+user_id: julien

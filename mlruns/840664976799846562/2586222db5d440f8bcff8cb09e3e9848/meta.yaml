@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2586222db5d440f8bcff8cb09e3e9848/artifacts
+end_time: 1722643862790
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2586222db5d440f8bcff8cb09e3e9848
+run_name: adaptable-crab-18
+run_uuid: 2586222db5d440f8bcff8cb09e3e9848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643862561
+status: 3
+tags: []
+user_id: julien

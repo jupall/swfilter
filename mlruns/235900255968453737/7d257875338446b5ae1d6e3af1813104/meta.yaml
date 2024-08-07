@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7d257875338446b5ae1d6e3af1813104/artifacts
+end_time: 1722663254096
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7d257875338446b5ae1d6e3af1813104
+run_name: luminous-bat-367
+run_uuid: 7d257875338446b5ae1d6e3af1813104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663253975
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/aa6cc37fa84e4961b4b3145eb3231272/artifacts
+end_time: 1722648161710
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: aa6cc37fa84e4961b4b3145eb3231272
+run_name: abrasive-ox-559
+run_uuid: aa6cc37fa84e4961b4b3145eb3231272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648161604
+status: 3
+tags: []
+user_id: julien

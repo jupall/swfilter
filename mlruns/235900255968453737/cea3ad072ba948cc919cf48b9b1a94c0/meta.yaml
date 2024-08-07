@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cea3ad072ba948cc919cf48b9b1a94c0/artifacts
+end_time: 1722651960142
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cea3ad072ba948cc919cf48b9b1a94c0
+run_name: fortunate-stork-196
+run_uuid: cea3ad072ba948cc919cf48b9b1a94c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651959941
+status: 3
+tags: []
+user_id: julien

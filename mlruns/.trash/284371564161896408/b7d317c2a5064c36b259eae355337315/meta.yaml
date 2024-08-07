@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/b7d317c2a5064c36b259eae355337315/artifacts
+deleted_time: 1722618664511
+end_time: 1722618484032
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: b7d317c2a5064c36b259eae355337315
+run_name: unleashed-gull-469
+run_uuid: b7d317c2a5064c36b259eae355337315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618483989
+status: 3
+tags: []
+user_id: julien

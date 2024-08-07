@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7500998fb6734829a85601b941a69435/artifacts
+end_time: 1722619813588
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7500998fb6734829a85601b941a69435
+run_name: merciful-swan-561
+run_uuid: 7500998fb6734829a85601b941a69435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619810704
+status: 3
+tags: []
+user_id: julien

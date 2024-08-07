@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/0fe9c857ab924067bd605c1d8d11a1b6/artifacts
+deleted_time: 1722618664511
+end_time: 1722618501648
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 0fe9c857ab924067bd605c1d8d11a1b6
+run_name: monumental-wolf-696
+run_uuid: 0fe9c857ab924067bd605c1d8d11a1b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618501446
+status: 3
+tags: []
+user_id: julien

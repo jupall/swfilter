@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ed753670af524490b340f5dad0c44071/artifacts
+end_time: 1722644548862
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ed753670af524490b340f5dad0c44071
+run_name: stylish-duck-748
+run_uuid: ed753670af524490b340f5dad0c44071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644548633
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/9dd3d004c25f424295e02783fa6dfd6b/artifacts
+deleted_time: 1722619353121
+end_time: 1722619201356
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 9dd3d004c25f424295e02783fa6dfd6b
+run_name: merciful-koi-799
+run_uuid: 9dd3d004c25f424295e02783fa6dfd6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619195947
+status: 3
+tags: []
+user_id: julien

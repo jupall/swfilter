@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/91f7be8bcc084141bf2d34b94af7ca90/artifacts
+end_time: 1722649178377
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 91f7be8bcc084141bf2d34b94af7ca90
+run_name: glamorous-deer-395
+run_uuid: 91f7be8bcc084141bf2d34b94af7ca90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649178292
+status: 3
+tags: []
+user_id: julien

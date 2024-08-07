@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d6707c8fed1f4696bc9402133c4698e5/artifacts
+end_time: 1722644444728
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d6707c8fed1f4696bc9402133c4698e5
+run_name: intrigued-hound-398
+run_uuid: d6707c8fed1f4696bc9402133c4698e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644444516
+status: 3
+tags: []
+user_id: julien

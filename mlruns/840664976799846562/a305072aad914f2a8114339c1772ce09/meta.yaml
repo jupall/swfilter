@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a305072aad914f2a8114339c1772ce09/artifacts
+end_time: 1722644416468
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a305072aad914f2a8114339c1772ce09
+run_name: exultant-crow-561
+run_uuid: a305072aad914f2a8114339c1772ce09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644416413
+status: 3
+tags: []
+user_id: julien

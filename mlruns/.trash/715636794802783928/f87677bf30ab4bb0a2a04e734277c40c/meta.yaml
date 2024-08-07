@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/f87677bf30ab4bb0a2a04e734277c40c/artifacts
+deleted_time: 1722618419437
+end_time: 1722617834571
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: f87677bf30ab4bb0a2a04e734277c40c
+run_name: tasteful-stork-852
+run_uuid: f87677bf30ab4bb0a2a04e734277c40c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617834510
+status: 3
+tags: []
+user_id: julien

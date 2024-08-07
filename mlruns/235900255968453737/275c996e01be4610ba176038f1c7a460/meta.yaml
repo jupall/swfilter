@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/275c996e01be4610ba176038f1c7a460/artifacts
+end_time: 1722648541150
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 275c996e01be4610ba176038f1c7a460
+run_name: nimble-ant-283
+run_uuid: 275c996e01be4610ba176038f1c7a460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648524460
+status: 3
+tags: []
+user_id: julien

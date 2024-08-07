@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/faa2f8a755dd42dca5f151c86a6586ad/artifacts
+deleted_time: 1722619353121
+end_time: 1722619050208
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: faa2f8a755dd42dca5f151c86a6586ad
+run_name: learned-cow-477
+run_uuid: faa2f8a755dd42dca5f151c86a6586ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619050165
+status: 3
+tags: []
+user_id: julien

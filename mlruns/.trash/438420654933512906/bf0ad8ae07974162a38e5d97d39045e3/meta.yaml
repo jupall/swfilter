@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/bf0ad8ae07974162a38e5d97d39045e3/artifacts
+deleted_time: 1722619353121
+end_time: 1722619050853
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: bf0ad8ae07974162a38e5d97d39045e3
+run_name: entertaining-hen-912
+run_uuid: bf0ad8ae07974162a38e5d97d39045e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619050829
+status: 3
+tags: []
+user_id: julien

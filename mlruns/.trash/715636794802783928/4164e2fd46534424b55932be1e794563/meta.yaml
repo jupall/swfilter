@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/4164e2fd46534424b55932be1e794563/artifacts
+deleted_time: 1722618419437
+end_time: 1722617783791
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 4164e2fd46534424b55932be1e794563
+run_name: rare-crab-574
+run_uuid: 4164e2fd46534424b55932be1e794563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617783743
+status: 3
+tags: []
+user_id: julien

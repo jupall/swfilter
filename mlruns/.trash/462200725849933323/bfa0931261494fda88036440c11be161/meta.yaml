@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/bfa0931261494fda88036440c11be161/artifacts
+deleted_time: 1722618939344
+end_time: 1722618694863
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: bfa0931261494fda88036440c11be161
+run_name: adorable-grub-234
+run_uuid: bfa0931261494fda88036440c11be161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618694801
+status: 3
+tags: []
+user_id: julien

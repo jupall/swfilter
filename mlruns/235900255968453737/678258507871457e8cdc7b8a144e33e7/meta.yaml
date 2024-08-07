@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/678258507871457e8cdc7b8a144e33e7/artifacts
+end_time: 1722662417280
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 678258507871457e8cdc7b8a144e33e7
+run_name: peaceful-donkey-729
+run_uuid: 678258507871457e8cdc7b8a144e33e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662417174
+status: 3
+tags: []
+user_id: julien

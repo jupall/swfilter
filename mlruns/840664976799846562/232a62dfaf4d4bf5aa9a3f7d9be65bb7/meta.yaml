@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/232a62dfaf4d4bf5aa9a3f7d9be65bb7/artifacts
+end_time: 1722643853184
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 232a62dfaf4d4bf5aa9a3f7d9be65bb7
+run_name: bemused-sow-228
+run_uuid: 232a62dfaf4d4bf5aa9a3f7d9be65bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643711109
+status: 3
+tags: []
+user_id: julien

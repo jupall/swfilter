@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1c8fb6198e6c4315b81c2dd28c5a87f2/artifacts
+end_time: 1722644419858
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1c8fb6198e6c4315b81c2dd28c5a87f2
+run_name: enchanting-vole-382
+run_uuid: 1c8fb6198e6c4315b81c2dd28c5a87f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644419802
+status: 3
+tags: []
+user_id: julien

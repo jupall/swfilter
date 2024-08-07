@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8384e4eeef8d485b83e8c0fe74464d1a/artifacts
+end_time: 1722625176493
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8384e4eeef8d485b83e8c0fe74464d1a
+run_name: shivering-mole-957
+run_uuid: 8384e4eeef8d485b83e8c0fe74464d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625176298
+status: 3
+tags: []
+user_id: julien

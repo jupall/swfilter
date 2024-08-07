@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c6b1506ca225462ca2eb46d938336587/artifacts
+end_time: 1722662734803
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c6b1506ca225462ca2eb46d938336587
+run_name: luxuriant-finch-474
+run_uuid: c6b1506ca225462ca2eb46d938336587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662734694
+status: 3
+tags: []
+user_id: julien

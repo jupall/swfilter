@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/86df14dce67143a9b1d769324518bc2d/artifacts
+end_time: 1722662791368
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 86df14dce67143a9b1d769324518bc2d
+run_name: enthused-roo-858
+run_uuid: 86df14dce67143a9b1d769324518bc2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662791125
+status: 3
+tags: []
+user_id: julien

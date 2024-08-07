@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a4d5a8c3cc6e4443b0076aeeef15e031/artifacts
+end_time: 1722652117969
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a4d5a8c3cc6e4443b0076aeeef15e031
+run_name: valuable-kite-289
+run_uuid: a4d5a8c3cc6e4443b0076aeeef15e031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652117860
+status: 3
+tags: []
+user_id: julien

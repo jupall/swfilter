@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/742849c8abcd48189071d462a899ff4a/artifacts
+deleted_time: 1722618939344
+end_time: 1722618896642
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 742849c8abcd48189071d462a899ff4a
+run_name: clumsy-chimp-101
+run_uuid: 742849c8abcd48189071d462a899ff4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618896580
+status: 3
+tags: []
+user_id: julien

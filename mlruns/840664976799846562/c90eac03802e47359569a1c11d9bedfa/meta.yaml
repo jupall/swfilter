@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c90eac03802e47359569a1c11d9bedfa/artifacts
+end_time: 1722619730084
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c90eac03802e47359569a1c11d9bedfa
+run_name: placid-seal-317
+run_uuid: c90eac03802e47359569a1c11d9bedfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619728070
+status: 3
+tags: []
+user_id: julien

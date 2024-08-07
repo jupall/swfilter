@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3fe638985dad467bbe396c24853a7c32/artifacts
+end_time: 1722649022854
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3fe638985dad467bbe396c24853a7c32
+run_name: clean-bat-837
+run_uuid: 3fe638985dad467bbe396c24853a7c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649019335
+status: 3
+tags: []
+user_id: julien

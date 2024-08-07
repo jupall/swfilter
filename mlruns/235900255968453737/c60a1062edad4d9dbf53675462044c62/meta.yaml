@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c60a1062edad4d9dbf53675462044c62/artifacts
+end_time: 1722662752081
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c60a1062edad4d9dbf53675462044c62
+run_name: wistful-boar-936
+run_uuid: c60a1062edad4d9dbf53675462044c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662751970
+status: 3
+tags: []
+user_id: julien

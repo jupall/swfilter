@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/756f857fb713452d93716d0ae834a21f/artifacts
+end_time: 1722644474612
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 756f857fb713452d93716d0ae834a21f
+run_name: caring-mink-486
+run_uuid: 756f857fb713452d93716d0ae834a21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644474293
+status: 3
+tags: []
+user_id: julien

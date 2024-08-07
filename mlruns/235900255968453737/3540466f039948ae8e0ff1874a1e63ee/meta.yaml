@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3540466f039948ae8e0ff1874a1e63ee/artifacts
+end_time: 1722649186256
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3540466f039948ae8e0ff1874a1e63ee
+run_name: powerful-conch-944
+run_uuid: 3540466f039948ae8e0ff1874a1e63ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649186169
+status: 3
+tags: []
+user_id: julien

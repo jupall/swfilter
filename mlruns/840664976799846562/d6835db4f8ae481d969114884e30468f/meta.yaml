@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d6835db4f8ae481d969114884e30468f/artifacts
+end_time: 1722620582686
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d6835db4f8ae481d969114884e30468f
+run_name: marvelous-trout-10
+run_uuid: d6835db4f8ae481d969114884e30468f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620538557
+status: 3
+tags: []
+user_id: julien

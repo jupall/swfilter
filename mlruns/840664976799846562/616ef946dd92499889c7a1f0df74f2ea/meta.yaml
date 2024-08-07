@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/616ef946dd92499889c7a1f0df74f2ea/artifacts
+end_time: 1722625080851
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 616ef946dd92499889c7a1f0df74f2ea
+run_name: melodic-shad-555
+run_uuid: 616ef946dd92499889c7a1f0df74f2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625080375
+status: 3
+tags: []
+user_id: julien

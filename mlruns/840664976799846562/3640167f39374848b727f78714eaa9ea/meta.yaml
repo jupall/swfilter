@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3640167f39374848b727f78714eaa9ea/artifacts
+end_time: 1722619373461
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3640167f39374848b727f78714eaa9ea
+run_name: fun-squid-288
+run_uuid: 3640167f39374848b727f78714eaa9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373438
+status: 3
+tags: []
+user_id: julien

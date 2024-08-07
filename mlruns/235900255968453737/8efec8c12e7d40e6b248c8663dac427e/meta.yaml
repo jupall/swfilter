@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8efec8c12e7d40e6b248c8663dac427e/artifacts
+end_time: 1722663344294
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8efec8c12e7d40e6b248c8663dac427e
+run_name: youthful-hen-959
+run_uuid: 8efec8c12e7d40e6b248c8663dac427e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663343922
+status: 3
+tags: []
+user_id: julien

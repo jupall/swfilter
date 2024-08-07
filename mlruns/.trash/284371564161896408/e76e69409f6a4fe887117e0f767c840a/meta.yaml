@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/e76e69409f6a4fe887117e0f767c840a/artifacts
+deleted_time: 1722618664511
+end_time: 1722618500182
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: e76e69409f6a4fe887117e0f767c840a
+run_name: entertaining-hog-730
+run_uuid: e76e69409f6a4fe887117e0f767c840a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618500005
+status: 3
+tags: []
+user_id: julien

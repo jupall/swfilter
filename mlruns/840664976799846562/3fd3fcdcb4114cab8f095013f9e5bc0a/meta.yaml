@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3fd3fcdcb4114cab8f095013f9e5bc0a/artifacts
+end_time: 1722644149178
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3fd3fcdcb4114cab8f095013f9e5bc0a
+run_name: debonair-worm-47
+run_uuid: 3fd3fcdcb4114cab8f095013f9e5bc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644145844
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/70d6ab209cb443a1886810ef5139d8ba/artifacts
+end_time: 1722625126289
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 70d6ab209cb443a1886810ef5139d8ba
+run_name: rumbling-cub-400
+run_uuid: 70d6ab209cb443a1886810ef5139d8ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625125473
+status: 3
+tags: []
+user_id: julien

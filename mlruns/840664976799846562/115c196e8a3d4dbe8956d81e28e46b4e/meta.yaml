@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/115c196e8a3d4dbe8956d81e28e46b4e/artifacts
+end_time: 1722620077814
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 115c196e8a3d4dbe8956d81e28e46b4e
+run_name: spiffy-doe-606
+run_uuid: 115c196e8a3d4dbe8956d81e28e46b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620077776
+status: 3
+tags: []
+user_id: julien

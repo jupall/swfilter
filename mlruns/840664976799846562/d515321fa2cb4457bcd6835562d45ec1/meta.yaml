@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d515321fa2cb4457bcd6835562d45ec1/artifacts
+end_time: 1722620084276
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d515321fa2cb4457bcd6835562d45ec1
+run_name: inquisitive-rook-736
+run_uuid: d515321fa2cb4457bcd6835562d45ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620084147
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e6b7e939eb3c4b43b20fb08e5770236d/artifacts
+end_time: 1722643854849
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e6b7e939eb3c4b43b20fb08e5770236d
+run_name: amusing-colt-10
+run_uuid: e6b7e939eb3c4b43b20fb08e5770236d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643854806
+status: 3
+tags: []
+user_id: julien

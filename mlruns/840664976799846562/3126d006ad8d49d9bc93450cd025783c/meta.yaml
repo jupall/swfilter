@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3126d006ad8d49d9bc93450cd025783c/artifacts
+end_time: 1722620080239
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3126d006ad8d49d9bc93450cd025783c
+run_name: bouncy-sloth-656
+run_uuid: 3126d006ad8d49d9bc93450cd025783c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620080205
+status: 3
+tags: []
+user_id: julien

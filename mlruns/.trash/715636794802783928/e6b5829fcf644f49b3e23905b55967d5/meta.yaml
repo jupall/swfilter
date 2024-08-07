@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/e6b5829fcf644f49b3e23905b55967d5/artifacts
+deleted_time: 1722618419437
+end_time: 1722617784548
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: e6b5829fcf644f49b3e23905b55967d5
+run_name: fortunate-jay-899
+run_uuid: e6b5829fcf644f49b3e23905b55967d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617784501
+status: 3
+tags: []
+user_id: julien

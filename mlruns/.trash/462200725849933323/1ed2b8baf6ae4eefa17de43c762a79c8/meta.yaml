@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/1ed2b8baf6ae4eefa17de43c762a79c8/artifacts
+deleted_time: 1722618939344
+end_time: 1722618696943
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 1ed2b8baf6ae4eefa17de43c762a79c8
+run_name: grandiose-crane-356
+run_uuid: 1ed2b8baf6ae4eefa17de43c762a79c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618696877
+status: 3
+tags: []
+user_id: julien

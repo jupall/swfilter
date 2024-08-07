@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4c880db5131243faa9c1b5472f7c1dac/artifacts
+end_time: 1722662442454
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4c880db5131243faa9c1b5472f7c1dac
+run_name: masked-penguin-427
+run_uuid: 4c880db5131243faa9c1b5472f7c1dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662442194
+status: 3
+tags: []
+user_id: julien

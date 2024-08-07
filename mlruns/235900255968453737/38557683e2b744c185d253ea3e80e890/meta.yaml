@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/38557683e2b744c185d253ea3e80e890/artifacts
+end_time: 1722651944665
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 38557683e2b744c185d253ea3e80e890
+run_name: gaudy-squirrel-594
+run_uuid: 38557683e2b744c185d253ea3e80e890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651944434
+status: 3
+tags: []
+user_id: julien

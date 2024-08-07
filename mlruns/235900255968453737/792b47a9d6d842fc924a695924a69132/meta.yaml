@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/792b47a9d6d842fc924a695924a69132/artifacts
+end_time: 1722652138805
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 792b47a9d6d842fc924a695924a69132
+run_name: luminous-goat-753
+run_uuid: 792b47a9d6d842fc924a695924a69132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652138541
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d7d634069c0b4497ba94cfbe0adb3e56/artifacts
+end_time: 1722649229465
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d7d634069c0b4497ba94cfbe0adb3e56
+run_name: wistful-colt-193
+run_uuid: d7d634069c0b4497ba94cfbe0adb3e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649229195
+status: 3
+tags: []
+user_id: julien

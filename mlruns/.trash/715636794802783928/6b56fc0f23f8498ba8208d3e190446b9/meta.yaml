@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/6b56fc0f23f8498ba8208d3e190446b9/artifacts
+deleted_time: 1722618419437
+end_time: 1722617852810
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 6b56fc0f23f8498ba8208d3e190446b9
+run_name: valuable-donkey-308
+run_uuid: 6b56fc0f23f8498ba8208d3e190446b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617852569
+status: 3
+tags: []
+user_id: julien

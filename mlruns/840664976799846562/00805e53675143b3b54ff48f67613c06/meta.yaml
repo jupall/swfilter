@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/00805e53675143b3b54ff48f67613c06/artifacts
+end_time: 1722643977637
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 00805e53675143b3b54ff48f67613c06
+run_name: lyrical-shoat-472
+run_uuid: 00805e53675143b3b54ff48f67613c06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643977585
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/514c77c5de80458ab614d391c98053fb/artifacts
+end_time: 1722650804000
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 514c77c5de80458ab614d391c98053fb
+run_name: industrious-dove-226
+run_uuid: 514c77c5de80458ab614d391c98053fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650781199
+status: 3
+tags: []
+user_id: julien

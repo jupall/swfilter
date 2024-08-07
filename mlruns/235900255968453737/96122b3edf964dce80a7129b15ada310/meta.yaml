@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/96122b3edf964dce80a7129b15ada310/artifacts
+end_time: 1722651978547
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 96122b3edf964dce80a7129b15ada310
+run_name: kindly-gnat-854
+run_uuid: 96122b3edf964dce80a7129b15ada310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651977760
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a2c8c763569e4f17a98ca4b41d26feed/artifacts
+end_time: 1722619784909
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a2c8c763569e4f17a98ca4b41d26feed
+run_name: silent-jay-293
+run_uuid: a2c8c763569e4f17a98ca4b41d26feed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619780474
+status: 3
+tags: []
+user_id: julien

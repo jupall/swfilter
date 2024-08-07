@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ab64b4f5167a4afcab56af4a083898f7/artifacts
+end_time: 1722652099598
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ab64b4f5167a4afcab56af4a083898f7
+run_name: invincible-shad-35
+run_uuid: ab64b4f5167a4afcab56af4a083898f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652098595
+status: 3
+tags: []
+user_id: julien

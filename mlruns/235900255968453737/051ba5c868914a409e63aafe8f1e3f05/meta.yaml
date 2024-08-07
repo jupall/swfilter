@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/051ba5c868914a409e63aafe8f1e3f05/artifacts
+end_time: 1722651951731
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 051ba5c868914a409e63aafe8f1e3f05
+run_name: skillful-crow-870
+run_uuid: 051ba5c868914a409e63aafe8f1e3f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651951546
+status: 3
+tags: []
+user_id: julien

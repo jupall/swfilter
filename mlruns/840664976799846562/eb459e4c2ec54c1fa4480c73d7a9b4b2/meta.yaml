@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/eb459e4c2ec54c1fa4480c73d7a9b4b2/artifacts
+end_time: 1722625150847
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: eb459e4c2ec54c1fa4480c73d7a9b4b2
+run_name: worried-hound-81
+run_uuid: eb459e4c2ec54c1fa4480c73d7a9b4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625150807
+status: 3
+tags: []
+user_id: julien

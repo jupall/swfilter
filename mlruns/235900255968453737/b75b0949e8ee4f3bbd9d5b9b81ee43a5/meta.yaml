@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b75b0949e8ee4f3bbd9d5b9b81ee43a5/artifacts
+end_time: 1722652169703
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b75b0949e8ee4f3bbd9d5b9b81ee43a5
+run_name: omniscient-ram-388
+run_uuid: b75b0949e8ee4f3bbd9d5b9b81ee43a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652169428
+status: 3
+tags: []
+user_id: julien

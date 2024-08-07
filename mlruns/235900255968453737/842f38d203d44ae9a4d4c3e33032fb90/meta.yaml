@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/842f38d203d44ae9a4d4c3e33032fb90/artifacts
+end_time: 1722649507850
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 842f38d203d44ae9a4d4c3e33032fb90
+run_name: rare-sloth-199
+run_uuid: 842f38d203d44ae9a4d4c3e33032fb90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649488066
+status: 3
+tags: []
+user_id: julien

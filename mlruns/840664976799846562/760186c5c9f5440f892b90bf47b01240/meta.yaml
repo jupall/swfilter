@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/760186c5c9f5440f892b90bf47b01240/artifacts
+end_time: 1722643974193
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 760186c5c9f5440f892b90bf47b01240
+run_name: bedecked-lamb-788
+run_uuid: 760186c5c9f5440f892b90bf47b01240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643974143
+status: 3
+tags: []
+user_id: julien

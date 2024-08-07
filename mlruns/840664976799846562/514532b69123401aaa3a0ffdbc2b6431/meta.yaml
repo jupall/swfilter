@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/514532b69123401aaa3a0ffdbc2b6431/artifacts
+end_time: 1722643966543
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 514532b69123401aaa3a0ffdbc2b6431
+run_name: auspicious-moose-299
+run_uuid: 514532b69123401aaa3a0ffdbc2b6431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643966124
+status: 3
+tags: []
+user_id: julien

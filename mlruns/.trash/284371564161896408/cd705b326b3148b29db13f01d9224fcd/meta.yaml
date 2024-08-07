@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/cd705b326b3148b29db13f01d9224fcd/artifacts
+deleted_time: 1722618664511
+end_time: 1722618479564
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: cd705b326b3148b29db13f01d9224fcd
+run_name: delicate-doe-375
+run_uuid: cd705b326b3148b29db13f01d9224fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618479525
+status: 3
+tags: []
+user_id: julien

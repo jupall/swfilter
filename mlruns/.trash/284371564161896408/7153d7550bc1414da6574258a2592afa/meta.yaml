@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/7153d7550bc1414da6574258a2592afa/artifacts
+deleted_time: 1722618664511
+end_time: 1722618482533
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 7153d7550bc1414da6574258a2592afa
+run_name: brawny-duck-583
+run_uuid: 7153d7550bc1414da6574258a2592afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618482495
+status: 3
+tags: []
+user_id: julien

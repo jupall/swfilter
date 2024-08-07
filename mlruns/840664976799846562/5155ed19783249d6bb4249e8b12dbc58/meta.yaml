@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5155ed19783249d6bb4249e8b12dbc58/artifacts
+end_time: 1722635842827
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5155ed19783249d6bb4249e8b12dbc58
+run_name: grandiose-dove-33
+run_uuid: 5155ed19783249d6bb4249e8b12dbc58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722635720957
+status: 3
+tags: []
+user_id: julien

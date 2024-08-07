@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2924260fba584cfdb99fe454c5157bbd/artifacts
+end_time: 1722651939151
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2924260fba584cfdb99fe454c5157bbd
+run_name: skillful-dog-445
+run_uuid: 2924260fba584cfdb99fe454c5157bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651938936
+status: 3
+tags: []
+user_id: julien

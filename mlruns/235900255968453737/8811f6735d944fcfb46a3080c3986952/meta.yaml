@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8811f6735d944fcfb46a3080c3986952/artifacts
+end_time: 1722648208236
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8811f6735d944fcfb46a3080c3986952
+run_name: bouncy-ape-643
+run_uuid: 8811f6735d944fcfb46a3080c3986952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648208008
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7b91e2da14c048bbb5477e4dd3a1e1fc/artifacts
+end_time: 1722662441643
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7b91e2da14c048bbb5477e4dd3a1e1fc
+run_name: puzzled-mare-988
+run_uuid: 7b91e2da14c048bbb5477e4dd3a1e1fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662441400
+status: 3
+tags: []
+user_id: julien

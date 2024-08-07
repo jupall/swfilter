@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/eec5511982904f63a44e0466fe1401dd/artifacts
+end_time: 1722649217902
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: eec5511982904f63a44e0466fe1401dd
+run_name: unique-flea-959
+run_uuid: eec5511982904f63a44e0466fe1401dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649217605
+status: 3
+tags: []
+user_id: julien

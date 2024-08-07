@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a8cd0af9357447c783238e459ff5fac4/artifacts
+end_time: 1722644416728
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a8cd0af9357447c783238e459ff5fac4
+run_name: dashing-dog-51
+run_uuid: a8cd0af9357447c783238e459ff5fac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644416674
+status: 3
+tags: []
+user_id: julien

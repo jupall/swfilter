@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/05fa4d026d054eb888d79afcaa79ecd1/artifacts
+end_time: 1722643978557
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 05fa4d026d054eb888d79afcaa79ecd1
+run_name: industrious-wren-568
+run_uuid: 05fa4d026d054eb888d79afcaa79ecd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643978505
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f14a1b540008450aa611fc8798b4a99b/artifacts
+end_time: 1722663293068
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f14a1b540008450aa611fc8798b4a99b
+run_name: traveling-owl-719
+run_uuid: f14a1b540008450aa611fc8798b4a99b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663292830
+status: 3
+tags: []
+user_id: julien

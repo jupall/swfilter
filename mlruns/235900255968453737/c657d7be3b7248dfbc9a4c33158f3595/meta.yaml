@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c657d7be3b7248dfbc9a4c33158f3595/artifacts
+end_time: 1722663148828
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c657d7be3b7248dfbc9a4c33158f3595
+run_name: whimsical-mouse-201
+run_uuid: c657d7be3b7248dfbc9a4c33158f3595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663146431
+status: 3
+tags: []
+user_id: julien

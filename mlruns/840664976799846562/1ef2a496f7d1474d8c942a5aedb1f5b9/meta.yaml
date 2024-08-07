@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1ef2a496f7d1474d8c942a5aedb1f5b9/artifacts
+end_time: 1722644423424
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1ef2a496f7d1474d8c942a5aedb1f5b9
+run_name: sincere-dog-477
+run_uuid: 1ef2a496f7d1474d8c942a5aedb1f5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644423370
+status: 3
+tags: []
+user_id: julien

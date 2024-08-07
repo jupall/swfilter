@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4d662308db7440108cf9240c97566298/artifacts
+end_time: 1722651928245
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4d662308db7440108cf9240c97566298
+run_name: clean-mule-356
+run_uuid: 4d662308db7440108cf9240c97566298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651928151
+status: 3
+tags: []
+user_id: julien

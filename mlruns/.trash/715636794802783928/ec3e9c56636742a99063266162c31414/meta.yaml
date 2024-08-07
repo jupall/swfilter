@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/ec3e9c56636742a99063266162c31414/artifacts
+deleted_time: 1722618419437
+end_time: 1722618169515
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: ec3e9c56636742a99063266162c31414
+run_name: defiant-gnu-669
+run_uuid: ec3e9c56636742a99063266162c31414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618163243
+status: 3
+tags: []
+user_id: julien

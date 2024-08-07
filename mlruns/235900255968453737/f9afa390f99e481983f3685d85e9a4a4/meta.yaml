@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f9afa390f99e481983f3685d85e9a4a4/artifacts
+end_time: 1722652159352
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f9afa390f99e481983f3685d85e9a4a4
+run_name: receptive-wasp-933
+run_uuid: f9afa390f99e481983f3685d85e9a4a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652159061
+status: 3
+tags: []
+user_id: julien

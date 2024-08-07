@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c51a9671fecc42ebba232773d817589d/artifacts
+end_time: 1722643917129
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c51a9671fecc42ebba232773d817589d
+run_name: painted-lark-181
+run_uuid: c51a9671fecc42ebba232773d817589d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643916732
+status: 3
+tags: []
+user_id: julien

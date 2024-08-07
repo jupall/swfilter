@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/ba2c002c249b4bb88993fff26209df4b/artifacts
+deleted_time: 1722618419437
+end_time: 1722618104555
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: ba2c002c249b4bb88993fff26209df4b
+run_name: gifted-skink-381
+run_uuid: ba2c002c249b4bb88993fff26209df4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618099257
+status: 3
+tags: []
+user_id: julien

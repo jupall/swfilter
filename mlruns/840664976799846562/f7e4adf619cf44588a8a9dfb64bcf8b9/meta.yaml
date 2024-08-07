@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f7e4adf619cf44588a8a9dfb64bcf8b9/artifacts
+end_time: 1722625137005
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f7e4adf619cf44588a8a9dfb64bcf8b9
+run_name: amazing-mule-270
+run_uuid: f7e4adf619cf44588a8a9dfb64bcf8b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625136267
+status: 3
+tags: []
+user_id: julien

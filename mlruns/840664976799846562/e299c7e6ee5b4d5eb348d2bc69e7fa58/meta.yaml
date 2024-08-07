@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e299c7e6ee5b4d5eb348d2bc69e7fa58/artifacts
+end_time: 1722644508993
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e299c7e6ee5b4d5eb348d2bc69e7fa58
+run_name: amusing-ant-761
+run_uuid: e299c7e6ee5b4d5eb348d2bc69e7fa58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644508905
+status: 3
+tags: []
+user_id: julien

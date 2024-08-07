@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cf99a53446234031891b9b2bca450a3f/artifacts
+end_time: 1722651920311
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cf99a53446234031891b9b2bca450a3f
+run_name: loud-bass-634
+run_uuid: cf99a53446234031891b9b2bca450a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651920224
+status: 3
+tags: []
+user_id: julien

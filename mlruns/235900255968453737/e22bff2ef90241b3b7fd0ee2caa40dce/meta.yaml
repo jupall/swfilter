@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e22bff2ef90241b3b7fd0ee2caa40dce/artifacts
+end_time: 1722655702773
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e22bff2ef90241b3b7fd0ee2caa40dce
+run_name: painted-stoat-594
+run_uuid: e22bff2ef90241b3b7fd0ee2caa40dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722655614352
+status: 3
+tags: []
+user_id: julien

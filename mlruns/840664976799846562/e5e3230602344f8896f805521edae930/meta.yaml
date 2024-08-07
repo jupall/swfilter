@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e5e3230602344f8896f805521edae930/artifacts
+end_time: 1722643977319
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e5e3230602344f8896f805521edae930
+run_name: delicate-shrew-444
+run_uuid: e5e3230602344f8896f805521edae930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643977267
+status: 3
+tags: []
+user_id: julien

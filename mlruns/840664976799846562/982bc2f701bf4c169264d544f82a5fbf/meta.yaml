@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/982bc2f701bf4c169264d544f82a5fbf/artifacts
+end_time: 1722644504595
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 982bc2f701bf4c169264d544f82a5fbf
+run_name: bouncy-mink-974
+run_uuid: 982bc2f701bf4c169264d544f82a5fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644504517
+status: 3
+tags: []
+user_id: julien

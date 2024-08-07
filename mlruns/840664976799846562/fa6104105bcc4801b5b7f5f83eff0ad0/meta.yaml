@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fa6104105bcc4801b5b7f5f83eff0ad0/artifacts
+end_time: 1722625067253
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fa6104105bcc4801b5b7f5f83eff0ad0
+run_name: invincible-hawk-143
+run_uuid: fa6104105bcc4801b5b7f5f83eff0ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625066494
+status: 3
+tags: []
+user_id: julien

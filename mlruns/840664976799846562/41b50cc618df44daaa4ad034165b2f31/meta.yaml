@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/41b50cc618df44daaa4ad034165b2f31/artifacts
+end_time: 1722632530871
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 41b50cc618df44daaa4ad034165b2f31
+run_name: rare-carp-101
+run_uuid: 41b50cc618df44daaa4ad034165b2f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722632393938
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e5f9ef0ffd654735a5daeca81539399e/artifacts
+end_time: 1722649175573
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e5f9ef0ffd654735a5daeca81539399e
+run_name: treasured-newt-9
+run_uuid: e5f9ef0ffd654735a5daeca81539399e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649175489
+status: 3
+tags: []
+user_id: julien

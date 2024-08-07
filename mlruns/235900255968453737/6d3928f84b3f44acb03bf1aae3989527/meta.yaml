@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6d3928f84b3f44acb03bf1aae3989527/artifacts
+end_time: 1722649180881
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6d3928f84b3f44acb03bf1aae3989527
+run_name: upset-hog-186
+run_uuid: 6d3928f84b3f44acb03bf1aae3989527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649180794
+status: 3
+tags: []
+user_id: julien

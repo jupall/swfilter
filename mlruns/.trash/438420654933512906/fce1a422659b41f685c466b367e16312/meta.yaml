@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/fce1a422659b41f685c466b367e16312/artifacts
+deleted_time: 1722619353121
+end_time: 1722619070801
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: fce1a422659b41f685c466b367e16312
+run_name: enchanting-cat-553
+run_uuid: fce1a422659b41f685c466b367e16312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619070597
+status: 3
+tags: []
+user_id: julien

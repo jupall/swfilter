@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f04976a42fce49b9b0be84ede6959d00/artifacts
+end_time: 1722644467058
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f04976a42fce49b9b0be84ede6959d00
+run_name: bright-shad-780
+run_uuid: f04976a42fce49b9b0be84ede6959d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644466739
+status: 3
+tags: []
+user_id: julien

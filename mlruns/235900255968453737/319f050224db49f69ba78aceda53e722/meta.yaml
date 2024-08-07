@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/319f050224db49f69ba78aceda53e722/artifacts
+end_time: 1722648164460
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 319f050224db49f69ba78aceda53e722
+run_name: sedate-snipe-211
+run_uuid: 319f050224db49f69ba78aceda53e722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648164382
+status: 3
+tags: []
+user_id: julien

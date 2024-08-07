@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/da9bf18704d74c30802eccbc25bda473/artifacts
+end_time: 1722644041100
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: da9bf18704d74c30802eccbc25bda473
+run_name: overjoyed-trout-650
+run_uuid: da9bf18704d74c30802eccbc25bda473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644039328
+status: 3
+tags: []
+user_id: julien

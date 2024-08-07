@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/127732b10237441eba7b93a172548dbd/artifacts
+end_time: 1722651923581
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 127732b10237441eba7b93a172548dbd
+run_name: intrigued-duck-995
+run_uuid: 127732b10237441eba7b93a172548dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651923495
+status: 3
+tags: []
+user_id: julien

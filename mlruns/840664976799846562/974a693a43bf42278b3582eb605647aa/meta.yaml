@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/974a693a43bf42278b3582eb605647aa/artifacts
+end_time: 1722620093022
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 974a693a43bf42278b3582eb605647aa
+run_name: rogue-jay-541
+run_uuid: 974a693a43bf42278b3582eb605647aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620092887
+status: 3
+tags: []
+user_id: julien

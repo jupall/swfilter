@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d981781320ff40f8a59ad03017e35373/artifacts
+end_time: 1722619786805
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d981781320ff40f8a59ad03017e35373
+run_name: wistful-lark-831
+run_uuid: d981781320ff40f8a59ad03017e35373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619784917
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e2ada50ce52b4e05aa65dd9b02b44b3c/artifacts
+end_time: 1722625068750
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e2ada50ce52b4e05aa65dd9b02b44b3c
+run_name: unleashed-kite-664
+run_uuid: e2ada50ce52b4e05aa65dd9b02b44b3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625067976
+status: 3
+tags: []
+user_id: julien

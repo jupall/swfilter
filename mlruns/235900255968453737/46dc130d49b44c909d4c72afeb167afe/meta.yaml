@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/46dc130d49b44c909d4c72afeb167afe/artifacts
+end_time: 1722663361503
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 46dc130d49b44c909d4c72afeb167afe
+run_name: rare-crane-804
+run_uuid: 46dc130d49b44c909d4c72afeb167afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663360977
+status: 3
+tags: []
+user_id: julien

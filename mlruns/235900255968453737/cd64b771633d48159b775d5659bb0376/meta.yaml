@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cd64b771633d48159b775d5659bb0376/artifacts
+end_time: 1722651398754
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cd64b771633d48159b775d5659bb0376
+run_name: bold-grouse-572
+run_uuid: cd64b771633d48159b775d5659bb0376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651381654
+status: 3
+tags: []
+user_id: julien

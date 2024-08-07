@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/31368dd9f324499992e7fc51bbbe0d40/artifacts
+end_time: 1722643984839
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 31368dd9f324499992e7fc51bbbe0d40
+run_name: beautiful-bug-132
+run_uuid: 31368dd9f324499992e7fc51bbbe0d40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643984637
+status: 3
+tags: []
+user_id: julien

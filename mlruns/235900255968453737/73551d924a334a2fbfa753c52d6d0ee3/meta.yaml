@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/73551d924a334a2fbfa753c52d6d0ee3/artifacts
+end_time: 1722649181473
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 73551d924a334a2fbfa753c52d6d0ee3
+run_name: honorable-dove-821
+run_uuid: 73551d924a334a2fbfa753c52d6d0ee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649181389
+status: 3
+tags: []
+user_id: julien

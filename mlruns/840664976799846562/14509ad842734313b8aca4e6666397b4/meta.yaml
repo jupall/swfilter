@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/14509ad842734313b8aca4e6666397b4/artifacts
+end_time: 1722625152345
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 14509ad842734313b8aca4e6666397b4
+run_name: rare-sheep-608
+run_uuid: 14509ad842734313b8aca4e6666397b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625152304
+status: 3
+tags: []
+user_id: julien

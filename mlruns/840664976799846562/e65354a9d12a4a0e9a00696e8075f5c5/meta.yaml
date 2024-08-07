@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e65354a9d12a4a0e9a00696e8075f5c5/artifacts
+end_time: 1722620078161
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e65354a9d12a4a0e9a00696e8075f5c5
+run_name: rogue-calf-514
+run_uuid: e65354a9d12a4a0e9a00696e8075f5c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620078127
+status: 3
+tags: []
+user_id: julien

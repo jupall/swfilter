@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/898134573ec4471485555261c01cb9cd/artifacts
+end_time: 1722662401848
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 898134573ec4471485555261c01cb9cd
+run_name: upset-horse-224
+run_uuid: 898134573ec4471485555261c01cb9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662401742
+status: 3
+tags: []
+user_id: julien

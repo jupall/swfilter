@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/07999a1024ce4dfe9a262d46c6dfdaba/artifacts
+end_time: 1722663261268
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 07999a1024ce4dfe9a262d46c6dfdaba
+run_name: selective-perch-265
+run_uuid: 07999a1024ce4dfe9a262d46c6dfdaba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663261156
+status: 3
+tags: []
+user_id: julien

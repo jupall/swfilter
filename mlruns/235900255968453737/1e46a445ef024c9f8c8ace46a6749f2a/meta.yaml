@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1e46a445ef024c9f8c8ace46a6749f2a/artifacts
+end_time: 1722649142824
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1e46a445ef024c9f8c8ace46a6749f2a
+run_name: skittish-chimp-583
+run_uuid: 1e46a445ef024c9f8c8ace46a6749f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649138600
+status: 3
+tags: []
+user_id: julien

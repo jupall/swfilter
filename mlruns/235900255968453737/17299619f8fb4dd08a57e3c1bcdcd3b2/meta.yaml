@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/17299619f8fb4dd08a57e3c1bcdcd3b2/artifacts
+end_time: 1722658068865
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 17299619f8fb4dd08a57e3c1bcdcd3b2
+run_name: gifted-grouse-622
+run_uuid: 17299619f8fb4dd08a57e3c1bcdcd3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722658036633
+status: 3
+tags: []
+user_id: julien

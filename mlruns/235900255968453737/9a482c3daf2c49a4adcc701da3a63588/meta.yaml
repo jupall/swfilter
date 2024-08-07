@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9a482c3daf2c49a4adcc701da3a63588/artifacts
+end_time: 1722649188333
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9a482c3daf2c49a4adcc701da3a63588
+run_name: wistful-steed-440
+run_uuid: 9a482c3daf2c49a4adcc701da3a63588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649188246
+status: 3
+tags: []
+user_id: julien

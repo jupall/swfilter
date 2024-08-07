@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f4b4155f9f284cce845717817b443b1c/artifacts
+end_time: 1722662740372
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f4b4155f9f284cce845717817b443b1c
+run_name: thoughtful-fowl-379
+run_uuid: f4b4155f9f284cce845717817b443b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662740263
+status: 3
+tags: []
+user_id: julien

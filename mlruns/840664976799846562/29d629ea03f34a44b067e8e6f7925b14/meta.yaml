@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/29d629ea03f34a44b067e8e6f7925b14/artifacts
+end_time: 1722644538491
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 29d629ea03f34a44b067e8e6f7925b14
+run_name: rebellious-seal-217
+run_uuid: 29d629ea03f34a44b067e8e6f7925b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644538232
+status: 3
+tags: []
+user_id: julien

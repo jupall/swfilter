@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ac67428e2dc948fca990449f85ac5880/artifacts
+end_time: 1722662744206
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ac67428e2dc948fca990449f85ac5880
+run_name: skittish-newt-433
+run_uuid: ac67428e2dc948fca990449f85ac5880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662744096
+status: 3
+tags: []
+user_id: julien

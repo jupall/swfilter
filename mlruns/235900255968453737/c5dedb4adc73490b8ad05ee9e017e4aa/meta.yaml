@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c5dedb4adc73490b8ad05ee9e017e4aa/artifacts
+end_time: 1722662063259
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c5dedb4adc73490b8ad05ee9e017e4aa
+run_name: worried-calf-440
+run_uuid: c5dedb4adc73490b8ad05ee9e017e4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722661980615
+status: 3
+tags: []
+user_id: julien

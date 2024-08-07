@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3d9806288fd049bd9b7f01fc62901df0/artifacts
+end_time: 1722643906169
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3d9806288fd049bd9b7f01fc62901df0
+run_name: grandiose-dog-975
+run_uuid: 3d9806288fd049bd9b7f01fc62901df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643905850
+status: 3
+tags: []
+user_id: julien

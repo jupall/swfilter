@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c7731cedcd9541e1a4156475074f6e30/artifacts
+end_time: 1722652122856
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c7731cedcd9541e1a4156475074f6e30
+run_name: upbeat-shrew-308
+run_uuid: c7731cedcd9541e1a4156475074f6e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652122751
+status: 3
+tags: []
+user_id: julien

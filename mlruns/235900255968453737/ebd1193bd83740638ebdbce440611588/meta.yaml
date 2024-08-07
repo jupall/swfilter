@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ebd1193bd83740638ebdbce440611588/artifacts
+end_time: 1722662503656
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ebd1193bd83740638ebdbce440611588
+run_name: learned-stork-229
+run_uuid: ebd1193bd83740638ebdbce440611588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662501236
+status: 3
+tags: []
+user_id: julien

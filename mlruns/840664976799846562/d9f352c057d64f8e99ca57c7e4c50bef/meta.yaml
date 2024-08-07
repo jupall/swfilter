@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d9f352c057d64f8e99ca57c7e4c50bef/artifacts
+end_time: 1722644428770
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d9f352c057d64f8e99ca57c7e4c50bef
+run_name: suave-whale-553
+run_uuid: d9f352c057d64f8e99ca57c7e4c50bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644428599
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/df5bff073ebd47eab77ec7a7a5cca604/artifacts
+end_time: 1722644256279
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: df5bff073ebd47eab77ec7a7a5cca604
+run_name: bedecked-quail-786
+run_uuid: df5bff073ebd47eab77ec7a7a5cca604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644253487
+status: 3
+tags: []
+user_id: julien

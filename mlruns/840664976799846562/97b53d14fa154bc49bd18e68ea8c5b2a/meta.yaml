@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/97b53d14fa154bc49bd18e68ea8c5b2a/artifacts
+end_time: 1722644420053
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 97b53d14fa154bc49bd18e68ea8c5b2a
+run_name: auspicious-calf-703
+run_uuid: 97b53d14fa154bc49bd18e68ea8c5b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644419997
+status: 3
+tags: []
+user_id: julien

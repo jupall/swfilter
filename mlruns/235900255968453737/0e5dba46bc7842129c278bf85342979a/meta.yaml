@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0e5dba46bc7842129c278bf85342979a/artifacts
+end_time: 1722649175373
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0e5dba46bc7842129c278bf85342979a
+run_name: victorious-fox-766
+run_uuid: 0e5dba46bc7842129c278bf85342979a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649175283
+status: 3
+tags: []
+user_id: julien

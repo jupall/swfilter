@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4dcee518e9b04a6fa67d00e4fe4b23df/artifacts
+end_time: 1722650147309
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4dcee518e9b04a6fa67d00e4fe4b23df
+run_name: charming-pug-978
+run_uuid: 4dcee518e9b04a6fa67d00e4fe4b23df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650127840
+status: 3
+tags: []
+user_id: julien

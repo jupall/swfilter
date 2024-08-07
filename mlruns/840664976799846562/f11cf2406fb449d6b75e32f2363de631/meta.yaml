@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f11cf2406fb449d6b75e32f2363de631/artifacts
+end_time: 1722625090464
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f11cf2406fb449d6b75e32f2363de631
+run_name: welcoming-sponge-491
+run_uuid: f11cf2406fb449d6b75e32f2363de631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625089605
+status: 3
+tags: []
+user_id: julien

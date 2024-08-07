@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c8de66de17d9449a8eaabc0b3035ab96/artifacts
+end_time: 1722626864189
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c8de66de17d9449a8eaabc0b3035ab96
+run_name: capricious-moose-493
+run_uuid: c8de66de17d9449a8eaabc0b3035ab96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722626692273
+status: 3
+tags: []
+user_id: julien

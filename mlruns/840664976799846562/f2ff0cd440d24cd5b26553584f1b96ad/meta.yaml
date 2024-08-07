@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f2ff0cd440d24cd5b26553584f1b96ad/artifacts
+end_time: 1722625007861
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f2ff0cd440d24cd5b26553584f1b96ad
+run_name: adaptable-rat-834
+run_uuid: f2ff0cd440d24cd5b26553584f1b96ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625007828
+status: 3
+tags: []
+user_id: julien

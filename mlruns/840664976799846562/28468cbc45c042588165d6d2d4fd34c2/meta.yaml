@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/28468cbc45c042588165d6d2d4fd34c2/artifacts
+end_time: 1722643884912
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 28468cbc45c042588165d6d2d4fd34c2
+run_name: handsome-sloth-64
+run_uuid: 28468cbc45c042588165d6d2d4fd34c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643884689
+status: 3
+tags: []
+user_id: julien

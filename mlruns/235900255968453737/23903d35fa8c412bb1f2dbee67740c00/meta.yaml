@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/23903d35fa8c412bb1f2dbee67740c00/artifacts
+end_time: 1722649186745
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 23903d35fa8c412bb1f2dbee67740c00
+run_name: bemused-ox-939
+run_uuid: 23903d35fa8c412bb1f2dbee67740c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649186660
+status: 3
+tags: []
+user_id: julien

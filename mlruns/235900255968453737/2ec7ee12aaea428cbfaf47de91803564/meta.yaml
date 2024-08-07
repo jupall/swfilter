@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2ec7ee12aaea428cbfaf47de91803564/artifacts
+end_time: 1722649178085
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2ec7ee12aaea428cbfaf47de91803564
+run_name: nosy-crow-281
+run_uuid: 2ec7ee12aaea428cbfaf47de91803564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649178001
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/facf10f306c64958b325cd0ac646a584/artifacts
+end_time: 1722652130564
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: facf10f306c64958b325cd0ac646a584
+run_name: adaptable-bass-722
+run_uuid: facf10f306c64958b325cd0ac646a584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652130455
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ceb4509363524888802a42eeb5adfc64/artifacts
+end_time: 1722662746225
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ceb4509363524888802a42eeb5adfc64
+run_name: glamorous-lynx-287
+run_uuid: ceb4509363524888802a42eeb5adfc64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662746116
+status: 3
+tags: []
+user_id: julien

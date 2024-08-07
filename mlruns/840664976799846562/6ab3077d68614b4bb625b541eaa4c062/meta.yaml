@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6ab3077d68614b4bb625b541eaa4c062/artifacts
+end_time: 1722625174786
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6ab3077d68614b4bb625b541eaa4c062
+run_name: learned-croc-325
+run_uuid: 6ab3077d68614b4bb625b541eaa4c062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625174606
+status: 3
+tags: []
+user_id: julien

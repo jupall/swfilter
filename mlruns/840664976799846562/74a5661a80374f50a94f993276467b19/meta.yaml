@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/74a5661a80374f50a94f993276467b19/artifacts
+end_time: 1722643982541
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 74a5661a80374f50a94f993276467b19
+run_name: salty-ape-670
+run_uuid: 74a5661a80374f50a94f993276467b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643982485
+status: 3
+tags: []
+user_id: julien

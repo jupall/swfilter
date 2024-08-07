@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f489c5eb3c744c9fb2a4f627619c970a/artifacts
+end_time: 1722643980435
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f489c5eb3c744c9fb2a4f627619c970a
+run_name: gifted-skink-994
+run_uuid: f489c5eb3c744c9fb2a4f627619c970a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643980379
+status: 3
+tags: []
+user_id: julien

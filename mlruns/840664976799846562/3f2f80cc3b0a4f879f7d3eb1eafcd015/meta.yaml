@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3f2f80cc3b0a4f879f7d3eb1eafcd015/artifacts
+end_time: 1722644544991
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3f2f80cc3b0a4f879f7d3eb1eafcd015
+run_name: valuable-jay-340
+run_uuid: 3f2f80cc3b0a4f879f7d3eb1eafcd015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644544748
+status: 3
+tags: []
+user_id: julien

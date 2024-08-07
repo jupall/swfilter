@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/acc5ddaceeab487db6be7f9ba1d69744/artifacts
+end_time: 1722663284491
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: acc5ddaceeab487db6be7f9ba1d69744
+run_name: rare-gull-285
+run_uuid: acc5ddaceeab487db6be7f9ba1d69744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663284247
+status: 3
+tags: []
+user_id: julien

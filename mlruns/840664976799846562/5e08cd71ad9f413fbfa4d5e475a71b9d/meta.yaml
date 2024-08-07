@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5e08cd71ad9f413fbfa4d5e475a71b9d/artifacts
+end_time: 1722625147774
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5e08cd71ad9f413fbfa4d5e475a71b9d
+run_name: big-crow-289
+run_uuid: 5e08cd71ad9f413fbfa4d5e475a71b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625147731
+status: 3
+tags: []
+user_id: julien

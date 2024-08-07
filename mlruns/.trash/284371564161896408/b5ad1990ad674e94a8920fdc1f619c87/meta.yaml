@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/b5ad1990ad674e94a8920fdc1f619c87/artifacts
+deleted_time: 1722618664511
+end_time: 1722618481378
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: b5ad1990ad674e94a8920fdc1f619c87
+run_name: bouncy-bear-352
+run_uuid: b5ad1990ad674e94a8920fdc1f619c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618481341
+status: 3
+tags: []
+user_id: julien

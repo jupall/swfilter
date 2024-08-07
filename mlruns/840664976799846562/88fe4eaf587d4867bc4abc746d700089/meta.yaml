@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/88fe4eaf587d4867bc4abc746d700089/artifacts
+end_time: 1722620093621
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 88fe4eaf587d4867bc4abc746d700089
+run_name: upset-grub-458
+run_uuid: 88fe4eaf587d4867bc4abc746d700089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620093484
+status: 3
+tags: []
+user_id: julien

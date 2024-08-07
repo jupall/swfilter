@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9af023988c214018a39c900498360d99/artifacts
+end_time: 1722653565035
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9af023988c214018a39c900498360d99
+run_name: upbeat-cow-179
+run_uuid: 9af023988c214018a39c900498360d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722653532319
+status: 3
+tags: []
+user_id: julien

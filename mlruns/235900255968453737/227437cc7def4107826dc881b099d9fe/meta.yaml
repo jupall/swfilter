@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/227437cc7def4107826dc881b099d9fe/artifacts
+end_time: 1722649169271
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 227437cc7def4107826dc881b099d9fe
+run_name: able-crow-609
+run_uuid: 227437cc7def4107826dc881b099d9fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649164692
+status: 3
+tags: []
+user_id: julien

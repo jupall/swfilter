@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d3bee85bb8934a2d8c542d761446676b/artifacts
+end_time: 1722655785073
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d3bee85bb8934a2d8c542d761446676b
+run_name: unique-frog-233
+run_uuid: d3bee85bb8934a2d8c542d761446676b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722655702788
+status: 3
+tags: []
+user_id: julien

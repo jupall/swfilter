@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/54efa3f912d24f04a559d3576bd63006/artifacts
+deleted_time: 1722619353121
+end_time: 1722619072863
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 54efa3f912d24f04a559d3576bd63006
+run_name: industrious-slug-319
+run_uuid: 54efa3f912d24f04a559d3576bd63006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619072667
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/24ab474662154e088d51b71e6db27e4c/artifacts
+end_time: 1722625008066
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 24ab474662154e088d51b71e6db27e4c
+run_name: wise-rook-949
+run_uuid: 24ab474662154e088d51b71e6db27e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625008031
+status: 3
+tags: []
+user_id: julien

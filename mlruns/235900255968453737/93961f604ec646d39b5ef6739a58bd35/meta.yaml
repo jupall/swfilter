@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/93961f604ec646d39b5ef6739a58bd35/artifacts
+end_time: 1722662767156
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 93961f604ec646d39b5ef6739a58bd35
+run_name: unique-worm-765
+run_uuid: 93961f604ec646d39b5ef6739a58bd35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662766901
+status: 3
+tags: []
+user_id: julien

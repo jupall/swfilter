@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/f79e95937d974e59a0d7d1ebdf2561b4/artifacts
+deleted_time: 1722618939344
+end_time: 1722618899679
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: f79e95937d974e59a0d7d1ebdf2561b4
+run_name: gregarious-snipe-592
+run_uuid: f79e95937d974e59a0d7d1ebdf2561b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618899605
+status: 3
+tags: []
+user_id: julien

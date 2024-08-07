@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/5eda0a3ed1b74479be8df285c1e42cb6/artifacts
+deleted_time: 1722618664511
+end_time: 1722618479473
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 5eda0a3ed1b74479be8df285c1e42cb6
+run_name: luxuriant-slug-223
+run_uuid: 5eda0a3ed1b74479be8df285c1e42cb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618479423
+status: 3
+tags: []
+user_id: julien

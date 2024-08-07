@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6f9b9c5745514a35b79d016f93f085bc/artifacts
+end_time: 1722648166640
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6f9b9c5745514a35b79d016f93f085bc
+run_name: adaptable-hen-179
+run_uuid: 6f9b9c5745514a35b79d016f93f085bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648166548
+status: 3
+tags: []
+user_id: julien

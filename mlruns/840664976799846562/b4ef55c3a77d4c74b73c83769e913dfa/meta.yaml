@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b4ef55c3a77d4c74b73c83769e913dfa/artifacts
+end_time: 1722644519166
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b4ef55c3a77d4c74b73c83769e913dfa
+run_name: tasteful-dolphin-145
+run_uuid: b4ef55c3a77d4c74b73c83769e913dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644518904
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a60b18a7004142098b6951452ca77b56/artifacts
+end_time: 1722662635550
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a60b18a7004142098b6951452ca77b56
+run_name: casual-steed-95
+run_uuid: a60b18a7004142098b6951452ca77b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662634390
+status: 3
+tags: []
+user_id: julien

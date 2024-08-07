@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4686ac46b9bc4017ae8a57c29e70b053/artifacts
+end_time: 1722643910087
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4686ac46b9bc4017ae8a57c29e70b053
+run_name: hilarious-yak-195
+run_uuid: 4686ac46b9bc4017ae8a57c29e70b053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643909592
+status: 3
+tags: []
+user_id: julien

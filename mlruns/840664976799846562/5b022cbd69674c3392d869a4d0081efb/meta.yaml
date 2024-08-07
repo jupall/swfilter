@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5b022cbd69674c3392d869a4d0081efb/artifacts
+end_time: 1722630949592
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5b022cbd69674c3392d869a4d0081efb
+run_name: bedecked-seal-492
+run_uuid: 5b022cbd69674c3392d869a4d0081efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722630866593
+status: 3
+tags: []
+user_id: julien

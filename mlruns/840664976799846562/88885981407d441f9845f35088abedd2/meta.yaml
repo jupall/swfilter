@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/88885981407d441f9845f35088abedd2/artifacts
+end_time: 1722640547527
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 88885981407d441f9845f35088abedd2
+run_name: sassy-lamb-260
+run_uuid: 88885981407d441f9845f35088abedd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722640447521
+status: 3
+tags: []
+user_id: julien

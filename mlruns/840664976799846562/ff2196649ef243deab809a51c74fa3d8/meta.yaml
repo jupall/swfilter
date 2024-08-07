@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ff2196649ef243deab809a51c74fa3d8/artifacts
+end_time: 1722625017764
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ff2196649ef243deab809a51c74fa3d8
+run_name: calm-swan-775
+run_uuid: ff2196649ef243deab809a51c74fa3d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625017629
+status: 3
+tags: []
+user_id: julien

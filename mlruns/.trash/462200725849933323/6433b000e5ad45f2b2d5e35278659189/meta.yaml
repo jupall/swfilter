@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/6433b000e5ad45f2b2d5e35278659189/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897502
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 6433b000e5ad45f2b2d5e35278659189
+run_name: skillful-bird-545
+run_uuid: 6433b000e5ad45f2b2d5e35278659189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897440
+status: 3
+tags: []
+user_id: julien

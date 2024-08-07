@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f620b149fd6849189a5bf7d74bb89be3/artifacts
+end_time: 1722652151448
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f620b149fd6849189a5bf7d74bb89be3
+run_name: skittish-bat-699
+run_uuid: f620b149fd6849189a5bf7d74bb89be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652151168
+status: 3
+tags: []
+user_id: julien

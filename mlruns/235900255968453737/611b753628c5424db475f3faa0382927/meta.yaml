@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/611b753628c5424db475f3faa0382927/artifacts
+end_time: 1722649216452
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 611b753628c5424db475f3faa0382927
+run_name: enthused-zebra-220
+run_uuid: 611b753628c5424db475f3faa0382927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649216187
+status: 3
+tags: []
+user_id: julien

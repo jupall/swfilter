@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a6dff55f532142d88630082140a1246f/artifacts
+end_time: 1722651940631
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a6dff55f532142d88630082140a1246f
+run_name: rumbling-donkey-945
+run_uuid: a6dff55f532142d88630082140a1246f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651940395
+status: 3
+tags: []
+user_id: julien

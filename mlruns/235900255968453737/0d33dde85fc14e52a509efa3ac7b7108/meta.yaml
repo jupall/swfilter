@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0d33dde85fc14e52a509efa3ac7b7108/artifacts
+end_time: 1722649816365
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0d33dde85fc14e52a509efa3ac7b7108
+run_name: zealous-sponge-744
+run_uuid: 0d33dde85fc14e52a509efa3ac7b7108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649796113
+status: 3
+tags: []
+user_id: julien

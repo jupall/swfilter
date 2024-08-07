@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0279bf4560ac481c98c846e11843a96c/artifacts
+end_time: 1722652110468
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0279bf4560ac481c98c846e11843a96c
+run_name: defiant-croc-927
+run_uuid: 0279bf4560ac481c98c846e11843a96c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652109357
+status: 3
+tags: []
+user_id: julien

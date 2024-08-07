@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/b2a206b9ca9c41eda3f01084af97dcd3/artifacts
+deleted_time: 1722618664511
+end_time: 1722618503946
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: b2a206b9ca9c41eda3f01084af97dcd3
+run_name: bouncy-kite-883
+run_uuid: b2a206b9ca9c41eda3f01084af97dcd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618503741
+status: 3
+tags: []
+user_id: julien

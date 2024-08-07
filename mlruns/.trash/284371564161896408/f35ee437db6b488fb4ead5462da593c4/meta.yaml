@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/f35ee437db6b488fb4ead5462da593c4/artifacts
+deleted_time: 1722618664511
+end_time: 1722618479416
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: f35ee437db6b488fb4ead5462da593c4
+run_name: burly-grouse-618
+run_uuid: f35ee437db6b488fb4ead5462da593c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618479377
+status: 3
+tags: []
+user_id: julien

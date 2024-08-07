@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a40554d52dcd4acfa8d8abc5a643be2f/artifacts
+end_time: 1722625022727
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a40554d52dcd4acfa8d8abc5a643be2f
+run_name: whimsical-skink-967
+run_uuid: a40554d52dcd4acfa8d8abc5a643be2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625022580
+status: 3
+tags: []
+user_id: julien

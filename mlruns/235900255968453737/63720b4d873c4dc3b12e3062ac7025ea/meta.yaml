@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/63720b4d873c4dc3b12e3062ac7025ea/artifacts
+end_time: 1722662417159
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 63720b4d873c4dc3b12e3062ac7025ea
+run_name: ambitious-shoat-206
+run_uuid: 63720b4d873c4dc3b12e3062ac7025ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662417053
+status: 3
+tags: []
+user_id: julien

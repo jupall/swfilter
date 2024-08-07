@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/c993db4f964941f2a07e54b3e08a02ee/artifacts
+deleted_time: 1722618939344
+end_time: 1722618702860
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: c993db4f964941f2a07e54b3e08a02ee
+run_name: colorful-toad-406
+run_uuid: c993db4f964941f2a07e54b3e08a02ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618702798
+status: 3
+tags: []
+user_id: julien

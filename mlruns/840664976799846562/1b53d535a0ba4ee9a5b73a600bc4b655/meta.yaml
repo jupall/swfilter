@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1b53d535a0ba4ee9a5b73a600bc4b655/artifacts
+end_time: 1722619411636
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1b53d535a0ba4ee9a5b73a600bc4b655
+run_name: languid-ray-571
+run_uuid: 1b53d535a0ba4ee9a5b73a600bc4b655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619411429
+status: 3
+tags: []
+user_id: julien

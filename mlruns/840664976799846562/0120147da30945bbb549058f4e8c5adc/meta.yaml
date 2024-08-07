@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0120147da30945bbb549058f4e8c5adc/artifacts
+end_time: 1722625148017
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0120147da30945bbb549058f4e8c5adc
+run_name: fearless-cow-535
+run_uuid: 0120147da30945bbb549058f4e8c5adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625147976
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7642aac4e51a4ef496ff6d6643a6912c/artifacts
+end_time: 1722652041423
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7642aac4e51a4ef496ff6d6643a6912c
+run_name: angry-seal-423
+run_uuid: 7642aac4e51a4ef496ff6d6643a6912c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652040183
+status: 3
+tags: []
+user_id: julien

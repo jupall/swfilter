@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fc2d5e4680a24454b3536b71ed684d8b/artifacts
+end_time: 1722644419005
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fc2d5e4680a24454b3536b71ed684d8b
+run_name: dazzling-sloth-621
+run_uuid: fc2d5e4680a24454b3536b71ed684d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644418951
+status: 3
+tags: []
+user_id: julien

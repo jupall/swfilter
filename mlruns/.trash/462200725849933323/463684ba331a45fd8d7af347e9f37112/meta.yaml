@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/463684ba331a45fd8d7af347e9f37112/artifacts
+deleted_time: 1722618939344
+end_time: 1722618896137
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 463684ba331a45fd8d7af347e9f37112
+run_name: thoughtful-tern-949
+run_uuid: 463684ba331a45fd8d7af347e9f37112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618896076
+status: 3
+tags: []
+user_id: julien

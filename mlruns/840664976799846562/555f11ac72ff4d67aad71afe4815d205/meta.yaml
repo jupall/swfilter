@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/555f11ac72ff4d67aad71afe4815d205/artifacts
+end_time: 1722625019567
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 555f11ac72ff4d67aad71afe4815d205
+run_name: rogue-goat-779
+run_uuid: 555f11ac72ff4d67aad71afe4815d205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625019379
+status: 3
+tags: []
+user_id: julien

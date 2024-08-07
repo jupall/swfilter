@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bef43577eb4f4aef8ee41e3c65cc8a89/artifacts
+end_time: 1722652024725
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bef43577eb4f4aef8ee41e3c65cc8a89
+run_name: loud-kite-851
+run_uuid: bef43577eb4f4aef8ee41e3c65cc8a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652023942
+status: 3
+tags: []
+user_id: julien

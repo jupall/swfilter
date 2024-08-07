@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/2492b4d6e72f45e3869d951257063198/artifacts
+deleted_time: 1722618939344
+end_time: 1722618902440
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 2492b4d6e72f45e3869d951257063198
+run_name: sneaky-cod-892
+run_uuid: 2492b4d6e72f45e3869d951257063198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618902372
+status: 3
+tags: []
+user_id: julien

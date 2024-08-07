@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/34a3caf7ca874b4aaa8386b92f4a8b4e/artifacts
+deleted_time: 1722619353121
+end_time: 1722619056858
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 34a3caf7ca874b4aaa8386b92f4a8b4e
+run_name: puzzled-zebra-645
+run_uuid: 34a3caf7ca874b4aaa8386b92f4a8b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619056687
+status: 3
+tags: []
+user_id: julien

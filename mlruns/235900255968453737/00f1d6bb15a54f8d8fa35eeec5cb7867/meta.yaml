@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/00f1d6bb15a54f8d8fa35eeec5cb7867/artifacts
+end_time: 1722649176349
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 00f1d6bb15a54f8d8fa35eeec5cb7867
+run_name: defiant-hog-452
+run_uuid: 00f1d6bb15a54f8d8fa35eeec5cb7867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649176263
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f536629e9db0400abb88442fadd081e8/artifacts
+end_time: 1722644432065
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f536629e9db0400abb88442fadd081e8
+run_name: legendary-crab-630
+run_uuid: f536629e9db0400abb88442fadd081e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644431868
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/20c213bb7e7e49c1945b2c24929755be/artifacts
+deleted_time: 1722619353121
+end_time: 1722619049360
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 20c213bb7e7e49c1945b2c24929755be
+run_name: gaudy-foal-932
+run_uuid: 20c213bb7e7e49c1945b2c24929755be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619049337
+status: 3
+tags: []
+user_id: julien

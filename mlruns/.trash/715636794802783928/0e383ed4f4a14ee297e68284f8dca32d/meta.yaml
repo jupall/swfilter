@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/0e383ed4f4a14ee297e68284f8dca32d/artifacts
+deleted_time: 1722618419437
+end_time: 1722617782466
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 0e383ed4f4a14ee297e68284f8dca32d
+run_name: youthful-hog-62
+run_uuid: 0e383ed4f4a14ee297e68284f8dca32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617782403
+status: 3
+tags: []
+user_id: julien

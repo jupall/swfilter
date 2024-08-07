@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d5addf62b10845178dd925445b32cafc/artifacts
+end_time: 1722644421438
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d5addf62b10845178dd925445b32cafc
+run_name: resilient-turtle-794
+run_uuid: d5addf62b10845178dd925445b32cafc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644421383
+status: 3
+tags: []
+user_id: julien

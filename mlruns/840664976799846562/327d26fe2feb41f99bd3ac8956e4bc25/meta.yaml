@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/327d26fe2feb41f99bd3ac8956e4bc25/artifacts
+end_time: 1722620079869
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 327d26fe2feb41f99bd3ac8956e4bc25
+run_name: capable-mole-740
+run_uuid: 327d26fe2feb41f99bd3ac8956e4bc25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620079835
+status: 3
+tags: []
+user_id: julien

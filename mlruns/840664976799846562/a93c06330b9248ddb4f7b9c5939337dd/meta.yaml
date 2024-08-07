@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a93c06330b9248ddb4f7b9c5939337dd/artifacts
+end_time: 1722622823656
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a93c06330b9248ddb4f7b9c5939337dd
+run_name: fortunate-stag-872
+run_uuid: a93c06330b9248ddb4f7b9c5939337dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622754294
+status: 3
+tags: []
+user_id: julien

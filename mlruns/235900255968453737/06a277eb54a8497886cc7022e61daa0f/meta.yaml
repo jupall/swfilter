@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/06a277eb54a8497886cc7022e61daa0f/artifacts
+end_time: 1722652160794
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 06a277eb54a8497886cc7022e61daa0f
+run_name: peaceful-mole-639
+run_uuid: 06a277eb54a8497886cc7022e61daa0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652160515
+status: 3
+tags: []
+user_id: julien

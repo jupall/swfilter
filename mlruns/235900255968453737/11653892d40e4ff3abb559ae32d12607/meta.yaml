@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/11653892d40e4ff3abb559ae32d12607/artifacts
+end_time: 1722651946229
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 11653892d40e4ff3abb559ae32d12607
+run_name: lyrical-seal-5
+run_uuid: 11653892d40e4ff3abb559ae32d12607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651946028
+status: 3
+tags: []
+user_id: julien

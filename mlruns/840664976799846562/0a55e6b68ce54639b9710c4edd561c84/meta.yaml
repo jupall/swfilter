@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0a55e6b68ce54639b9710c4edd561c84/artifacts
+end_time: 1722644441986
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0a55e6b68ce54639b9710c4edd561c84
+run_name: youthful-fawn-145
+run_uuid: 0a55e6b68ce54639b9710c4edd561c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644441799
+status: 3
+tags: []
+user_id: julien

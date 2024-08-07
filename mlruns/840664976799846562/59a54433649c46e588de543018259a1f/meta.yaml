@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/59a54433649c46e588de543018259a1f/artifacts
+end_time: 1722619387906
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 59a54433649c46e588de543018259a1f
+run_name: bouncy-hog-568
+run_uuid: 59a54433649c46e588de543018259a1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619387697
+status: 3
+tags: []
+user_id: julien

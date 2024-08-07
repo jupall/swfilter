@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/eca0c1fbf5ff43bfa4929c6f14dea5fc/artifacts
+deleted_time: 1722618939344
+end_time: 1722618702554
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: eca0c1fbf5ff43bfa4929c6f14dea5fc
+run_name: carefree-goose-285
+run_uuid: eca0c1fbf5ff43bfa4929c6f14dea5fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618702485
+status: 3
+tags: []
+user_id: julien

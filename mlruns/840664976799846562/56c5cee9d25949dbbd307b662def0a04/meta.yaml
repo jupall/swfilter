@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/56c5cee9d25949dbbd307b662def0a04/artifacts
+end_time: 1722644505615
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 56c5cee9d25949dbbd307b662def0a04
+run_name: thundering-vole-175
+run_uuid: 56c5cee9d25949dbbd307b662def0a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644505519
+status: 3
+tags: []
+user_id: julien

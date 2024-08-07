@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3eefe53e7f0943ceba814b28cd19486e/artifacts
+end_time: 1722662421261
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3eefe53e7f0943ceba814b28cd19486e
+run_name: intrigued-bug-128
+run_uuid: 3eefe53e7f0943ceba814b28cd19486e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662421026
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/38c62de129264640920ad06e8ec104fb/artifacts
+deleted_time: 1722618939344
+end_time: 1722618894528
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 38c62de129264640920ad06e8ec104fb
+run_name: skittish-robin-593
+run_uuid: 38c62de129264640920ad06e8ec104fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618894464
+status: 3
+tags: []
+user_id: julien

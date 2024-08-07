@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0c23963704114465b2252fc535c24abb/artifacts
+end_time: 1722662772879
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0c23963704114465b2252fc535c24abb
+run_name: adaptable-squid-340
+run_uuid: 0c23963704114465b2252fc535c24abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662772628
+status: 3
+tags: []
+user_id: julien

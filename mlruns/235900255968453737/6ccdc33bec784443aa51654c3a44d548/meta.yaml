@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6ccdc33bec784443aa51654c3a44d548/artifacts
+end_time: 1722662739377
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6ccdc33bec784443aa51654c3a44d548
+run_name: traveling-goat-363
+run_uuid: 6ccdc33bec784443aa51654c3a44d548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662739265
+status: 3
+tags: []
+user_id: julien

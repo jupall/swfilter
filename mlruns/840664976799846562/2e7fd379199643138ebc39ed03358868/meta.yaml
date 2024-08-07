@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2e7fd379199643138ebc39ed03358868/artifacts
+end_time: 1722619382609
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2e7fd379199643138ebc39ed03358868
+run_name: lyrical-moose-119
+run_uuid: 2e7fd379199643138ebc39ed03358868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619382386
+status: 3
+tags: []
+user_id: julien

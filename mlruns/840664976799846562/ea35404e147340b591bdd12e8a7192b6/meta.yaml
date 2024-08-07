@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ea35404e147340b591bdd12e8a7192b6/artifacts
+end_time: 1722644520865
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ea35404e147340b591bdd12e8a7192b6
+run_name: righteous-cat-718
+run_uuid: ea35404e147340b591bdd12e8a7192b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644520554
+status: 3
+tags: []
+user_id: julien

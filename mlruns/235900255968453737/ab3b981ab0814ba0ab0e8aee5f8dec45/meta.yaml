@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ab3b981ab0814ba0ab0e8aee5f8dec45/artifacts
+end_time: 1722648808638
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ab3b981ab0814ba0ab0e8aee5f8dec45
+run_name: brawny-asp-953
+run_uuid: ab3b981ab0814ba0ab0e8aee5f8dec45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648803222
+status: 3
+tags: []
+user_id: julien

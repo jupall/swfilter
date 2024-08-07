@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b6ecee9f5ea945d69091bd1f6a0781c2/artifacts
+end_time: 1722644250726
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b6ecee9f5ea945d69091bd1f6a0781c2
+run_name: glamorous-dove-655
+run_uuid: b6ecee9f5ea945d69091bd1f6a0781c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644246777
+status: 3
+tags: []
+user_id: julien

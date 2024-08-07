@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/57b620737c1a46d1b7d00b6109a72ebf/artifacts
+end_time: 1722652122498
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 57b620737c1a46d1b7d00b6109a72ebf
+run_name: sneaky-toad-906
+run_uuid: 57b620737c1a46d1b7d00b6109a72ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652122392
+status: 3
+tags: []
+user_id: julien

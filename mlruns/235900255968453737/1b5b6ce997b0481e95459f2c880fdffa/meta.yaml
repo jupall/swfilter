@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1b5b6ce997b0481e95459f2c880fdffa/artifacts
+end_time: 1722649222697
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1b5b6ce997b0481e95459f2c880fdffa
+run_name: welcoming-ox-74
+run_uuid: 1b5b6ce997b0481e95459f2c880fdffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649222430
+status: 3
+tags: []
+user_id: julien

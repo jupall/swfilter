@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/33ebc35cfb2842e0aa4947a0c1c33faa/artifacts
+end_time: 1722644419528
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 33ebc35cfb2842e0aa4947a0c1c33faa
+run_name: bustling-sponge-357
+run_uuid: 33ebc35cfb2842e0aa4947a0c1c33faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644419474
+status: 3
+tags: []
+user_id: julien

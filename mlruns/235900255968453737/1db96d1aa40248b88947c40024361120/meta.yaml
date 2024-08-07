@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1db96d1aa40248b88947c40024361120/artifacts
+end_time: 1722662747982
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1db96d1aa40248b88947c40024361120
+run_name: victorious-moth-33
+run_uuid: 1db96d1aa40248b88947c40024361120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662747872
+status: 3
+tags: []
+user_id: julien

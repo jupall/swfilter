@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/12281260bd5742978223c9488428fd6b/artifacts
+end_time: 1722662437969
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 12281260bd5742978223c9488428fd6b
+run_name: smiling-lark-876
+run_uuid: 12281260bd5742978223c9488428fd6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662437726
+status: 3
+tags: []
+user_id: julien

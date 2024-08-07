@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8c3b9d4eda4f40088c9922c4eadb46fd/artifacts
+end_time: 1722644244080
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8c3b9d4eda4f40088c9922c4eadb46fd
+run_name: adorable-sheep-745
+run_uuid: 8c3b9d4eda4f40088c9922c4eadb46fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644241458
+status: 3
+tags: []
+user_id: julien

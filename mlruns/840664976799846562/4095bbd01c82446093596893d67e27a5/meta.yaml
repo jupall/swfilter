@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4095bbd01c82446093596893d67e27a5/artifacts
+end_time: 1722619383737
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4095bbd01c82446093596893d67e27a5
+run_name: bouncy-wolf-573
+run_uuid: 4095bbd01c82446093596893d67e27a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619383522
+status: 3
+tags: []
+user_id: julien

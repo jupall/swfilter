@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f1cf886cb6d647eba964e97b11e0a36b/artifacts
+end_time: 1722663301692
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f1cf886cb6d647eba964e97b11e0a36b
+run_name: delicate-carp-921
+run_uuid: f1cf886cb6d647eba964e97b11e0a36b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663301452
+status: 3
+tags: []
+user_id: julien

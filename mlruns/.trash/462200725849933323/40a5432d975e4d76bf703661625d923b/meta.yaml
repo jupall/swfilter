@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/40a5432d975e4d76bf703661625d923b/artifacts
+deleted_time: 1722618939344
+end_time: 1722618697924
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 40a5432d975e4d76bf703661625d923b
+run_name: sincere-yak-354
+run_uuid: 40a5432d975e4d76bf703661625d923b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618697858
+status: 3
+tags: []
+user_id: julien

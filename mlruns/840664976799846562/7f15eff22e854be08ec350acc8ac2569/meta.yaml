@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7f15eff22e854be08ec350acc8ac2569/artifacts
+end_time: 1722644507444
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7f15eff22e854be08ec350acc8ac2569
+run_name: bouncy-crow-364
+run_uuid: 7f15eff22e854be08ec350acc8ac2569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644507369
+status: 3
+tags: []
+user_id: julien

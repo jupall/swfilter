@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a95b0c12558048ada6802d33d1e1f52b/artifacts
+end_time: 1722620104398
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a95b0c12558048ada6802d33d1e1f52b
+run_name: legendary-grub-39
+run_uuid: a95b0c12558048ada6802d33d1e1f52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620104256
+status: 3
+tags: []
+user_id: julien

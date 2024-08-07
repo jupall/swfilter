@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/355655f2c5354ba9a83304ec9a0ce2f4/artifacts
+end_time: 1722649185865
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 355655f2c5354ba9a83304ec9a0ce2f4
+run_name: overjoyed-hawk-172
+run_uuid: 355655f2c5354ba9a83304ec9a0ce2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649185778
+status: 3
+tags: []
+user_id: julien

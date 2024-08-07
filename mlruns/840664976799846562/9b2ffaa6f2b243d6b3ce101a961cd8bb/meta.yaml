@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9b2ffaa6f2b243d6b3ce101a961cd8bb/artifacts
+end_time: 1722644470273
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9b2ffaa6f2b243d6b3ce101a961cd8bb
+run_name: fearless-squid-187
+run_uuid: 9b2ffaa6f2b243d6b3ce101a961cd8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644469817
+status: 3
+tags: []
+user_id: julien

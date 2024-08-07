@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9ebcacb36090425f937624b64e9af1f0/artifacts
+end_time: 1722652125231
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9ebcacb36090425f937624b64e9af1f0
+run_name: trusting-calf-307
+run_uuid: 9ebcacb36090425f937624b64e9af1f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652125130
+status: 3
+tags: []
+user_id: julien

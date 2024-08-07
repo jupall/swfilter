@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5e7bced76c2d48e0ad7a862f42e7a30e/artifacts
+end_time: 1722662439815
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5e7bced76c2d48e0ad7a862f42e7a30e
+run_name: rare-croc-787
+run_uuid: 5e7bced76c2d48e0ad7a862f42e7a30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662439570
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9c7c59aa86d54b2a8d83127307e5fecf/artifacts
+end_time: 1722660558354
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9c7c59aa86d54b2a8d83127307e5fecf
+run_name: chill-sheep-917
+run_uuid: 9c7c59aa86d54b2a8d83127307e5fecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722660482698
+status: 3
+tags: []
+user_id: julien

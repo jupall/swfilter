@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/333b5a1107fe4c5a81163bfce449421a/artifacts
+end_time: 1722663266690
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 333b5a1107fe4c5a81163bfce449421a
+run_name: beautiful-eel-68
+run_uuid: 333b5a1107fe4c5a81163bfce449421a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663266575
+status: 3
+tags: []
+user_id: julien

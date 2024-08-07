@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f71d5c3581844eb09f8e0814941f9c76/artifacts
+end_time: 1722651921520
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f71d5c3581844eb09f8e0814941f9c76
+run_name: gifted-cat-126
+run_uuid: f71d5c3581844eb09f8e0814941f9c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651921433
+status: 3
+tags: []
+user_id: julien

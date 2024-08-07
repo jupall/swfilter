@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1cc28a3f8c414abcbe8117c40c19f34c/artifacts
+end_time: 1722651950269
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1cc28a3f8c414abcbe8117c40c19f34c
+run_name: stylish-hound-644
+run_uuid: 1cc28a3f8c414abcbe8117c40c19f34c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651950081
+status: 3
+tags: []
+user_id: julien

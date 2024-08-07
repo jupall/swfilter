@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a9df48a75be444989e58b43d463ecb22/artifacts
+end_time: 1722663133334
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a9df48a75be444989e58b43d463ecb22
+run_name: debonair-toad-8
+run_uuid: a9df48a75be444989e58b43d463ecb22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663130802
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/23e897fd850041a383318b23fc7a2bd4/artifacts
+end_time: 1722649228901
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 23e897fd850041a383318b23fc7a2bd4
+run_name: hilarious-elk-672
+run_uuid: 23e897fd850041a383318b23fc7a2bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649228631
+status: 3
+tags: []
+user_id: julien

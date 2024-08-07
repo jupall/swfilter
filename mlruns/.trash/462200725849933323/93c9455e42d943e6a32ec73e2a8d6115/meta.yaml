@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/93c9455e42d943e6a32ec73e2a8d6115/artifacts
+deleted_time: 1722618939344
+end_time: 1722618706101
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 93c9455e42d943e6a32ec73e2a8d6115
+run_name: grandiose-rook-827
+run_uuid: 93c9455e42d943e6a32ec73e2a8d6115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618705844
+status: 3
+tags: []
+user_id: julien

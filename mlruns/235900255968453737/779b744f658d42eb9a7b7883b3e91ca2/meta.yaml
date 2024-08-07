@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/779b744f658d42eb9a7b7883b3e91ca2/artifacts
+end_time: 1722648519291
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 779b744f658d42eb9a7b7883b3e91ca2
+run_name: colorful-mare-48
+run_uuid: 779b744f658d42eb9a7b7883b3e91ca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648507279
+status: 3
+tags: []
+user_id: julien

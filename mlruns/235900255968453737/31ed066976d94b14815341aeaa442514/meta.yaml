@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/31ed066976d94b14815341aeaa442514/artifacts
+end_time: 1722651999759
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 31ed066976d94b14815341aeaa442514
+run_name: adventurous-mole-962
+run_uuid: 31ed066976d94b14815341aeaa442514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651998904
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e0b807ce8308475bbaf4cf51bc9dd654/artifacts
+end_time: 1722620082842
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e0b807ce8308475bbaf4cf51bc9dd654
+run_name: amazing-hare-111
+run_uuid: e0b807ce8308475bbaf4cf51bc9dd654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620082654
+status: 3
+tags: []
+user_id: julien

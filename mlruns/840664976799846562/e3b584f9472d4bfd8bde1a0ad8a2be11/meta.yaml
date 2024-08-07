@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e3b584f9472d4bfd8bde1a0ad8a2be11/artifacts
+end_time: 1722644018434
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e3b584f9472d4bfd8bde1a0ad8a2be11
+run_name: flawless-yak-55
+run_uuid: e3b584f9472d4bfd8bde1a0ad8a2be11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644018190
+status: 3
+tags: []
+user_id: julien

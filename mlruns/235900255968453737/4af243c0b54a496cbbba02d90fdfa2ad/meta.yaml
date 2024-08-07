@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4af243c0b54a496cbbba02d90fdfa2ad/artifacts
+end_time: 1722650021057
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4af243c0b54a496cbbba02d90fdfa2ad
+run_name: upset-crow-678
+run_uuid: 4af243c0b54a496cbbba02d90fdfa2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650003177
+status: 3
+tags: []
+user_id: julien

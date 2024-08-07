@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f36b693f35034a0e8a5e86570bfc973d/artifacts
+end_time: 1722625035284
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f36b693f35034a0e8a5e86570bfc973d
+run_name: gentle-kite-384
+run_uuid: f36b693f35034a0e8a5e86570bfc973d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625035106
+status: 3
+tags: []
+user_id: julien

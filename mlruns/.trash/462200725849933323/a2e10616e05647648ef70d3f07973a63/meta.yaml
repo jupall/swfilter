@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/a2e10616e05647648ef70d3f07973a63/artifacts
+deleted_time: 1722618939344
+end_time: 1722618703071
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: a2e10616e05647648ef70d3f07973a63
+run_name: capricious-ox-795
+run_uuid: a2e10616e05647648ef70d3f07973a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618703002
+status: 3
+tags: []
+user_id: julien

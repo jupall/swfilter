@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/a7d4cef1f58a48528c2172b60d803b59/artifacts
+deleted_time: 1722618419437
+end_time: 1722617786113
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: a7d4cef1f58a48528c2172b60d803b59
+run_name: overjoyed-hen-544
+run_uuid: a7d4cef1f58a48528c2172b60d803b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617786053
+status: 3
+tags: []
+user_id: julien

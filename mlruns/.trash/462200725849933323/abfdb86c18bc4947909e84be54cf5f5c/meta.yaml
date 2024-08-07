@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/abfdb86c18bc4947909e84be54cf5f5c/artifacts
+deleted_time: 1722618939344
+end_time: 1722618895852
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: abfdb86c18bc4947909e84be54cf5f5c
+run_name: orderly-midge-365
+run_uuid: abfdb86c18bc4947909e84be54cf5f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618895803
+status: 3
+tags: []
+user_id: julien

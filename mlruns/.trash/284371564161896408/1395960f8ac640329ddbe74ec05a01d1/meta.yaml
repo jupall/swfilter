@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/1395960f8ac640329ddbe74ec05a01d1/artifacts
+deleted_time: 1722618664511
+end_time: 1722618506964
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 1395960f8ac640329ddbe74ec05a01d1
+run_name: flawless-finch-239
+run_uuid: 1395960f8ac640329ddbe74ec05a01d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618506757
+status: 3
+tags: []
+user_id: julien

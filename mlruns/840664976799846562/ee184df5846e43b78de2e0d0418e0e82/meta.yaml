@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ee184df5846e43b78de2e0d0418e0e82/artifacts
+end_time: 1722625148965
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ee184df5846e43b78de2e0d0418e0e82
+run_name: capricious-stoat-609
+run_uuid: ee184df5846e43b78de2e0d0418e0e82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625148925
+status: 3
+tags: []
+user_id: julien

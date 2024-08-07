@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d4d7b28c2f7c429982167bfec05b2ea7/artifacts
+end_time: 1722624520034
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d4d7b28c2f7c429982167bfec05b2ea7
+run_name: bouncy-flea-773
+run_uuid: d4d7b28c2f7c429982167bfec05b2ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722624488081
+status: 3
+tags: []
+user_id: julien

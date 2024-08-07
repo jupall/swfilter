@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3814e58c13a6432ea07ec7e591eca7e4/artifacts
+end_time: 1722643912894
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3814e58c13a6432ea07ec7e591eca7e4
+run_name: chill-wasp-56
+run_uuid: 3814e58c13a6432ea07ec7e591eca7e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643912294
+status: 3
+tags: []
+user_id: julien

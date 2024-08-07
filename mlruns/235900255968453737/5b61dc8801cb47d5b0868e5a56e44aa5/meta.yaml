@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5b61dc8801cb47d5b0868e5a56e44aa5/artifacts
+end_time: 1722663387356
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5b61dc8801cb47d5b0868e5a56e44aa5
+run_name: exultant-swan-363
+run_uuid: 5b61dc8801cb47d5b0868e5a56e44aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663386929
+status: 3
+tags: []
+user_id: julien

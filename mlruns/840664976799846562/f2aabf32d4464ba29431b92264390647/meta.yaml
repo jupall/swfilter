@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f2aabf32d4464ba29431b92264390647/artifacts
+end_time: 1722644503291
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f2aabf32d4464ba29431b92264390647
+run_name: monumental-bass-33
+run_uuid: f2aabf32d4464ba29431b92264390647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644503197
+status: 3
+tags: []
+user_id: julien

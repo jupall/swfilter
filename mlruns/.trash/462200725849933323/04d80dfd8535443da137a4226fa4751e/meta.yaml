@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/04d80dfd8535443da137a4226fa4751e/artifacts
+deleted_time: 1722618939344
+end_time: 1722618698822
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 04d80dfd8535443da137a4226fa4751e
+run_name: languid-shad-23
+run_uuid: 04d80dfd8535443da137a4226fa4751e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618698759
+status: 3
+tags: []
+user_id: julien

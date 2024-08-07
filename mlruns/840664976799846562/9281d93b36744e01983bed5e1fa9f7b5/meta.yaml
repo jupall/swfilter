@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9281d93b36744e01983bed5e1fa9f7b5/artifacts
+end_time: 1722622412287
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9281d93b36744e01983bed5e1fa9f7b5
+run_name: salty-sheep-480
+run_uuid: 9281d93b36744e01983bed5e1fa9f7b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622358821
+status: 3
+tags: []
+user_id: julien

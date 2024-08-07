@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4df130b90cf944c6b653cb0b84caf35a/artifacts
+end_time: 1722651932843
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4df130b90cf944c6b653cb0b84caf35a
+run_name: blushing-shark-294
+run_uuid: 4df130b90cf944c6b653cb0b84caf35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651932752
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c389d621260748858e1f70d4ee8c80b2/artifacts
+end_time: 1722625146089
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c389d621260748858e1f70d4ee8c80b2
+run_name: unruly-mare-991
+run_uuid: c389d621260748858e1f70d4ee8c80b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625146045
+status: 3
+tags: []
+user_id: julien

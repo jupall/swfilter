@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/18433194bdcc49a8987cbfb234d8c9af/artifacts
+end_time: 1722643992204
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 18433194bdcc49a8987cbfb234d8c9af
+run_name: placid-doe-251
+run_uuid: 18433194bdcc49a8987cbfb234d8c9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643991977
+status: 3
+tags: []
+user_id: julien

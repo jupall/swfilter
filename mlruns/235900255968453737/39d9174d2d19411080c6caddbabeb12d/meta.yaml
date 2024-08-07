@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/39d9174d2d19411080c6caddbabeb12d/artifacts
+end_time: 1722652127962
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 39d9174d2d19411080c6caddbabeb12d
+run_name: bald-sow-572
+run_uuid: 39d9174d2d19411080c6caddbabeb12d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652127864
+status: 3
+tags: []
+user_id: julien

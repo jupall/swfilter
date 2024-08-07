@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d9701ae33239413f86d6bac5185e05f0/artifacts
+end_time: 1722662735881
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d9701ae33239413f86d6bac5185e05f0
+run_name: fortunate-rook-275
+run_uuid: d9701ae33239413f86d6bac5185e05f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662735764
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bf9de253b8094a27841bbdd2d520cd9d/artifacts
+end_time: 1722662782811
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bf9de253b8094a27841bbdd2d520cd9d
+run_name: victorious-squid-956
+run_uuid: bf9de253b8094a27841bbdd2d520cd9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662782571
+status: 3
+tags: []
+user_id: julien

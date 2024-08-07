@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c69b6ccf5f1b4c50b2f3a7a516cabd65/artifacts
+end_time: 1722652079246
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c69b6ccf5f1b4c50b2f3a7a516cabd65
+run_name: puzzled-moose-835
+run_uuid: c69b6ccf5f1b4c50b2f3a7a516cabd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652078163
+status: 3
+tags: []
+user_id: julien

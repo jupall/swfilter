@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2b74ee51fecc4662b7f36d6dbe743666/artifacts
+end_time: 1722652143910
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2b74ee51fecc4662b7f36d6dbe743666
+run_name: auspicious-roo-574
+run_uuid: 2b74ee51fecc4662b7f36d6dbe743666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652143612
+status: 3
+tags: []
+user_id: julien

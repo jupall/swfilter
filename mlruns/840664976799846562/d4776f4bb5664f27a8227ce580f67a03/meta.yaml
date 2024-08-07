@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d4776f4bb5664f27a8227ce580f67a03/artifacts
+end_time: 1722619545300
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d4776f4bb5664f27a8227ce580f67a03
+run_name: bustling-wren-132
+run_uuid: d4776f4bb5664f27a8227ce580f67a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619535361
+status: 3
+tags: []
+user_id: julien

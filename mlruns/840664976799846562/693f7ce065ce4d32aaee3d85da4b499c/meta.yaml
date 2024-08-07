@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/693f7ce065ce4d32aaee3d85da4b499c/artifacts
+end_time: 1722643979655
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 693f7ce065ce4d32aaee3d85da4b499c
+run_name: melodic-wasp-434
+run_uuid: 693f7ce065ce4d32aaee3d85da4b499c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643979605
+status: 3
+tags: []
+user_id: julien

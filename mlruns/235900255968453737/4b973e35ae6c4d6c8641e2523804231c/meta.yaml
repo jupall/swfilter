@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4b973e35ae6c4d6c8641e2523804231c/artifacts
+end_time: 1722652146048
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4b973e35ae6c4d6c8641e2523804231c
+run_name: peaceful-wren-845
+run_uuid: 4b973e35ae6c4d6c8641e2523804231c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652145756
+status: 3
+tags: []
+user_id: julien

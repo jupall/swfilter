@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4561d98f8e32458e96a4f110faafbb78/artifacts
+end_time: 1722644546339
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4561d98f8e32458e96a4f110faafbb78
+run_name: charming-bird-161
+run_uuid: 4561d98f8e32458e96a4f110faafbb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644546109
+status: 3
+tags: []
+user_id: julien

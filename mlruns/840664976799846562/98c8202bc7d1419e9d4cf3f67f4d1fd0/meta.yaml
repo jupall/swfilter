@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/98c8202bc7d1419e9d4cf3f67f4d1fd0/artifacts
+end_time: 1722644425108
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 98c8202bc7d1419e9d4cf3f67f4d1fd0
+run_name: youthful-crow-473
+run_uuid: 98c8202bc7d1419e9d4cf3f67f4d1fd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644424915
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9e8dc9e2e4c741a3af1f0f6c1c99fccb/artifacts
+end_time: 1722619376544
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9e8dc9e2e4c741a3af1f0f6c1c99fccb
+run_name: stately-shrimp-889
+run_uuid: 9e8dc9e2e4c741a3af1f0f6c1c99fccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619376505
+status: 3
+tags: []
+user_id: julien

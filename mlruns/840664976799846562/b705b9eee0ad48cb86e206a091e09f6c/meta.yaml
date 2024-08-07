@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b705b9eee0ad48cb86e206a091e09f6c/artifacts
+end_time: 1722644542959
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b705b9eee0ad48cb86e206a091e09f6c
+run_name: rare-whale-259
+run_uuid: b705b9eee0ad48cb86e206a091e09f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644542698
+status: 3
+tags: []
+user_id: julien

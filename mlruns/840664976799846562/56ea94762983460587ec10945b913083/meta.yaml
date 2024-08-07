@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/56ea94762983460587ec10945b913083/artifacts
+end_time: 1722620100924
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 56ea94762983460587ec10945b913083
+run_name: tasteful-auk-719
+run_uuid: 56ea94762983460587ec10945b913083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620100778
+status: 3
+tags: []
+user_id: julien

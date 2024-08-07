@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/dfdf89bfcbaa41bbb6d48d1e45b46359/artifacts
+end_time: 1722651929606
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: dfdf89bfcbaa41bbb6d48d1e45b46359
+run_name: polite-lark-198
+run_uuid: dfdf89bfcbaa41bbb6d48d1e45b46359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651929515
+status: 3
+tags: []
+user_id: julien

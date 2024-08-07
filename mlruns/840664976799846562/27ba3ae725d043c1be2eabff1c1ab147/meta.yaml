@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/27ba3ae725d043c1be2eabff1c1ab147/artifacts
+end_time: 1722644388730
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 27ba3ae725d043c1be2eabff1c1ab147
+run_name: rogue-crab-691
+run_uuid: 27ba3ae725d043c1be2eabff1c1ab147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644386047
+status: 3
+tags: []
+user_id: julien

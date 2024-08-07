@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/96f0713380864edeb632824b0c2c155f/artifacts
+deleted_time: 1722618939344
+end_time: 1722618895202
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 96f0713380864edeb632824b0c2c155f
+run_name: learned-finch-581
+run_uuid: 96f0713380864edeb632824b0c2c155f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618895137
+status: 3
+tags: []
+user_id: julien

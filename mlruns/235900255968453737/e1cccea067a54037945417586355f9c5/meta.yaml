@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e1cccea067a54037945417586355f9c5/artifacts
+end_time: 1722663292042
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e1cccea067a54037945417586355f9c5
+run_name: powerful-dolphin-606
+run_uuid: e1cccea067a54037945417586355f9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663291804
+status: 3
+tags: []
+user_id: julien

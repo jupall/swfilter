@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/7b9def07118444d58dfb639c7f1db5fa/artifacts
+deleted_time: 1722618939344
+end_time: 1722618707532
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 7b9def07118444d58dfb639c7f1db5fa
+run_name: agreeable-flea-587
+run_uuid: 7b9def07118444d58dfb639c7f1db5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618707304
+status: 3
+tags: []
+user_id: julien

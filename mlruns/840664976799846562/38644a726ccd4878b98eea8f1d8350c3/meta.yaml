@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/38644a726ccd4878b98eea8f1d8350c3/artifacts
+end_time: 1722619393369
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 38644a726ccd4878b98eea8f1d8350c3
+run_name: judicious-lark-719
+run_uuid: 38644a726ccd4878b98eea8f1d8350c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619393158
+status: 3
+tags: []
+user_id: julien

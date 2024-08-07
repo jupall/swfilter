@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7ba5bc5b40304f77a1e555183765461c/artifacts
+end_time: 1722652124302
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7ba5bc5b40304f77a1e555183765461c
+run_name: brawny-gull-881
+run_uuid: 7ba5bc5b40304f77a1e555183765461c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652124197
+status: 3
+tags: []
+user_id: julien

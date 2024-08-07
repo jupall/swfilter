@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e1ef38efa7114ac6b67d9bf2a4c054b9/artifacts
+end_time: 1722662962049
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e1ef38efa7114ac6b67d9bf2a4c054b9
+run_name: wise-stork-28
+run_uuid: e1ef38efa7114ac6b67d9bf2a4c054b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662958421
+status: 3
+tags: []
+user_id: julien

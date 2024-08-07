@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bae4343219144b4b9ca414ec93e32cc4/artifacts
+end_time: 1722662433168
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bae4343219144b4b9ca414ec93e32cc4
+run_name: marvelous-hawk-920
+run_uuid: bae4343219144b4b9ca414ec93e32cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662432923
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/df9523b1dfac41bfa71e55d88b6cc361/artifacts
+end_time: 1722643988265
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: df9523b1dfac41bfa71e55d88b6cc361
+run_name: learned-hound-15
+run_uuid: df9523b1dfac41bfa71e55d88b6cc361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643988044
+status: 3
+tags: []
+user_id: julien

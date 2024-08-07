@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/a4a7beb8ba56474da7496d4ad7c42555/artifacts
+deleted_time: 1722618664511
+end_time: 1722618498171
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: a4a7beb8ba56474da7496d4ad7c42555
+run_name: carefree-hen-353
+run_uuid: a4a7beb8ba56474da7496d4ad7c42555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618497973
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ec9b3b02882b4cc39149253577de8632/artifacts
+end_time: 1722625040155
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ec9b3b02882b4cc39149253577de8632
+run_name: kindly-duck-38
+run_uuid: ec9b3b02882b4cc39149253577de8632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625039980
+status: 3
+tags: []
+user_id: julien

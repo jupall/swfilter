@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/67dd99f39f7f4f109a0ff869714dd808/artifacts
+end_time: 1722663059502
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 67dd99f39f7f4f109a0ff869714dd808
+run_name: delicate-yak-880
+run_uuid: 67dd99f39f7f4f109a0ff869714dd808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663056644
+status: 3
+tags: []
+user_id: julien

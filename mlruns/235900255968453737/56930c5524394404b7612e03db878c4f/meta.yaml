@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/56930c5524394404b7612e03db878c4f/artifacts
+end_time: 1722656238557
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 56930c5524394404b7612e03db878c4f
+run_name: smiling-asp-772
+run_uuid: 56930c5524394404b7612e03db878c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722656179904
+status: 3
+tags: []
+user_id: julien

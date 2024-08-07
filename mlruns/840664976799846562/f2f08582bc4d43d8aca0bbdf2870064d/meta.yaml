@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f2f08582bc4d43d8aca0bbdf2870064d/artifacts
+end_time: 1722644548622
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f2f08582bc4d43d8aca0bbdf2870064d
+run_name: sedate-pug-321
+run_uuid: f2f08582bc4d43d8aca0bbdf2870064d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644548391
+status: 3
+tags: []
+user_id: julien

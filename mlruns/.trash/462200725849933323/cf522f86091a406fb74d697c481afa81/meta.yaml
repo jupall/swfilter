@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/cf522f86091a406fb74d697c481afa81/artifacts
+deleted_time: 1722618939344
+end_time: 1722618910890
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: cf522f86091a406fb74d697c481afa81
+run_name: bustling-trout-467
+run_uuid: cf522f86091a406fb74d697c481afa81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618910669
+status: 3
+tags: []
+user_id: julien

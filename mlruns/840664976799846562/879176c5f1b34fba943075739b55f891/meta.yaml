@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/879176c5f1b34fba943075739b55f891/artifacts
+end_time: 1722644452599
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 879176c5f1b34fba943075739b55f891
+run_name: enchanting-fly-389
+run_uuid: 879176c5f1b34fba943075739b55f891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644452391
+status: 3
+tags: []
+user_id: julien

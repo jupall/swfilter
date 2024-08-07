@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4c2fbdb0709242a5be3952f6f851e770/artifacts
+end_time: 1722662782556
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4c2fbdb0709242a5be3952f6f851e770
+run_name: carefree-wolf-724
+run_uuid: 4c2fbdb0709242a5be3952f6f851e770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662782312
+status: 3
+tags: []
+user_id: julien

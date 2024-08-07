@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/08758fb6cca44449977a753ffca67e36/artifacts
+end_time: 1722648421875
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 08758fb6cca44449977a753ffca67e36
+run_name: bittersweet-ram-873
+run_uuid: 08758fb6cca44449977a753ffca67e36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648409559
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9e41857eca9745ee92b89afb79b860e1/artifacts
+end_time: 1722652145444
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9e41857eca9745ee92b89afb79b860e1
+run_name: illustrious-roo-984
+run_uuid: 9e41857eca9745ee92b89afb79b860e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652145149
+status: 3
+tags: []
+user_id: julien

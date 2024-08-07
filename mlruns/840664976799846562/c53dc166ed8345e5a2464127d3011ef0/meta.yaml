@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c53dc166ed8345e5a2464127d3011ef0/artifacts
+end_time: 1722643969617
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c53dc166ed8345e5a2464127d3011ef0
+run_name: abundant-roo-229
+run_uuid: c53dc166ed8345e5a2464127d3011ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643969250
+status: 3
+tags: []
+user_id: julien

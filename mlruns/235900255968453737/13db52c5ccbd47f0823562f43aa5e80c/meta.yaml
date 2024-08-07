@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/13db52c5ccbd47f0823562f43aa5e80c/artifacts
+end_time: 1722663267761
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 13db52c5ccbd47f0823562f43aa5e80c
+run_name: bold-mole-187
+run_uuid: 13db52c5ccbd47f0823562f43aa5e80c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663267641
+status: 3
+tags: []
+user_id: julien

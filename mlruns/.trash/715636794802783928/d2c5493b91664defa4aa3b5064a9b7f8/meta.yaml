@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/d2c5493b91664defa4aa3b5064a9b7f8/artifacts
+deleted_time: 1722618419437
+end_time: 1722617839431
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: d2c5493b91664defa4aa3b5064a9b7f8
+run_name: mercurial-flea-26
+run_uuid: d2c5493b91664defa4aa3b5064a9b7f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617839368
+status: 3
+tags: []
+user_id: julien

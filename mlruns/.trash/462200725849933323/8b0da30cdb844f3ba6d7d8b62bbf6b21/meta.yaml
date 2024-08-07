@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/8b0da30cdb844f3ba6d7d8b62bbf6b21/artifacts
+deleted_time: 1722618939344
+end_time: 1722618696803
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 8b0da30cdb844f3ba6d7d8b62bbf6b21
+run_name: auspicious-wasp-563
+run_uuid: 8b0da30cdb844f3ba6d7d8b62bbf6b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618696740
+status: 3
+tags: []
+user_id: julien

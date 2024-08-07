@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bb8e190c184e47d48428dffe8bb71cf7/artifacts
+end_time: 1722662737120
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bb8e190c184e47d48428dffe8bb71cf7
+run_name: fun-dog-152
+run_uuid: bb8e190c184e47d48428dffe8bb71cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662737013
+status: 3
+tags: []
+user_id: julien

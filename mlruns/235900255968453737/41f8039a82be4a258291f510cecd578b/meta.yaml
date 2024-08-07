@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/41f8039a82be4a258291f510cecd578b/artifacts
+end_time: 1722650161519
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 41f8039a82be4a258291f510cecd578b
+run_name: sassy-whale-389
+run_uuid: 41f8039a82be4a258291f510cecd578b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650147323
+status: 3
+tags: []
+user_id: julien

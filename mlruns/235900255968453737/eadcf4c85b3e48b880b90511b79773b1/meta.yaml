@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/eadcf4c85b3e48b880b90511b79773b1/artifacts
+end_time: 1722652173201
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: eadcf4c85b3e48b880b90511b79773b1
+run_name: delightful-bird-232
+run_uuid: eadcf4c85b3e48b880b90511b79773b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652172932
+status: 3
+tags: []
+user_id: julien

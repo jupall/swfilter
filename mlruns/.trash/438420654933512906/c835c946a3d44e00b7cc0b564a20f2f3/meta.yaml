@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/c835c946a3d44e00b7cc0b564a20f2f3/artifacts
+deleted_time: 1722619353121
+end_time: 1722619051856
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: c835c946a3d44e00b7cc0b564a20f2f3
+run_name: rumbling-asp-250
+run_uuid: c835c946a3d44e00b7cc0b564a20f2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619051817
+status: 3
+tags: []
+user_id: julien

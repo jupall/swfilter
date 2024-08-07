@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/05f9eeffe4e34bcca1290dd386e26d55/artifacts
+end_time: 1722619684089
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 05f9eeffe4e34bcca1290dd386e26d55
+run_name: sassy-koi-326
+run_uuid: 05f9eeffe4e34bcca1290dd386e26d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619676445
+status: 3
+tags: []
+user_id: julien

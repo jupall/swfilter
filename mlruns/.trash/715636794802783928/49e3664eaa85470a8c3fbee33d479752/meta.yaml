@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/49e3664eaa85470a8c3fbee33d479752/artifacts
+deleted_time: 1722618419437
+end_time: 1722617850330
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 49e3664eaa85470a8c3fbee33d479752
+run_name: monumental-flea-465
+run_uuid: 49e3664eaa85470a8c3fbee33d479752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617850098
+status: 3
+tags: []
+user_id: julien

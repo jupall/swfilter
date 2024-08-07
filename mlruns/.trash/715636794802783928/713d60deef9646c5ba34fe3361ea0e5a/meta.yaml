@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/713d60deef9646c5ba34fe3361ea0e5a/artifacts
+deleted_time: 1722618419437
+end_time: 1722617785611
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 713d60deef9646c5ba34fe3361ea0e5a
+run_name: flawless-eel-890
+run_uuid: 713d60deef9646c5ba34fe3361ea0e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617785546
+status: 3
+tags: []
+user_id: julien

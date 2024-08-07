@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/177812b1aea84c598fdd25a0efe2843d/artifacts
+end_time: 1722643888892
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 177812b1aea84c598fdd25a0efe2843d
+run_name: gifted-finch-394
+run_uuid: 177812b1aea84c598fdd25a0efe2843d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643888671
+status: 3
+tags: []
+user_id: julien

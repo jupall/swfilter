@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0e812a4852934feda2ecae146d4f5411/artifacts
+end_time: 1722652006585
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0e812a4852934feda2ecae146d4f5411
+run_name: crawling-wolf-40
+run_uuid: 0e812a4852934feda2ecae146d4f5411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652005755
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/677783d0c1254bd59940c2683f179b8b/artifacts
+end_time: 1722643974683
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 677783d0c1254bd59940c2683f179b8b
+run_name: judicious-eel-7
+run_uuid: 677783d0c1254bd59940c2683f179b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643974631
+status: 3
+tags: []
+user_id: julien

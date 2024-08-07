@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/04fbbbd971bf4c02a66fe7888307b52d/artifacts
+end_time: 1722643975894
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 04fbbbd971bf4c02a66fe7888307b52d
+run_name: luxuriant-eel-295
+run_uuid: 04fbbbd971bf4c02a66fe7888307b52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643975841
+status: 3
+tags: []
+user_id: julien

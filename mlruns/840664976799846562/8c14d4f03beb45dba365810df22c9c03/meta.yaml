@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8c14d4f03beb45dba365810df22c9c03/artifacts
+end_time: 1722644207080
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8c14d4f03beb45dba365810df22c9c03
+run_name: capable-ant-408
+run_uuid: 8c14d4f03beb45dba365810df22c9c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644203446
+status: 3
+tags: []
+user_id: julien

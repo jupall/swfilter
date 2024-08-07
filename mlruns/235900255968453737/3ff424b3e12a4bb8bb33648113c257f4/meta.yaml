@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3ff424b3e12a4bb8bb33648113c257f4/artifacts
+end_time: 1722654205245
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3ff424b3e12a4bb8bb33648113c257f4
+run_name: gregarious-kite-57
+run_uuid: 3ff424b3e12a4bb8bb33648113c257f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722654107955
+status: 3
+tags: []
+user_id: julien

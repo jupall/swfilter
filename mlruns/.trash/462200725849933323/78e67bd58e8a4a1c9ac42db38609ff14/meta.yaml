@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/78e67bd58e8a4a1c9ac42db38609ff14/artifacts
+deleted_time: 1722618939344
+end_time: 1722618694657
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 78e67bd58e8a4a1c9ac42db38609ff14
+run_name: bald-eel-330
+run_uuid: 78e67bd58e8a4a1c9ac42db38609ff14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618694592
+status: 3
+tags: []
+user_id: julien

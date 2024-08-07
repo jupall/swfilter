@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/3de79150ff0445919b6dcd09fb495589/artifacts
+deleted_time: 1722618419437
+end_time: 1722617837088
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 3de79150ff0445919b6dcd09fb495589
+run_name: mysterious-newt-872
+run_uuid: 3de79150ff0445919b6dcd09fb495589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617837024
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/634def27252d4946a4648aff89572650/artifacts
+end_time: 1722619460857
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 634def27252d4946a4648aff89572650
+run_name: grandiose-duck-837
+run_uuid: 634def27252d4946a4648aff89572650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619455594
+status: 3
+tags: []
+user_id: julien

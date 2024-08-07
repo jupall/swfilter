@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/89be65b3cdfc4b2a9dcca9b0ec471a8f/artifacts
+deleted_time: 1722619353121
+end_time: 1722619195940
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 89be65b3cdfc4b2a9dcca9b0ec471a8f
+run_name: zealous-donkey-948
+run_uuid: 89be65b3cdfc4b2a9dcca9b0ec471a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619189090
+status: 3
+tags: []
+user_id: julien

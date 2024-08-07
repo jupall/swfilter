@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/39c4a8c3101148e9a716bde9a5884d32/artifacts
+end_time: 1722620078119
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 39c4a8c3101148e9a716bde9a5884d32
+run_name: merciful-chimp-848
+run_uuid: 39c4a8c3101148e9a716bde9a5884d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620078086
+status: 3
+tags: []
+user_id: julien

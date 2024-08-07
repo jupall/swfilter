@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f41e49ad2bee4cfabdf83b27684b4fc8/artifacts
+end_time: 1722643959515
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f41e49ad2bee4cfabdf83b27684b4fc8
+run_name: masked-tern-510
+run_uuid: f41e49ad2bee4cfabdf83b27684b4fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643958988
+status: 3
+tags: []
+user_id: julien

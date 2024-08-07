@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4d0c0dc37e6a447ea56b7ac4b842c596/artifacts
+end_time: 1722655083148
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4d0c0dc37e6a447ea56b7ac4b842c596
+run_name: legendary-zebra-201
+run_uuid: 4d0c0dc37e6a447ea56b7ac4b842c596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722655013489
+status: 3
+tags: []
+user_id: julien

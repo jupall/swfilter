@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2568830a0d8443d6be7a80c3d9d96d5b/artifacts
+end_time: 1722619375010
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2568830a0d8443d6be7a80c3d9d96d5b
+run_name: tasteful-asp-330
+run_uuid: 2568830a0d8443d6be7a80c3d9d96d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619374970
+status: 3
+tags: []
+user_id: julien

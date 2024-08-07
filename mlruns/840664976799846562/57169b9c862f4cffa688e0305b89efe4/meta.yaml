@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/57169b9c862f4cffa688e0305b89efe4/artifacts
+end_time: 1722643981418
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 57169b9c862f4cffa688e0305b89efe4
+run_name: debonair-jay-649
+run_uuid: 57169b9c862f4cffa688e0305b89efe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643981363
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6cdf1060dbd94e86b32bb3e0e2a2c278/artifacts
+end_time: 1722652126613
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6cdf1060dbd94e86b32bb3e0e2a2c278
+run_name: welcoming-robin-803
+run_uuid: 6cdf1060dbd94e86b32bb3e0e2a2c278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652126512
+status: 3
+tags: []
+user_id: julien

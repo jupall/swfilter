@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0ad572d3784c4220b872c9189ef7c1ab/artifacts
+end_time: 1722623286232
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0ad572d3784c4220b872c9189ef7c1ab
+run_name: bald-grub-31
+run_uuid: 0ad572d3784c4220b872c9189ef7c1ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722623255889
+status: 3
+tags: []
+user_id: julien

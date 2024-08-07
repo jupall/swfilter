@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ea11a0c19925433ea1fd31708ae711d0/artifacts
+end_time: 1722662849998
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ea11a0c19925433ea1fd31708ae711d0
+run_name: auspicious-fish-937
+run_uuid: ea11a0c19925433ea1fd31708ae711d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662847109
+status: 3
+tags: []
+user_id: julien

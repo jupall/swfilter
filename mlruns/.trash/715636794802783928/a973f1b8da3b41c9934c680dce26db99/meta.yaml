@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/a973f1b8da3b41c9934c680dce26db99/artifacts
+deleted_time: 1722618419437
+end_time: 1722617834229
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: a973f1b8da3b41c9934c680dce26db99
+run_name: lyrical-sloth-101
+run_uuid: a973f1b8da3b41c9934c680dce26db99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617834179
+status: 3
+tags: []
+user_id: julien

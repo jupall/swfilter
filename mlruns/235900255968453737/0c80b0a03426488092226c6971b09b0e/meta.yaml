@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0c80b0a03426488092226c6971b09b0e/artifacts
+end_time: 1722648751675
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0c80b0a03426488092226c6971b09b0e
+run_name: lyrical-trout-380
+run_uuid: 0c80b0a03426488092226c6971b09b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648747994
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/82c043d1463f42d69fa2113f4ed3d46e/artifacts
+end_time: 1722643887273
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 82c043d1463f42d69fa2113f4ed3d46e
+run_name: serious-squid-1
+run_uuid: 82c043d1463f42d69fa2113f4ed3d46e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643887046
+status: 3
+tags: []
+user_id: julien

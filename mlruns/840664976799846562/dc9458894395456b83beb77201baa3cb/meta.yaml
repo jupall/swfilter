@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dc9458894395456b83beb77201baa3cb/artifacts
+end_time: 1722625040899
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dc9458894395456b83beb77201baa3cb
+run_name: adorable-hen-236
+run_uuid: dc9458894395456b83beb77201baa3cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625040720
+status: 3
+tags: []
+user_id: julien

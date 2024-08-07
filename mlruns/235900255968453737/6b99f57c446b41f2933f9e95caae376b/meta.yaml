@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6b99f57c446b41f2933f9e95caae376b/artifacts
+end_time: 1722663309172
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6b99f57c446b41f2933f9e95caae376b
+run_name: fun-lynx-795
+run_uuid: 6b99f57c446b41f2933f9e95caae376b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663308948
+status: 3
+tags: []
+user_id: julien

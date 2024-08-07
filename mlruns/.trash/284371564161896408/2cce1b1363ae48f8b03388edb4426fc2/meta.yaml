@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/2cce1b1363ae48f8b03388edb4426fc2/artifacts
+deleted_time: 1722618664511
+end_time: 1722618484605
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 2cce1b1363ae48f8b03388edb4426fc2
+run_name: incongruous-elk-340
+run_uuid: 2cce1b1363ae48f8b03388edb4426fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618484563
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0174dbfb23d54e7e97424375d24a2a65/artifacts
+end_time: 1722663292563
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0174dbfb23d54e7e97424375d24a2a65
+run_name: zealous-cod-945
+run_uuid: 0174dbfb23d54e7e97424375d24a2a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663292317
+status: 3
+tags: []
+user_id: julien

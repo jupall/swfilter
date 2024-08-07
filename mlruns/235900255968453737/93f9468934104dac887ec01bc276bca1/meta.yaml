@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/93f9468934104dac887ec01bc276bca1/artifacts
+end_time: 1722649203548
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 93f9468934104dac887ec01bc276bca1
+run_name: lyrical-tern-429
+run_uuid: 93f9468934104dac887ec01bc276bca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649203269
+status: 3
+tags: []
+user_id: julien

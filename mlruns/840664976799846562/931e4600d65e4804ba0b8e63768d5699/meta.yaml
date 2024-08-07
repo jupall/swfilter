@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/931e4600d65e4804ba0b8e63768d5699/artifacts
+end_time: 1722625033230
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 931e4600d65e4804ba0b8e63768d5699
+run_name: bold-snail-419
+run_uuid: 931e4600d65e4804ba0b8e63768d5699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625033054
+status: 3
+tags: []
+user_id: julien

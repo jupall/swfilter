@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/547e3a9b6a87487093ca8090d29fa7a4/artifacts
+deleted_time: 1722619353121
+end_time: 1722619251547
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 547e3a9b6a87487093ca8090d29fa7a4
+run_name: suave-shad-202
+run_uuid: 547e3a9b6a87487093ca8090d29fa7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619245789
+status: 3
+tags: []
+user_id: julien

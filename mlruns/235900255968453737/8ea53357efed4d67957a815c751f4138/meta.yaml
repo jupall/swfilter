@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8ea53357efed4d67957a815c751f4138/artifacts
+end_time: 1722663331587
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8ea53357efed4d67957a815c751f4138
+run_name: likeable-deer-462
+run_uuid: 8ea53357efed4d67957a815c751f4138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663330969
+status: 3
+tags: []
+user_id: julien

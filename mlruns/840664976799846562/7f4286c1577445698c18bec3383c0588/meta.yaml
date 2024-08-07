@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7f4286c1577445698c18bec3383c0588/artifacts
+end_time: 1722625030243
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7f4286c1577445698c18bec3383c0588
+run_name: zealous-pig-193
+run_uuid: 7f4286c1577445698c18bec3383c0588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625030090
+status: 3
+tags: []
+user_id: julien

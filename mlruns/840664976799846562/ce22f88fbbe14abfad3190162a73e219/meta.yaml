@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ce22f88fbbe14abfad3190162a73e219/artifacts
+end_time: 1722643857187
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ce22f88fbbe14abfad3190162a73e219
+run_name: dapper-foal-965
+run_uuid: ce22f88fbbe14abfad3190162a73e219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643857143
+status: 3
+tags: []
+user_id: julien

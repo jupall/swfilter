@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8b90abc9498545328493ee0c25de7899/artifacts
+end_time: 1722620077955
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8b90abc9498545328493ee0c25de7899
+run_name: bright-penguin-618
+run_uuid: 8b90abc9498545328493ee0c25de7899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620077919
+status: 3
+tags: []
+user_id: julien

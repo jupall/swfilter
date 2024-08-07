@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c6432eb2c611429db7cf399b19739efe/artifacts
+end_time: 1722625021462
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c6432eb2c611429db7cf399b19739efe
+run_name: persistent-zebra-96
+run_uuid: c6432eb2c611429db7cf399b19739efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625021313
+status: 3
+tags: []
+user_id: julien

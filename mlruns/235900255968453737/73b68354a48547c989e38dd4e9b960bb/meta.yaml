@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/73b68354a48547c989e38dd4e9b960bb/artifacts
+end_time: 1722649208556
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 73b68354a48547c989e38dd4e9b960bb
+run_name: fortunate-bird-514
+run_uuid: 73b68354a48547c989e38dd4e9b960bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649208285
+status: 3
+tags: []
+user_id: julien

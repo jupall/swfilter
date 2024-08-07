@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f75e5ab5601848a9a508e17c23b689af/artifacts
+end_time: 1722619374689
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f75e5ab5601848a9a508e17c23b689af
+run_name: defiant-eel-860
+run_uuid: f75e5ab5601848a9a508e17c23b689af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619374650
+status: 3
+tags: []
+user_id: julien

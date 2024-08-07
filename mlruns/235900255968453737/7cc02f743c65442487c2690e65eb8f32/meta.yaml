@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7cc02f743c65442487c2690e65eb8f32/artifacts
+end_time: 1722654424471
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7cc02f743c65442487c2690e65eb8f32
+run_name: bedecked-shrimp-370
+run_uuid: 7cc02f743c65442487c2690e65eb8f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722654361177
+status: 3
+tags: []
+user_id: julien

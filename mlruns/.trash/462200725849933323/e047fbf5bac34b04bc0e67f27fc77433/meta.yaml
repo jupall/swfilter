@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/e047fbf5bac34b04bc0e67f27fc77433/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897076
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: e047fbf5bac34b04bc0e67f27fc77433
+run_name: nimble-loon-33
+run_uuid: e047fbf5bac34b04bc0e67f27fc77433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897015
+status: 3
+tags: []
+user_id: julien

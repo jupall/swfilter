@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/8e83b2c062f94f298ae486a3a966537b/artifacts
+deleted_time: 1722618939344
+end_time: 1722618893774
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 8e83b2c062f94f298ae486a3a966537b
+run_name: dashing-horse-749
+run_uuid: 8e83b2c062f94f298ae486a3a966537b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618893712
+status: 3
+tags: []
+user_id: julien

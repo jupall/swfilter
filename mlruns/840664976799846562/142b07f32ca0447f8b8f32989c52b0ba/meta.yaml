@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/142b07f32ca0447f8b8f32989c52b0ba/artifacts
+end_time: 1722644541360
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 142b07f32ca0447f8b8f32989c52b0ba
+run_name: enchanting-trout-384
+run_uuid: 142b07f32ca0447f8b8f32989c52b0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644541095
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/69fe1318c32741b5b9b7f63deacac6eb/artifacts
+end_time: 1722640945792
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 69fe1318c32741b5b9b7f63deacac6eb
+run_name: sincere-mink-578
+run_uuid: 69fe1318c32741b5b9b7f63deacac6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722640859045
+status: 3
+tags: []
+user_id: julien

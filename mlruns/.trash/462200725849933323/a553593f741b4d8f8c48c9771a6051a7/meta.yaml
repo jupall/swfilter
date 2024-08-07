@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/a553593f741b4d8f8c48c9771a6051a7/artifacts
+deleted_time: 1722618939344
+end_time: 1722618711938
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: a553593f741b4d8f8c48c9771a6051a7
+run_name: whimsical-kit-841
+run_uuid: a553593f741b4d8f8c48c9771a6051a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618711600
+status: 3
+tags: []
+user_id: julien

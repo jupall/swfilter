@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/41dc26ba52ac48c986aa560322c0d4ce/artifacts
+end_time: 1722663072849
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 41dc26ba52ac48c986aa560322c0d4ce
+run_name: melodic-jay-923
+run_uuid: 41dc26ba52ac48c986aa560322c0d4ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663070330
+status: 3
+tags: []
+user_id: julien

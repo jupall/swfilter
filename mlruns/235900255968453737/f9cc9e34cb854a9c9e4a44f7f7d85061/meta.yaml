@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f9cc9e34cb854a9c9e4a44f7f7d85061/artifacts
+end_time: 1722648205693
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f9cc9e34cb854a9c9e4a44f7f7d85061
+run_name: bouncy-lark-619
+run_uuid: f9cc9e34cb854a9c9e4a44f7f7d85061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648205476
+status: 3
+tags: []
+user_id: julien

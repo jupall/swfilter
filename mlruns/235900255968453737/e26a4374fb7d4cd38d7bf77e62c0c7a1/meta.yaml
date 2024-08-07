@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e26a4374fb7d4cd38d7bf77e62c0c7a1/artifacts
+end_time: 1722662402205
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e26a4374fb7d4cd38d7bf77e62c0c7a1
+run_name: sneaky-carp-927
+run_uuid: e26a4374fb7d4cd38d7bf77e62c0c7a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662402101
+status: 3
+tags: []
+user_id: julien

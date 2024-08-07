@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c2c08dc466584b0cb039d124740fd370/artifacts
+end_time: 1722662437711
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c2c08dc466584b0cb039d124740fd370
+run_name: redolent-dove-625
+run_uuid: c2c08dc466584b0cb039d124740fd370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662437466
+status: 3
+tags: []
+user_id: julien

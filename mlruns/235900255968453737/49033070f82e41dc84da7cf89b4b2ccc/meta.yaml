@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/49033070f82e41dc84da7cf89b4b2ccc/artifacts
+end_time: 1722660975186
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 49033070f82e41dc84da7cf89b4b2ccc
+run_name: unequaled-steed-423
+run_uuid: 49033070f82e41dc84da7cf89b4b2ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722660880203
+status: 3
+tags: []
+user_id: julien

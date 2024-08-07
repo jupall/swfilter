@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/82ecc91f208c47b299692998f5b2575f/artifacts
+end_time: 1722662750968
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 82ecc91f208c47b299692998f5b2575f
+run_name: angry-stork-466
+run_uuid: 82ecc91f208c47b299692998f5b2575f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662750860
+status: 3
+tags: []
+user_id: julien

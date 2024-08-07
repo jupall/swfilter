@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4c0b5db659db4b64b0acbbaa5786b68c/artifacts
+end_time: 1722625140580
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4c0b5db659db4b64b0acbbaa5786b68c
+run_name: bouncy-ram-411
+run_uuid: 4c0b5db659db4b64b0acbbaa5786b68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625139976
+status: 3
+tags: []
+user_id: julien

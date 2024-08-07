@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/60d3857e8c0a4e07969bed3eb40d1b17/artifacts
+end_time: 1722644490131
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 60d3857e8c0a4e07969bed3eb40d1b17
+run_name: bold-bass-207
+run_uuid: 60d3857e8c0a4e07969bed3eb40d1b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644489859
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/97f2dc41a256426d8741e7155cb42dc2/artifacts
+end_time: 1722662431873
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 97f2dc41a256426d8741e7155cb42dc2
+run_name: adorable-asp-619
+run_uuid: 97f2dc41a256426d8741e7155cb42dc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662431623
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1a944d337a2b49019391f12db4f27568/artifacts
+end_time: 1722651953226
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1a944d337a2b49019391f12db4f27568
+run_name: delicate-bird-22
+run_uuid: 1a944d337a2b49019391f12db4f27568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651953037
+status: 3
+tags: []
+user_id: julien

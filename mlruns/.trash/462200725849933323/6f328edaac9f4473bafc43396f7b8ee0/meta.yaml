@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/6f328edaac9f4473bafc43396f7b8ee0/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897292
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 6f328edaac9f4473bafc43396f7b8ee0
+run_name: gentle-stoat-645
+run_uuid: 6f328edaac9f4473bafc43396f7b8ee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897231
+status: 3
+tags: []
+user_id: julien

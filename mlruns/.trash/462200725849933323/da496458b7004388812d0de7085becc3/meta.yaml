@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/da496458b7004388812d0de7085becc3/artifacts
+deleted_time: 1722618939344
+end_time: 1722618892467
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: da496458b7004388812d0de7085becc3
+run_name: silent-asp-812
+run_uuid: da496458b7004388812d0de7085becc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618892400
+status: 3
+tags: []
+user_id: julien

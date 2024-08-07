@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/49c31a42d027463791f8042551cffee3/artifacts
+end_time: 1722663258480
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 49c31a42d027463791f8042551cffee3
+run_name: sneaky-bat-785
+run_uuid: 49c31a42d027463791f8042551cffee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663258368
+status: 3
+tags: []
+user_id: julien

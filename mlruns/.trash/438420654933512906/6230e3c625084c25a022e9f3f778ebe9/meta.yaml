@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/6230e3c625084c25a022e9f3f778ebe9/artifacts
+deleted_time: 1722619353121
+end_time: 1722619049285
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 6230e3c625084c25a022e9f3f778ebe9
+run_name: silent-carp-601
+run_uuid: 6230e3c625084c25a022e9f3f778ebe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619049244
+status: 3
+tags: []
+user_id: julien

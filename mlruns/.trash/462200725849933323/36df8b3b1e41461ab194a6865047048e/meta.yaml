@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/36df8b3b1e41461ab194a6865047048e/artifacts
+deleted_time: 1722618939344
+end_time: 1722618701203
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 36df8b3b1e41461ab194a6865047048e
+run_name: fearless-bug-606
+run_uuid: 36df8b3b1e41461ab194a6865047048e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618701133
+status: 3
+tags: []
+user_id: julien

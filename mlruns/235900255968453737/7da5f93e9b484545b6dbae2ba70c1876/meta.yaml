@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7da5f93e9b484545b6dbae2ba70c1876/artifacts
+end_time: 1722649187237
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7da5f93e9b484545b6dbae2ba70c1876
+run_name: likeable-mouse-628
+run_uuid: 7da5f93e9b484545b6dbae2ba70c1876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649187150
+status: 3
+tags: []
+user_id: julien

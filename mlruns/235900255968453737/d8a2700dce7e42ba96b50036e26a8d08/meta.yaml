@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d8a2700dce7e42ba96b50036e26a8d08/artifacts
+end_time: 1722651084078
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d8a2700dce7e42ba96b50036e26a8d08
+run_name: overjoyed-squid-825
+run_uuid: d8a2700dce7e42ba96b50036e26a8d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651070596
+status: 3
+tags: []
+user_id: julien

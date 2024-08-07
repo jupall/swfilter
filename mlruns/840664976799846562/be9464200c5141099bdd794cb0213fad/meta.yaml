@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/be9464200c5141099bdd794cb0213fad/artifacts
+end_time: 1722643953641
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: be9464200c5141099bdd794cb0213fad
+run_name: whimsical-donkey-608
+run_uuid: be9464200c5141099bdd794cb0213fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643953194
+status: 3
+tags: []
+user_id: julien

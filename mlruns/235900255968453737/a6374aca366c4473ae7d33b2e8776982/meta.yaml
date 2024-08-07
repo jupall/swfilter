@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a6374aca366c4473ae7d33b2e8776982/artifacts
+end_time: 1722662754084
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a6374aca366c4473ae7d33b2e8776982
+run_name: ambitious-jay-464
+run_uuid: a6374aca366c4473ae7d33b2e8776982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662753872
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bfacec8637ba4eec90855152ec90f0b3/artifacts
+end_time: 1722644285026
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bfacec8637ba4eec90855152ec90f0b3
+run_name: sincere-shrike-362
+run_uuid: bfacec8637ba4eec90855152ec90f0b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644282519
+status: 3
+tags: []
+user_id: julien

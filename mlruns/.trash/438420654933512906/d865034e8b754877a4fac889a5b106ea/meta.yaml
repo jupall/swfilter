@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/d865034e8b754877a4fac889a5b106ea/artifacts
+deleted_time: 1722619353121
+end_time: 1722619058069
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: d865034e8b754877a4fac889a5b106ea
+run_name: loud-jay-508
+run_uuid: d865034e8b754877a4fac889a5b106ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619057883
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/22fbd5b47c0c4d33a1eca3d319741d8d/artifacts
+end_time: 1722644477670
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 22fbd5b47c0c4d33a1eca3d319741d8d
+run_name: lyrical-whale-468
+run_uuid: 22fbd5b47c0c4d33a1eca3d319741d8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644477362
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/3773ead23bb842e3b18151894b52cfb6/artifacts
+deleted_time: 1722618939344
+end_time: 1722618893628
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 3773ead23bb842e3b18151894b52cfb6
+run_name: redolent-goat-851
+run_uuid: 3773ead23bb842e3b18151894b52cfb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618893560
+status: 3
+tags: []
+user_id: julien

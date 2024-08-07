@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d98dca74d9ec4d90bbc123a61d6a6d85/artifacts
+end_time: 1722648173284
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d98dca74d9ec4d90bbc123a61d6a6d85
+run_name: bemused-quail-434
+run_uuid: d98dca74d9ec4d90bbc123a61d6a6d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648173190
+status: 3
+tags: []
+user_id: julien

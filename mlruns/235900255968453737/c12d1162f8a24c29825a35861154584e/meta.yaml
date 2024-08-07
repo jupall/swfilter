@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c12d1162f8a24c29825a35861154584e/artifacts
+end_time: 1722652069551
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c12d1162f8a24c29825a35861154584e
+run_name: painted-perch-32
+run_uuid: c12d1162f8a24c29825a35861154584e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652068719
+status: 3
+tags: []
+user_id: julien

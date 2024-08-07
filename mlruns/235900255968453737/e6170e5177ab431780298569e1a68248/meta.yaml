@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e6170e5177ab431780298569e1a68248/artifacts
+end_time: 1722662609401
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e6170e5177ab431780298569e1a68248
+run_name: omniscient-croc-447
+run_uuid: e6170e5177ab431780298569e1a68248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662608229
+status: 3
+tags: []
+user_id: julien

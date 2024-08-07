@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2299f66426de40bb92cad92641d05d76/artifacts
+end_time: 1722652139347
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2299f66426de40bb92cad92641d05d76
+run_name: smiling-cod-885
+run_uuid: 2299f66426de40bb92cad92641d05d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652139085
+status: 3
+tags: []
+user_id: julien

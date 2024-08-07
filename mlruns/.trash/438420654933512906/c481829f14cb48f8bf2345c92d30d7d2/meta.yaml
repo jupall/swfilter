@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/c481829f14cb48f8bf2345c92d30d7d2/artifacts
+deleted_time: 1722619353121
+end_time: 1722619048619
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: c481829f14cb48f8bf2345c92d30d7d2
+run_name: enthused-wolf-961
+run_uuid: c481829f14cb48f8bf2345c92d30d7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619048573
+status: 3
+tags: []
+user_id: julien

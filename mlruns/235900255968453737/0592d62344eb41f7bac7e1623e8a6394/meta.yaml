@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0592d62344eb41f7bac7e1623e8a6394/artifacts
+end_time: 1722649199319
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0592d62344eb41f7bac7e1623e8a6394
+run_name: mysterious-eel-640
+run_uuid: 0592d62344eb41f7bac7e1623e8a6394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649199053
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/450edd2b44384f1e8e237d55f7b9fc5b/artifacts
+end_time: 1722644423624
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 450edd2b44384f1e8e237d55f7b9fc5b
+run_name: abrasive-finch-416
+run_uuid: 450edd2b44384f1e8e237d55f7b9fc5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644423564
+status: 3
+tags: []
+user_id: julien

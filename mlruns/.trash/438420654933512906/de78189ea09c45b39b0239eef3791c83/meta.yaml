@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/de78189ea09c45b39b0239eef3791c83/artifacts
+deleted_time: 1722619353121
+end_time: 1722619052296
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: de78189ea09c45b39b0239eef3791c83
+run_name: awesome-shark-995
+run_uuid: de78189ea09c45b39b0239eef3791c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619052257
+status: 3
+tags: []
+user_id: julien

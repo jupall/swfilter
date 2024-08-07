@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d5985ecfe9764e6695010ce6effd48e0/artifacts
+end_time: 1722648295514
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d5985ecfe9764e6695010ce6effd48e0
+run_name: treasured-grub-440
+run_uuid: d5985ecfe9764e6695010ce6effd48e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648287839
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/307fa6f422984ec9a621f873e47b5c86/artifacts
+end_time: 1722652127512
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 307fa6f422984ec9a621f873e47b5c86
+run_name: flawless-deer-459
+run_uuid: 307fa6f422984ec9a621f873e47b5c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652127411
+status: 3
+tags: []
+user_id: julien

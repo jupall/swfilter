@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/eb366d977c3a40d29d9a2d97dbceb571/artifacts
+end_time: 1722644419463
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: eb366d977c3a40d29d9a2d97dbceb571
+run_name: wistful-carp-675
+run_uuid: eb366d977c3a40d29d9a2d97dbceb571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644419408
+status: 3
+tags: []
+user_id: julien

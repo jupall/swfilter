@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2e7b401bf7784d1581965517be2cbde1/artifacts
+end_time: 1722651924071
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2e7b401bf7784d1581965517be2cbde1
+run_name: serious-ape-782
+run_uuid: 2e7b401bf7784d1581965517be2cbde1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651923985
+status: 3
+tags: []
+user_id: julien

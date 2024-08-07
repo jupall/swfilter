@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7e769ebc4e414244bca53361772a3a21/artifacts
+end_time: 1722652000797
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7e769ebc4e414244bca53361772a3a21
+run_name: bemused-sponge-993
+run_uuid: 7e769ebc4e414244bca53361772a3a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651999772
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2b2ee4ec0c054c018bd3c17dd6d45d36/artifacts
+end_time: 1722653639782
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2b2ee4ec0c054c018bd3c17dd6d45d36
+run_name: aged-seal-447
+run_uuid: 2b2ee4ec0c054c018bd3c17dd6d45d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722653565050
+status: 3
+tags: []
+user_id: julien

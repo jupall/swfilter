@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b78f2b827187463ca924f3a0c5396c73/artifacts
+end_time: 1722619953324
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b78f2b827187463ca924f3a0c5396c73
+run_name: bemused-dolphin-220
+run_uuid: b78f2b827187463ca924f3a0c5396c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619949730
+status: 3
+tags: []
+user_id: julien

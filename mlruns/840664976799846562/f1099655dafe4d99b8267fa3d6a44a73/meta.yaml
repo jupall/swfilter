@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f1099655dafe4d99b8267fa3d6a44a73/artifacts
+end_time: 1722644510478
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f1099655dafe4d99b8267fa3d6a44a73
+run_name: glamorous-panda-505
+run_uuid: f1099655dafe4d99b8267fa3d6a44a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644510390
+status: 3
+tags: []
+user_id: julien

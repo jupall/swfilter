@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/135dda2c972c48ab980f12901d8123d8/artifacts
+end_time: 1722619373303
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 135dda2c972c48ab980f12901d8123d8
+run_name: aged-skink-33
+run_uuid: 135dda2c972c48ab980f12901d8123d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373279
+status: 3
+tags: []
+user_id: julien

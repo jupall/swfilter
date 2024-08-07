@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/90ce88ff950f4f99b5127553b550f0ea/artifacts
+deleted_time: 1722618939344
+end_time: 1722618695626
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 90ce88ff950f4f99b5127553b550f0ea
+run_name: bustling-duck-430
+run_uuid: 90ce88ff950f4f99b5127553b550f0ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618695563
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/b67232ac3b704415afe5dbb80583172c/artifacts
+deleted_time: 1722619353121
+end_time: 1722619070381
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: b67232ac3b704415afe5dbb80583172c
+run_name: skillful-wren-551
+run_uuid: b67232ac3b704415afe5dbb80583172c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619070183
+status: 3
+tags: []
+user_id: julien

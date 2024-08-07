@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/389ba5bf15d04fe29eeb7e0dfb349ea9/artifacts
+deleted_time: 1722618664511
+end_time: 1722618496389
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 389ba5bf15d04fe29eeb7e0dfb349ea9
+run_name: suave-ray-801
+run_uuid: 389ba5bf15d04fe29eeb7e0dfb349ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618496192
+status: 3
+tags: []
+user_id: julien

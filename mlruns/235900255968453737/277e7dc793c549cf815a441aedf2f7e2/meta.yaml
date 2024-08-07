@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/277e7dc793c549cf815a441aedf2f7e2/artifacts
+end_time: 1722651927386
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 277e7dc793c549cf815a441aedf2f7e2
+run_name: blushing-squirrel-23
+run_uuid: 277e7dc793c549cf815a441aedf2f7e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651927292
+status: 3
+tags: []
+user_id: julien

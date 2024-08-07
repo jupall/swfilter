@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/487a99eb2bf042d99dfad798b7f23d81/artifacts
+end_time: 1722652171182
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 487a99eb2bf042d99dfad798b7f23d81
+run_name: secretive-lamb-405
+run_uuid: 487a99eb2bf042d99dfad798b7f23d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652170914
+status: 3
+tags: []
+user_id: julien

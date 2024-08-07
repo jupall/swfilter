@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/1203c35f89484449801e720cfc3a80ee/artifacts
+deleted_time: 1722618419437
+end_time: 1722618175074
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 1203c35f89484449801e720cfc3a80ee
+run_name: nebulous-hog-249
+run_uuid: 1203c35f89484449801e720cfc3a80ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618169524
+status: 3
+tags: []
+user_id: julien

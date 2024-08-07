@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/98ba72feac9b4f02b97fab299a3e855e/artifacts
+end_time: 1722643856696
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 98ba72feac9b4f02b97fab299a3e855e
+run_name: dapper-snail-568
+run_uuid: 98ba72feac9b4f02b97fab299a3e855e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643856653
+status: 3
+tags: []
+user_id: julien

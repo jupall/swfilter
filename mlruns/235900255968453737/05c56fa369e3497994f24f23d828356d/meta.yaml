@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/05c56fa369e3497994f24f23d828356d/artifacts
+end_time: 1722651940127
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 05c56fa369e3497994f24f23d828356d
+run_name: popular-lark-71
+run_uuid: 05c56fa369e3497994f24f23d828356d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651939899
+status: 3
+tags: []
+user_id: julien

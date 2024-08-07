@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a236f59829f140238b055dee51163eda/artifacts
+end_time: 1722662414015
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a236f59829f140238b055dee51163eda
+run_name: overjoyed-robin-525
+run_uuid: a236f59829f140238b055dee51163eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662413908
+status: 3
+tags: []
+user_id: julien

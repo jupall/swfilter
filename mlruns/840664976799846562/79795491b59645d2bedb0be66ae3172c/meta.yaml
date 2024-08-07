@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/79795491b59645d2bedb0be66ae3172c/artifacts
+end_time: 1722644516147
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 79795491b59645d2bedb0be66ae3172c
+run_name: caring-fowl-227
+run_uuid: 79795491b59645d2bedb0be66ae3172c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644516061
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a2e74ee0c26143f2b615239a39d54ca6/artifacts
+end_time: 1722627126729
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a2e74ee0c26143f2b615239a39d54ca6
+run_name: vaunted-quail-388
+run_uuid: a2e74ee0c26143f2b615239a39d54ca6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722627049476
+status: 3
+tags: []
+user_id: julien

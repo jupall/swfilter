@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ebbf4f2c9a444760b5400eeb23437a88/artifacts
+end_time: 1722650943169
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ebbf4f2c9a444760b5400eeb23437a88
+run_name: efficient-snail-913
+run_uuid: ebbf4f2c9a444760b5400eeb23437a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650923169
+status: 3
+tags: []
+user_id: julien

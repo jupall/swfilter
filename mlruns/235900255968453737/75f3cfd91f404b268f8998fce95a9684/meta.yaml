@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/75f3cfd91f404b268f8998fce95a9684/artifacts
+end_time: 1722663026095
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 75f3cfd91f404b268f8998fce95a9684
+run_name: valuable-newt-329
+run_uuid: 75f3cfd91f404b268f8998fce95a9684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663022392
+status: 3
+tags: []
+user_id: julien

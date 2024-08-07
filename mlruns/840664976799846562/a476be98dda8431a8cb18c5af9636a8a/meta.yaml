@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a476be98dda8431a8cb18c5af9636a8a/artifacts
+end_time: 1722621409324
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a476be98dda8431a8cb18c5af9636a8a
+run_name: indecisive-frog-875
+run_uuid: a476be98dda8431a8cb18c5af9636a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621385144
+status: 3
+tags: []
+user_id: julien

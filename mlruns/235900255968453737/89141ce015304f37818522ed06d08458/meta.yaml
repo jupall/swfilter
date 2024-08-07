@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/89141ce015304f37818522ed06d08458/artifacts
+end_time: 1722648192316
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 89141ce015304f37818522ed06d08458
+run_name: redolent-cat-582
+run_uuid: 89141ce015304f37818522ed06d08458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648192097
+status: 3
+tags: []
+user_id: julien

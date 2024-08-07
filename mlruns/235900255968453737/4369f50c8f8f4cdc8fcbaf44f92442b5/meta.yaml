@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4369f50c8f8f4cdc8fcbaf44f92442b5/artifacts
+end_time: 1722648164998
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4369f50c8f8f4cdc8fcbaf44f92442b5
+run_name: unequaled-mole-310
+run_uuid: 4369f50c8f8f4cdc8fcbaf44f92442b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648164909
+status: 3
+tags: []
+user_id: julien

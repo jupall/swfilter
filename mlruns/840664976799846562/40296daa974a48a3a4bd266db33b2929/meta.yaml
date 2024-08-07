@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/40296daa974a48a3a4bd266db33b2929/artifacts
+end_time: 1722644010213
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 40296daa974a48a3a4bd266db33b2929
+run_name: auspicious-crow-853
+run_uuid: 40296daa974a48a3a4bd266db33b2929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644009972
+status: 3
+tags: []
+user_id: julien

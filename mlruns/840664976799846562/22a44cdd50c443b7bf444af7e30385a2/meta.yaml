@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/22a44cdd50c443b7bf444af7e30385a2/artifacts
+end_time: 1722625167066
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 22a44cdd50c443b7bf444af7e30385a2
+run_name: bustling-hawk-727
+run_uuid: 22a44cdd50c443b7bf444af7e30385a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625166898
+status: 3
+tags: []
+user_id: julien

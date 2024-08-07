@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/29444ec95b2f4ee4b5d4a44bd591d84e/artifacts
+end_time: 1722652118446
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 29444ec95b2f4ee4b5d4a44bd591d84e
+run_name: peaceful-quail-306
+run_uuid: 29444ec95b2f4ee4b5d4a44bd591d84e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652118341
+status: 3
+tags: []
+user_id: julien

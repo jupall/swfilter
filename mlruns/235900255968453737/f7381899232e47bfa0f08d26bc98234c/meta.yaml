@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f7381899232e47bfa0f08d26bc98234c/artifacts
+end_time: 1722648173178
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f7381899232e47bfa0f08d26bc98234c
+run_name: industrious-hog-198
+run_uuid: f7381899232e47bfa0f08d26bc98234c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648173083
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0324c333f9a143b4a4e3f85c53b2d9d5/artifacts
+end_time: 1722652087412
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0324c333f9a143b4a4e3f85c53b2d9d5
+run_name: blushing-bear-895
+run_uuid: 0324c333f9a143b4a4e3f85c53b2d9d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652086403
+status: 3
+tags: []
+user_id: julien

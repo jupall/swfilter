@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ad86ce7da05a47539235ca905498d77d/artifacts
+end_time: 1722643939418
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ad86ce7da05a47539235ca905498d77d
+run_name: gifted-elk-469
+run_uuid: ad86ce7da05a47539235ca905498d77d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643939001
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/683f2488eb37492a8dbda21421f5be74/artifacts
+end_time: 1722633501758
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 683f2488eb37492a8dbda21421f5be74
+run_name: resilient-loon-990
+run_uuid: 683f2488eb37492a8dbda21421f5be74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722633401996
+status: 3
+tags: []
+user_id: julien

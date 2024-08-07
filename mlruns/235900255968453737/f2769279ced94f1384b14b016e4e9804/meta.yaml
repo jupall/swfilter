@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f2769279ced94f1384b14b016e4e9804/artifacts
+end_time: 1722662437182
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f2769279ced94f1384b14b016e4e9804
+run_name: amusing-shad-416
+run_uuid: f2769279ced94f1384b14b016e4e9804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662436924
+status: 3
+tags: []
+user_id: julien

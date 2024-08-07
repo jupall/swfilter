@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/778e0a9bef01457184ca4cdb27d18434/artifacts
+end_time: 1722620079664
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 778e0a9bef01457184ca4cdb27d18434
+run_name: amazing-shrew-360
+run_uuid: 778e0a9bef01457184ca4cdb27d18434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620079631
+status: 3
+tags: []
+user_id: julien

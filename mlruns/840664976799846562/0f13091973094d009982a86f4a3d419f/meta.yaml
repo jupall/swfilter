@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0f13091973094d009982a86f4a3d419f/artifacts
+end_time: 1722643974073
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0f13091973094d009982a86f4a3d419f
+run_name: amazing-dolphin-778
+run_uuid: 0f13091973094d009982a86f4a3d419f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643974019
+status: 3
+tags: []
+user_id: julien

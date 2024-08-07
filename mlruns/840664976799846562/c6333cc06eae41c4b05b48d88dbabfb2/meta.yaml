@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c6333cc06eae41c4b05b48d88dbabfb2/artifacts
+end_time: 1722625030990
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c6333cc06eae41c4b05b48d88dbabfb2
+run_name: upbeat-lark-414
+run_uuid: c6333cc06eae41c4b05b48d88dbabfb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625030816
+status: 3
+tags: []
+user_id: julien

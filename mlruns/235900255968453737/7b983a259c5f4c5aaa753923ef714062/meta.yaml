@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7b983a259c5f4c5aaa753923ef714062/artifacts
+end_time: 1722649177989
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7b983a259c5f4c5aaa753923ef714062
+run_name: shivering-horse-859
+run_uuid: 7b983a259c5f4c5aaa753923ef714062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649177904
+status: 3
+tags: []
+user_id: julien

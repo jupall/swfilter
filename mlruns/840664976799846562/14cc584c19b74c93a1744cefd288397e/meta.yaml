@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/14cc584c19b74c93a1744cefd288397e/artifacts
+end_time: 1722644417513
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 14cc584c19b74c93a1744cefd288397e
+run_name: skillful-worm-876
+run_uuid: 14cc584c19b74c93a1744cefd288397e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644417458
+status: 3
+tags: []
+user_id: julien

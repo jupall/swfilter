@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f58c3bb8487e47ea81d5311466dd3696/artifacts
+end_time: 1722663252188
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f58c3bb8487e47ea81d5311466dd3696
+run_name: lyrical-ant-197
+run_uuid: f58c3bb8487e47ea81d5311466dd3696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663248962
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/c65ef78951a2471591bfbd7d7a787cee/artifacts
+deleted_time: 1722618939344
+end_time: 1722618699551
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: c65ef78951a2471591bfbd7d7a787cee
+run_name: flawless-swan-358
+run_uuid: c65ef78951a2471591bfbd7d7a787cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618699490
+status: 3
+tags: []
+user_id: julien

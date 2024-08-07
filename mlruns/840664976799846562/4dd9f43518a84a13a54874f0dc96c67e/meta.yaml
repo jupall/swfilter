@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4dd9f43518a84a13a54874f0dc96c67e/artifacts
+end_time: 1722644479987
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4dd9f43518a84a13a54874f0dc96c67e
+run_name: enchanting-skunk-181
+run_uuid: 4dd9f43518a84a13a54874f0dc96c67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644479702
+status: 3
+tags: []
+user_id: julien

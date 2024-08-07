@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4ce7547c3edd4456b689a5b0a4b1411e/artifacts
+end_time: 1722663287313
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4ce7547c3edd4456b689a5b0a4b1411e
+run_name: amusing-cat-410
+run_uuid: 4ce7547c3edd4456b689a5b0a4b1411e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663287091
+status: 3
+tags: []
+user_id: julien

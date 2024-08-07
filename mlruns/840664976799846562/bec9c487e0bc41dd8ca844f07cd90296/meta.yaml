@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bec9c487e0bc41dd8ca844f07cd90296/artifacts
+end_time: 1722644508808
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bec9c487e0bc41dd8ca844f07cd90296
+run_name: bustling-sloth-703
+run_uuid: bec9c487e0bc41dd8ca844f07cd90296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644508732
+status: 3
+tags: []
+user_id: julien

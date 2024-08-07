@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/6a8d0efbbda24f899546b7f9487fef0c/artifacts
+deleted_time: 1722619353121
+end_time: 1722619048204
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 6a8d0efbbda24f899546b7f9487fef0c
+run_name: monumental-snail-739
+run_uuid: 6a8d0efbbda24f899546b7f9487fef0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619048154
+status: 3
+tags: []
+user_id: julien

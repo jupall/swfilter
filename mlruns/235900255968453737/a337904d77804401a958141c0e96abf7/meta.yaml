@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a337904d77804401a958141c0e96abf7/artifacts
+end_time: 1722663271614
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a337904d77804401a958141c0e96abf7
+run_name: selective-robin-901
+run_uuid: a337904d77804401a958141c0e96abf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663271494
+status: 3
+tags: []
+user_id: julien

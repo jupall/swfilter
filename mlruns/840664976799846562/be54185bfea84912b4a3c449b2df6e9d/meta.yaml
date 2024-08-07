@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/be54185bfea84912b4a3c449b2df6e9d/artifacts
+end_time: 1722632713352
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: be54185bfea84912b4a3c449b2df6e9d
+run_name: monumental-whale-315
+run_uuid: be54185bfea84912b4a3c449b2df6e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722632664638
+status: 3
+tags: []
+user_id: julien

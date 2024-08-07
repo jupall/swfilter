@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3b72e804662d491ea3ec31bbf9413872/artifacts
+end_time: 1722648892628
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3b72e804662d491ea3ec31bbf9413872
+run_name: puzzled-roo-4
+run_uuid: 3b72e804662d491ea3ec31bbf9413872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648887993
+status: 3
+tags: []
+user_id: julien

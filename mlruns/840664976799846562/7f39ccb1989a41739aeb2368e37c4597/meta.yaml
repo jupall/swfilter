@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7f39ccb1989a41739aeb2368e37c4597/artifacts
+end_time: 1722619398589
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7f39ccb1989a41739aeb2368e37c4597
+run_name: unleashed-shrimp-757
+run_uuid: 7f39ccb1989a41739aeb2368e37c4597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619398381
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4bf50b905f8d4e27ba017511a9acc0c3/artifacts
+end_time: 1722619375098
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4bf50b905f8d4e27ba017511a9acc0c3
+run_name: agreeable-fish-877
+run_uuid: 4bf50b905f8d4e27ba017511a9acc0c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619375059
+status: 3
+tags: []
+user_id: julien

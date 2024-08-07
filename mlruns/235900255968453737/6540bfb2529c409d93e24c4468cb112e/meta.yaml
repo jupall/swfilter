@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6540bfb2529c409d93e24c4468cb112e/artifacts
+end_time: 1722662748230
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6540bfb2529c409d93e24c4468cb112e
+run_name: whimsical-carp-632
+run_uuid: 6540bfb2529c409d93e24c4468cb112e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662748121
+status: 3
+tags: []
+user_id: julien

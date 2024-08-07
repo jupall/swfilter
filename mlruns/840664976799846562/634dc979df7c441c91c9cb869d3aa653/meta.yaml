@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/634dc979df7c441c91c9cb869d3aa653/artifacts
+end_time: 1722619385473
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 634dc979df7c441c91c9cb869d3aa653
+run_name: silent-crane-703
+run_uuid: 634dc979df7c441c91c9cb869d3aa653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619385268
+status: 3
+tags: []
+user_id: julien

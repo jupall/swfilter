@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cbfd4c461ea042199007ee9d17a39e6b/artifacts
+end_time: 1722662410148
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cbfd4c461ea042199007ee9d17a39e6b
+run_name: nosy-yak-914
+run_uuid: cbfd4c461ea042199007ee9d17a39e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662410042
+status: 3
+tags: []
+user_id: julien

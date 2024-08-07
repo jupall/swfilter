@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/83606f91794147c787fde35fc288d413/artifacts
+end_time: 1722662414754
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 83606f91794147c787fde35fc288d413
+run_name: legendary-worm-777
+run_uuid: 83606f91794147c787fde35fc288d413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662414646
+status: 3
+tags: []
+user_id: julien

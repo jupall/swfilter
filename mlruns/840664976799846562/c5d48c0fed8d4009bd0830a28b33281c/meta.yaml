@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c5d48c0fed8d4009bd0830a28b33281c/artifacts
+end_time: 1722644418096
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c5d48c0fed8d4009bd0830a28b33281c
+run_name: serious-fox-753
+run_uuid: c5d48c0fed8d4009bd0830a28b33281c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644418040
+status: 3
+tags: []
+user_id: julien

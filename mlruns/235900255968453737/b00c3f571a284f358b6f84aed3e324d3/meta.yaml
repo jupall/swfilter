@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b00c3f571a284f358b6f84aed3e324d3/artifacts
+end_time: 1722651957797
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b00c3f571a284f358b6f84aed3e324d3
+run_name: peaceful-cub-628
+run_uuid: b00c3f571a284f358b6f84aed3e324d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651957604
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ee8d3f02f19a4d068dbd2636d81018ca/artifacts
+end_time: 1722644552544
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ee8d3f02f19a4d068dbd2636d81018ca
+run_name: victorious-deer-352
+run_uuid: ee8d3f02f19a4d068dbd2636d81018ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644552317
+status: 3
+tags: []
+user_id: julien

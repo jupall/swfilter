@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1eb46aa0e8214316923109aa09073c92/artifacts
+end_time: 1722643868840
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1eb46aa0e8214316923109aa09073c92
+run_name: defiant-turtle-46
+run_uuid: 1eb46aa0e8214316923109aa09073c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643868633
+status: 3
+tags: []
+user_id: julien

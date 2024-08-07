@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f62ab38d0df340adbe781d42104aade9/artifacts
+end_time: 1722644530243
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f62ab38d0df340adbe781d42104aade9
+run_name: silent-tern-538
+run_uuid: f62ab38d0df340adbe781d42104aade9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644529982
+status: 3
+tags: []
+user_id: julien

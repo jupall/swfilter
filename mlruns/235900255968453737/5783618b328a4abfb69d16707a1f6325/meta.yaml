@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5783618b328a4abfb69d16707a1f6325/artifacts
+end_time: 1722662404999
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5783618b328a4abfb69d16707a1f6325
+run_name: shivering-ox-37
+run_uuid: 5783618b328a4abfb69d16707a1f6325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662404898
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ec8078c7be9d4cf4bd0f301d941b4989/artifacts
+end_time: 1722625009783
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ec8078c7be9d4cf4bd0f301d941b4989
+run_name: peaceful-bat-8
+run_uuid: ec8078c7be9d4cf4bd0f301d941b4989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625009750
+status: 3
+tags: []
+user_id: julien

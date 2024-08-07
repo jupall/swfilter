@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/4a9f890d1f7e429da35f04b2120d80aa/artifacts
+end_time: 1722663256670
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 4a9f890d1f7e429da35f04b2120d80aa
+run_name: fortunate-hog-26
+run_uuid: 4a9f890d1f7e429da35f04b2120d80aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663256545
+status: 3
+tags: []
+user_id: julien

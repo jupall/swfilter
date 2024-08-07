@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/49ca5b019d274a9b98f69eaffafe89e5/artifacts
+end_time: 1722660254367
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 49ca5b019d274a9b98f69eaffafe89e5
+run_name: handsome-cow-925
+run_uuid: 49ca5b019d274a9b98f69eaffafe89e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722660161470
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1c2d6d9670f240bd92244305e09e317c/artifacts
+end_time: 1722625082290
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1c2d6d9670f240bd92244305e09e317c
+run_name: debonair-swan-803
+run_uuid: 1c2d6d9670f240bd92244305e09e317c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625081690
+status: 3
+tags: []
+user_id: julien

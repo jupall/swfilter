@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/61d500fa8c5941d88e80c8c3080f6cc0/artifacts
+end_time: 1722658739907
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 61d500fa8c5941d88e80c8c3080f6cc0
+run_name: stately-frog-879
+run_uuid: 61d500fa8c5941d88e80c8c3080f6cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722658677721
+status: 3
+tags: []
+user_id: julien

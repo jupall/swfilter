@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1c28608913344e08a968247b7e67b791/artifacts
+end_time: 1722620094067
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1c28608913344e08a968247b7e67b791
+run_name: bald-eel-141
+run_uuid: 1c28608913344e08a968247b7e67b791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620093925
+status: 3
+tags: []
+user_id: julien

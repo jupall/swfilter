@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/72e4da2a75fa41979eb78c5a901be219/artifacts
+deleted_time: 1722618664511
+end_time: 1722618498578
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 72e4da2a75fa41979eb78c5a901be219
+run_name: placid-toad-765
+run_uuid: 72e4da2a75fa41979eb78c5a901be219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618498387
+status: 3
+tags: []
+user_id: julien

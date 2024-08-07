@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/8612b8714133466fb5bb6541e8cc8016/artifacts
+deleted_time: 1722618419437
+end_time: 1722618268183
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 8612b8714133466fb5bb6541e8cc8016
+run_name: adorable-mole-316
+run_uuid: 8612b8714133466fb5bb6541e8cc8016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618262323
+status: 3
+tags: []
+user_id: julien

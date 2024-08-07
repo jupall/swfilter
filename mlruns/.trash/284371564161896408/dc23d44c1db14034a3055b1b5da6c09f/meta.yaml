@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/dc23d44c1db14034a3055b1b5da6c09f/artifacts
+deleted_time: 1722618664511
+end_time: 1722618482345
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: dc23d44c1db14034a3055b1b5da6c09f
+run_name: traveling-bug-311
+run_uuid: dc23d44c1db14034a3055b1b5da6c09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618482303
+status: 3
+tags: []
+user_id: julien

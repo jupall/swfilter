@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/aa7e12f213694cc4813384a4c0392d6c/artifacts
+deleted_time: 1722618939344
+end_time: 1722618706339
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: aa7e12f213694cc4813384a4c0392d6c
+run_name: wistful-conch-409
+run_uuid: aa7e12f213694cc4813384a4c0392d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618706109
+status: 3
+tags: []
+user_id: julien

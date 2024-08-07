@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/37c118a1900842d29fdd19bb3816a859/artifacts
+deleted_time: 1722619353121
+end_time: 1722619069161
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 37c118a1900842d29fdd19bb3816a859
+run_name: funny-zebra-483
+run_uuid: 37c118a1900842d29fdd19bb3816a859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619068960
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/ea86ab43c43c44b6afee5948f660cada/artifacts
+deleted_time: 1722618664511
+end_time: 1722618484078
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: ea86ab43c43c44b6afee5948f660cada
+run_name: incongruous-lark-630
+run_uuid: ea86ab43c43c44b6afee5948f660cada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618484039
+status: 3
+tags: []
+user_id: julien

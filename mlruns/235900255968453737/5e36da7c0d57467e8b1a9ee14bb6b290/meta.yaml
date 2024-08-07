@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5e36da7c0d57467e8b1a9ee14bb6b290/artifacts
+end_time: 1722662450792
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5e36da7c0d57467e8b1a9ee14bb6b290
+run_name: rumbling-quail-831
+run_uuid: 5e36da7c0d57467e8b1a9ee14bb6b290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662450510
+status: 3
+tags: []
+user_id: julien

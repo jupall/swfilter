@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e78781444e7e4d1798ef018f71467cc7/artifacts
+end_time: 1722651969177
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e78781444e7e4d1798ef018f71467cc7
+run_name: gifted-worm-948
+run_uuid: e78781444e7e4d1798ef018f71467cc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651968420
+status: 3
+tags: []
+user_id: julien

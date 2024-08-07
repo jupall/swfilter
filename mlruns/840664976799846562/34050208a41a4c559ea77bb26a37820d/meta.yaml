@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/34050208a41a4c559ea77bb26a37820d/artifacts
+end_time: 1722625029530
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 34050208a41a4c559ea77bb26a37820d
+run_name: sneaky-mouse-960
+run_uuid: 34050208a41a4c559ea77bb26a37820d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625029348
+status: 3
+tags: []
+user_id: julien

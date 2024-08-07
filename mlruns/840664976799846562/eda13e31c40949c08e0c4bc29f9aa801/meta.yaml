@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/eda13e31c40949c08e0c4bc29f9aa801/artifacts
+end_time: 1722643968115
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: eda13e31c40949c08e0c4bc29f9aa801
+run_name: capricious-grub-570
+run_uuid: eda13e31c40949c08e0c4bc29f9aa801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643967499
+status: 3
+tags: []
+user_id: julien

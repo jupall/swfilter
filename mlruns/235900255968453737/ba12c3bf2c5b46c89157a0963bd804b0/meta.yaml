@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ba12c3bf2c5b46c89157a0963bd804b0/artifacts
+end_time: 1722648201632
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ba12c3bf2c5b46c89157a0963bd804b0
+run_name: valuable-robin-540
+run_uuid: ba12c3bf2c5b46c89157a0963bd804b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648201422
+status: 3
+tags: []
+user_id: julien

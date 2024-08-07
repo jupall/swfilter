@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/33f52879136a47deb245ab223b033978/artifacts
+end_time: 1722657493956
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 33f52879136a47deb245ab223b033978
+run_name: nervous-lamb-516
+run_uuid: 33f52879136a47deb245ab223b033978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722657461341
+status: 3
+tags: []
+user_id: julien

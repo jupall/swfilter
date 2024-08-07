@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/169ef825206c4fe88e9cc652ba4fa417/artifacts
+end_time: 1722662419698
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 169ef825206c4fe88e9cc652ba4fa417
+run_name: colorful-cod-718
+run_uuid: 169ef825206c4fe88e9cc652ba4fa417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662419456
+status: 3
+tags: []
+user_id: julien

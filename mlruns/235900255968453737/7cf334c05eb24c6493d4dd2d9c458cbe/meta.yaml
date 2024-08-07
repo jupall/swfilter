@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7cf334c05eb24c6493d4dd2d9c458cbe/artifacts
+end_time: 1722662777330
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7cf334c05eb24c6493d4dd2d9c458cbe
+run_name: gaudy-rat-757
+run_uuid: 7cf334c05eb24c6493d4dd2d9c458cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662777085
+status: 3
+tags: []
+user_id: julien

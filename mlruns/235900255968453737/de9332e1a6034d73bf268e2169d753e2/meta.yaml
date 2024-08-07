@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/de9332e1a6034d73bf268e2169d753e2/artifacts
+end_time: 1722651297597
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: de9332e1a6034d73bf268e2169d753e2
+run_name: rebellious-fowl-384
+run_uuid: de9332e1a6034d73bf268e2169d753e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651280754
+status: 3
+tags: []
+user_id: julien

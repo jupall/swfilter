@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a2854f320106431d8b0d2c7be1338440/artifacts
+end_time: 1722644504891
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a2854f320106431d8b0d2c7be1338440
+run_name: bright-midge-11
+run_uuid: a2854f320106431d8b0d2c7be1338440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644504817
+status: 3
+tags: []
+user_id: julien

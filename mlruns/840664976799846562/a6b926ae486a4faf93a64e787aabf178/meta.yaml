@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a6b926ae486a4faf93a64e787aabf178/artifacts
+end_time: 1722625159666
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a6b926ae486a4faf93a64e787aabf178
+run_name: righteous-toad-244
+run_uuid: a6b926ae486a4faf93a64e787aabf178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625159517
+status: 3
+tags: []
+user_id: julien

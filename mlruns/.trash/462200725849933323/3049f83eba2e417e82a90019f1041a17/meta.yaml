@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/3049f83eba2e417e82a90019f1041a17/artifacts
+deleted_time: 1722618939344
+end_time: 1722618698001
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 3049f83eba2e417e82a90019f1041a17
+run_name: peaceful-hound-166
+run_uuid: 3049f83eba2e417e82a90019f1041a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618697933
+status: 3
+tags: []
+user_id: julien

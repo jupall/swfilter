@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d7f3aa8e1ce040cca40aab183162da14/artifacts
+end_time: 1722649320595
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d7f3aa8e1ce040cca40aab183162da14
+run_name: adaptable-roo-943
+run_uuid: d7f3aa8e1ce040cca40aab183162da14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649303472
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/a4d80ce5feef41c79ed4e1c36e0b3639/artifacts
+deleted_time: 1722618664511
+end_time: 1722618483983
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: a4d80ce5feef41c79ed4e1c36e0b3639
+run_name: thoughtful-duck-927
+run_uuid: a4d80ce5feef41c79ed4e1c36e0b3639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618483943
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/b04eb4842456494fb8dff6e9451c1795/artifacts
+deleted_time: 1722618939344
+end_time: 1722618695840
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: b04eb4842456494fb8dff6e9451c1795
+run_name: bald-tern-904
+run_uuid: b04eb4842456494fb8dff6e9451c1795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618695780
+status: 3
+tags: []
+user_id: julien

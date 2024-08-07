@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d3bf51b1722d48eeb90e1f8cd5c4373a/artifacts
+end_time: 1722643859287
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d3bf51b1722d48eeb90e1f8cd5c4373a
+run_name: nervous-mare-742
+run_uuid: d3bf51b1722d48eeb90e1f8cd5c4373a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643859241
+status: 3
+tags: []
+user_id: julien

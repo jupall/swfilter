@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/25ce23718ccb42fbbc89641fd6f6edfc/artifacts
+end_time: 1722644326914
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 25ce23718ccb42fbbc89641fd6f6edfc
+run_name: wistful-snake-56
+run_uuid: 25ce23718ccb42fbbc89641fd6f6edfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644324221
+status: 3
+tags: []
+user_id: julien

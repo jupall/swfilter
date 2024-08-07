@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/60f568e6ba9649afb344a77e6ba338ef/artifacts
+end_time: 1722648161354
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 60f568e6ba9649afb344a77e6ba338ef
+run_name: big-yak-1
+run_uuid: 60f568e6ba9649afb344a77e6ba338ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648161268
+status: 3
+tags: []
+user_id: julien

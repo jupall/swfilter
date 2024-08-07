@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/952e9ab6b75d4790ad3c1c021dbfd641/artifacts
+end_time: 1722658532998
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 952e9ab6b75d4790ad3c1c021dbfd641
+run_name: amazing-tern-66
+run_uuid: 952e9ab6b75d4790ad3c1c021dbfd641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722658459914
+status: 3
+tags: []
+user_id: julien

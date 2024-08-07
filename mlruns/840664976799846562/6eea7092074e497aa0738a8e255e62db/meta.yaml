@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6eea7092074e497aa0738a8e255e62db/artifacts
+end_time: 1722643872885
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6eea7092074e497aa0738a8e255e62db
+run_name: able-ram-992
+run_uuid: 6eea7092074e497aa0738a8e255e62db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643872677
+status: 3
+tags: []
+user_id: julien

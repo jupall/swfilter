@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1f44e3142d1f47038ab854a712416ffe/artifacts
+end_time: 1722651959342
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1f44e3142d1f47038ab854a712416ffe
+run_name: handsome-wasp-805
+run_uuid: 1f44e3142d1f47038ab854a712416ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651959121
+status: 3
+tags: []
+user_id: julien

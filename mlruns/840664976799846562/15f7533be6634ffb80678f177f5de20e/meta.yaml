@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/15f7533be6634ffb80678f177f5de20e/artifacts
+end_time: 1722643976761
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 15f7533be6634ffb80678f177f5de20e
+run_name: receptive-bass-943
+run_uuid: 15f7533be6634ffb80678f177f5de20e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643976710
+status: 3
+tags: []
+user_id: julien

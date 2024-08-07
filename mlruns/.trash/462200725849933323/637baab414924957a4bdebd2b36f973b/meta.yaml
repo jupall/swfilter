@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/637baab414924957a4bdebd2b36f973b/artifacts
+deleted_time: 1722618939344
+end_time: 1722618699259
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 637baab414924957a4bdebd2b36f973b
+run_name: stylish-toad-366
+run_uuid: 637baab414924957a4bdebd2b36f973b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618699198
+status: 3
+tags: []
+user_id: julien

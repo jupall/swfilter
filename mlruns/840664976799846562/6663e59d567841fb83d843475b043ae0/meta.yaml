@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6663e59d567841fb83d843475b043ae0/artifacts
+end_time: 1722644517800
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6663e59d567841fb83d843475b043ae0
+run_name: rogue-foal-313
+run_uuid: 6663e59d567841fb83d843475b043ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644517508
+status: 3
+tags: []
+user_id: julien

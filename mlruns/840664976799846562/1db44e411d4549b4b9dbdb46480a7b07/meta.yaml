@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1db44e411d4549b4b9dbdb46480a7b07/artifacts
+end_time: 1722622887285
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1db44e411d4549b4b9dbdb46480a7b07
+run_name: secretive-crow-140
+run_uuid: 1db44e411d4549b4b9dbdb46480a7b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622823665
+status: 3
+tags: []
+user_id: julien

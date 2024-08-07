@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0bb414abaa1c4076aaff0e8612ee2d86/artifacts
+end_time: 1722644503923
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0bb414abaa1c4076aaff0e8612ee2d86
+run_name: redolent-loon-70
+run_uuid: 0bb414abaa1c4076aaff0e8612ee2d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644503846
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0200ee31258347c7b3568530f0c0cc48/artifacts
+end_time: 1722625062008
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0200ee31258347c7b3568530f0c0cc48
+run_name: shivering-vole-274
+run_uuid: 0200ee31258347c7b3568530f0c0cc48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625061260
+status: 3
+tags: []
+user_id: julien

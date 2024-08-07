@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/42173a46128c42ce8a8b68fea9fa7e3f/artifacts
+deleted_time: 1722618939344
+end_time: 1722618902658
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 42173a46128c42ce8a8b68fea9fa7e3f
+run_name: likeable-shrimp-815
+run_uuid: 42173a46128c42ce8a8b68fea9fa7e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618902591
+status: 3
+tags: []
+user_id: julien

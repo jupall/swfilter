@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/66163b8986734350ae78c21d11c35dff/artifacts
+end_time: 1722651973115
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 66163b8986734350ae78c21d11c35dff
+run_name: dazzling-dolphin-265
+run_uuid: 66163b8986734350ae78c21d11c35dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651971103
+status: 3
+tags: []
+user_id: julien

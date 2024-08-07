@@ -115,6 +115,7 @@ class SlicedWassersteinFilter:
             
         Returns:
             ndarray: The array with outliers labeled as True.
+
         """
         
         n_samples = X.shape[0]
@@ -123,9 +124,10 @@ class SlicedWassersteinFilter:
 
         results = Parallel(n_jobs=self.n_jobs)(delayed(collect_sws)(X, n_samples=n_samples, n_dimensions=n_dimensions, index=j, n=self.n, eps = self.eps, n_projections=self.n_projections, seed=self.seed, swtype=self.swtype ) for j in range(n_samples))
         vote = np.array(results)
+        
         y_pred = (vote >= self.p)
         self.y_pred = np.where(y_pred, -1, 1)
-        return self.y_pred
+        return self.y_pred, vote
     
     def fit(self, X:np.ndarray, y=None):
         """
@@ -147,14 +149,3 @@ class SlicedWassersteinFilter:
             setattr(self, parameter, value)
         return self
 
-
-
-    """
-    Must compare with z-score, Local Outlier Factor, Isolation Forest
-
-  
-    https://www.geeksforgeeks.org/z-score-for-outlier-detection-python/
-    https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html
-    https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
-    
-    """

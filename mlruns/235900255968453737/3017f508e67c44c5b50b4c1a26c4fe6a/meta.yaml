@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/3017f508e67c44c5b50b4c1a26c4fe6a/artifacts
+end_time: 1722663259493
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 3017f508e67c44c5b50b4c1a26c4fe6a
+run_name: dashing-bird-24
+run_uuid: 3017f508e67c44c5b50b4c1a26c4fe6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663259383
+status: 3
+tags: []
+user_id: julien

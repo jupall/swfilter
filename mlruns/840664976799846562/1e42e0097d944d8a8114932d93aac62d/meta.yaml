@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1e42e0097d944d8a8114932d93aac62d/artifacts
+end_time: 1722619384389
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1e42e0097d944d8a8114932d93aac62d
+run_name: inquisitive-goat-525
+run_uuid: 1e42e0097d944d8a8114932d93aac62d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619384175
+status: 3
+tags: []
+user_id: julien

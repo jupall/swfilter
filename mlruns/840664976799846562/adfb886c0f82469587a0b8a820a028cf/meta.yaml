@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/adfb886c0f82469587a0b8a820a028cf/artifacts
+end_time: 1722619373501
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: adfb886c0f82469587a0b8a820a028cf
+run_name: painted-stag-838
+run_uuid: adfb886c0f82469587a0b8a820a028cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619373467
+status: 3
+tags: []
+user_id: julien

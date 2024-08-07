@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ddd0c184a1a84fce88dc7fb72270a301/artifacts
+end_time: 1722651970097
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ddd0c184a1a84fce88dc7fb72270a301
+run_name: legendary-whale-996
+run_uuid: ddd0c184a1a84fce88dc7fb72270a301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651969190
+status: 3
+tags: []
+user_id: julien

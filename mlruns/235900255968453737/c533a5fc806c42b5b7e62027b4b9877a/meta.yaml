@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c533a5fc806c42b5b7e62027b4b9877a/artifacts
+end_time: 1722663143513
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c533a5fc806c42b5b7e62027b4b9877a
+run_name: adventurous-foal-335
+run_uuid: c533a5fc806c42b5b7e62027b4b9877a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663141149
+status: 3
+tags: []
+user_id: julien

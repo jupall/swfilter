@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e75f78026d02463ebeea2bead9f9d717/artifacts
+end_time: 1722650068497
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e75f78026d02463ebeea2bead9f9d717
+run_name: vaunted-bat-413
+run_uuid: e75f78026d02463ebeea2bead9f9d717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722650053202
+status: 3
+tags: []
+user_id: julien

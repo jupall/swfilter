@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/7e8b94da073242c88b516a41c1c338ee/artifacts
+end_time: 1722648887980
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 7e8b94da073242c88b516a41c1c338ee
+run_name: respected-ox-194
+run_uuid: 7e8b94da073242c88b516a41c1c338ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648882506
+status: 3
+tags: []
+user_id: julien

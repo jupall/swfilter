@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c123c2a824284234808a5f17112b0d54/artifacts
+end_time: 1722620104698
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c123c2a824284234808a5f17112b0d54
+run_name: charming-dove-5
+run_uuid: c123c2a824284234808a5f17112b0d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620104554
+status: 3
+tags: []
+user_id: julien

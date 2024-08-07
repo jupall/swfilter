@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7f00b263b3224a4cbb0cd5b4ac11a669/artifacts
+end_time: 1722619968692
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7f00b263b3224a4cbb0cd5b4ac11a669
+run_name: aged-hare-429
+run_uuid: 7f00b263b3224a4cbb0cd5b4ac11a669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619965549
+status: 3
+tags: []
+user_id: julien

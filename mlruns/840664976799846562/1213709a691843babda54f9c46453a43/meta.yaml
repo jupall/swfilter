@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1213709a691843babda54f9c46453a43/artifacts
+end_time: 1722620080321
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1213709a691843babda54f9c46453a43
+run_name: auspicious-croc-354
+run_uuid: 1213709a691843babda54f9c46453a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620080287
+status: 3
+tags: []
+user_id: julien

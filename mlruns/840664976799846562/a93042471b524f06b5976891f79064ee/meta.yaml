@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a93042471b524f06b5976891f79064ee/artifacts
+end_time: 1722620102889
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a93042471b524f06b5976891f79064ee
+run_name: adventurous-slug-514
+run_uuid: a93042471b524f06b5976891f79064ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620102744
+status: 3
+tags: []
+user_id: julien

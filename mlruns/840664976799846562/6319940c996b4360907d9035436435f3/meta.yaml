@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6319940c996b4360907d9035436435f3/artifacts
+end_time: 1722620077200
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6319940c996b4360907d9035436435f3
+run_name: secretive-cow-761
+run_uuid: 6319940c996b4360907d9035436435f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620077163
+status: 3
+tags: []
+user_id: julien

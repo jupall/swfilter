@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/88cce6ba9a574d9a85bf6756a19d9a04/artifacts
+end_time: 1722643854454
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 88cce6ba9a574d9a85bf6756a19d9a04
+run_name: vaunted-goat-965
+run_uuid: 88cce6ba9a574d9a85bf6756a19d9a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643854411
+status: 3
+tags: []
+user_id: julien

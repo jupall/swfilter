@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fb6a62200b82459aab0b9b25698af692/artifacts
+end_time: 1722649199041
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fb6a62200b82459aab0b9b25698af692
+run_name: nosy-perch-300
+run_uuid: fb6a62200b82459aab0b9b25698af692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649198767
+status: 3
+tags: []
+user_id: julien

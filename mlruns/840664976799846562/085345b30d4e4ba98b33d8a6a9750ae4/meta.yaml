@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/085345b30d4e4ba98b33d8a6a9750ae4/artifacts
+end_time: 1722625028954
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 085345b30d4e4ba98b33d8a6a9750ae4
+run_name: nosy-squid-548
+run_uuid: 085345b30d4e4ba98b33d8a6a9750ae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625028769
+status: 3
+tags: []
+user_id: julien

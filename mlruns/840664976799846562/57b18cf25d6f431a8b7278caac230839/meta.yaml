@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/57b18cf25d6f431a8b7278caac230839/artifacts
+end_time: 1722644454331
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 57b18cf25d6f431a8b7278caac230839
+run_name: welcoming-smelt-36
+run_uuid: 57b18cf25d6f431a8b7278caac230839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644454126
+status: 3
+tags: []
+user_id: julien

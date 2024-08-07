@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/f776da33ef9b4c9b973d548198876956/artifacts
+deleted_time: 1722618419437
+end_time: 1722617837154
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: f776da33ef9b4c9b973d548198876956
+run_name: thundering-conch-479
+run_uuid: f776da33ef9b4c9b973d548198876956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617837096
+status: 3
+tags: []
+user_id: julien

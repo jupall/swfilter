@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/22a706a424334056861b6674c9ef3e97/artifacts
+end_time: 1722663256530
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 22a706a424334056861b6674c9ef3e97
+run_name: gentle-snipe-18
+run_uuid: 22a706a424334056861b6674c9ef3e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663256418
+status: 3
+tags: []
+user_id: julien

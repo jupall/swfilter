@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/92db27d1b066463f8e0e5f3c49e2254b/artifacts
+end_time: 1722651922207
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 92db27d1b066463f8e0e5f3c49e2254b
+run_name: handsome-duck-598
+run_uuid: 92db27d1b066463f8e0e5f3c49e2254b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651922121
+status: 3
+tags: []
+user_id: julien

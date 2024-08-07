@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4de6ef835e2c4200a0a32bbb3e0a79b4/artifacts
+end_time: 1722620079951
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4de6ef835e2c4200a0a32bbb3e0a79b4
+run_name: serious-deer-927
+run_uuid: 4de6ef835e2c4200a0a32bbb3e0a79b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620079918
+status: 3
+tags: []
+user_id: julien

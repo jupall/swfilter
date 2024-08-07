@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f92432431f82446eadce38f94bf7e03a/artifacts
+end_time: 1722652162799
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f92432431f82446eadce38f94bf7e03a
+run_name: melodic-hound-41
+run_uuid: f92432431f82446eadce38f94bf7e03a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652162516
+status: 3
+tags: []
+user_id: julien

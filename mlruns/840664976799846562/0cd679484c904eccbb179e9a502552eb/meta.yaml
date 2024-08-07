@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0cd679484c904eccbb179e9a502552eb/artifacts
+end_time: 1722619400967
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0cd679484c904eccbb179e9a502552eb
+run_name: bemused-carp-628
+run_uuid: 0cd679484c904eccbb179e9a502552eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619400757
+status: 3
+tags: []
+user_id: julien

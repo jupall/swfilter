@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9b1815e0ecf240cab4fdd367ca3e1fef/artifacts
+end_time: 1722652121064
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9b1815e0ecf240cab4fdd367ca3e1fef
+run_name: peaceful-finch-492
+run_uuid: 9b1815e0ecf240cab4fdd367ca3e1fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652120960
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/cfb9e341583c46d5a2f0edd2071a047a/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897146
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: cfb9e341583c46d5a2f0edd2071a047a
+run_name: dazzling-shad-303
+run_uuid: cfb9e341583c46d5a2f0edd2071a047a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897084
+status: 3
+tags: []
+user_id: julien

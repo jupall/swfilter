@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cad48655fd5b47d3905aeda279bd163e/artifacts
+end_time: 1722663363808
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cad48655fd5b47d3905aeda279bd163e
+run_name: adaptable-fish-163
+run_uuid: cad48655fd5b47d3905aeda279bd163e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663363440
+status: 3
+tags: []
+user_id: julien

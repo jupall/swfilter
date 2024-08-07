@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e10ec074b1cc4356b98856cdc90c43d0/artifacts
+end_time: 1722662734679
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e10ec074b1cc4356b98856cdc90c43d0
+run_name: loud-sloth-841
+run_uuid: e10ec074b1cc4356b98856cdc90c43d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662734573
+status: 3
+tags: []
+user_id: julien

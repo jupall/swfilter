@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/eb94d88f4d8341549bad5ed867cb5fa0/artifacts
+end_time: 1722663189930
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: eb94d88f4d8341549bad5ed867cb5fa0
+run_name: stately-crab-51
+run_uuid: eb94d88f4d8341549bad5ed867cb5fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663186936
+status: 3
+tags: []
+user_id: julien

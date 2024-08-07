@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/489b6011c299408aabbef8ee799b4124/artifacts
+end_time: 1722651381640
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 489b6011c299408aabbef8ee799b4124
+run_name: likeable-calf-377
+run_uuid: 489b6011c299408aabbef8ee799b4124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651361877
+status: 3
+tags: []
+user_id: julien

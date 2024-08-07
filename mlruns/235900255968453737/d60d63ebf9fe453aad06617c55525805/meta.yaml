@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d60d63ebf9fe453aad06617c55525805/artifacts
+end_time: 1722651947741
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d60d63ebf9fe453aad06617c55525805
+run_name: stylish-slug-21
+run_uuid: d60d63ebf9fe453aad06617c55525805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651947548
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bc4017dc28114d8188ac00595abbb4cc/artifacts
+end_time: 1722625146964
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bc4017dc28114d8188ac00595abbb4cc
+run_name: able-asp-855
+run_uuid: bc4017dc28114d8188ac00595abbb4cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625146923
+status: 3
+tags: []
+user_id: julien

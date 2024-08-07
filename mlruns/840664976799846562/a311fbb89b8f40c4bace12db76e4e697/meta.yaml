@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a311fbb89b8f40c4bace12db76e4e697/artifacts
+end_time: 1722620075945
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a311fbb89b8f40c4bace12db76e4e697
+run_name: monumental-grub-618
+run_uuid: a311fbb89b8f40c4bace12db76e4e697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620075913
+status: 3
+tags: []
+user_id: julien

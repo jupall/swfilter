@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f6ae82f9e4ff45aaa07d1231c666b80e/artifacts
+end_time: 1722643980893
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f6ae82f9e4ff45aaa07d1231c666b80e
+run_name: loud-kit-468
+run_uuid: f6ae82f9e4ff45aaa07d1231c666b80e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643980838
+status: 3
+tags: []
+user_id: julien

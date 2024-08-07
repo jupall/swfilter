@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/65618a42dfea444688530b8ef2271c40/artifacts
+end_time: 1722648183481
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 65618a42dfea444688530b8ef2271c40
+run_name: classy-sponge-430
+run_uuid: 65618a42dfea444688530b8ef2271c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648183241
+status: 3
+tags: []
+user_id: julien

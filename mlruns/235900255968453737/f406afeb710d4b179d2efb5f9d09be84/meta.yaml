@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f406afeb710d4b179d2efb5f9d09be84/artifacts
+end_time: 1722648161477
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f406afeb710d4b179d2efb5f9d09be84
+run_name: learned-shoat-465
+run_uuid: f406afeb710d4b179d2efb5f9d09be84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648161367
+status: 3
+tags: []
+user_id: julien

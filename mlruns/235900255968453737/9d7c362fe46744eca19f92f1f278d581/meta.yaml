@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9d7c362fe46744eca19f92f1f278d581/artifacts
+end_time: 1722648186660
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9d7c362fe46744eca19f92f1f278d581
+run_name: orderly-gnat-759
+run_uuid: 9d7c362fe46744eca19f92f1f278d581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648186442
+status: 3
+tags: []
+user_id: julien

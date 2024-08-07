@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c39e293e88564e99b3fbf9233b41df27/artifacts
+end_time: 1722663259240
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c39e293e88564e99b3fbf9233b41df27
+run_name: polite-gull-384
+run_uuid: c39e293e88564e99b3fbf9233b41df27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663259128
+status: 3
+tags: []
+user_id: julien

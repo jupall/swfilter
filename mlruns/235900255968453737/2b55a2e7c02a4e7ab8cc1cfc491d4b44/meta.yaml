@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2b55a2e7c02a4e7ab8cc1cfc491d4b44/artifacts
+end_time: 1722662744081
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2b55a2e7c02a4e7ab8cc1cfc491d4b44
+run_name: peaceful-calf-294
+run_uuid: 2b55a2e7c02a4e7ab8cc1cfc491d4b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662743971
+status: 3
+tags: []
+user_id: julien

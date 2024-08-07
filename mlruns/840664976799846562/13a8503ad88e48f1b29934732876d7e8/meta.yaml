@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/13a8503ad88e48f1b29934732876d7e8/artifacts
+end_time: 1722644415358
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 13a8503ad88e48f1b29934732876d7e8
+run_name: clean-smelt-769
+run_uuid: 13a8503ad88e48f1b29934732876d7e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644415304
+status: 3
+tags: []
+user_id: julien

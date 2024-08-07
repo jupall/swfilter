@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/741345eda62a49d28fb94e840b613eec/artifacts
+end_time: 1722619384168
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 741345eda62a49d28fb94e840b613eec
+run_name: luminous-colt-762
+run_uuid: 741345eda62a49d28fb94e840b613eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619383968
+status: 3
+tags: []
+user_id: julien

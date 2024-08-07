@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/e21ee64890914077a6eac5b336722ba2/artifacts
+deleted_time: 1722618664511
+end_time: 1722618493171
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: e21ee64890914077a6eac5b336722ba2
+run_name: clean-crow-712
+run_uuid: e21ee64890914077a6eac5b336722ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618492980
+status: 3
+tags: []
+user_id: julien

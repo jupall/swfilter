@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6cf4c6be84bf43f68db4b50747585429/artifacts
+end_time: 1722643853875
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6cf4c6be84bf43f68db4b50747585429
+run_name: masked-ape-874
+run_uuid: 6cf4c6be84bf43f68db4b50747585429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643853832
+status: 3
+tags: []
+user_id: julien

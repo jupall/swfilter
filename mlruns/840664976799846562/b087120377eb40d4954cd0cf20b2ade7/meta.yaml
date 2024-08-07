@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b087120377eb40d4954cd0cf20b2ade7/artifacts
+end_time: 1722625013547
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b087120377eb40d4954cd0cf20b2ade7
+run_name: fun-gull-286
+run_uuid: b087120377eb40d4954cd0cf20b2ade7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625013510
+status: 3
+tags: []
+user_id: julien

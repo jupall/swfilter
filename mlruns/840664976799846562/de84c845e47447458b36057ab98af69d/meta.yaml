@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/de84c845e47447458b36057ab98af69d/artifacts
+end_time: 1722644506473
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: de84c845e47447458b36057ab98af69d
+run_name: carefree-fowl-667
+run_uuid: de84c845e47447458b36057ab98af69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644506383
+status: 3
+tags: []
+user_id: julien

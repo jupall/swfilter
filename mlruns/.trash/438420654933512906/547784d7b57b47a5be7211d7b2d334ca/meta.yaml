@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/547784d7b57b47a5be7211d7b2d334ca/artifacts
+deleted_time: 1722619353121
+end_time: 1722619072660
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 547784d7b57b47a5be7211d7b2d334ca
+run_name: salty-shark-575
+run_uuid: 547784d7b57b47a5be7211d7b2d334ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619072459
+status: 3
+tags: []
+user_id: julien

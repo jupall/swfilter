@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dbc589817e7242ecbf49454e44c2f7fd/artifacts
+end_time: 1722644541083
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dbc589817e7242ecbf49454e44c2f7fd
+run_name: lyrical-shrimp-249
+run_uuid: dbc589817e7242ecbf49454e44c2f7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644540827
+status: 3
+tags: []
+user_id: julien

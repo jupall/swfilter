@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2cd2eb7e351b42daa595d97f3bf1e40e/artifacts
+end_time: 1722663270376
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2cd2eb7e351b42daa595d97f3bf1e40e
+run_name: bouncy-shad-837
+run_uuid: 2cd2eb7e351b42daa595d97f3bf1e40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663270255
+status: 3
+tags: []
+user_id: julien

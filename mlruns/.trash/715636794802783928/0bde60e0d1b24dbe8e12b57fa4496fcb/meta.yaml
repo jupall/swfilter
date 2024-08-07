@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/0bde60e0d1b24dbe8e12b57fa4496fcb/artifacts
+deleted_time: 1722618419437
+end_time: 1722618352859
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 0bde60e0d1b24dbe8e12b57fa4496fcb
+run_name: valuable-mule-848
+run_uuid: 0bde60e0d1b24dbe8e12b57fa4496fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618346748
+status: 3
+tags: []
+user_id: julien

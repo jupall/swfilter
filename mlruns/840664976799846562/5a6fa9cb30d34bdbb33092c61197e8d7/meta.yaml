@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5a6fa9cb30d34bdbb33092c61197e8d7/artifacts
+end_time: 1722644476924
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5a6fa9cb30d34bdbb33092c61197e8d7
+run_name: ambitious-snipe-166
+run_uuid: 5a6fa9cb30d34bdbb33092c61197e8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644476491
+status: 3
+tags: []
+user_id: julien

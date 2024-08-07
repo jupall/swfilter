@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9f95c52dff92430cb752a47c8f214d56/artifacts
+end_time: 1722651956935
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9f95c52dff92430cb752a47c8f214d56
+run_name: stately-wasp-772
+run_uuid: 9f95c52dff92430cb752a47c8f214d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651956718
+status: 3
+tags: []
+user_id: julien

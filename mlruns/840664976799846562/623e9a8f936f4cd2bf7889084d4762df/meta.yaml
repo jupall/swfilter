@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/623e9a8f936f4cd2bf7889084d4762df/artifacts
+end_time: 1722620056848
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 623e9a8f936f4cd2bf7889084d4762df
+run_name: painted-wasp-686
+run_uuid: 623e9a8f936f4cd2bf7889084d4762df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620053907
+status: 3
+tags: []
+user_id: julien

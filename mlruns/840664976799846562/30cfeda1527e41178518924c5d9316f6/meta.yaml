@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/30cfeda1527e41178518924c5d9316f6/artifacts
+end_time: 1722643977760
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 30cfeda1527e41178518924c5d9316f6
+run_name: nebulous-deer-346
+run_uuid: 30cfeda1527e41178518924c5d9316f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643977708
+status: 3
+tags: []
+user_id: julien

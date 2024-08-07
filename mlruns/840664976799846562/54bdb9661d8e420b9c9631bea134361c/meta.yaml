@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/54bdb9661d8e420b9c9631bea134361c/artifacts
+end_time: 1722644436968
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 54bdb9661d8e420b9c9631bea134361c
+run_name: marvelous-frog-821
+run_uuid: 54bdb9661d8e420b9c9631bea134361c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644436771
+status: 3
+tags: []
+user_id: julien

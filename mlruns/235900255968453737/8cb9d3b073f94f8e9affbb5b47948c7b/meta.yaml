@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8cb9d3b073f94f8e9affbb5b47948c7b/artifacts
+end_time: 1722662764458
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8cb9d3b073f94f8e9affbb5b47948c7b
+run_name: dapper-hare-286
+run_uuid: 8cb9d3b073f94f8e9affbb5b47948c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662764205
+status: 3
+tags: []
+user_id: julien

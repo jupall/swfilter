@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/575a775b413b4aa983d583228b7c5511/artifacts
+end_time: 1722648202091
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 575a775b413b4aa983d583228b7c5511
+run_name: delightful-duck-122
+run_uuid: 575a775b413b4aa983d583228b7c5511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648201869
+status: 3
+tags: []
+user_id: julien

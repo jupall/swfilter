@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/449c07202c9f43c7937cc6b05de6f533/artifacts
+end_time: 1722644428012
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 449c07202c9f43c7937cc6b05de6f533
+run_name: intelligent-bird-593
+run_uuid: 449c07202c9f43c7937cc6b05de6f533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644427852
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6e38dc0605014cb4a4389f9f9863655d/artifacts
+end_time: 1722644422702
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6e38dc0605014cb4a4389f9f9863655d
+run_name: serious-skink-379
+run_uuid: 6e38dc0605014cb4a4389f9f9863655d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644422646
+status: 3
+tags: []
+user_id: julien

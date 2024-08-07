@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8bed3345438b45eb85f7b479aaffe3da/artifacts
+end_time: 1722649177025
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8bed3345438b45eb85f7b479aaffe3da
+run_name: welcoming-trout-39
+run_uuid: 8bed3345438b45eb85f7b479aaffe3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649176941
+status: 3
+tags: []
+user_id: julien

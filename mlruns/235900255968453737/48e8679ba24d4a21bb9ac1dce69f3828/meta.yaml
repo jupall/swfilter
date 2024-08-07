@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/48e8679ba24d4a21bb9ac1dce69f3828/artifacts
+end_time: 1722662742837
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 48e8679ba24d4a21bb9ac1dce69f3828
+run_name: flawless-carp-194
+run_uuid: 48e8679ba24d4a21bb9ac1dce69f3828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662742727
+status: 3
+tags: []
+user_id: julien

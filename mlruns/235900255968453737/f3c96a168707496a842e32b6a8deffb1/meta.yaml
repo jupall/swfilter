@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f3c96a168707496a842e32b6a8deffb1/artifacts
+end_time: 1722662406890
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f3c96a168707496a842e32b6a8deffb1
+run_name: stately-owl-805
+run_uuid: f3c96a168707496a842e32b6a8deffb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662406786
+status: 3
+tags: []
+user_id: julien

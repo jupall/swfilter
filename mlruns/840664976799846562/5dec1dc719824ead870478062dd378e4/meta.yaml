@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5dec1dc719824ead870478062dd378e4/artifacts
+end_time: 1722643857295
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5dec1dc719824ead870478062dd378e4
+run_name: blushing-quail-667
+run_uuid: 5dec1dc719824ead870478062dd378e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643857250
+status: 3
+tags: []
+user_id: julien

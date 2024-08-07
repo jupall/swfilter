@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d39092293c284481bc4c8d9c4e7d251e/artifacts
+end_time: 1722644076872
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d39092293c284481bc4c8d9c4e7d251e
+run_name: dazzling-boar-858
+run_uuid: d39092293c284481bc4c8d9c4e7d251e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644074553
+status: 3
+tags: []
+user_id: julien

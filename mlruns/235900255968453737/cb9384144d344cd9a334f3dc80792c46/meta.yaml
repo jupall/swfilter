@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cb9384144d344cd9a334f3dc80792c46/artifacts
+end_time: 1722663319056
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cb9384144d344cd9a334f3dc80792c46
+run_name: inquisitive-mole-780
+run_uuid: cb9384144d344cd9a334f3dc80792c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663318245
+status: 3
+tags: []
+user_id: julien

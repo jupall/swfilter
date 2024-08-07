@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/139bb594f9834fdfbf2b4f17bd3dc74a/artifacts
+end_time: 1722619377227
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 139bb594f9834fdfbf2b4f17bd3dc74a
+run_name: nervous-whale-798
+run_uuid: 139bb594f9834fdfbf2b4f17bd3dc74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619377187
+status: 3
+tags: []
+user_id: julien

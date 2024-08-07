@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/a5d3ffa3f39a4b2e89906b9b45277bb1/artifacts
+deleted_time: 1722618939344
+end_time: 1722618702324
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: a5d3ffa3f39a4b2e89906b9b45277bb1
+run_name: bouncy-jay-135
+run_uuid: a5d3ffa3f39a4b2e89906b9b45277bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618702256
+status: 3
+tags: []
+user_id: julien

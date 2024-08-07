@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/679d02a3e12246c3bd012d696500f0cb/artifacts
+end_time: 1722652121778
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 679d02a3e12246c3bd012d696500f0cb
+run_name: traveling-lamb-418
+run_uuid: 679d02a3e12246c3bd012d696500f0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652121671
+status: 3
+tags: []
+user_id: julien

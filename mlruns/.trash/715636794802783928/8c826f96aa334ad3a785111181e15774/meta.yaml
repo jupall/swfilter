@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/8c826f96aa334ad3a785111181e15774/artifacts
+deleted_time: 1722618419437
+end_time: 1722617781109
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 8c826f96aa334ad3a785111181e15774
+run_name: sedate-goose-592
+run_uuid: 8c826f96aa334ad3a785111181e15774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617781063
+status: 3
+tags: []
+user_id: julien

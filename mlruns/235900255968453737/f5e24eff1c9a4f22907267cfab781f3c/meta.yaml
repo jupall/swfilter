@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f5e24eff1c9a4f22907267cfab781f3c/artifacts
+end_time: 1722662780463
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f5e24eff1c9a4f22907267cfab781f3c
+run_name: rogue-stoat-219
+run_uuid: f5e24eff1c9a4f22907267cfab781f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662780220
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/dfde2f00649e479ca1f629aa27f4ede5/artifacts
+end_time: 1722652057944
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: dfde2f00649e479ca1f629aa27f4ede5
+run_name: bold-trout-450
+run_uuid: dfde2f00649e479ca1f629aa27f4ede5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652057166
+status: 3
+tags: []
+user_id: julien

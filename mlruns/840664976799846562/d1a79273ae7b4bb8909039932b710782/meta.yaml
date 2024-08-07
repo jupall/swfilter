@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d1a79273ae7b4bb8909039932b710782/artifacts
+end_time: 1722625170000
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d1a79273ae7b4bb8909039932b710782
+run_name: puzzled-carp-5
+run_uuid: d1a79273ae7b4bb8909039932b710782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625169819
+status: 3
+tags: []
+user_id: julien

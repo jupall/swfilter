@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/11d41df1dbe148d393eb5b5d41c50e0d/artifacts
+end_time: 1722644495203
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 11d41df1dbe148d393eb5b5d41c50e0d
+run_name: skillful-koi-207
+run_uuid: 11d41df1dbe148d393eb5b5d41c50e0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644494911
+status: 3
+tags: []
+user_id: julien

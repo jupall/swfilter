@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cd9cfb1f737e4a7cbf57c3a1dce41d32/artifacts
+end_time: 1722625059488
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cd9cfb1f737e4a7cbf57c3a1dce41d32
+run_name: secretive-fox-476
+run_uuid: cd9cfb1f737e4a7cbf57c3a1dce41d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625058780
+status: 3
+tags: []
+user_id: julien

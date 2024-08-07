@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/239a506536a94c4d87f7ec93a3bc6264/artifacts
+end_time: 1722652094803
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 239a506536a94c4d87f7ec93a3bc6264
+run_name: loud-shrike-96
+run_uuid: 239a506536a94c4d87f7ec93a3bc6264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652093971
+status: 3
+tags: []
+user_id: julien

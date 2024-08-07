@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/86382aaa032543c4b5e9f0424707998c/artifacts
+end_time: 1722652167672
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 86382aaa032543c4b5e9f0424707998c
+run_name: beautiful-ape-153
+run_uuid: 86382aaa032543c4b5e9f0424707998c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652167400
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2ab348a1559d4fabb7699cfb7281fcd0/artifacts
+end_time: 1722649223537
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2ab348a1559d4fabb7699cfb7281fcd0
+run_name: resilient-quail-545
+run_uuid: 2ab348a1559d4fabb7699cfb7281fcd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649223269
+status: 3
+tags: []
+user_id: julien

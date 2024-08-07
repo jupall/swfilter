@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/760b9fc9316040d5874ede0d6f4be424/artifacts
+deleted_time: 1722618939344
+end_time: 1722618897863
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 760b9fc9316040d5874ede0d6f4be424
+run_name: amazing-bee-315
+run_uuid: 760b9fc9316040d5874ede0d6f4be424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897802
+status: 3
+tags: []
+user_id: julien

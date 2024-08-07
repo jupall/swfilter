@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/82910e13de6e462d83ec6df041459128/artifacts
+end_time: 1722652119874
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 82910e13de6e462d83ec6df041459128
+run_name: wise-yak-436
+run_uuid: 82910e13de6e462d83ec6df041459128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652119769
+status: 3
+tags: []
+user_id: julien

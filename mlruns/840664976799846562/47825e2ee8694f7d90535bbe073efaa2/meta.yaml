@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/47825e2ee8694f7d90535bbe073efaa2/artifacts
+end_time: 1722619379248
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 47825e2ee8694f7d90535bbe073efaa2
+run_name: abrasive-crab-104
+run_uuid: 47825e2ee8694f7d90535bbe073efaa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619379208
+status: 3
+tags: []
+user_id: julien

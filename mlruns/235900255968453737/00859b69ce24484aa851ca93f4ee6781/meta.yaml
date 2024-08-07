@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/00859b69ce24484aa851ca93f4ee6781/artifacts
+end_time: 1722663354393
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 00859b69ce24484aa851ca93f4ee6781
+run_name: enthused-finch-976
+run_uuid: 00859b69ce24484aa851ca93f4ee6781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663353980
+status: 3
+tags: []
+user_id: julien

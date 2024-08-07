@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1ee0e374d4e44546af09583f8d59f4ad/artifacts
+end_time: 1722649955719
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1ee0e374d4e44546af09583f8d59f4ad
+run_name: judicious-fly-85
+run_uuid: 1ee0e374d4e44546af09583f8d59f4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649930827
+status: 3
+tags: []
+user_id: julien

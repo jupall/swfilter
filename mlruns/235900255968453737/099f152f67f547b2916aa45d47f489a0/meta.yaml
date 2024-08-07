@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/099f152f67f547b2916aa45d47f489a0/artifacts
+end_time: 1722651956251
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 099f152f67f547b2916aa45d47f489a0
+run_name: nervous-shad-621
+run_uuid: 099f152f67f547b2916aa45d47f489a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651956065
+status: 3
+tags: []
+user_id: julien

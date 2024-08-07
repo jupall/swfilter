@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/06e50708b84b4262a55cf341b247b451/artifacts
+end_time: 1722662737241
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 06e50708b84b4262a55cf341b247b451
+run_name: bouncy-trout-326
+run_uuid: 06e50708b84b4262a55cf341b247b451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662737134
+status: 3
+tags: []
+user_id: julien

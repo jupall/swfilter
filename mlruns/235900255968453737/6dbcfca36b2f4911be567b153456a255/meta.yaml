@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6dbcfca36b2f4911be567b153456a255/artifacts
+end_time: 1722649180396
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6dbcfca36b2f4911be567b153456a255
+run_name: enchanting-whale-475
+run_uuid: 6dbcfca36b2f4911be567b153456a255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649180312
+status: 3
+tags: []
+user_id: julien

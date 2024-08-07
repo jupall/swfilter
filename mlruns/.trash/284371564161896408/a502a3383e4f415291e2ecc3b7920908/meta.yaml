@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/a502a3383e4f415291e2ecc3b7920908/artifacts
+deleted_time: 1722618664511
+end_time: 1722618485052
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: a502a3383e4f415291e2ecc3b7920908
+run_name: bustling-quail-442
+run_uuid: a502a3383e4f415291e2ecc3b7920908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618484840
+status: 3
+tags: []
+user_id: julien

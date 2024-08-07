@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/1f8ab0a44cf04925ba1a3d1f29ca49bb/artifacts
+deleted_time: 1722618419437
+end_time: 1722618310630
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 1f8ab0a44cf04925ba1a3d1f29ca49bb
+run_name: invincible-yak-145
+run_uuid: 1f8ab0a44cf04925ba1a3d1f29ca49bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618305277
+status: 3
+tags: []
+user_id: julien

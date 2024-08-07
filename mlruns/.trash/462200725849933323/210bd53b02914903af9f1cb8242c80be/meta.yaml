@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/210bd53b02914903af9f1cb8242c80be/artifacts
+deleted_time: 1722618939344
+end_time: 1722618710340
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 210bd53b02914903af9f1cb8242c80be
+run_name: shivering-fish-911
+run_uuid: 210bd53b02914903af9f1cb8242c80be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618710082
+status: 3
+tags: []
+user_id: julien

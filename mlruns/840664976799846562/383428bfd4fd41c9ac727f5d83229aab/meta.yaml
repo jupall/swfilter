@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/383428bfd4fd41c9ac727f5d83229aab/artifacts
+end_time: 1722625098268
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 383428bfd4fd41c9ac727f5d83229aab
+run_name: kindly-shrimp-447
+run_uuid: 383428bfd4fd41c9ac727f5d83229aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625097560
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f319fb9cab68442d8227047c2ba63bce/artifacts
+end_time: 1722643935643
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f319fb9cab68442d8227047c2ba63bce
+run_name: capricious-lark-86
+run_uuid: f319fb9cab68442d8227047c2ba63bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643935061
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6f218275bb034abf8c9704853db37b6a/artifacts
+end_time: 1722651191755
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6f218275bb034abf8c9704853db37b6a
+run_name: gentle-toad-851
+run_uuid: 6f218275bb034abf8c9704853db37b6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651175366
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/75d3c979a99b4843a7e8135bc5055c52/artifacts
+deleted_time: 1722618664511
+end_time: 1722618492568
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 75d3c979a99b4843a7e8135bc5055c52
+run_name: rambunctious-auk-189
+run_uuid: 75d3c979a99b4843a7e8135bc5055c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618492368
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/87608e7f6fe54969aa39d1ca3339851e/artifacts
+end_time: 1722644524635
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 87608e7f6fe54969aa39d1ca3339851e
+run_name: luxuriant-donkey-997
+run_uuid: 87608e7f6fe54969aa39d1ca3339851e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644524365
+status: 3
+tags: []
+user_id: julien

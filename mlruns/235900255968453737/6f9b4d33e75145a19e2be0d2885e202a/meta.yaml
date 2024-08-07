@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6f9b4d33e75145a19e2be0d2885e202a/artifacts
+end_time: 1722662400660
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6f9b4d33e75145a19e2be0d2885e202a
+run_name: loud-ant-34
+run_uuid: 6f9b4d33e75145a19e2be0d2885e202a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662400555
+status: 3
+tags: []
+user_id: julien

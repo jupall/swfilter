@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4c6dc6c3ecab42e9a34922b668fad75f/artifacts
+end_time: 1722625080365
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4c6dc6c3ecab42e9a34922b668fad75f
+run_name: bemused-ant-904
+run_uuid: 4c6dc6c3ecab42e9a34922b668fad75f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625079560
+status: 3
+tags: []
+user_id: julien

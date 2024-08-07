@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c16664914e3543118312b85a90366680/artifacts
+end_time: 1722663259113
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c16664914e3543118312b85a90366680
+run_name: aged-yak-252
+run_uuid: c16664914e3543118312b85a90366680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663259001
+status: 3
+tags: []
+user_id: julien

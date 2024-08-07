@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/f651d9c4d3084576abff4654904b77a8/artifacts
+deleted_time: 1722618419437
+end_time: 1722618119062
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: f651d9c4d3084576abff4654904b77a8
+run_name: orderly-trout-837
+run_uuid: f651d9c4d3084576abff4654904b77a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618114024
+status: 3
+tags: []
+user_id: julien

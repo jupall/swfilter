@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/94e375cb83ac4fef8a13edb8250652fd/artifacts
+end_time: 1722628288050
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 94e375cb83ac4fef8a13edb8250652fd
+run_name: capricious-steed-988
+run_uuid: 94e375cb83ac4fef8a13edb8250652fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722628045488
+status: 3
+tags: []
+user_id: julien

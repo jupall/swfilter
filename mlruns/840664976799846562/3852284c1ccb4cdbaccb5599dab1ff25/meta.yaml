@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3852284c1ccb4cdbaccb5599dab1ff25/artifacts
+end_time: 1722625152593
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3852284c1ccb4cdbaccb5599dab1ff25
+run_name: salty-fish-738
+run_uuid: 3852284c1ccb4cdbaccb5599dab1ff25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625152553
+status: 3
+tags: []
+user_id: julien

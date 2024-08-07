@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1ebf5209ffc44e7881b237aa6012e7f6/artifacts
+end_time: 1722644446394
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1ebf5209ffc44e7881b237aa6012e7f6
+run_name: enthused-fowl-208
+run_uuid: 1ebf5209ffc44e7881b237aa6012e7f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644446189
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c0fd8ea5e1004a1aaff8a8e663b770df/artifacts
+end_time: 1722644444283
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c0fd8ea5e1004a1aaff8a8e663b770df
+run_name: placid-goose-485
+run_uuid: c0fd8ea5e1004a1aaff8a8e663b770df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644444073
+status: 3
+tags: []
+user_id: julien

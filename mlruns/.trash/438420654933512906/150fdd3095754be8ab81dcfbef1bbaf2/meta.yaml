@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/150fdd3095754be8ab81dcfbef1bbaf2/artifacts
+deleted_time: 1722619353121
+end_time: 1722619046712
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 150fdd3095754be8ab81dcfbef1bbaf2
+run_name: orderly-smelt-693
+run_uuid: 150fdd3095754be8ab81dcfbef1bbaf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619046667
+status: 3
+tags: []
+user_id: julien

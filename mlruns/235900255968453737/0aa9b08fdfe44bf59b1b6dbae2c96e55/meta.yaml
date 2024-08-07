@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0aa9b08fdfe44bf59b1b6dbae2c96e55/artifacts
+end_time: 1722663280159
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0aa9b08fdfe44bf59b1b6dbae2c96e55
+run_name: gaudy-roo-49
+run_uuid: 0aa9b08fdfe44bf59b1b6dbae2c96e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663279931
+status: 3
+tags: []
+user_id: julien

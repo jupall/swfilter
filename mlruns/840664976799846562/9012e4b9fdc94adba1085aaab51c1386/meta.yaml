@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9012e4b9fdc94adba1085aaab51c1386/artifacts
+end_time: 1722643859883
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9012e4b9fdc94adba1085aaab51c1386
+run_name: angry-deer-445
+run_uuid: 9012e4b9fdc94adba1085aaab51c1386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643859836
+status: 3
+tags: []
+user_id: julien

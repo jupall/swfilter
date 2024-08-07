@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/202cb0503e4d4870afd651a96a8996f8/artifacts
+end_time: 1722636613190
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 202cb0503e4d4870afd651a96a8996f8
+run_name: serious-bat-452
+run_uuid: 202cb0503e4d4870afd651a96a8996f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722636521263
+status: 3
+tags: []
+user_id: julien

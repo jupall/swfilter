@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d8e727d88f694223a2a460960ceb2c9c/artifacts
+end_time: 1722625024667
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d8e727d88f694223a2a460960ceb2c9c
+run_name: bright-crow-191
+run_uuid: d8e727d88f694223a2a460960ceb2c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625024483
+status: 3
+tags: []
+user_id: julien

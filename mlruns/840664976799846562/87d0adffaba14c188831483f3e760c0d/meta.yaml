@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/87d0adffaba14c188831483f3e760c0d/artifacts
+end_time: 1722625041091
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 87d0adffaba14c188831483f3e760c0d
+run_name: selective-tern-496
+run_uuid: 87d0adffaba14c188831483f3e760c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625040907
+status: 3
+tags: []
+user_id: julien

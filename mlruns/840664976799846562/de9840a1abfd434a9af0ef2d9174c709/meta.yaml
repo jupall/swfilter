@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/de9840a1abfd434a9af0ef2d9174c709/artifacts
+end_time: 1722625008919
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: de9840a1abfd434a9af0ef2d9174c709
+run_name: righteous-lark-224
+run_uuid: de9840a1abfd434a9af0ef2d9174c709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625008886
+status: 3
+tags: []
+user_id: julien

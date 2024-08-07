@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/064c8b26407041b5b5727f0ddd745d61/artifacts
+end_time: 1722643970564
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 064c8b26407041b5b5727f0ddd745d61
+run_name: beautiful-bass-2
+run_uuid: 064c8b26407041b5b5727f0ddd745d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643969962
+status: 3
+tags: []
+user_id: julien

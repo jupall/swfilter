@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2dce59bed0bd4230b35bf9fc18261310/artifacts
+end_time: 1722644460487
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2dce59bed0bd4230b35bf9fc18261310
+run_name: painted-boar-506
+run_uuid: 2dce59bed0bd4230b35bf9fc18261310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644460260
+status: 3
+tags: []
+user_id: julien

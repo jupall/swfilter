@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/703edb3e881843f28de7568072f80308/artifacts
+end_time: 1722643873556
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 703edb3e881843f28de7568072f80308
+run_name: glamorous-moose-642
+run_uuid: 703edb3e881843f28de7568072f80308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643873344
+status: 3
+tags: []
+user_id: julien

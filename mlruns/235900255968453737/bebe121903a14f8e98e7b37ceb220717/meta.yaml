@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bebe121903a14f8e98e7b37ceb220717/artifacts
+end_time: 1722652101421
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bebe121903a14f8e98e7b37ceb220717
+run_name: fortunate-colt-734
+run_uuid: bebe121903a14f8e98e7b37ceb220717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652100550
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f8c55837f81e46c382ec83146da2c1d8/artifacts
+end_time: 1722643931351
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f8c55837f81e46c382ec83146da2c1d8
+run_name: stylish-squirrel-840
+run_uuid: f8c55837f81e46c382ec83146da2c1d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643930848
+status: 3
+tags: []
+user_id: julien

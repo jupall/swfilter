@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/124e03733d5a4eeb847d49aaf4be00db/artifacts
+deleted_time: 1722618419437
+end_time: 1722617785538
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 124e03733d5a4eeb847d49aaf4be00db
+run_name: wise-ant-739
+run_uuid: 124e03733d5a4eeb847d49aaf4be00db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617785478
+status: 3
+tags: []
+user_id: julien

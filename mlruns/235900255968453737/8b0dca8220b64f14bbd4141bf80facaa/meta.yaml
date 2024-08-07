@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8b0dca8220b64f14bbd4141bf80facaa/artifacts
+end_time: 1722651977745
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8b0dca8220b64f14bbd4141bf80facaa
+run_name: sneaky-zebra-990
+run_uuid: 8b0dca8220b64f14bbd4141bf80facaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651976007
+status: 3
+tags: []
+user_id: julien

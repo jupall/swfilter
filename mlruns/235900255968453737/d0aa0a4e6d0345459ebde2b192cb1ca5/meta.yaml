@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d0aa0a4e6d0345459ebde2b192cb1ca5/artifacts
+end_time: 1722652067801
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d0aa0a4e6d0345459ebde2b192cb1ca5
+run_name: placid-boar-553
+run_uuid: d0aa0a4e6d0345459ebde2b192cb1ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652067024
+status: 3
+tags: []
+user_id: julien

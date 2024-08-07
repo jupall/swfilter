@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/afba7de5200b48238eec3d7f45ab2652/artifacts
+end_time: 1722649796099
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: afba7de5200b48238eec3d7f45ab2652
+run_name: exultant-zebra-266
+run_uuid: afba7de5200b48238eec3d7f45ab2652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649776315
+status: 3
+tags: []
+user_id: julien

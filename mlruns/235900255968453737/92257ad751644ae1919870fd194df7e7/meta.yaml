@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/92257ad751644ae1919870fd194df7e7/artifacts
+end_time: 1722648168848
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 92257ad751644ae1919870fd194df7e7
+run_name: nervous-fawn-54
+run_uuid: 92257ad751644ae1919870fd194df7e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648168754
+status: 3
+tags: []
+user_id: julien

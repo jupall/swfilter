@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/77d94bfb31904bc4852174cdbe91f704/artifacts
+end_time: 1722622066882
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 77d94bfb31904bc4852174cdbe91f704
+run_name: luminous-vole-497
+run_uuid: 77d94bfb31904bc4852174cdbe91f704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622035894
+status: 3
+tags: []
+user_id: julien

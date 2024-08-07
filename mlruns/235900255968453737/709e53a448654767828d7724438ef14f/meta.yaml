@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/709e53a448654767828d7724438ef14f/artifacts
+end_time: 1722662449377
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 709e53a448654767828d7724438ef14f
+run_name: nebulous-lamb-380
+run_uuid: 709e53a448654767828d7724438ef14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662449116
+status: 3
+tags: []
+user_id: julien

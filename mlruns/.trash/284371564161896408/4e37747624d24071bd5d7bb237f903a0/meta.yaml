@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/4e37747624d24071bd5d7bb237f903a0/artifacts
+deleted_time: 1722618664511
+end_time: 1722618497586
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 4e37747624d24071bd5d7bb237f903a0
+run_name: clumsy-stag-799
+run_uuid: 4e37747624d24071bd5d7bb237f903a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618497389
+status: 3
+tags: []
+user_id: julien

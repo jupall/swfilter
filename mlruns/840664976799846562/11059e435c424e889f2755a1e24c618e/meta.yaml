@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/11059e435c424e889f2755a1e24c618e/artifacts
+end_time: 1722644488745
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 11059e435c424e889f2755a1e24c618e
+run_name: burly-shark-241
+run_uuid: 11059e435c424e889f2755a1e24c618e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644488478
+status: 3
+tags: []
+user_id: julien

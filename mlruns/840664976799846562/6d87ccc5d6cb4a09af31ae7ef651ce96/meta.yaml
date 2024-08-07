@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6d87ccc5d6cb4a09af31ae7ef651ce96/artifacts
+end_time: 1722643979107
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6d87ccc5d6cb4a09af31ae7ef651ce96
+run_name: handsome-vole-588
+run_uuid: 6d87ccc5d6cb4a09af31ae7ef651ce96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643979055
+status: 3
+tags: []
+user_id: julien

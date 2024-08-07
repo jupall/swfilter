@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/90f4eec2fd244f77b8c8837d23d6d7ac/artifacts
+end_time: 1722648167901
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 90f4eec2fd244f77b8c8837d23d6d7ac
+run_name: exultant-ant-270
+run_uuid: 90f4eec2fd244f77b8c8837d23d6d7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648167808
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9d6c3afb928c498b8e7514366b155559/artifacts
+end_time: 1722625011085
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9d6c3afb928c498b8e7514366b155559
+run_name: amusing-ox-939
+run_uuid: 9d6c3afb928c498b8e7514366b155559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625011050
+status: 3
+tags: []
+user_id: julien

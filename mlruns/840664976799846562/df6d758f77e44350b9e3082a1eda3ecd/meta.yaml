@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/df6d758f77e44350b9e3082a1eda3ecd/artifacts
+end_time: 1722625009617
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: df6d758f77e44350b9e3082a1eda3ecd
+run_name: bedecked-pig-912
+run_uuid: df6d758f77e44350b9e3082a1eda3ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625009582
+status: 3
+tags: []
+user_id: julien

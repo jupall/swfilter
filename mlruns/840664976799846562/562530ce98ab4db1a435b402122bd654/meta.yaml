@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/562530ce98ab4db1a435b402122bd654/artifacts
+end_time: 1722620103490
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 562530ce98ab4db1a435b402122bd654
+run_name: glamorous-penguin-8
+run_uuid: 562530ce98ab4db1a435b402122bd654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620103351
+status: 3
+tags: []
+user_id: julien

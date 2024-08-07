@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/0a5b853dc5b04c238fb09e6b3306ee8b/artifacts
+deleted_time: 1722619353121
+end_time: 1722619053437
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 0a5b853dc5b04c238fb09e6b3306ee8b
+run_name: adventurous-ox-487
+run_uuid: 0a5b853dc5b04c238fb09e6b3306ee8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619053399
+status: 3
+tags: []
+user_id: julien

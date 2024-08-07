@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ffcd2312890746ee873b676fbc1493b0/artifacts
+end_time: 1722652119157
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ffcd2312890746ee873b676fbc1493b0
+run_name: classy-trout-623
+run_uuid: ffcd2312890746ee873b676fbc1493b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652119054
+status: 3
+tags: []
+user_id: julien

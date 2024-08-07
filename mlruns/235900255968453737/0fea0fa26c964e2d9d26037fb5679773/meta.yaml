@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0fea0fa26c964e2d9d26037fb5679773/artifacts
+end_time: 1722649185273
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0fea0fa26c964e2d9d26037fb5679773
+run_name: luminous-trout-97
+run_uuid: 0fea0fa26c964e2d9d26037fb5679773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649185185
+status: 3
+tags: []
+user_id: julien

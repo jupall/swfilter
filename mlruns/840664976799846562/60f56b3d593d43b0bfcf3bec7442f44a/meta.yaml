@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/60f56b3d593d43b0bfcf3bec7442f44a/artifacts
+end_time: 1722625152939
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 60f56b3d593d43b0bfcf3bec7442f44a
+run_name: defiant-snipe-673
+run_uuid: 60f56b3d593d43b0bfcf3bec7442f44a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625152898
+status: 3
+tags: []
+user_id: julien

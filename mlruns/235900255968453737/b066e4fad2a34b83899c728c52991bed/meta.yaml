@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b066e4fad2a34b83899c728c52991bed/artifacts
+end_time: 1722662439294
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b066e4fad2a34b83899c728c52991bed
+run_name: amazing-chimp-568
+run_uuid: b066e4fad2a34b83899c728c52991bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662439039
+status: 3
+tags: []
+user_id: julien

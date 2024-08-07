@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/96042841e89e4a498f625ce9e3bfe6ea/artifacts
+deleted_time: 1722618939344
+end_time: 1722618892076
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 96042841e89e4a498f625ce9e3bfe6ea
+run_name: nervous-mink-40
+run_uuid: 96042841e89e4a498f625ce9e3bfe6ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618892010
+status: 3
+tags: []
+user_id: julien

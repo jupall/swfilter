@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6db1f9eb4f7242e2b01ee8ffbf915071/artifacts
+end_time: 1722648173922
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6db1f9eb4f7242e2b01ee8ffbf915071
+run_name: enchanting-fox-101
+run_uuid: 6db1f9eb4f7242e2b01ee8ffbf915071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648173828
+status: 3
+tags: []
+user_id: julien

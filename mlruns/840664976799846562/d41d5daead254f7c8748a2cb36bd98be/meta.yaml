@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d41d5daead254f7c8748a2cb36bd98be/artifacts
+end_time: 1722644061003
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d41d5daead254f7c8748a2cb36bd98be
+run_name: orderly-kit-613
+run_uuid: d41d5daead254f7c8748a2cb36bd98be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644057302
+status: 3
+tags: []
+user_id: julien

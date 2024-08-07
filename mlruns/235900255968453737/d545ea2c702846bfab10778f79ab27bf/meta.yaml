@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d545ea2c702846bfab10778f79ab27bf/artifacts
+end_time: 1722663346182
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d545ea2c702846bfab10778f79ab27bf
+run_name: bouncy-hound-656
+run_uuid: d545ea2c702846bfab10778f79ab27bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663345787
+status: 3
+tags: []
+user_id: julien

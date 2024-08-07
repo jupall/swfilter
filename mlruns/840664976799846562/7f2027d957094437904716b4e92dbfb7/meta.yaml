@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7f2027d957094437904716b4e92dbfb7/artifacts
+end_time: 1722625049929
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7f2027d957094437904716b4e92dbfb7
+run_name: bouncy-foal-304
+run_uuid: 7f2027d957094437904716b4e92dbfb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625049527
+status: 3
+tags: []
+user_id: julien

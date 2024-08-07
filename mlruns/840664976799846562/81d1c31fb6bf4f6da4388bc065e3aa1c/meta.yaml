@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/81d1c31fb6bf4f6da4388bc065e3aa1c/artifacts
+end_time: 1722625176898
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 81d1c31fb6bf4f6da4388bc065e3aa1c
+run_name: unleashed-sloth-721
+run_uuid: 81d1c31fb6bf4f6da4388bc065e3aa1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625176698
+status: 3
+tags: []
+user_id: julien

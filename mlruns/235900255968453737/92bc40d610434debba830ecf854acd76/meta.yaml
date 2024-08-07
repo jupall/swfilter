@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/92bc40d610434debba830ecf854acd76/artifacts
+end_time: 1722657124342
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 92bc40d610434debba830ecf854acd76
+run_name: treasured-slug-532
+run_uuid: 92bc40d610434debba830ecf854acd76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722657090832
+status: 3
+tags: []
+user_id: julien

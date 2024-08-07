@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bff791b25a9940398597b1e7472ed253/artifacts
+end_time: 1722620081686
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bff791b25a9940398597b1e7472ed253
+run_name: rebellious-crow-719
+run_uuid: bff791b25a9940398597b1e7472ed253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620081652
+status: 3
+tags: []
+user_id: julien

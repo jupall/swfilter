@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7ff0f0c4c1c8491f803d585cb32ff96e/artifacts
+end_time: 1722644421837
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7ff0f0c4c1c8491f803d585cb32ff96e
+run_name: indecisive-skunk-190
+run_uuid: 7ff0f0c4c1c8491f803d585cb32ff96e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644421781
+status: 3
+tags: []
+user_id: julien

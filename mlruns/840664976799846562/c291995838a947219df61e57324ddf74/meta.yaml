@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c291995838a947219df61e57324ddf74/artifacts
+end_time: 1722625122655
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c291995838a947219df61e57324ddf74
+run_name: thoughtful-eel-163
+run_uuid: c291995838a947219df61e57324ddf74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625121897
+status: 3
+tags: []
+user_id: julien

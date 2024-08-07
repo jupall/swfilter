@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/afcd55b8e56e468d9ae8c4701e86bca5/artifacts
+end_time: 1722648720005
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: afcd55b8e56e468d9ae8c4701e86bca5
+run_name: rumbling-eel-684
+run_uuid: afcd55b8e56e468d9ae8c4701e86bca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648706445
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/aac35ca2e4d04f2784e8d176238f5dd5/artifacts
+end_time: 1722651923679
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: aac35ca2e4d04f2784e8d176238f5dd5
+run_name: painted-loon-867
+run_uuid: aac35ca2e4d04f2784e8d176238f5dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651923593
+status: 3
+tags: []
+user_id: julien

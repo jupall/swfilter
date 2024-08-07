@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e0ba01dedea24fe193cd727571a9df45/artifacts
+end_time: 1722625096604
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e0ba01dedea24fe193cd727571a9df45
+run_name: zealous-fish-213
+run_uuid: e0ba01dedea24fe193cd727571a9df45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625095674
+status: 3
+tags: []
+user_id: julien

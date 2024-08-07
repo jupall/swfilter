@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/c03c8518eb7c46f296b625c1517d2d84/artifacts
+deleted_time: 1722618419437
+end_time: 1722617876350
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: c03c8518eb7c46f296b625c1517d2d84
+run_name: polite-crow-470
+run_uuid: c03c8518eb7c46f296b625c1517d2d84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617870843
+status: 3
+tags: []
+user_id: julien

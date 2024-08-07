@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/d55ef28d492848ac885fe7decb668761/artifacts
+deleted_time: 1722618664511
+end_time: 1722618483749
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: d55ef28d492848ac885fe7decb668761
+run_name: polite-hare-9
+run_uuid: d55ef28d492848ac885fe7decb668761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618483712
+status: 3
+tags: []
+user_id: julien

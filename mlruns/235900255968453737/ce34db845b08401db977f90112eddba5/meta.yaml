@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ce34db845b08401db977f90112eddba5/artifacts
+end_time: 1722652117241
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ce34db845b08401db977f90112eddba5
+run_name: likeable-carp-273
+run_uuid: ce34db845b08401db977f90112eddba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652117137
+status: 3
+tags: []
+user_id: julien

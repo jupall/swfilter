@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1f7a734be1a149c2bfd48a28727017ae/artifacts
+end_time: 1722625008633
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1f7a734be1a149c2bfd48a28727017ae
+run_name: delightful-kite-782
+run_uuid: 1f7a734be1a149c2bfd48a28727017ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625008601
+status: 3
+tags: []
+user_id: julien

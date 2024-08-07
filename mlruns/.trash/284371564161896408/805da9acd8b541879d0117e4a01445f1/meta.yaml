@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/805da9acd8b541879d0117e4a01445f1/artifacts
+deleted_time: 1722618664511
+end_time: 1722618486389
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 805da9acd8b541879d0117e4a01445f1
+run_name: blushing-elk-510
+run_uuid: 805da9acd8b541879d0117e4a01445f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618486214
+status: 3
+tags: []
+user_id: julien

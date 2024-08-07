@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7f1a27f0004b49089339d9b0c38e02ed/artifacts
+end_time: 1722643995899
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7f1a27f0004b49089339d9b0c38e02ed
+run_name: dashing-finch-304
+run_uuid: 7f1a27f0004b49089339d9b0c38e02ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643995654
+status: 3
+tags: []
+user_id: julien

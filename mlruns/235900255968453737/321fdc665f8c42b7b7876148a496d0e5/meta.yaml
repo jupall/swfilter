@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/321fdc665f8c42b7b7876148a496d0e5/artifacts
+end_time: 1722661216418
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 321fdc665f8c42b7b7876148a496d0e5
+run_name: treasured-turtle-115
+run_uuid: 321fdc665f8c42b7b7876148a496d0e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722661111251
+status: 3
+tags: []
+user_id: julien

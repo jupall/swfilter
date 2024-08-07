@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/31f27641119d42d594804c6481422eed/artifacts
+end_time: 1722643909581
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 31f27641119d42d594804c6481422eed
+run_name: secretive-hare-789
+run_uuid: 31f27641119d42d594804c6481422eed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643909320
+status: 3
+tags: []
+user_id: julien

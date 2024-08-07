@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2d24be989e4645ae9fdb3491f3af3dff/artifacts
+end_time: 1722643916275
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2d24be989e4645ae9fdb3491f3af3dff
+run_name: whimsical-smelt-595
+run_uuid: 2d24be989e4645ae9fdb3491f3af3dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643915833
+status: 3
+tags: []
+user_id: julien

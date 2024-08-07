@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f06b427f53e740b3a7cdd8d53a83f2df/artifacts
+end_time: 1722648186184
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f06b427f53e740b3a7cdd8d53a83f2df
+run_name: fun-stoat-988
+run_uuid: f06b427f53e740b3a7cdd8d53a83f2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648185964
+status: 3
+tags: []
+user_id: julien

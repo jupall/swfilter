@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/85213846ed4843e1b78b83a868ef2883/artifacts
+end_time: 1722652109339
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 85213846ed4843e1b78b83a868ef2883
+run_name: righteous-swan-403
+run_uuid: 85213846ed4843e1b78b83a868ef2883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652108306
+status: 3
+tags: []
+user_id: julien

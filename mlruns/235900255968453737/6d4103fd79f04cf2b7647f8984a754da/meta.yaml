@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6d4103fd79f04cf2b7647f8984a754da/artifacts
+end_time: 1722662621874
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6d4103fd79f04cf2b7647f8984a754da
+run_name: silent-croc-819
+run_uuid: 6d4103fd79f04cf2b7647f8984a754da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662619781
+status: 3
+tags: []
+user_id: julien

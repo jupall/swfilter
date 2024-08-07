@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/c4de0b5a78a044a981cb87119a4462d3/artifacts
+end_time: 1722625018964
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: c4de0b5a78a044a981cb87119a4462d3
+run_name: adaptable-colt-368
+run_uuid: c4de0b5a78a044a981cb87119a4462d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625018793
+status: 3
+tags: []
+user_id: julien

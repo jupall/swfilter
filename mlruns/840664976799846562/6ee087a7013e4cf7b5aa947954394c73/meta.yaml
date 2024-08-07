@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6ee087a7013e4cf7b5aa947954394c73/artifacts
+end_time: 1722643711099
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6ee087a7013e4cf7b5aa947954394c73
+run_name: salty-robin-387
+run_uuid: 6ee087a7013e4cf7b5aa947954394c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643569561
+status: 3
+tags: []
+user_id: julien

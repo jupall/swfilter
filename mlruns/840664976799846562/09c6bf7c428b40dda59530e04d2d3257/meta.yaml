@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/09c6bf7c428b40dda59530e04d2d3257/artifacts
+end_time: 1722644484495
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 09c6bf7c428b40dda59530e04d2d3257
+run_name: stylish-gnu-222
+run_uuid: 09c6bf7c428b40dda59530e04d2d3257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644484174
+status: 3
+tags: []
+user_id: julien

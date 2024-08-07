@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e45b258c86a4440bad1e3a37a66c1b8d/artifacts
+end_time: 1722662735487
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e45b258c86a4440bad1e3a37a66c1b8d
+run_name: debonair-mouse-849
+run_uuid: e45b258c86a4440bad1e3a37a66c1b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662735371
+status: 3
+tags: []
+user_id: julien

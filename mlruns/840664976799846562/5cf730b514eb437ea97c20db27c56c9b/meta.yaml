@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5cf730b514eb437ea97c20db27c56c9b/artifacts
+end_time: 1722620088609
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5cf730b514eb437ea97c20db27c56c9b
+run_name: masked-ray-19
+run_uuid: 5cf730b514eb437ea97c20db27c56c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620088458
+status: 3
+tags: []
+user_id: julien

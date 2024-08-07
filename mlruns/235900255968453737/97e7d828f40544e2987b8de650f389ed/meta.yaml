@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/97e7d828f40544e2987b8de650f389ed/artifacts
+end_time: 1722662742341
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 97e7d828f40544e2987b8de650f389ed
+run_name: stately-rat-432
+run_uuid: 97e7d828f40544e2987b8de650f389ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662742232
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/afa00f8a20d542d0ae97c32e5cbd5179/artifacts
+end_time: 1722625151733
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: afa00f8a20d542d0ae97c32e5cbd5179
+run_name: colorful-mule-487
+run_uuid: afa00f8a20d542d0ae97c32e5cbd5179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625151691
+status: 3
+tags: []
+user_id: julien

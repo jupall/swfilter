@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0c66b1b8813b499b97cb1b99b05709d8/artifacts
+end_time: 1722649188130
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0c66b1b8813b499b97cb1b99b05709d8
+run_name: youthful-dolphin-552
+run_uuid: 0c66b1b8813b499b97cb1b99b05709d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649188046
+status: 3
+tags: []
+user_id: julien

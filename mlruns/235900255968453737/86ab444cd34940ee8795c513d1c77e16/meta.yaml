@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/86ab444cd34940ee8795c513d1c77e16/artifacts
+end_time: 1722648195580
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 86ab444cd34940ee8795c513d1c77e16
+run_name: melodic-ox-365
+run_uuid: 86ab444cd34940ee8795c513d1c77e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648195358
+status: 3
+tags: []
+user_id: julien

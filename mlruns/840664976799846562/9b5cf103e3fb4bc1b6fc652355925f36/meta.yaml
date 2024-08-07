@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9b5cf103e3fb4bc1b6fc652355925f36/artifacts
+end_time: 1722620100769
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9b5cf103e3fb4bc1b6fc652355925f36
+run_name: sedate-rook-386
+run_uuid: 9b5cf103e3fb4bc1b6fc652355925f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620100619
+status: 3
+tags: []
+user_id: julien

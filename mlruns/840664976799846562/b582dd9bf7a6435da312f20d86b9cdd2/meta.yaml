@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b582dd9bf7a6435da312f20d86b9cdd2/artifacts
+end_time: 1722644418548
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b582dd9bf7a6435da312f20d86b9cdd2
+run_name: thoughtful-ant-139
+run_uuid: b582dd9bf7a6435da312f20d86b9cdd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644418494
+status: 3
+tags: []
+user_id: julien

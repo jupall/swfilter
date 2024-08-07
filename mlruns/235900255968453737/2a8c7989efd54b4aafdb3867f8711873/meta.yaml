@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2a8c7989efd54b4aafdb3867f8711873/artifacts
+end_time: 1722662449654
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2a8c7989efd54b4aafdb3867f8711873
+run_name: lyrical-frog-44
+run_uuid: 2a8c7989efd54b4aafdb3867f8711873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662449393
+status: 3
+tags: []
+user_id: julien

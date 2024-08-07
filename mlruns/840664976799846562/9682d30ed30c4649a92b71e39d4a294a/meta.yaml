@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9682d30ed30c4649a92b71e39d4a294a/artifacts
+end_time: 1722619376956
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9682d30ed30c4649a92b71e39d4a294a
+run_name: trusting-rook-365
+run_uuid: 9682d30ed30c4649a92b71e39d4a294a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619376917
+status: 3
+tags: []
+user_id: julien

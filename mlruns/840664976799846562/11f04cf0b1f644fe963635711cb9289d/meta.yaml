@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/11f04cf0b1f644fe963635711cb9289d/artifacts
+end_time: 1722643919621
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 11f04cf0b1f644fe963635711cb9289d
+run_name: selective-rook-80
+run_uuid: 11f04cf0b1f644fe963635711cb9289d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643918959
+status: 3
+tags: []
+user_id: julien

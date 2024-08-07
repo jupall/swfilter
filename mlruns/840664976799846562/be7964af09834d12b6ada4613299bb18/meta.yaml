@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/be7964af09834d12b6ada4613299bb18/artifacts
+end_time: 1722619390976
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: be7964af09834d12b6ada4613299bb18
+run_name: persistent-fly-969
+run_uuid: be7964af09834d12b6ada4613299bb18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619390758
+status: 3
+tags: []
+user_id: julien

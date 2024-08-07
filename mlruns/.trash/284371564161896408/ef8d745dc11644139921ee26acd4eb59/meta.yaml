@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/ef8d745dc11644139921ee26acd4eb59/artifacts
+deleted_time: 1722618664511
+end_time: 1722618484306
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: ef8d745dc11644139921ee26acd4eb59
+run_name: burly-hog-461
+run_uuid: ef8d745dc11644139921ee26acd4eb59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618484281
+status: 3
+tags: []
+user_id: julien

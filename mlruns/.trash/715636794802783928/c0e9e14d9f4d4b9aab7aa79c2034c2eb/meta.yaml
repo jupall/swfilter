@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/c0e9e14d9f4d4b9aab7aa79c2034c2eb/artifacts
+deleted_time: 1722618419437
+end_time: 1722617837938
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: c0e9e14d9f4d4b9aab7aa79c2034c2eb
+run_name: gifted-grub-551
+run_uuid: c0e9e14d9f4d4b9aab7aa79c2034c2eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617837874
+status: 3
+tags: []
+user_id: julien

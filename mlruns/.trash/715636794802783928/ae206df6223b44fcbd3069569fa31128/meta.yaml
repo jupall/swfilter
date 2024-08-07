@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/ae206df6223b44fcbd3069569fa31128/artifacts
+deleted_time: 1722618419437
+end_time: 1722618149449
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: ae206df6223b44fcbd3069569fa31128
+run_name: judicious-newt-123
+run_uuid: ae206df6223b44fcbd3069569fa31128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618144848
+status: 3
+tags: []
+user_id: julien

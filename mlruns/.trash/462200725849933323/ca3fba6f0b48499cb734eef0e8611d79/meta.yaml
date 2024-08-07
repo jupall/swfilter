@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/ca3fba6f0b48499cb734eef0e8611d79/artifacts
+deleted_time: 1722618939344
+end_time: 1722618705120
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: ca3fba6f0b48499cb734eef0e8611d79
+run_name: lyrical-cat-867
+run_uuid: ca3fba6f0b48499cb734eef0e8611d79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618704872
+status: 3
+tags: []
+user_id: julien

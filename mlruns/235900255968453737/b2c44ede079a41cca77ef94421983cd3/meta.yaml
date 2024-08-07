@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b2c44ede079a41cca77ef94421983cd3/artifacts
+end_time: 1722651945775
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b2c44ede079a41cca77ef94421983cd3
+run_name: caring-stoat-879
+run_uuid: b2c44ede079a41cca77ef94421983cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651945567
+status: 3
+tags: []
+user_id: julien

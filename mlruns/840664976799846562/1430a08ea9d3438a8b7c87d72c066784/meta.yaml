@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1430a08ea9d3438a8b7c87d72c066784/artifacts
+end_time: 1722643991476
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1430a08ea9d3438a8b7c87d72c066784
+run_name: dazzling-fawn-153
+run_uuid: 1430a08ea9d3438a8b7c87d72c066784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643991235
+status: 3
+tags: []
+user_id: julien

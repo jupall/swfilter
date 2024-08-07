@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bbaeeec186f64747b82058f394ab4837/artifacts
+end_time: 1722662426780
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bbaeeec186f64747b82058f394ab4837
+run_name: unleashed-rat-803
+run_uuid: bbaeeec186f64747b82058f394ab4837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662426517
+status: 3
+tags: []
+user_id: julien

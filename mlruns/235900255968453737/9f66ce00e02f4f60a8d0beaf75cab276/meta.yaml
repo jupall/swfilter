@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/9f66ce00e02f4f60a8d0beaf75cab276/artifacts
+end_time: 1722651923185
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 9f66ce00e02f4f60a8d0beaf75cab276
+run_name: stately-shoat-705
+run_uuid: 9f66ce00e02f4f60a8d0beaf75cab276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651923098
+status: 3
+tags: []
+user_id: julien

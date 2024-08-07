@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2d44f5b84ab54fc48720b5187ad1e7e2/artifacts
+end_time: 1722644001471
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2d44f5b84ab54fc48720b5187ad1e7e2
+run_name: lyrical-vole-740
+run_uuid: 2d44f5b84ab54fc48720b5187ad1e7e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644001231
+status: 3
+tags: []
+user_id: julien

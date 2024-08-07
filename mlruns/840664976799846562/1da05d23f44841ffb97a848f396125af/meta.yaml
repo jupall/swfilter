@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/1da05d23f44841ffb97a848f396125af/artifacts
+end_time: 1722623854893
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 1da05d23f44841ffb97a848f396125af
+run_name: nebulous-elk-118
+run_uuid: 1da05d23f44841ffb97a848f396125af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722623826722
+status: 3
+tags: []
+user_id: julien

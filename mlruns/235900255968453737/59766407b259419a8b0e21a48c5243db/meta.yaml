@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/59766407b259419a8b0e21a48c5243db/artifacts
+end_time: 1722649074990
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 59766407b259419a8b0e21a48c5243db
+run_name: caring-cub-42
+run_uuid: 59766407b259419a8b0e21a48c5243db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649070951
+status: 3
+tags: []
+user_id: julien

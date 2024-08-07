@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ae16224cc1fa4caca32e5aab9263b68a/artifacts
+end_time: 1722619375052
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ae16224cc1fa4caca32e5aab9263b68a
+run_name: respected-horse-571
+run_uuid: ae16224cc1fa4caca32e5aab9263b68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619375016
+status: 3
+tags: []
+user_id: julien

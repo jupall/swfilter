@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/31e59bb727db4efc83bdf87ee78cab85/artifacts
+end_time: 1722620467205
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 31e59bb727db4efc83bdf87ee78cab85
+run_name: beautiful-koi-775
+run_uuid: 31e59bb727db4efc83bdf87ee78cab85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620435637
+status: 3
+tags: []
+user_id: julien

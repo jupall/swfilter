@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f20bf4a6f760472f8c44a70a668ec45b/artifacts
+end_time: 1722643859996
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f20bf4a6f760472f8c44a70a668ec45b
+run_name: learned-goat-557
+run_uuid: f20bf4a6f760472f8c44a70a668ec45b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643859950
+status: 3
+tags: []
+user_id: julien

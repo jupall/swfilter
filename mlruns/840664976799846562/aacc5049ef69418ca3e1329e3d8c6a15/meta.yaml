@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/aacc5049ef69418ca3e1329e3d8c6a15/artifacts
+end_time: 1722620080362
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: aacc5049ef69418ca3e1329e3d8c6a15
+run_name: bald-foal-516
+run_uuid: aacc5049ef69418ca3e1329e3d8c6a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620080328
+status: 3
+tags: []
+user_id: julien

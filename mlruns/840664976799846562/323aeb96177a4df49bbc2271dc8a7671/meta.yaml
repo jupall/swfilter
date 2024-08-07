@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/323aeb96177a4df49bbc2271dc8a7671/artifacts
+end_time: 1722644368071
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 323aeb96177a4df49bbc2271dc8a7671
+run_name: mysterious-hawk-949
+run_uuid: 323aeb96177a4df49bbc2271dc8a7671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644365362
+status: 3
+tags: []
+user_id: julien

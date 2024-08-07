@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e17d50bfa55741d5ac3dd0b50fd2a01c/artifacts
+end_time: 1722652123820
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e17d50bfa55741d5ac3dd0b50fd2a01c
+run_name: blushing-ray-54
+run_uuid: e17d50bfa55741d5ac3dd0b50fd2a01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652123713
+status: 3
+tags: []
+user_id: julien

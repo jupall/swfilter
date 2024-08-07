@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/da1c9ad5f0e546b592cc0868ebcdb9f4/artifacts
+deleted_time: 1722618664511
+end_time: 1722618495363
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: da1c9ad5f0e546b592cc0868ebcdb9f4
+run_name: bustling-stork-211
+run_uuid: da1c9ad5f0e546b592cc0868ebcdb9f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618495186
+status: 3
+tags: []
+user_id: julien

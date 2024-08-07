@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ff670f387227469fb605fa0b04d42b8d/artifacts
+end_time: 1722643854243
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ff670f387227469fb605fa0b04d42b8d
+run_name: intelligent-dog-769
+run_uuid: ff670f387227469fb605fa0b04d42b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643854197
+status: 3
+tags: []
+user_id: julien

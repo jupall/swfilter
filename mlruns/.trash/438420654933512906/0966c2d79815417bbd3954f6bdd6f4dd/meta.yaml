@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/0966c2d79815417bbd3954f6bdd6f4dd/artifacts
+deleted_time: 1722619353121
+end_time: 1722619060031
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 0966c2d79815417bbd3954f6bdd6f4dd
+run_name: shivering-gnat-613
+run_uuid: 0966c2d79815417bbd3954f6bdd6f4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619059834
+status: 3
+tags: []
+user_id: julien

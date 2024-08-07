@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7b261b7e7b9d42739a2ad3fc82972b5d/artifacts
+end_time: 1722643988764
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7b261b7e7b9d42739a2ad3fc82972b5d
+run_name: zealous-wasp-329
+run_uuid: 7b261b7e7b9d42739a2ad3fc82972b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643988524
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f7275a9bf31f4261bedc9f9636d1428a/artifacts
+end_time: 1722653080386
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f7275a9bf31f4261bedc9f9636d1428a
+run_name: luminous-seal-393
+run_uuid: f7275a9bf31f4261bedc9f9636d1428a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722653051815
+status: 3
+tags: []
+user_id: julien

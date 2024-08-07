@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b851172a64a545189da8f8dfb477102e/artifacts
+end_time: 1722625154587
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b851172a64a545189da8f8dfb477102e
+run_name: bold-hen-648
+run_uuid: b851172a64a545189da8f8dfb477102e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625154388
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/71747962ec074a9db4944deecc3a0df1/artifacts
+deleted_time: 1722618419437
+end_time: 1722617838147
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 71747962ec074a9db4944deecc3a0df1
+run_name: casual-grouse-960
+run_uuid: 71747962ec074a9db4944deecc3a0df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617838082
+status: 3
+tags: []
+user_id: julien

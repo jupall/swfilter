@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/9c58506ab8a5403db3312db0c2c3dbc9/artifacts
+deleted_time: 1722618939344
+end_time: 1722618694518
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 9c58506ab8a5403db3312db0c2c3dbc9
+run_name: vaunted-loon-216
+run_uuid: 9c58506ab8a5403db3312db0c2c3dbc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618694457
+status: 3
+tags: []
+user_id: julien

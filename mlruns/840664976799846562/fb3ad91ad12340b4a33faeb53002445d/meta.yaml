@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fb3ad91ad12340b4a33faeb53002445d/artifacts
+end_time: 1722643910492
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fb3ad91ad12340b4a33faeb53002445d
+run_name: dazzling-mouse-226
+run_uuid: fb3ad91ad12340b4a33faeb53002445d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643910097
+status: 3
+tags: []
+user_id: julien

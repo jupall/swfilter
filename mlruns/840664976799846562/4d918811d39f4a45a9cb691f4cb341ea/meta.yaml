@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/4d918811d39f4a45a9cb691f4cb341ea/artifacts
+end_time: 1722621540171
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 4d918811d39f4a45a9cb691f4cb341ea
+run_name: secretive-zebra-467
+run_uuid: 4d918811d39f4a45a9cb691f4cb341ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621505504
+status: 3
+tags: []
+user_id: julien

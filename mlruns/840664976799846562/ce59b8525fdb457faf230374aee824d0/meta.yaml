@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ce59b8525fdb457faf230374aee824d0/artifacts
+end_time: 1722641372848
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ce59b8525fdb457faf230374aee824d0
+run_name: carefree-smelt-784
+run_uuid: ce59b8525fdb457faf230374aee824d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722641317615
+status: 3
+tags: []
+user_id: julien

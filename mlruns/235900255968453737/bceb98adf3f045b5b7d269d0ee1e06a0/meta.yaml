@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bceb98adf3f045b5b7d269d0ee1e06a0/artifacts
+end_time: 1722661111236
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bceb98adf3f045b5b7d269d0ee1e06a0
+run_name: salty-stork-708
+run_uuid: bceb98adf3f045b5b7d269d0ee1e06a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722661027355
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/314975e8fda549f09910502bb4806e42/artifacts
+deleted_time: 1722618419437
+end_time: 1722617839645
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 314975e8fda549f09910502bb4806e42
+run_name: capable-wolf-704
+run_uuid: 314975e8fda549f09910502bb4806e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617839582
+status: 3
+tags: []
+user_id: julien

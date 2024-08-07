@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2491e96de7ba4ee6ac0daba9e951b653/artifacts
+end_time: 1722663371473
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2491e96de7ba4ee6ac0daba9e951b653
+run_name: welcoming-bear-248
+run_uuid: 2491e96de7ba4ee6ac0daba9e951b653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663371068
+status: 3
+tags: []
+user_id: julien

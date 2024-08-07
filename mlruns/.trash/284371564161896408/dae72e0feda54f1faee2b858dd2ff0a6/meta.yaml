@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/dae72e0feda54f1faee2b858dd2ff0a6/artifacts
+deleted_time: 1722618664511
+end_time: 1722618500603
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: dae72e0feda54f1faee2b858dd2ff0a6
+run_name: puzzled-rat-921
+run_uuid: dae72e0feda54f1faee2b858dd2ff0a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618500396
+status: 3
+tags: []
+user_id: julien

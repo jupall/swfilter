@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e72e8115c1a14b88a386c57c6bb40f69/artifacts
+end_time: 1722663368821
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e72e8115c1a14b88a386c57c6bb40f69
+run_name: fortunate-eel-51
+run_uuid: e72e8115c1a14b88a386c57c6bb40f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663368366
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d2902cf9f3e34744ad4185a267c32e05/artifacts
+end_time: 1722662759558
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d2902cf9f3e34744ad4185a267c32e05
+run_name: amazing-wasp-182
+run_uuid: d2902cf9f3e34744ad4185a267c32e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662759296
+status: 3
+tags: []
+user_id: julien

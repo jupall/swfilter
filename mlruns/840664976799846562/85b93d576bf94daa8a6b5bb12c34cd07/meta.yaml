@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/85b93d576bf94daa8a6b5bb12c34cd07/artifacts
+end_time: 1722644525443
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 85b93d576bf94daa8a6b5bb12c34cd07
+run_name: resilient-carp-184
+run_uuid: 85b93d576bf94daa8a6b5bb12c34cd07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644525194
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/644779f17b214e098d80d149c87b9cb7/artifacts
+end_time: 1722643998436
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 644779f17b214e098d80d149c87b9cb7
+run_name: learned-sheep-503
+run_uuid: 644779f17b214e098d80d149c87b9cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643998181
+status: 3
+tags: []
+user_id: julien

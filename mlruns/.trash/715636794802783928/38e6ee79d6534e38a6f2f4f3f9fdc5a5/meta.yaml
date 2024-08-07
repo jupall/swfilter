@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/38e6ee79d6534e38a6f2f4f3f9fdc5a5/artifacts
+deleted_time: 1722618419437
+end_time: 1722617840052
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 38e6ee79d6534e38a6f2f4f3f9fdc5a5
+run_name: overjoyed-hawk-486
+run_uuid: 38e6ee79d6534e38a6f2f4f3f9fdc5a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617839991
+status: 3
+tags: []
+user_id: julien

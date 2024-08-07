@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/a828462a56cd455dbff6bb163201e161/artifacts
+end_time: 1722620083675
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: a828462a56cd455dbff6bb163201e161
+run_name: rare-cow-936
+run_uuid: a828462a56cd455dbff6bb163201e161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620083521
+status: 3
+tags: []
+user_id: julien

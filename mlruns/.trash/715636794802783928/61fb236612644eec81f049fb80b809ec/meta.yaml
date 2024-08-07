@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/61fb236612644eec81f049fb80b809ec/artifacts
+deleted_time: 1722618419437
+end_time: 1722617781781
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 61fb236612644eec81f049fb80b809ec
+run_name: victorious-fox-577
+run_uuid: 61fb236612644eec81f049fb80b809ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617781733
+status: 3
+tags: []
+user_id: julien

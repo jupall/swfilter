@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/79365854c3704457b7ee53d7c9da8093/artifacts
+end_time: 1722643872667
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 79365854c3704457b7ee53d7c9da8093
+run_name: righteous-bird-846
+run_uuid: 79365854c3704457b7ee53d7c9da8093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643872458
+status: 3
+tags: []
+user_id: julien

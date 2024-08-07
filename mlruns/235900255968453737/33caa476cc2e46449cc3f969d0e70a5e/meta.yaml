@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/33caa476cc2e46449cc3f969d0e70a5e/artifacts
+end_time: 1722662539652
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 33caa476cc2e46449cc3f969d0e70a5e
+run_name: wise-midge-337
+run_uuid: 33caa476cc2e46449cc3f969d0e70a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662537370
+status: 3
+tags: []
+user_id: julien

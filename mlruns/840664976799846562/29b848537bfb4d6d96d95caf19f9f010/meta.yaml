@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/29b848537bfb4d6d96d95caf19f9f010/artifacts
+end_time: 1722643984201
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 29b848537bfb4d6d96d95caf19f9f010
+run_name: unruly-crow-932
+run_uuid: 29b848537bfb4d6d96d95caf19f9f010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643983949
+status: 3
+tags: []
+user_id: julien

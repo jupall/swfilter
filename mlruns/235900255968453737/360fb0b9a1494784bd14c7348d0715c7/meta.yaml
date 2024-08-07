@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/360fb0b9a1494784bd14c7348d0715c7/artifacts
+end_time: 1722662703743
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 360fb0b9a1494784bd14c7348d0715c7
+run_name: bemused-elk-242
+run_uuid: 360fb0b9a1494784bd14c7348d0715c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662701361
+status: 3
+tags: []
+user_id: julien

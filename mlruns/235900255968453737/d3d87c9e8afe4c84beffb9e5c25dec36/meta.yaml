@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d3d87c9e8afe4c84beffb9e5c25dec36/artifacts
+end_time: 1722663272167
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d3d87c9e8afe4c84beffb9e5c25dec36
+run_name: auspicious-midge-113
+run_uuid: d3d87c9e8afe4c84beffb9e5c25dec36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663271906
+status: 3
+tags: []
+user_id: julien

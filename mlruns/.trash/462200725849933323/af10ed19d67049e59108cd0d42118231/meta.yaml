@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/af10ed19d67049e59108cd0d42118231/artifacts
+deleted_time: 1722618939344
+end_time: 1722618898003
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: af10ed19d67049e59108cd0d42118231
+run_name: brawny-owl-862
+run_uuid: af10ed19d67049e59108cd0d42118231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618897942
+status: 3
+tags: []
+user_id: julien

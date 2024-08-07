@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/9f1001e3247b4845a84649867231e04b/artifacts
+end_time: 1722643873107
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 9f1001e3247b4845a84649867231e04b
+run_name: fortunate-cat-643
+run_uuid: 9f1001e3247b4845a84649867231e04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643872895
+status: 3
+tags: []
+user_id: julien

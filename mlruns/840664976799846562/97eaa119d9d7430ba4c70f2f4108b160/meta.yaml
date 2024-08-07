@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/97eaa119d9d7430ba4c70f2f4108b160/artifacts
+end_time: 1722643860281
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 97eaa119d9d7430ba4c70f2f4108b160
+run_name: silent-fly-178
+run_uuid: 97eaa119d9d7430ba4c70f2f4108b160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643860233
+status: 3
+tags: []
+user_id: julien

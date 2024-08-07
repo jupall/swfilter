@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/b469f7c36aff4819b3f20a04283379dd/artifacts
+end_time: 1722621356250
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: b469f7c36aff4819b3f20a04283379dd
+run_name: stately-foal-63
+run_uuid: b469f7c36aff4819b3f20a04283379dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621322479
+status: 3
+tags: []
+user_id: julien

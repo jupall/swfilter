@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/88f38b673d9b4073916d82163ead7bb4/artifacts
+deleted_time: 1722619353121
+end_time: 1722619070177
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 88f38b673d9b4073916d82163ead7bb4
+run_name: luminous-wolf-411
+run_uuid: 88f38b673d9b4073916d82163ead7bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619069981
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/6fab0aba19dd405190b6c92a78434d1d/artifacts
+deleted_time: 1722618664511
+end_time: 1722618481151
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 6fab0aba19dd405190b6c92a78434d1d
+run_name: fortunate-bug-572
+run_uuid: 6fab0aba19dd405190b6c92a78434d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618481112
+status: 3
+tags: []
+user_id: julien

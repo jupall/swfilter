@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0152a043b210414bbefc130db84ebe20/artifacts
+end_time: 1722652002941
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0152a043b210414bbefc130db84ebe20
+run_name: enchanting-jay-887
+run_uuid: 0152a043b210414bbefc130db84ebe20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652000811
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3f53a8709e014f82afeabfc8137cb4ea/artifacts
+end_time: 1722644001221
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3f53a8709e014f82afeabfc8137cb4ea
+run_name: bouncy-gull-476
+run_uuid: 3f53a8709e014f82afeabfc8137cb4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644000989
+status: 3
+tags: []
+user_id: julien

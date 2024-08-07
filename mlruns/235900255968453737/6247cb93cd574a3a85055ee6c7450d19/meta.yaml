@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6247cb93cd574a3a85055ee6c7450d19/artifacts
+end_time: 1722662444697
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6247cb93cd574a3a85055ee6c7450d19
+run_name: unique-koi-623
+run_uuid: 6247cb93cd574a3a85055ee6c7450d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662444440
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/94566828203140c6a7070d56ad5c9a18/artifacts
+end_time: 1722619391190
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 94566828203140c6a7070d56ad5c9a18
+run_name: auspicious-shoat-676
+run_uuid: 94566828203140c6a7070d56ad5c9a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619390984
+status: 3
+tags: []
+user_id: julien

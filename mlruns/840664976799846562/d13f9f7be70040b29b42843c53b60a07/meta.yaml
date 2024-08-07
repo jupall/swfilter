@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d13f9f7be70040b29b42843c53b60a07/artifacts
+end_time: 1722644004696
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d13f9f7be70040b29b42843c53b60a07
+run_name: powerful-sow-527
+run_uuid: d13f9f7be70040b29b42843c53b60a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644004460
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/d2df45e30b904139bd0f838f6d3bf970/artifacts
+deleted_time: 1722618664511
+end_time: 1722618482998
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: d2df45e30b904139bd0f838f6d3bf970
+run_name: sneaky-sloth-398
+run_uuid: d2df45e30b904139bd0f838f6d3bf970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618482960
+status: 3
+tags: []
+user_id: julien

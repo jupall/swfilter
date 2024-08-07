@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/59c030c604554cd392a12e5786000b31/artifacts
+end_time: 1722643932531
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 59c030c604554cd392a12e5786000b31
+run_name: puzzled-mouse-539
+run_uuid: 59c030c604554cd392a12e5786000b31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643931938
+status: 3
+tags: []
+user_id: julien

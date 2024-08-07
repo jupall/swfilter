@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/ad3a46644b8e4baeaf974b6d796e6d4e/artifacts
+end_time: 1722652164245
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: ad3a46644b8e4baeaf974b6d796e6d4e
+run_name: placid-lynx-994
+run_uuid: ad3a46644b8e4baeaf974b6d796e6d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652163971
+status: 3
+tags: []
+user_id: julien

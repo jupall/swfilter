@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/675cd7948b97479ba243585dc272ba95/artifacts
+end_time: 1722644540294
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 675cd7948b97479ba243585dc272ba95
+run_name: powerful-mink-724
+run_uuid: 675cd7948b97479ba243585dc272ba95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644540039
+status: 3
+tags: []
+user_id: julien

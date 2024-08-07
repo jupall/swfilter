@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/157711946aeb42aa9bc72d7676e9dc8f/artifacts
+end_time: 1722648170211
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 157711946aeb42aa9bc72d7676e9dc8f
+run_name: indecisive-cow-930
+run_uuid: 157711946aeb42aa9bc72d7676e9dc8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648170116
+status: 3
+tags: []
+user_id: julien

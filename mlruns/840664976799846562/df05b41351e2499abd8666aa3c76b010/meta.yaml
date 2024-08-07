@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/df05b41351e2499abd8666aa3c76b010/artifacts
+end_time: 1722625171715
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: df05b41351e2499abd8666aa3c76b010
+run_name: peaceful-steed-825
+run_uuid: df05b41351e2499abd8666aa3c76b010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625171527
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/20e2344126da472aa7c9bdfad7a3dd18/artifacts
+deleted_time: 1722618664511
+end_time: 1722618482953
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 20e2344126da472aa7c9bdfad7a3dd18
+run_name: invincible-vole-666
+run_uuid: 20e2344126da472aa7c9bdfad7a3dd18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618482913
+status: 3
+tags: []
+user_id: julien

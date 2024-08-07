@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/bfd1549102cf407f94fcaf2e7a4153ef/artifacts
+end_time: 1722662422269
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: bfd1549102cf407f94fcaf2e7a4153ef
+run_name: delicate-grouse-626
+run_uuid: bfd1549102cf407f94fcaf2e7a4153ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662422021
+status: 3
+tags: []
+user_id: julien

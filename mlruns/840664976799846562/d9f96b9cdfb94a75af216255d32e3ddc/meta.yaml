@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d9f96b9cdfb94a75af216255d32e3ddc/artifacts
+end_time: 1722644421969
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d9f96b9cdfb94a75af216255d32e3ddc
+run_name: whimsical-bass-788
+run_uuid: d9f96b9cdfb94a75af216255d32e3ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644421913
+status: 3
+tags: []
+user_id: julien

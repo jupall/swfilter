@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/b7f53625eb524f8991030bc514065cf8/artifacts
+end_time: 1722648181056
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: b7f53625eb524f8991030bc514065cf8
+run_name: unequaled-hen-722
+run_uuid: b7f53625eb524f8991030bc514065cf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648180825
+status: 3
+tags: []
+user_id: julien

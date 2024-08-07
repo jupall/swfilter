@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6f019bf20a704ad98b6299b868e7a2de/artifacts
+end_time: 1722619747651
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6f019bf20a704ad98b6299b868e7a2de
+run_name: clumsy-auk-933
+run_uuid: 6f019bf20a704ad98b6299b868e7a2de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619743561
+status: 3
+tags: []
+user_id: julien

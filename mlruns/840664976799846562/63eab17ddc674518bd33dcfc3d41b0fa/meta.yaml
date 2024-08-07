@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/63eab17ddc674518bd33dcfc3d41b0fa/artifacts
+end_time: 1722633401986
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 63eab17ddc674518bd33dcfc3d41b0fa
+run_name: chill-calf-620
+run_uuid: 63eab17ddc674518bd33dcfc3d41b0fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722633307977
+status: 3
+tags: []
+user_id: julien

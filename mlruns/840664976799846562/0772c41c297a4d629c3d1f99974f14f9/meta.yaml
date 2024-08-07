@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0772c41c297a4d629c3d1f99974f14f9/artifacts
+end_time: 1722644544735
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0772c41c297a4d629c3d1f99974f14f9
+run_name: debonair-finch-293
+run_uuid: 0772c41c297a4d629c3d1f99974f14f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644544503
+status: 3
+tags: []
+user_id: julien

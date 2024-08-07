@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8b89830fa4bf4801b158208169030c9e/artifacts
+end_time: 1722643977194
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8b89830fa4bf4801b158208169030c9e
+run_name: tasteful-chimp-578
+run_uuid: 8b89830fa4bf4801b158208169030c9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643977143
+status: 3
+tags: []
+user_id: julien

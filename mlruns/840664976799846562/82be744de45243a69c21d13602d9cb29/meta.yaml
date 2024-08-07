@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/82be744de45243a69c21d13602d9cb29/artifacts
+end_time: 1722643977257
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 82be744de45243a69c21d13602d9cb29
+run_name: agreeable-lamb-62
+run_uuid: 82be744de45243a69c21d13602d9cb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643977204
+status: 3
+tags: []
+user_id: julien

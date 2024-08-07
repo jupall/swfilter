@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/85b27a06b3be4114acc60176e6f86ecf/artifacts
+end_time: 1722620503959
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 85b27a06b3be4114acc60176e6f86ecf
+run_name: rumbling-shrew-471
+run_uuid: 85b27a06b3be4114acc60176e6f86ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620485221
+status: 3
+tags: []
+user_id: julien

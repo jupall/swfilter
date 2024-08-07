@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cc4bcf3652c4422f9ed04015da6aab7a/artifacts
+end_time: 1722625013195
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cc4bcf3652c4422f9ed04015da6aab7a
+run_name: gentle-penguin-899
+run_uuid: cc4bcf3652c4422f9ed04015da6aab7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625013160
+status: 3
+tags: []
+user_id: julien

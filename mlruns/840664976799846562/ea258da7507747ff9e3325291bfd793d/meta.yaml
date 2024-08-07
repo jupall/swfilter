@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ea258da7507747ff9e3325291bfd793d/artifacts
+end_time: 1722625180758
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ea258da7507747ff9e3325291bfd793d
+run_name: youthful-hawk-706
+run_uuid: ea258da7507747ff9e3325291bfd793d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625180571
+status: 3
+tags: []
+user_id: julien

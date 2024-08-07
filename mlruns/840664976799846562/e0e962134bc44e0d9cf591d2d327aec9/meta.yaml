@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e0e962134bc44e0d9cf591d2d327aec9/artifacts
+end_time: 1722643954913
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e0e962134bc44e0d9cf591d2d327aec9
+run_name: delicate-whale-268
+run_uuid: e0e962134bc44e0d9cf591d2d327aec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643954316
+status: 3
+tags: []
+user_id: julien

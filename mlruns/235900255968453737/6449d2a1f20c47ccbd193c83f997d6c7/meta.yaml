@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6449d2a1f20c47ccbd193c83f997d6c7/artifacts
+end_time: 1722648177184
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6449d2a1f20c47ccbd193c83f997d6c7
+run_name: delicate-hare-786
+run_uuid: 6449d2a1f20c47ccbd193c83f997d6c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648176962
+status: 3
+tags: []
+user_id: julien

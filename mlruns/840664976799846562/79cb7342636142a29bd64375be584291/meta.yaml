@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/79cb7342636142a29bd64375be584291/artifacts
+end_time: 1722625170366
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 79cb7342636142a29bd64375be584291
+run_name: fearless-bat-145
+run_uuid: 79cb7342636142a29bd64375be584291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625170192
+status: 3
+tags: []
+user_id: julien

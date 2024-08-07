@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/78ea7996f5ee41a0926148e3f82ceb3e/artifacts
+end_time: 1722620080689
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 78ea7996f5ee41a0926148e3f82ceb3e
+run_name: caring-gnat-481
+run_uuid: 78ea7996f5ee41a0926148e3f82ceb3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620080654
+status: 3
+tags: []
+user_id: julien

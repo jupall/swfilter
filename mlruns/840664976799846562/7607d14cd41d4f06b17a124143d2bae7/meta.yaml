@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7607d14cd41d4f06b17a124143d2bae7/artifacts
+end_time: 1722644352195
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7607d14cd41d4f06b17a124143d2bae7
+run_name: suave-frog-387
+run_uuid: 7607d14cd41d4f06b17a124143d2bae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644349805
+status: 3
+tags: []
+user_id: julien

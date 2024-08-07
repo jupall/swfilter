@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/28a1d47be38a45da800596e78dfceafb/artifacts
+deleted_time: 1722618664511
+end_time: 1722618481195
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 28a1d47be38a45da800596e78dfceafb
+run_name: rogue-carp-692
+run_uuid: 28a1d47be38a45da800596e78dfceafb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618481157
+status: 3
+tags: []
+user_id: julien

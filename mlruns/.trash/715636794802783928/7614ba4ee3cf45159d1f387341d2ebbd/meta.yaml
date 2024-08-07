@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/7614ba4ee3cf45159d1f387341d2ebbd/artifacts
+deleted_time: 1722618419437
+end_time: 1722618159096
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 7614ba4ee3cf45159d1f387341d2ebbd
+run_name: chill-panda-750
+run_uuid: 7614ba4ee3cf45159d1f387341d2ebbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618154620
+status: 3
+tags: []
+user_id: julien

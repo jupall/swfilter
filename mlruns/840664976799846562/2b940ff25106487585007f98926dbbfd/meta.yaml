@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2b940ff25106487585007f98926dbbfd/artifacts
+end_time: 1722644420582
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2b940ff25106487585007f98926dbbfd
+run_name: serious-wasp-692
+run_uuid: 2b940ff25106487585007f98926dbbfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644420527
+status: 3
+tags: []
+user_id: julien

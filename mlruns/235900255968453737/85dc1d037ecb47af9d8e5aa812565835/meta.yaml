@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/85dc1d037ecb47af9d8e5aa812565835/artifacts
+end_time: 1722662900907
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 85dc1d037ecb47af9d8e5aa812565835
+run_name: capable-newt-621
+run_uuid: 85dc1d037ecb47af9d8e5aa812565835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662897409
+status: 3
+tags: []
+user_id: julien

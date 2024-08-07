@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c39215a95d3842e9b05ca916eb6c0921/artifacts
+end_time: 1722649187433
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c39215a95d3842e9b05ca916eb6c0921
+run_name: big-lynx-926
+run_uuid: c39215a95d3842e9b05ca916eb6c0921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649187345
+status: 3
+tags: []
+user_id: julien

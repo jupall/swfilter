@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d83c55e58cad4a91bc1f1a12677cb341/artifacts
+end_time: 1722651932106
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d83c55e58cad4a91bc1f1a12677cb341
+run_name: carefree-toad-606
+run_uuid: d83c55e58cad4a91bc1f1a12677cb341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651932015
+status: 3
+tags: []
+user_id: julien

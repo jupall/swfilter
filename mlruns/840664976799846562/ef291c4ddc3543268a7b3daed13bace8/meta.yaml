@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ef291c4ddc3543268a7b3daed13bace8/artifacts
+end_time: 1722643951598
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ef291c4ddc3543268a7b3daed13bace8
+run_name: awesome-horse-53
+run_uuid: ef291c4ddc3543268a7b3daed13bace8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643950949
+status: 3
+tags: []
+user_id: julien

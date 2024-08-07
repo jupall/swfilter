@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/5c255cf210e54233a83c8dd4c794dfd0/artifacts
+end_time: 1722662835111
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 5c255cf210e54233a83c8dd4c794dfd0
+run_name: rebellious-deer-646
+run_uuid: 5c255cf210e54233a83c8dd4c794dfd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662831855
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/779899c697e8431fbeacf028e0a9063f/artifacts
+end_time: 1722652133015
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 779899c697e8431fbeacf028e0a9063f
+run_name: calm-whale-231
+run_uuid: 779899c697e8431fbeacf028e0a9063f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652132913
+status: 3
+tags: []
+user_id: julien

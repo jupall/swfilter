@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/588c82bef328496d87801989492977c3/artifacts
+end_time: 1722644016705
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 588c82bef328496d87801989492977c3
+run_name: loud-moth-337
+run_uuid: 588c82bef328496d87801989492977c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644016469
+status: 3
+tags: []
+user_id: julien

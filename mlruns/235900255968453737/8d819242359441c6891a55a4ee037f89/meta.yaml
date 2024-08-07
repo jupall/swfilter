@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8d819242359441c6891a55a4ee037f89/artifacts
+end_time: 1722662750238
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8d819242359441c6891a55a4ee037f89
+run_name: ambitious-turtle-851
+run_uuid: 8d819242359441c6891a55a4ee037f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662750128
+status: 3
+tags: []
+user_id: julien

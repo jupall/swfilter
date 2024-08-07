@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6f32803a6c2a48f2afea6c2656c64fcd/artifacts
+end_time: 1722644521149
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6f32803a6c2a48f2afea6c2656c64fcd
+run_name: likeable-hen-926
+run_uuid: 6f32803a6c2a48f2afea6c2656c64fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644520877
+status: 3
+tags: []
+user_id: julien

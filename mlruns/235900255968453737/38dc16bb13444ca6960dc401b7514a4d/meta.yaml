@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/38dc16bb13444ca6960dc401b7514a4d/artifacts
+end_time: 1722648200033
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 38dc16bb13444ca6960dc401b7514a4d
+run_name: dazzling-rat-20
+run_uuid: 38dc16bb13444ca6960dc401b7514a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648199819
+status: 3
+tags: []
+user_id: julien

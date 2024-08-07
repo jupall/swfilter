@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/abc3dc38c6b649e2ad65726bcf6a217f/artifacts
+end_time: 1722644422636
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: abc3dc38c6b649e2ad65726bcf6a217f
+run_name: secretive-calf-241
+run_uuid: abc3dc38c6b649e2ad65726bcf6a217f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644422578
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/ea80ed237bd9435a92e2914714bb9978/artifacts
+end_time: 1722644511647
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: ea80ed237bd9435a92e2914714bb9978
+run_name: melodic-chimp-983
+run_uuid: ea80ed237bd9435a92e2914714bb9978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644511561
+status: 3
+tags: []
+user_id: julien

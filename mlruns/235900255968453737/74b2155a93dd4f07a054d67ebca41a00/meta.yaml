@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/74b2155a93dd4f07a054d67ebca41a00/artifacts
+end_time: 1722663265122
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 74b2155a93dd4f07a054d67ebca41a00
+run_name: luminous-quail-4
+run_uuid: 74b2155a93dd4f07a054d67ebca41a00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663265006
+status: 3
+tags: []
+user_id: julien

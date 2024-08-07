@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5bb91853c06b496694a785fa5d47ce00/artifacts
+end_time: 1722644433637
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5bb91853c06b496694a785fa5d47ce00
+run_name: handsome-mare-141
+run_uuid: 5bb91853c06b496694a785fa5d47ce00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644433454
+status: 3
+tags: []
+user_id: julien

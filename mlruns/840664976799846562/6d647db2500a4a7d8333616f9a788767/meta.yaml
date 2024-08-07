@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6d647db2500a4a7d8333616f9a788767/artifacts
+end_time: 1722620085563
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6d647db2500a4a7d8333616f9a788767
+run_name: learned-duck-144
+run_uuid: 6d647db2500a4a7d8333616f9a788767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620085403
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8bd23a6877d24ccb8bdf3c91b986d8d0/artifacts
+end_time: 1722643936294
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8bd23a6877d24ccb8bdf3c91b986d8d0
+run_name: adorable-rat-650
+run_uuid: 8bd23a6877d24ccb8bdf3c91b986d8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643935654
+status: 3
+tags: []
+user_id: julien

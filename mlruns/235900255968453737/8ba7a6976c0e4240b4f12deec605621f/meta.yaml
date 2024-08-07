@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/8ba7a6976c0e4240b4f12deec605621f/artifacts
+end_time: 1722652162502
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 8ba7a6976c0e4240b4f12deec605621f
+run_name: defiant-gull-372
+run_uuid: 8ba7a6976c0e4240b4f12deec605621f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722652162228
+status: 3
+tags: []
+user_id: julien

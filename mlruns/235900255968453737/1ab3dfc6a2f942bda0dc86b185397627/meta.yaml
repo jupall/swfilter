@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/1ab3dfc6a2f942bda0dc86b185397627/artifacts
+end_time: 1722662742713
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 1ab3dfc6a2f942bda0dc86b185397627
+run_name: mercurial-cod-867
+run_uuid: 1ab3dfc6a2f942bda0dc86b185397627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662742602
+status: 3
+tags: []
+user_id: julien

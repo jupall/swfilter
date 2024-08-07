@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/84ee29b3afcd4e07bd2d05bae0b12cda/artifacts
+end_time: 1722620090094
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 84ee29b3afcd4e07bd2d05bae0b12cda
+run_name: spiffy-shoat-510
+run_uuid: 84ee29b3afcd4e07bd2d05bae0b12cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620089948
+status: 3
+tags: []
+user_id: julien

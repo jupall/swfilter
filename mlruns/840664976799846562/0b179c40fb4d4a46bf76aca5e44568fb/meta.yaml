@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0b179c40fb4d4a46bf76aca5e44568fb/artifacts
+end_time: 1722625009449
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0b179c40fb4d4a46bf76aca5e44568fb
+run_name: omniscient-crane-164
+run_uuid: 0b179c40fb4d4a46bf76aca5e44568fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625009416
+status: 3
+tags: []
+user_id: julien

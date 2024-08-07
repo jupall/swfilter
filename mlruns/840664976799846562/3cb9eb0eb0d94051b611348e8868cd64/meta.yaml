@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3cb9eb0eb0d94051b611348e8868cd64/artifacts
+end_time: 1722643887738
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3cb9eb0eb0d94051b611348e8868cd64
+run_name: welcoming-bass-654
+run_uuid: 3cb9eb0eb0d94051b611348e8868cd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643887518
+status: 3
+tags: []
+user_id: julien

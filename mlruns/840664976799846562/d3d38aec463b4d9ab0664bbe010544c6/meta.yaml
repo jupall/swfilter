@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d3d38aec463b4d9ab0664bbe010544c6/artifacts
+end_time: 1722619875578
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d3d38aec463b4d9ab0664bbe010544c6
+run_name: amazing-gull-263
+run_uuid: d3d38aec463b4d9ab0664bbe010544c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619872690
+status: 3
+tags: []
+user_id: julien

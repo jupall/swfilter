@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c2821319b61542b68b54be32d3f3d85e/artifacts
+end_time: 1722663271752
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c2821319b61542b68b54be32d3f3d85e
+run_name: abundant-rook-567
+run_uuid: c2821319b61542b68b54be32d3f3d85e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663271631
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/6942108b446040baa7c3195b7d13853f/artifacts
+end_time: 1722625148574
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 6942108b446040baa7c3195b7d13853f
+run_name: skillful-ray-140
+run_uuid: 6942108b446040baa7c3195b7d13853f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625148532
+status: 3
+tags: []
+user_id: julien

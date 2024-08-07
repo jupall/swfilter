@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/74480bdf5c9c4c01bc3f2b998c2fcebd/artifacts
+end_time: 1722643931927
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 74480bdf5c9c4c01bc3f2b998c2fcebd
+run_name: vaunted-mink-784
+run_uuid: 74480bdf5c9c4c01bc3f2b998c2fcebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643931362
+status: 3
+tags: []
+user_id: julien

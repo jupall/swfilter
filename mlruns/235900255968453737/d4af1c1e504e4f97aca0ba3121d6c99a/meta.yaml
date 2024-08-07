@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d4af1c1e504e4f97aca0ba3121d6c99a/artifacts
+end_time: 1722648171459
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d4af1c1e504e4f97aca0ba3121d6c99a
+run_name: gaudy-seal-804
+run_uuid: d4af1c1e504e4f97aca0ba3121d6c99a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648171365
+status: 3
+tags: []
+user_id: julien

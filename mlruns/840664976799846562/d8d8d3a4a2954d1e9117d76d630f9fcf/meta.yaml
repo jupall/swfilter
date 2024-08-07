@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d8d8d3a4a2954d1e9117d76d630f9fcf/artifacts
+end_time: 1722643853717
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d8d8d3a4a2954d1e9117d76d630f9fcf
+run_name: silent-bass-677
+run_uuid: d8d8d3a4a2954d1e9117d76d630f9fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643853673
+status: 3
+tags: []
+user_id: julien

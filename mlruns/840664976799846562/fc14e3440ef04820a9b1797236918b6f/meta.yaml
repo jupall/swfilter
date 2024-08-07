@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/fc14e3440ef04820a9b1797236918b6f/artifacts
+end_time: 1722643959831
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: fc14e3440ef04820a9b1797236918b6f
+run_name: clean-hen-803
+run_uuid: fc14e3440ef04820a9b1797236918b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643959526
+status: 3
+tags: []
+user_id: julien

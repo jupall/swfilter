@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/6fdce8b88b5842319eb580ffd6b5ebae/artifacts
+end_time: 1722663305946
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 6fdce8b88b5842319eb580ffd6b5ebae
+run_name: youthful-frog-994
+run_uuid: 6fdce8b88b5842319eb580ffd6b5ebae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663305709
+status: 3
+tags: []
+user_id: julien

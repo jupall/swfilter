@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/f598a66eefb345e19496b1d0a4d4d694/artifacts
+deleted_time: 1722618419437
+end_time: 1722617842586
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: f598a66eefb345e19496b1d0a4d4d694
+run_name: nosy-skink-276
+run_uuid: f598a66eefb345e19496b1d0a4d4d694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617842348
+status: 3
+tags: []
+user_id: julien

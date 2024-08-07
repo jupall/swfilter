@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/e2aa586f631540bea9177a8b03b43ce4/artifacts
+end_time: 1722663173250
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: e2aa586f631540bea9177a8b03b43ce4
+run_name: casual-skunk-761
+run_uuid: e2aa586f631540bea9177a8b03b43ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663170857
+status: 3
+tags: []
+user_id: julien

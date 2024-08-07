@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/bf4751b620a447f7b2efac9ecaaaa96a/artifacts
+deleted_time: 1722618419437
+end_time: 1722617843717
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: bf4751b620a447f7b2efac9ecaaaa96a
+run_name: rare-tern-318
+run_uuid: bf4751b620a447f7b2efac9ecaaaa96a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617843476
+status: 3
+tags: []
+user_id: julien

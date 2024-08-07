@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/60d36aa3d4dc42139619c59b14a68e91/artifacts
+end_time: 1722625092719
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 60d36aa3d4dc42139619c59b14a68e91
+run_name: skittish-quail-818
+run_uuid: 60d36aa3d4dc42139619c59b14a68e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625092245
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0a1d90387c204691b67246429e096377/artifacts
+end_time: 1722648232389
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0a1d90387c204691b67246429e096377
+run_name: clean-cow-154
+run_uuid: 0a1d90387c204691b67246429e096377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648217181
+status: 3
+tags: []
+user_id: julien

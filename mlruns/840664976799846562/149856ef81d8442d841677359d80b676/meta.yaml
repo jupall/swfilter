@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/149856ef81d8442d841677359d80b676/artifacts
+end_time: 1722644420251
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 149856ef81d8442d841677359d80b676
+run_name: resilient-cow-90
+run_uuid: 149856ef81d8442d841677359d80b676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644420196
+status: 3
+tags: []
+user_id: julien

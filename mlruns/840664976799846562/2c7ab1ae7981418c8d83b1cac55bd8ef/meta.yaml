@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/2c7ab1ae7981418c8d83b1cac55bd8ef/artifacts
+end_time: 1722643869746
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 2c7ab1ae7981418c8d83b1cac55bd8ef
+run_name: rumbling-snake-686
+run_uuid: 2c7ab1ae7981418c8d83b1cac55bd8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643869524
+status: 3
+tags: []
+user_id: julien

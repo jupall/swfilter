@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/65afd844cb69480dbdcbc4ebbbda3718/artifacts
+end_time: 1722643980238
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 65afd844cb69480dbdcbc4ebbbda3718
+run_name: monumental-slug-912
+run_uuid: 65afd844cb69480dbdcbc4ebbbda3718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643980181
+status: 3
+tags: []
+user_id: julien

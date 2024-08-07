@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a402ba674109486ca32bf148f0c86c4a/artifacts
+end_time: 1722663107909
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a402ba674109486ca32bf148f0c86c4a
+run_name: powerful-snail-344
+run_uuid: a402ba674109486ca32bf148f0c86c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663105137
+status: 3
+tags: []
+user_id: julien

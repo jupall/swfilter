@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/44f7eb22997548b1945d70748425e5ce/artifacts
+end_time: 1722636806671
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 44f7eb22997548b1945d70748425e5ce
+run_name: capricious-newt-232
+run_uuid: 44f7eb22997548b1945d70748425e5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722636711930
+status: 3
+tags: []
+user_id: julien

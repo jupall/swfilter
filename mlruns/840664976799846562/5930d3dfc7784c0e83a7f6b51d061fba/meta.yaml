@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5930d3dfc7784c0e83a7f6b51d061fba/artifacts
+end_time: 1722625012976
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5930d3dfc7784c0e83a7f6b51d061fba
+run_name: sassy-dove-536
+run_uuid: 5930d3dfc7784c0e83a7f6b51d061fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625012940
+status: 3
+tags: []
+user_id: julien

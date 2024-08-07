@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/52642af3395541b39b433725313bfdba/artifacts
+end_time: 1722649187333
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 52642af3395541b39b433725313bfdba
+run_name: honorable-duck-892
+run_uuid: 52642af3395541b39b433725313bfdba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649187249
+status: 3
+tags: []
+user_id: julien

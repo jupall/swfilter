@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/c4651afd664243a38609775c927ff33f/artifacts
+deleted_time: 1722618419437
+end_time: 1722617847144
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: c4651afd664243a38609775c927ff33f
+run_name: invincible-moth-232
+run_uuid: c4651afd664243a38609775c927ff33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617846914
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d4a66553e4484f58a67912b283c8f2f0/artifacts
+end_time: 1722643975224
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d4a66553e4484f58a67912b283c8f2f0
+run_name: amazing-moose-851
+run_uuid: d4a66553e4484f58a67912b283c8f2f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643975174
+status: 3
+tags: []
+user_id: julien

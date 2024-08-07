@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d82a750012f94996b1bde781b3ecf3af/artifacts
+end_time: 1722663294344
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d82a750012f94996b1bde781b3ecf3af
+run_name: gentle-pug-784
+run_uuid: d82a750012f94996b1bde781b3ecf3af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663294112
+status: 3
+tags: []
+user_id: julien

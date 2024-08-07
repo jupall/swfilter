@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/2612cb6b62e84077aca09cd36f4829fe/artifacts
+deleted_time: 1722618419437
+end_time: 1722617859767
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 2612cb6b62e84077aca09cd36f4829fe
+run_name: bright-ray-284
+run_uuid: 2612cb6b62e84077aca09cd36f4829fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617859527
+status: 3
+tags: []
+user_id: julien

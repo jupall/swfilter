@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cf9d62e5735a48cc81355fe4e468133a/artifacts
+end_time: 1722619385696
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cf9d62e5735a48cc81355fe4e468133a
+run_name: spiffy-kite-762
+run_uuid: cf9d62e5735a48cc81355fe4e468133a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619385479
+status: 3
+tags: []
+user_id: julien

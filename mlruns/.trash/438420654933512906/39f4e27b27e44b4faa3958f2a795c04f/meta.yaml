@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/39f4e27b27e44b4faa3958f2a795c04f/artifacts
+deleted_time: 1722619353121
+end_time: 1722619075732
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 39f4e27b27e44b4faa3958f2a795c04f
+run_name: unruly-frog-602
+run_uuid: 39f4e27b27e44b4faa3958f2a795c04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619075531
+status: 3
+tags: []
+user_id: julien

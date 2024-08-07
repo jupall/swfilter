@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/bcf2cfc83e0341deab17eccbaf1e9f88/artifacts
+end_time: 1722624002838
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: bcf2cfc83e0341deab17eccbaf1e9f88
+run_name: grandiose-boar-765
+run_uuid: bcf2cfc83e0341deab17eccbaf1e9f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722623974485
+status: 3
+tags: []
+user_id: julien

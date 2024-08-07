@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/a5ee55147ca44146a8755b10e65ee805/artifacts
+end_time: 1722651953464
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: a5ee55147ca44146a8755b10e65ee805
+run_name: lyrical-pug-885
+run_uuid: a5ee55147ca44146a8755b10e65ee805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651953238
+status: 3
+tags: []
+user_id: julien

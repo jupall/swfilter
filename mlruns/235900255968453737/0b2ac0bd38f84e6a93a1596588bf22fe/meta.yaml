@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0b2ac0bd38f84e6a93a1596588bf22fe/artifacts
+end_time: 1722648191167
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0b2ac0bd38f84e6a93a1596588bf22fe
+run_name: bedecked-cat-192
+run_uuid: 0b2ac0bd38f84e6a93a1596588bf22fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648190944
+status: 3
+tags: []
+user_id: julien

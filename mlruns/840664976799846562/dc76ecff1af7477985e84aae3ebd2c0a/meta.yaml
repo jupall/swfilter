@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/dc76ecff1af7477985e84aae3ebd2c0a/artifacts
+end_time: 1722619379200
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: dc76ecff1af7477985e84aae3ebd2c0a
+run_name: entertaining-owl-886
+run_uuid: dc76ecff1af7477985e84aae3ebd2c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619379160
+status: 3
+tags: []
+user_id: julien

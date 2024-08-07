@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/8d02792cc7d04dd8970cc8fbf3ee3dd6/artifacts
+end_time: 1722643974254
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 8d02792cc7d04dd8970cc8fbf3ee3dd6
+run_name: caring-jay-832
+run_uuid: 8d02792cc7d04dd8970cc8fbf3ee3dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643974203
+status: 3
+tags: []
+user_id: julien

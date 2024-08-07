@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/eb1116bb08c94d0e8e7a4045f674a4ba/artifacts
+end_time: 1722625012450
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: eb1116bb08c94d0e8e7a4045f674a4ba
+run_name: bustling-mouse-810
+run_uuid: eb1116bb08c94d0e8e7a4045f674a4ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625012414
+status: 3
+tags: []
+user_id: julien

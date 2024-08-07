@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/38ec3a4d0ad2498990e31fb792624d4e/artifacts
+end_time: 1722662403146
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 38ec3a4d0ad2498990e31fb792624d4e
+run_name: bemused-lynx-971
+run_uuid: 38ec3a4d0ad2498990e31fb792624d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662403045
+status: 3
+tags: []
+user_id: julien

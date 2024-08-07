@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/2b02b036d8c5459b9ec499fa797cc9ea/artifacts
+end_time: 1722651929089
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 2b02b036d8c5459b9ec499fa797cc9ea
+run_name: glamorous-colt-836
+run_uuid: 2b02b036d8c5459b9ec499fa797cc9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651929000
+status: 3
+tags: []
+user_id: julien

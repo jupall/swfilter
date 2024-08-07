@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/d51f0e5d11bb47c589f3de1b225e970d/artifacts
+end_time: 1722651934643
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: d51f0e5d11bb47c589f3de1b225e970d
+run_name: puzzled-worm-952
+run_uuid: d51f0e5d11bb47c589f3de1b225e970d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651934553
+status: 3
+tags: []
+user_id: julien

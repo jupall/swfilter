@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d7b710522904477f8c8da1df365a3605/artifacts
+end_time: 1722625178532
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d7b710522904477f8c8da1df365a3605
+run_name: sincere-pug-420
+run_uuid: d7b710522904477f8c8da1df365a3605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625178376
+status: 3
+tags: []
+user_id: julien

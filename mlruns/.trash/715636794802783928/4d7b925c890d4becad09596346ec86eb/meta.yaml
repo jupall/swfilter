@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/4d7b925c890d4becad09596346ec86eb/artifacts
+deleted_time: 1722618419437
+end_time: 1722617835954
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 4d7b925c890d4becad09596346ec86eb
+run_name: popular-asp-193
+run_uuid: 4d7b925c890d4becad09596346ec86eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617835889
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/10c7e9cd8010400f813f80c994e3611d/artifacts
+end_time: 1722651922598
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 10c7e9cd8010400f813f80c994e3611d
+run_name: wistful-hare-723
+run_uuid: 10c7e9cd8010400f813f80c994e3611d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722651922514
+status: 3
+tags: []
+user_id: julien

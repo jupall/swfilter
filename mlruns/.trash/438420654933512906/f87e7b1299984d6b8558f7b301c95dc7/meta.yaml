@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/f87e7b1299984d6b8558f7b301c95dc7/artifacts
+deleted_time: 1722619353121
+end_time: 1722619059827
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: f87e7b1299984d6b8558f7b301c95dc7
+run_name: blushing-lamb-621
+run_uuid: f87e7b1299984d6b8558f7b301c95dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619059643
+status: 3
+tags: []
+user_id: julien

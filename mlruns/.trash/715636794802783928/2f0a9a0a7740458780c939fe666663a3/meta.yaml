@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/2f0a9a0a7740458780c939fe666663a3/artifacts
+deleted_time: 1722618419437
+end_time: 1722617779643
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: 2f0a9a0a7740458780c939fe666663a3
+run_name: persistent-lynx-251
+run_uuid: 2f0a9a0a7740458780c939fe666663a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617779592
+status: 3
+tags: []
+user_id: julien

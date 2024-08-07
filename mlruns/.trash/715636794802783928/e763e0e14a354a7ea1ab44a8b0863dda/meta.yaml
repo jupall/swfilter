@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/715636794802783928/e763e0e14a354a7ea1ab44a8b0863dda/artifacts
+deleted_time: 1722618419437
+end_time: 1722617864036
+entry_point_name: ''
+experiment_id: '715636794802783928'
+lifecycle_stage: deleted
+run_id: e763e0e14a354a7ea1ab44a8b0863dda
+run_name: bright-moth-706
+run_uuid: e763e0e14a354a7ea1ab44a8b0863dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617863785
+status: 3
+tags: []
+user_id: julien

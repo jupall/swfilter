@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/db2e1915d2a6460597b1476bc2e15e70/artifacts
+end_time: 1722644522472
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: db2e1915d2a6460597b1476bc2e15e70
+run_name: dapper-deer-328
+run_uuid: db2e1915d2a6460597b1476bc2e15e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644522227
+status: 3
+tags: []
+user_id: julien

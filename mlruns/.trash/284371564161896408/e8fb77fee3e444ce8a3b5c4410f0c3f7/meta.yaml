@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/e8fb77fee3e444ce8a3b5c4410f0c3f7/artifacts
+deleted_time: 1722618664511
+end_time: 1722618481424
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: e8fb77fee3e444ce8a3b5c4410f0c3f7
+run_name: calm-dog-725
+run_uuid: e8fb77fee3e444ce8a3b5c4410f0c3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618481385
+status: 3
+tags: []
+user_id: julien

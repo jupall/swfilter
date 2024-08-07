@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/47ee89d7c06e4b72ac948e46ef764e09/artifacts
+end_time: 1722625054773
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 47ee89d7c06e4b72ac948e46ef764e09
+run_name: masked-worm-541
+run_uuid: 47ee89d7c06e4b72ac948e46ef764e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625054045
+status: 3
+tags: []
+user_id: julien

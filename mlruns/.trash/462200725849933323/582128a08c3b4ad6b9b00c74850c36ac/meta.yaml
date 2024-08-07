@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/582128a08c3b4ad6b9b00c74850c36ac/artifacts
+deleted_time: 1722618939344
+end_time: 1722618900422
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: 582128a08c3b4ad6b9b00c74850c36ac
+run_name: agreeable-stork-708
+run_uuid: 582128a08c3b4ad6b9b00c74850c36ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618900360
+status: 3
+tags: []
+user_id: julien

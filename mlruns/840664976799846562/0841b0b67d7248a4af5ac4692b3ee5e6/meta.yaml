@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/0841b0b67d7248a4af5ac4692b3ee5e6/artifacts
+end_time: 1722644536351
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 0841b0b67d7248a4af5ac4692b3ee5e6
+run_name: bright-sloth-217
+run_uuid: 0841b0b67d7248a4af5ac4692b3ee5e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644536087
+status: 3
+tags: []
+user_id: julien

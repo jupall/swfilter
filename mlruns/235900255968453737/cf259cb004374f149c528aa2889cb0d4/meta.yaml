@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/cf259cb004374f149c528aa2889cb0d4/artifacts
+end_time: 1722649176445
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: cf259cb004374f149c528aa2889cb0d4
+run_name: respected-skunk-374
+run_uuid: cf259cb004374f149c528aa2889cb0d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649176360
+status: 3
+tags: []
+user_id: julien

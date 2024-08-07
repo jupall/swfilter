@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/04247486e46444249a8bfc38715d3a9a/artifacts
+end_time: 1722662424046
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 04247486e46444249a8bfc38715d3a9a
+run_name: valuable-slug-499
+run_uuid: 04247486e46444249a8bfc38715d3a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662423800
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/0e4fcc51b530481c83b126a4ab6c14de/artifacts
+deleted_time: 1722619353121
+end_time: 1722619047668
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 0e4fcc51b530481c83b126a4ab6c14de
+run_name: placid-steed-626
+run_uuid: 0e4fcc51b530481c83b126a4ab6c14de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619047627
+status: 3
+tags: []
+user_id: julien

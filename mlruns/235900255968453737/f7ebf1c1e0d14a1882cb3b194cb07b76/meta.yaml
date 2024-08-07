@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/f7ebf1c1e0d14a1882cb3b194cb07b76/artifacts
+end_time: 1722663309411
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: f7ebf1c1e0d14a1882cb3b194cb07b76
+run_name: glamorous-loon-443
+run_uuid: f7ebf1c1e0d14a1882cb3b194cb07b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663309188
+status: 3
+tags: []
+user_id: julien

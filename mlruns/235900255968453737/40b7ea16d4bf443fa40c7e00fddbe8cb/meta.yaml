@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/40b7ea16d4bf443fa40c7e00fddbe8cb/artifacts
+end_time: 1722649182056
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 40b7ea16d4bf443fa40c7e00fddbe8cb
+run_name: worried-shoat-110
+run_uuid: 40b7ea16d4bf443fa40c7e00fddbe8cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722649181969
+status: 3
+tags: []
+user_id: julien

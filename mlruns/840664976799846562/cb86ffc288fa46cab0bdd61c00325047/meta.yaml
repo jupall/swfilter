@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/cb86ffc288fa46cab0bdd61c00325047/artifacts
+end_time: 1722619382834
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: cb86ffc288fa46cab0bdd61c00325047
+run_name: melodic-dog-681
+run_uuid: cb86ffc288fa46cab0bdd61c00325047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619382616
+status: 3
+tags: []
+user_id: julien

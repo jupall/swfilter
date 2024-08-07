@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/3139644d5423402fb4d7b38e40d461d5/artifacts
+deleted_time: 1722619353121
+end_time: 1722619054259
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 3139644d5423402fb4d7b38e40d461d5
+run_name: bright-kit-533
+run_uuid: 3139644d5423402fb4d7b38e40d461d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619054063
+status: 3
+tags: []
+user_id: julien

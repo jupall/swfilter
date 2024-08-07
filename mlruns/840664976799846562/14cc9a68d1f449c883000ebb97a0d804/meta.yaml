@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/14cc9a68d1f449c883000ebb97a0d804/artifacts
+end_time: 1722643981091
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 14cc9a68d1f449c883000ebb97a0d804
+run_name: marvelous-kit-966
+run_uuid: 14cc9a68d1f449c883000ebb97a0d804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722643981035
+status: 3
+tags: []
+user_id: julien

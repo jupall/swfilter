@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/e4e239c8bf1046f798a1a62c6c9b84c3/artifacts
+deleted_time: 1722618939344
+end_time: 1722618910005
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: e4e239c8bf1046f798a1a62c6c9b84c3
+run_name: unleashed-ape-159
+run_uuid: e4e239c8bf1046f798a1a62c6c9b84c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618909792
+status: 3
+tags: []
+user_id: julien

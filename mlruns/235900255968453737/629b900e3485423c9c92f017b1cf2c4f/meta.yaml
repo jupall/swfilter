@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/629b900e3485423c9c92f017b1cf2c4f/artifacts
+end_time: 1722648163664
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 629b900e3485423c9c92f017b1cf2c4f
+run_name: suave-shrew-748
+run_uuid: 629b900e3485423c9c92f017b1cf2c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722648163570
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/5efed191089c45f4964ef99706f236fb/artifacts
+end_time: 1722644534471
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 5efed191089c45f4964ef99706f236fb
+run_name: intrigued-bear-1000
+run_uuid: 5efed191089c45f4964ef99706f236fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644534207
+status: 3
+tags: []
+user_id: julien

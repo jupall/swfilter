@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/0cad2a16a8e24191aafd38585e8ad028/artifacts
+end_time: 1722663377296
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 0cad2a16a8e24191aafd38585e8ad028
+run_name: orderly-rat-858
+run_uuid: 0cad2a16a8e24191aafd38585e8ad028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663376903
+status: 3
+tags: []
+user_id: julien

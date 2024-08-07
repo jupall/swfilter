@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/469694febe21465484c8bece76716bdb/artifacts
+end_time: 1722625146193
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 469694febe21465484c8bece76716bdb
+run_name: big-midge-579
+run_uuid: 469694febe21465484c8bece76716bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625146150
+status: 3
+tags: []
+user_id: julien

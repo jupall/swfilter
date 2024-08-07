@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/823d879c6c8c454dbe37e6b9c2b03d9c/artifacts
+end_time: 1722644506372
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 823d879c6c8c454dbe37e6b9c2b03d9c
+run_name: traveling-hog-258
+run_uuid: 823d879c6c8c454dbe37e6b9c2b03d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644506282
+status: 3
+tags: []
+user_id: julien

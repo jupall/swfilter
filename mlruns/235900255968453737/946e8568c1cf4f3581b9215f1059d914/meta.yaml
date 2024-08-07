@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/946e8568c1cf4f3581b9215f1059d914/artifacts
+end_time: 1722662424867
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 946e8568c1cf4f3581b9215f1059d914
+run_name: languid-pig-113
+run_uuid: 946e8568c1cf4f3581b9215f1059d914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722662424609
+status: 3
+tags: []
+user_id: julien

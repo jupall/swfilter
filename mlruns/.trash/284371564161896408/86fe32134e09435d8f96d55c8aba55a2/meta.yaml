@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/86fe32134e09435d8f96d55c8aba55a2/artifacts
+deleted_time: 1722618664511
+end_time: 1722618508477
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: 86fe32134e09435d8f96d55c8aba55a2
+run_name: delightful-carp-380
+run_uuid: 86fe32134e09435d8f96d55c8aba55a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618508269
+status: 3
+tags: []
+user_id: julien

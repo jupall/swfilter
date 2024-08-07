@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/c7c9fd09740242fd94f2b7fe57574015/artifacts
+end_time: 1722663257846
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: c7c9fd09740242fd94f2b7fe57574015
+run_name: aged-cub-901
+run_uuid: c7c9fd09740242fd94f2b7fe57574015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663257733
+status: 3
+tags: []
+user_id: julien

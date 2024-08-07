@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/d00de6ed3b7f43538841a607472f9686/artifacts
+end_time: 1722619769387
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: d00de6ed3b7f43538841a607472f9686
+run_name: omniscient-whale-339
+run_uuid: d00de6ed3b7f43538841a607472f9686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619767066
+status: 3
+tags: []
+user_id: julien

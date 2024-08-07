@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/438420654933512906/6adbcc7b62ee46b083026c1e285b86d9/artifacts
+deleted_time: 1722619353121
+end_time: 1722619051701
+entry_point_name: ''
+experiment_id: '438420654933512906'
+lifecycle_stage: deleted
+run_id: 6adbcc7b62ee46b083026c1e285b86d9
+run_name: grandiose-stag-994
+run_uuid: 6adbcc7b62ee46b083026c1e285b86d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619051656
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/462200725849933323/b8d69f54e04c47b399c5d0951d85201c/artifacts
+deleted_time: 1722618939344
+end_time: 1722618711962
+entry_point_name: ''
+experiment_id: '462200725849933323'
+lifecycle_stage: deleted
+run_id: b8d69f54e04c47b399c5d0951d85201c
+run_name: receptive-turtle-435
+run_uuid: b8d69f54e04c47b399c5d0951d85201c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618711948
+status: 4
+tags: []
+user_id: julien

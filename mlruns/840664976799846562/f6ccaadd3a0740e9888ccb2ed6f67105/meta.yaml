@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/f6ccaadd3a0740e9888ccb2ed6f67105/artifacts
+end_time: 1722620079297
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: f6ccaadd3a0740e9888ccb2ed6f67105
+run_name: skittish-ray-607
+run_uuid: f6ccaadd3a0740e9888ccb2ed6f67105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620079264
+status: 3
+tags: []
+user_id: julien

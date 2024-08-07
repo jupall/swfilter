@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/284371564161896408/b9a866d7ed6443a79ff1cffba64e2320/artifacts
+deleted_time: 1722618664511
+end_time: 1722618491042
+entry_point_name: ''
+experiment_id: '284371564161896408'
+lifecycle_stage: deleted
+run_id: b9a866d7ed6443a79ff1cffba64e2320
+run_name: unique-cow-147
+run_uuid: b9a866d7ed6443a79ff1cffba64e2320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618490838
+status: 3
+tags: []
+user_id: julien

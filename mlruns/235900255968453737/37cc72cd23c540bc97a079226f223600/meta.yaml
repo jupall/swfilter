@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/37cc72cd23c540bc97a079226f223600/artifacts
+end_time: 1722653428523
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: 37cc72cd23c540bc97a079226f223600
+run_name: treasured-perch-429
+run_uuid: 37cc72cd23c540bc97a079226f223600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722653381474
+status: 3
+tags: []
+user_id: julien

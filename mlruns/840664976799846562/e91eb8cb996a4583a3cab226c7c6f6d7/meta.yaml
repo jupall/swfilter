@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/e91eb8cb996a4583a3cab226c7c6f6d7/artifacts
+end_time: 1722625147222
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: e91eb8cb996a4583a3cab226c7c6f6d7
+run_name: crawling-moth-511
+run_uuid: e91eb8cb996a4583a3cab226c7c6f6d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722625147179
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/3b30676a3ddb4e3fb7bd3334501b2de0/artifacts
+end_time: 1722644222652
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 3b30676a3ddb4e3fb7bd3334501b2de0
+run_name: amusing-crab-129
+run_uuid: 3b30676a3ddb4e3fb7bd3334501b2de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644219294
+status: 3
+tags: []
+user_id: julien

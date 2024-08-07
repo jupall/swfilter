@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/235900255968453737/fa21b7d28822465d923e19e8e126546d/artifacts
+end_time: 1722663265908
+entry_point_name: ''
+experiment_id: '235900255968453737'
+lifecycle_stage: active
+run_id: fa21b7d28822465d923e19e8e126546d
+run_name: unequaled-hawk-508
+run_uuid: fa21b7d28822465d923e19e8e126546d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722663265793
+status: 3
+tags: []
+user_id: julien

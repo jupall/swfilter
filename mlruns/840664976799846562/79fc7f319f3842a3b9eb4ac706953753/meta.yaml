@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/79fc7f319f3842a3b9eb4ac706953753/artifacts
+end_time: 1722644461544
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 79fc7f319f3842a3b9eb4ac706953753
+run_name: honorable-deer-776
+run_uuid: 79fc7f319f3842a3b9eb4ac706953753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722644461282
+status: 3
+tags: []
+user_id: julien

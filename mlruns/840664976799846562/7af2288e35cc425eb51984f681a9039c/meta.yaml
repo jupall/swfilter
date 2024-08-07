@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/840664976799846562/7af2288e35cc425eb51984f681a9039c/artifacts
+end_time: 1722619382173
+entry_point_name: ''
+experiment_id: '840664976799846562'
+lifecycle_stage: active
+run_id: 7af2288e35cc425eb51984f681a9039c
+run_name: clumsy-sow-476
+run_uuid: 7af2288e35cc425eb51984f681a9039c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619381967
+status: 3
+tags: []
+user_id: julien
