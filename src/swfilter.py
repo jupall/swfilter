@@ -111,7 +111,8 @@ class SlicedWassersteinFilter:
         is greater than the parameter p. Choose between the original sliced wasserstein distance or its spherical counterpart. This function can be parallelized with the parameter n_jobs.
 
         Args:
-            data (np.ndarray): The dataset to be alayzed.
+            X (np.ndarray): The dataset to be analyzed.
+            y None: Not used, for api calls only.
             
         Returns:
             ndarray: The array with outliers labeled as True.
