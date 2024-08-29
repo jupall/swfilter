@@ -5,34 +5,6 @@ from joblib import Parallel, delayed
 import ot
 from sklearn.metrics.pairwise import euclidean_distances
 
-#TODO: Add comments, Add multiprocessing
-def sliced_wasserstein_outlier_introducer(signal, domain, in_sample_function, domain_dimensions, n_points, distance_min, n_projections, k_multiplier, L, seed, rng):
-    domain_min = domain[0]
-    domain_max = domain[1]
-    copy_signal = copy.deepcopy(signal)
-    for n in range(n_points):
-        new_original_t = rng.uniform(domain_min, domain_max, size=(domain_dimensions))
-        new_original_y = in_sample_function(new_original_t)
-        new_point = np.hstack((new_original_t, new_original_y))
-        temp_signal = np.vstack((copy_signal, new_point))
-        print(temp_signal.shape)
-        
-        distance = 0
-        k = 1
-        while distance < distance_min:
-            new_random_t =  rng.uniform(domain_min, domain_max, size=(1, domain_dimensions))
-            new_random_y = rng.uniform(-L*k,L*k, size=(1,1))
-            new_random_point = np.hstack((new_random_t, new_random_y))
-            temp_perturb_signal = np.vstack((copy_signal, new_random_point))
-            n = temp_perturb_signal.shape[0]
-            a, b = np.ones((n,)) / n, np.ones((n,)) / n  # uniform distribution on samples
-            dist = ot.sliced_wasserstein_distance(temp_perturb_signal, temp_signal, a, b, n_projections=n_projections, seed=seed)
-            distance = np.mean(dist)
-            k *= k_multiplier
-        copy_signal = copy.deepcopy(temp_perturb_signal)
-        
-        
-    return copy_signal
 
 def collect_sws( data:np.ndarray, n_samples:int, n_dimensions:int, index:int, n:int, eps:float, n_projections:int, seed:int, swtype:str='original'):
         """ Private function used to compute the sliced wasserstein distances for n randomly selected samples. This function is to be parallelized.
@@ -156,7 +128,7 @@ class SlicedWassersteinFilter:
 
 
 
-def fast_sws_approx( data:np.ndarray, n_samples:int, n_dimensions:int, index:int, n:int, eps:float, n_projections:int, seed:int):
+def fast_sws_approx( data:np.ndarray, n_samples:int, n_dimensions:int, index:int, n:int, eps:float, seed:int):
         """ Private function used to compute the sliced wasserstein distances for n randomly selected samples. This function is to be parallelized.
 
         Args:
@@ -213,12 +185,11 @@ class FastSlicedWassersteinFilter:
 
     """
 
-    def __init__(self, eps:float, n:int, n_projections:int, p:float = 0.75, seed:int=42, n_jobs:int=1) -> None:
+    def __init__(self, eps:float, n:int, p:float = 0.75, seed:int=42, n_jobs:int=1) -> None:
         if p >= 1.0:
             raise Exception("p must be lower than 1.0")
         self.eps = eps
         self.n = n
-        self.n_projections = n_projections
         self.p = p
         self.seed = seed
         self.n_jobs = n_jobs
@@ -243,7 +214,7 @@ class FastSlicedWassersteinFilter:
         n_dimensions = X.shape[1]
         vote = np.zeros(n_samples)
 
-        results = Parallel(n_jobs=self.n_jobs)(delayed(fast_sws_approx)(X, n_samples=n_samples, n_dimensions=n_dimensions, index=j, n=self.n, eps = self.eps, n_projections=self.n_projections, seed=self.seed) for j in range(n_samples))
+        results = Parallel(n_jobs=self.n_jobs)(delayed(fast_sws_approx)(X, n_samples=n_samples, n_dimensions=n_dimensions, index=j, n=self.n, eps = self.eps, seed=self.seed) for j in range(n_samples))
         vote = np.array(results)
         
         y_pred = (vote >= self.p)
@@ -263,7 +234,7 @@ class FastSlicedWassersteinFilter:
     
     def get_params(self, deep=False):
         # Return a dictionary of all parameters
-        return {'eps': self.eps, 'n': self.n, 'seed': self.seed, 'swtype': self.swtype, 'n_projections': self.n_projections, 'p': self.p, 'n_jobs': self.n_jobs}
+        return {'eps': self.eps, 'n': self.n, 'seed': self.seed, 'swtype': self.swtype, 'p': self.p, 'n_jobs': self.n_jobs}
 
     def set_params(self, **parameters):
         for parameter, value in parameters.items():
