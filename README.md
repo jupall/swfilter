@@ -11,9 +11,19 @@ We use the Python implementation of the sliced-Wasserstein distance from the lib
 
 ## How to use it:
 
+```
+model = SlicedWassersteinFilter(eps=0.01, n=30, n_projections=50, p=0.6, n_jobs=-1, swtype='original')
+preds, vote = model.fit_predict(dataset)
+
+mask = preds == 1
+filtered_dataset = dataset[mask]
+```
+
+### Tutorial:
+
 See our tutorial page!
 
-link
+[link](https://github.com/jupall/swfilter/blob/main/experiments/tutorial.ipynb)
 
 ## Cite our work and read our paper:
 
