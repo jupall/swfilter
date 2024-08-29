@@ -12,6 +12,12 @@ We use the Python implementation of the sliced-Wasserstein distance from the lib
 ## How to use it:
 
 ```
+from swfilter import SlicedWassersteinFilter
+eps = 0.01 # the threshold of the SW distance
+n = 30 # the number of voters
+n_projections = 50 # the number of projections used in the SW computations
+p = 0.6 # the threshold percentage of voters required to label as outlier
+
 model = SlicedWassersteinFilter(eps=0.01, n=30, n_projections=50, p=0.6, n_jobs=-1, swtype='original')
 preds, vote = model.fit_predict(dataset)
 
