@@ -1,7 +1,0 @@
-artifact_location: mlflow-artifacts:/608785259502490746
-creation_time: 1722534196032
-experiment_id: '608785259502490746'
-last_update_time: 1722534976999
-lifecycle_stage: deleted
-name: swfilter_nocv
-tags: {}

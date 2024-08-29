@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/235900255968453737
-creation_time: 1722647885456
-experiment_id: '235900255968453737'
-last_update_time: 1722647885456
-lifecycle_stage: active
-name: swfilter_exp_accuracy
