@@ -26,6 +26,9 @@ mask = preds == 1
 filtered_dataset = dataset[mask]
 ```
 
+## Download:
+pip install coming soon!
+
 ### Tutorial:
 
 See our tutorial page!
