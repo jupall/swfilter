@@ -3,6 +3,7 @@ import numpy as np
 import copy
 from joblib import Parallel, delayed
 import ot
+from sklearn.utils import shuffle
 from sklearn.metrics.pairwise import euclidean_distances
 
 
@@ -124,7 +125,91 @@ class SlicedWassersteinFilter:
         return self
 
 
+class SplitSlicedWassersteinFilter(SlicedWassersteinFilter):
+    """
+    A clustered outlier detector based on the sliced Wasserstein distance. This class extends the functionality of the simple outlier detector by incorporating clustering 
+    into the voting system. The function fit_predict uses a voting system to label the samples as outliers. A vote entry is obtained by computing the sliced Wasserstein 
+    distance between the distribution minus a to-be-labeled sample and the distribution minus a randomly selected sample from the dataset. The number of randomly selected 
+    samples for voting is given by the parameter n. The sample is labeled as an outlier if the percentage of votes is greater than the parameter p. Choose between the 
+    original sliced Wasserstein distance or its spherical counterpart. This function can be parallelized with the parameter n_jobs.
 
+    Additionally, the samples are split into a specified number of clusters (n_clusters) before the voting process. This allows for a faster processing time.
+
+    Args:   eps (float): The threshold for the outlier detection under the sliced Wasserstein distance.
+            n (int): The number of samples to be used in the voting for the outlier detection.
+            n_projections (int): The number of projections to be used in the computations of the sliced Wasserstein distance.
+            p (float, optional): The percentage of positive votes required to label a sample as an outlier. Defaults to 0.75.
+            seed (int, optional): The random seed used. Defaults to 42.
+            n_jobs (int, optional): The number of jobs to parallelize the procedure. Defaults to 1.
+            swtype (str, optional): The variation of sliced Wasserstein distance used: ['original', 'spherical']. Defaults to 'original'.
+            n_clusters (int, optional): The number of clusters to partition the data into before performing outlier detection. Defaults to 10.
+"""
+    def __init__(self, eps:float, n:int, n_projections:int, p:float = 0.75, seed:int=42, n_jobs:int=1, swtype:str='original', n_clusters:int=10) :
+        # invoking the __init__ of the parent class
+        prop_n=int(n/n_clusters)
+        prop_eps= (eps*n_clusters)
+
+        super().__init__(eps=prop_eps, n=prop_n, n_projections=n_projections, p=p, seed=seed, n_jobs=n_jobs, swtype=swtype)
+        self.n_clusters = n_clusters
+    
+        
+
+    def fit_predict(self, X:np.ndarray, y = None):
+        """A simple outlier detector based on the sliced Wasserstein distance. This function use a voting system to label the samples as outliers. 
+        A vote entry is obtained by computing the sliced Wasserstein distance between the distribution minus a to be labeled sample and the distribution minus a randomly 
+        selected samples from the dataset. The number of randomly selected samples for voting is given by the parameter n. The sample is labeled as an outlier if the percentage of votes 
+        is greater than the parameter p. Choose between the original sliced wasserstein distance or its spherical counterpart. This function can be parallelized with the parameter n_jobs.
+
+        Args:
+            X (np.ndarray): The dataset to be analyzed.
+            y None: Not used, for api calls only.
+            
+        Returns:
+            ndarray: The array with outliers labeled as True.
+
+        """
+        
+        np.random.seed(self.seed)
+        
+        data_length = X.shape[0]
+
+        # Here we create an array of shuffled indices
+        shuf_order = np.arange(data_length)
+        np.random.shuffle(shuf_order)
+
+        shuffled_data = copy.deepcopy(X)[shuf_order] # Shuffle the original data
+
+        # Create an inverse of the shuffled index array (to reverse the shuffling operation, or to "unshuffle")
+        unshuf_order = np.zeros_like(shuf_order)
+        unshuf_order[shuf_order] = np.arange(data_length)
+
+        X_list = np.array_split(shuffled_data, self.n_clusters, axis = 0)
+        y_pred = None
+        for X_elem in X_list:
+
+        
+            n_samples = X_elem.shape[0]
+            n_dimensions = X_elem.shape[1]
+            vote = np.zeros(n_samples)
+
+            results = Parallel(n_jobs=self.n_jobs)(delayed(collect_sws)(X_elem, n_samples=n_samples, n_dimensions=n_dimensions, index=j, n=self.n, eps = self.eps, n_projections=self.n_projections, seed=self.seed, swtype=self.swtype ) for j in range(n_samples))
+            vote = np.array(results)
+            
+            y_pred_elem = (vote >= self.p)
+            #print(y_pred_elem.shape)
+            y_pred = np.hstack((y_pred, y_pred_elem)) if y_pred is not None else y_pred_elem
+        
+        #print(y_pred.shape)
+        y_pred = np.array(y_pred).flatten()   
+        y_pred = y_pred[unshuf_order] # Unshuffle the shuffled data
+        self.y_pred = np.where(y_pred, -1, 1)
+       
+        return self.y_pred, vote
+    
+    def get_params(self, deep=False):
+        # Return a dictionary of all parameters
+
+        return super().get_params() | {'n_clusters': self.n_clusters}
 
 
 
@@ -165,7 +250,6 @@ def fast_sws_approx( data:np.ndarray, n_samples:int, n_dimensions:int, index:int
             #data_minus_rand_sample = np.delete(data, n_index[i], axis=0)
             sws[i] = np.linalg.norm(data[index,:] - data[n_index[i],:]) #ot.sliced_wasserstein_sphere(data_minus_index, data_minus_rand_sample, a, b, n_projections, seed=seed) if swtype == 'spherical' else  ot.sliced_wasserstein_distance(data_minus_index, data_minus_rand_sample, a = a, b=b, n_projections=n_projections, seed=seed)
         return np.mean(sws >= eps)
-
 
 
 class FastSlicedWassersteinFilter:
