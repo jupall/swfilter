@@ -36,5 +36,11 @@ See our tutorial page!
 [link](https://github.com/jupall/swfilter/blob/main/experiments/tutorial.ipynb)
 
 ## Cite our work and read our paper:
-
-Coming soon!
+```
+@article{pallage2024sliced,
+  title={Sliced-Wasserstein-based Anomaly Detection and Open Dataset for Localized Critical Peak Rebates},
+  author={Pallage, Julien and Scherrer, Bertrand and Naccache, Salma and B{\'e}langer, Christophe and Lesage-Landry, Antoine},
+  journal={arXiv preprint arXiv:2410.21712},
+  year={2024}
+}
+```
