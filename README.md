@@ -28,7 +28,9 @@ filtered_dataset = dataset[mask]
 ```
 
 ## Install:
-Coming soon!
+```python
+pip install swfilter
+```
 
 ### Tutorial:
 

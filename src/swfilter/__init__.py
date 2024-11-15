@@ -1,0 +1,1 @@
+from .models import SlicedWassersteinFilter, SmartSplitSlicedWassersteinFilter, FastEuclidianFilter

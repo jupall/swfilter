@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/swfilter/__init__.py
+src/swfilter/models.py
+src/swfiltr.egg-info/PKG-INFO
+src/swfiltr.egg-info/SOURCES.txt
+src/swfiltr.egg-info/dependency_links.txt
+src/swfiltr.egg-info/requires.txt
+src/swfiltr.egg-info/top_level.txt
