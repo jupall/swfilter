@@ -373,7 +373,7 @@ def fast_sws_approx( data:np.ndarray, n_samples:int, n_dimensions:int, index:int
         return np.mean(sws >= eps)
 
 
-class FastSlicedWassersteinFilter:
+class FastEuclidianFilter:
     """
     A simple outlier detector based on the sliced Wasserstein distance. The function fit_predict use a voting system to label the samples as outliers. 
     A vote entry is obtained by computing the sliced Wasserstein distance between the distribution minus a to be labeled sample and the distribution minus a randomly 
