@@ -10,6 +10,7 @@ In this work, we present a new unsupervised anomaly (outlier) detection (AD) met
 We use the Python implementation of the sliced-Wasserstein distance from the library `POT` and use a voting system to label candidate samples as outliers or inliers and we use `joblib` to parallelize the procedure.
 
 ## How to use it:
+> For large datasets, we recommend using SmartSplitSlicedWassersteinFilter or FastEuclidianFilter to speed up computations.
 
 ```python
 from swfilter import SlicedWassersteinFilter
