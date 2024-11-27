@@ -1,6 +1,9 @@
+
 # swfilter
 A Python implementation of the Sliced-Wasserstein Filter developed by Julien Pallage and Antoine Lesage-Landry.
 
+---
+[![PyPI version](https://badge.fury.io/py/swfilter.svg)](https://badge.fury.io/py/swfilter) [![Downloads](https://static.pepy.tech/badge/swfilter)](https://pepy.tech/project/swfilter) 
 ---
 
 ## Introduction:
