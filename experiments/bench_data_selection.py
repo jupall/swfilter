@@ -85,7 +85,7 @@ def suggest(new_ids, domain, trials, seed, nbMaxSucessiveFailures=1000):
                                           [None], [new_result], [new_misc]))
     return rval
 
-def objective_scnn(params, data, solver_name, experiment, dataset_name, verbose, selection_algorithm, split):
+def objective_scnn(params, data, solver_name, experiment, dataset_name, verbose, selection_algorithm, split, loss = "l2"):
     # unwrap hyperparameters:
     max_neurons = int(params['max_neurons'])
     bias = True
@@ -188,10 +188,10 @@ def objective_scnn(params, data, solver_name, experiment, dataset_name, verbose,
             mlflow.log_param("solver", solver_name)
             mlflow.log_param('split', split)
 
-
+            
         # train
         
-            model.train(X_train=X_train_filtered, Y_train=Y_train_filtered, lamb_reg = 0, bias = bias, max_neurons=max_neurons, verbose=verbose, solver=solver_name)
+            model.train(X_train=X_train_filtered, Y_train=Y_train_filtered, lamb_reg = 0, bias = bias, max_neurons=max_neurons, verbose=verbose, solver=solver_name, loss=loss)
             model_torch = model.get_torch_model(verbose = verbose)
             end_time_model =  datetime.now() 
             # torch model
